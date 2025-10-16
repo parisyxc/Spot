@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-17T02:58:43.627217+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2025-10-17T03:26:50.696067+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 7,
       "titles": [
+        {
+          "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时26分]"
+        },
         {
           "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
           "url": "https://wallstreetcn.com/articles/3757299",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时38分]"
-        },
-        {
-          "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
-          "url": "https://wallstreetcn.com/articles/3757299",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
         },
         {
           "title": "美股地区银行指数跌幅扩大至4.7%，Zions信用危机触发板块层面的抛售",
@@ -72,20 +72,108 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时26分]"
         },
         {
           "title": "美股地区银行指数跌幅扩大至4.7%，Zions信用危机触发板块层面的抛售，投资者对银行业不良贷款产生恐慌情绪",
           "url": "https://wallstreetcn.com/livenews/2989138",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "纽约期金突破4300美元关口，现货白银涨至54美元，双双创历史新高",
+          "url": "https://wallstreetcn.com/livenews/2989124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月16日（周四）晚盘收盘上涨1.75%报979.7元/克；<br/>上海黄金交易所白银T+D 10月16日（周四）晚盘收盘上涨1.12%报12177.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251017023014276800",
+          "source": "金十数据",
+          "ranks": [
+            5,
             19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时26分]"
+        },
+        {
+          "title": "是什么一直支持黄金价格一路飙升",
+          "url": "https://www.toutiao.com/trending/7561799628442570266/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时38分]"
+        },
+        {
+          "title": "现货白银较高位回落约0.7美元，最新报53.44美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251017004718362800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "金价年内涨幅超50% 专家提醒",
+          "url": "https://www.toutiao.com/trending/7560578938016432191/",
+          "source": "今日头条",
+          "ranks": [
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时26分"
+        },
+        {
+          "title": "现货白银站上54美元",
+          "url": "https://flash.jin10.com/detail/20251017001749296800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "现货黄金站上4280美元/盎司，日内涨1.70%；现货白银日内大涨1.00美元，现报53.96美元/盎司，涨幅1.89%。",
+          "url": "https://flash.jin10.com/detail/20251017001519150800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     },
@@ -100,11 +188,12 @@
           "ranks": [
             3,
             21,
-            18
+            18,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时26分]"
         },
         {
           "title": "Paxos错误地制造了价值300万亿美元的稳定币PayPal PYUSD，该公司在10月16日称这是一个“技术错误”。 该公司在社交媒体上表示，在内部转账交易之后，公司“立即发现错误，并分会了过剩的PYUSD”。 该公司是美国支付公司PayPal的区块链合作伙伴。",
@@ -112,11 +201,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时26分]"
         },
         {
           "title": "日本央行执行理事Shimizu：与过去相比，日本央行如今在制定货币政策时，必须更加充分地考虑日本以外的形势，因为国内与全球经济的互动正日益加强。",
@@ -137,9 +227,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时26分]"
         },
         {
           "title": "日本央行执行理事Shimizu：如果日本央行对未来经济走势有足够的信心，便可继续推进政策正常化。",
@@ -177,81 +267,6 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 10月16日（周四）晚盘收盘上涨1.75%报979.7元/克；<br/>上海黄金交易所白银T+D 10月16日（周四）晚盘收盘上涨1.12%报12177.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251017023014276800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "纽约期金突破4300美元关口，现货白银涨至54美元，双双创历史新高",
-          "url": "https://wallstreetcn.com/livenews/2989124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时58分]"
-        },
-        {
-          "title": "是什么一直支持黄金价格一路飙升",
-          "url": "https://www.toutiao.com/trending/7561799628442570266/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时38分]"
-        },
-        {
-          "title": "现货白银较高位回落约0.7美元，最新报53.44美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251017004718362800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "现货白银站上54美元",
-          "url": "https://flash.jin10.com/detail/20251017001749296800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "现货黄金站上4280美元/盎司，日内涨1.70%；现货白银日内大涨1.00美元，现报53.96美元/盎司，涨幅1.89%。",
-          "url": "https://flash.jin10.com/detail/20251017001519150800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 1,
       "titles": [
@@ -260,11 +275,12 @@
           "url": "https://wallstreetcn.com/livenews/2989152",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时26分]"
         }
       ]
     },
@@ -279,7 +295,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
