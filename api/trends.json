@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T14:53:24.150632+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2025-10-17T15:33:34.194286+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "国乒女团横扫日本的秘诀",
@@ -44,11 +44,34 @@
           "source": "抖音",
           "ranks": [
             7,
-            4
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 15时33分]"
+        },
+        {
+          "title": "日本前首相村山富市去世，享年101岁",
+          "url": "https://news.ifeng.com/c/8nWSpyCB0fM",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时53分]"
+          "time_info": "[12时41分 ~ 15时33分]"
+        },
+        {
+          "title": "日本前首相村山富市去世",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E6%9D%91%E5%B1%B1%E5%AF%8C%E5%B8%82%E5%8E%BB%E4%B8%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 15时33分]"
         },
         {
           "title": "日本前首相村山富市去世",
@@ -63,39 +86,6 @@
           "time_info": "[12时41分 ~ 13时37分]"
         },
         {
-          "title": "日本前首相村山富市去世，享年101岁",
-          "url": "https://news.ifeng.com/c/8nWSpyCB0fM",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 14时53分]"
-        },
-        {
-          "title": "日本央行副行长内田真一：随着关税不确定性缓解，部分日本制造商的市场情绪正在改善。",
-          "url": "https://flash.jin10.com/detail/20251017144252132800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "日本前首相村山富市去世",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E6%9D%91%E5%B1%B1%E5%AF%8C%E5%B8%82%E5%8E%BB%E4%B8%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 14时53分]"
-        },
-        {
           "title": "第一个向中国道歉的日本首相去世",
           "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89%E7%9A%84%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E5%8E%BB%E4%B8%96",
           "source": "百度热搜",
@@ -104,8 +94,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 15时33分]"
+        },
+        {
+          "title": "逼员工卖淫女嫌犯因外貌在日本走红",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%80%BC%E5%91%98%E5%B7%A5%E5%8D%96%E6%B7%AB%E5%A5%B3%E5%AB%8C%E7%8A%AF%E5%9B%A0%E5%A4%96%E8%B2%8C%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%B5%B0%E7%BA%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D14%26pos%3D15%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E9%2580%25BC%25E5%2591%2598%25E5%25B7%25A5%25E5%258D%2596%25E6%25B7%25AB%25E5%25A5%25B3%25E5%25AB%258C%25E7%258A%25AF%25E5%259B%25A0%25E5%25A4%2596%25E8%25B2%258C%25E5%259C%25A8%25E6%2597%25A5%25E6%259C%25AC%25E8%25B5%25B0%25E7%25BA%25A2%2523%26flag%3D2%26dgr%3D0%26realpos%3D14%26stream_entry_id%3D31%26display_time%3D1760670697%26pre_seqid%3D17606706971200066797",
+          "source": "微博",
+          "ranks": [
+            14,
+            16,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 15时33分]"
+        },
+        {
+          "title": "日本维新会参议员藤田文武：相信与自民党的谈判取得了进展。 将进入敲定细节阶段。 不会继续与反对党磋商。 与自民党的最终磋商非常微妙。 目前还没有达到可以说即将达成一致的程度。",
+          "url": "https://wallstreetcn.com/livenews/2989542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "日本央行副行长内田真一：随着关税不确定性缓解，部分日本制造商的市场情绪正在改善。",
+          "url": "https://flash.jin10.com/detail/20251017144252132800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "日本央行副行长内田真一：将审慎评估经济、物价及金融市场状况。",
@@ -114,7 +140,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -130,26 +156,13 @@
           "time_info": "13时37分"
         },
         {
-          "title": "逼员工卖淫女嫌犯因外貌在日本走红",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%80%BC%E5%91%98%E5%B7%A5%E5%8D%96%E6%B7%AB%E5%A5%B3%E5%AB%8C%E7%8A%AF%E5%9B%A0%E5%A4%96%E8%B2%8C%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%B5%B0%E7%BA%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D14%26pos%3D15%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E9%2580%25BC%25E5%2591%2598%25E5%25B7%25A5%25E5%258D%2596%25E6%25B7%25AB%25E5%25A5%25B3%25E5%25AB%258C%25E7%258A%25AF%25E5%259B%25A0%25E5%25A4%2596%25E8%25B2%258C%25E5%259C%25A8%25E6%2597%25A5%25E6%259C%25AC%25E8%25B5%25B0%25E7%25BA%25A2%2523%26flag%3D2%26dgr%3D0%26realpos%3D14%26stream_entry_id%3D31%26display_time%3D1760670697%26pre_seqid%3D17606706971200066797",
-          "source": "微博",
-          "ranks": [
-            14,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时53分]"
-        },
-        {
           "title": "日本央行副行长内田真一：日本经济正在温和复苏，但同时也出现了一些疲软迹象。",
           "url": "https://flash.jin10.com/detail/20251017143504558800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -160,7 +173,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -182,7 +195,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -217,18 +230,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "曾为侵华战争道歉的日本前首相去世",
-          "url": "https://www.toutiao.com/trending/7562036270437335078/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -250,9 +252,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "日本一地铁站内老头涉嫌偷拍女性裙底被抓，五名女性合力将其按倒在地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31794296",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 15时33分]"
         },
         {
           "title": "日本央行执行理事Shimizu：与过去相比，日本央行如今在制定货币政策时，必须更加充分地考虑日本以外的形势，因为国内与全球经济的互动正日益加强。",
@@ -291,6 +305,18 @@
           "time_info": "[12时41分 ~ 13时37分]"
         },
         {
+          "title": "曾为侵华战争道歉的日本前首相去世",
+          "url": "https://www.toutiao.com/trending/7562036270437335078/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 15时33分]"
+        },
+        {
           "title": "日本前首相村山富士去世",
           "url": "https://flash.jin10.com/detail/20251017120429971800",
           "source": "金十数据",
@@ -303,16 +329,15 @@
           "time_info": "[12时41分 ~ 13时37分]"
         },
         {
-          "title": "日本一地铁站内老头涉嫌偷拍女性裙底被抓，五名女性合力将其按倒在地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31794296",
-          "source": "澎湃新闻",
+          "title": "首个向中国道歉的日本首相",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%96%E4%B8%AA%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89%E7%9A%84%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8",
+          "source": "bilibili 热搜",
           "ranks": [
-            20,
-            19
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时53分]"
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 15时33分]"
         },
         {
           "title": "日本央行行长植田和男：全球经济迄今仍然具有韧性。 地缘政治局势紧张和贸易关系紧张构成下行风险。 关税影响一直都具有滞后性，然后会陡然显现出来。",
@@ -325,6 +350,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时28分]"
+        },
+        {
+          "title": "日本前首相村山富市去世，曾发表谈话承认侵略并向战争受害国道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796966",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 15时33分]"
         },
         {
           "title": "日本财务省副大臣Mimura：欢迎多个国家出台稳定币政策。 多样化的稳定币政策造成市场破碎性。",
@@ -368,7 +404,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -379,7 +415,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -390,18 +426,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "首个向中国道歉的日本首相",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%96%E4%B8%AA%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89%E7%9A%84%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -423,7 +448,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -445,18 +470,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "日本前首相村山富市去世，曾发表谈话承认侵略并向战争受害国道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796966",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -527,6 +541,17 @@
           "time_info": "04时37分"
         },
         {
+          "title": "印度贸易部长：尽管签署了自由贸易协定，印度出口在韩国和日本仍面临障碍。",
+          "url": "https://flash.jin10.com/detail/20251017150203002800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "日本央行行长植田和男：将根据经济、价格前景和风险以及我们的预测实现的可能性来决定政策。",
           "url": "https://flash.jin10.com/detail/20251017033755024800",
           "source": "金十数据",
@@ -560,6 +585,17 @@
           "time_info": "04时37分"
         },
         {
+          "title": "日本一小学课间齐跳科目三",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%AF%BE%E9%97%B4%E9%BD%90%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "日本央行行长植田和男：关税对全球及美国经济的影响正在延后，这使经济增长保持韧性。",
           "url": "https://flash.jin10.com/detail/20251017033340439800",
           "source": "金十数据",
@@ -585,7 +621,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
@@ -597,8 +633,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时31分 ~ 14时53分]"
+          "appearance_count": 10,
+          "time_info": "[06时31分 ~ 15时33分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -620,8 +656,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 15时33分]"
         },
         {
           "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
@@ -712,6 +748,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美光科技股价在法兰克福市场下跌3.2%。",
+          "url": "https://flash.jin10.com/detail/20251017151239732800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌约1.5%，英伟达涨1.1%为半导体板块“护盘”",
@@ -828,6 +875,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美股三大股指期货持续走低，纳斯达克100指数期货跌1%，标普500指数期货跌0.85%，道指期货跌0.61%。",
+          "url": "https://wallstreetcn.com/livenews/2989511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         }
       ]
     },
@@ -844,8 +902,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时26分 ~ 14时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 15时33分]"
         },
         {
           "title": "白银不够用了！投资者疯抢免税金银币，皇家铸币厂产能告急，伦敦贵金属市场陷入\"完美风暴\"",
@@ -857,8 +915,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时26分 ~ 14时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 15时33分]"
         },
         {
           "title": "金价一夜暴涨有投资者彻夜难眠",
@@ -866,11 +924,12 @@
           "source": "微博",
           "ranks": [
             8,
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 15时33分]"
         },
         {
           "title": "纽约期金突破4300美元关口，现货白银涨至54美元，双双创历史新高",
@@ -1079,9 +1138,141 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 7,
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美国没收柬电诈头目150亿美元比特币",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%B2%A1%E6%94%B6%E6%9F%AC%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE150%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AF%94%E7%89%B9%E5%B8%81",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            12,
+            13,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 15时33分]"
+        },
+        {
+          "title": "比特币失守107000美元/枚，日内跌幅1.16%。",
+          "url": "https://flash.jin10.com/detail/20251017144429135800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "比特币失守107000美元/枚，日内跌幅1.16%。",
+          "url": "https://wallstreetcn.com/livenews/2989508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 15时33分]"
+        },
+        {
+          "title": "比特币回落至108000美元/枚下方，日内跌2.50%。",
+          "url": "https://flash.jin10.com/detail/20251017002325931800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "以太坊向下触及3800美元/枚，日内跌2.61%。",
+          "url": "https://wallstreetcn.com/livenews/2989529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "机器人怎样改变人类生活",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%80%8E%E6%A0%B7%E6%94%B9%E5%8F%98%E4%BA%BA%E7%B1%BB%E7%94%9F%E6%B4%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E6%2580%258E%25E6%25A0%25B7%25E6%2594%25B9%25E5%258F%2598%25E4%25BA%25BA%25E7%25B1%25BB%25E7%2594%259F%25E6%25B4%25BB%2523%26c_type%3D31%26cate%3D5001%26pos%3D15%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D15%26band_rank%3D15%26flag%3D1%26display_time%3D1760679277%26pre_seqid%3D176067927710500562131",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "以太坊向下触及3800美元/枚，日内跌2.61%。",
+          "url": "https://flash.jin10.com/detail/20251017150702855800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "周四（10月16日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌3.10%，报逼近10.8万美元，北京时间22:40之前大体持稳于11.1万美元附近，之后出现一波“跳水”行情。 CME以太币期货DCR主力合约跌3.40%，报3860美元。",
+          "url": "https://wallstreetcn.com/livenews/2989213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "如何看待孙正义重金投资机器人",
+          "url": "https://www.toutiao.com/trending/7562052888449519154/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "美联储理事米兰：在一个机器人做更多工作的世界里，我们可能需要重新思考什么是“充分就业”，但这并不是一个合理的风险。",
+          "url": "https://flash.jin10.com/detail/20251017043049059800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "港股尾盘跌幅扩大，恒生科技指数跌超4%，恒生指数跌2.4%，比亚迪电子跌超8%，地平线机器人、华虹半导体跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/2989532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
         {
           "title": "聚焦第二届湾区半导体投融资战略发展论坛：产业投资结构持续优化，AI及自主可控成焦点",
           "url": "https://wallstreetcn.com/livenews/2989226",
@@ -1151,6 +1342,17 @@
           "time_info": "12时41分"
         },
         {
+          "title": "金十图示：2025年10月17日（周五）富时中国A50指数成分股今日收盘行情一览：成分股普跌，保险、酿酒、半导体、证券板块跌幅较大",
+          "url": "https://flash.jin10.com/detail/20251017150351042800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "沪指跌幅扩大至1%，深成指跌1.97%，创业板指跌2.46%，科创50指数跌近3%，电网设备、半导体芯片、光伏风电、核聚变等方向跌幅居前，沪深京三市下跌个股近4100只。",
           "url": "https://wallstreetcn.com/livenews/2989372",
           "source": "华尔街见闻-快讯",
@@ -1160,92 +1362,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美国没收柬电诈头目150亿美元比特币",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%B2%A1%E6%94%B6%E6%9F%AC%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE150%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AF%94%E7%89%B9%E5%B8%81",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            12,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时53分]"
-        },
-        {
-          "title": "比特币失守107000美元/枚，日内跌幅1.16%。",
-          "url": "https://flash.jin10.com/detail/20251017144429135800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "比特币失守107000美元/枚，日内跌幅1.16%。",
-          "url": "https://wallstreetcn.com/livenews/2989508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "比特币回落至108000美元/枚下方，日内跌2.50%。",
-          "url": "https://flash.jin10.com/detail/20251017002325931800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "机器人怎样改变人类生活",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%80%8E%E6%A0%B7%E6%94%B9%E5%8F%98%E4%BA%BA%E7%B1%BB%E7%94%9F%E6%B4%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E6%2580%258E%25E6%25A0%25B7%25E6%2594%25B9%25E5%258F%2598%25E4%25BA%25BA%25E7%25B1%25BB%25E7%2594%259F%25E6%25B4%25BB%2523%26c_type%3D31%26cate%3D5001%26pos%3D15%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D15%26band_rank%3D15%26flag%3D1%26display_time%3D1760679277%26pre_seqid%3D176067927710500562131",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "周四（10月16日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌3.10%，报逼近10.8万美元，北京时间22:40之前大体持稳于11.1万美元附近，之后出现一波“跳水”行情。 CME以太币期货DCR主力合约跌3.40%，报3860美元。",
-          "url": "https://wallstreetcn.com/livenews/2989213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "美联储理事米兰：在一个机器人做更多工作的世界里，我们可能需要重新思考什么是“充分就业”，但这并不是一个合理的风险。",
-          "url": "https://flash.jin10.com/detail/20251017043049059800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
         }
       ]
     },
@@ -1261,8 +1377,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 15时33分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
@@ -1289,11 +1405,12 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 15时33分]"
         },
         {
           "title": "加微信一定要别人扫我",
