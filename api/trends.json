@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T00:46:15.863254+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-19T01:36:00.503671+08:00",
+  "total_titles_processed": 334,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 01时36分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 01时36分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 01时36分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -48,8 +48,47 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 01时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
+          "url": "https://www.cls.cn/detail/2173370",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 01时36分]"
+        },
+        {
+          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
+          "url": "https://wallstreetcn.com/articles/3757430",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 01时36分]"
+        },
+        {
+          "title": "中美通话如何影响黄金价格",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "time_info": "[01时35分 ~ 01时36分]"
         }
       ]
     },
@@ -64,9 +103,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时36分]"
         },
         {
           "title": "自民党与日本维新会就联合执政基本达成共识",
@@ -75,9 +114,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时36分]"
         },
         {
           "title": "日本自民党与维新会将于周一签署联盟协议。（朝日电视台）",
@@ -86,37 +125,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
-          "url": "https://www.cls.cn/detail/2173370",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
-        },
-        {
-          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
-          "url": "https://wallstreetcn.com/articles/3757430",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "time_info": "[00时46分 ~ 01时36分]"
         }
       ]
     }
