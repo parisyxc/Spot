@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-10-18T18:42:37.976378+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-10-18T19:30:21.327362+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
+          "url": "https://www.cls.cn/detail/2173370",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时06分 ~ 19时30分]"
+        },
         {
           "title": "金价暴涨时4万5黄金订单蒸发",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B64%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D10%26flag%3D0%26lcate%3D5001%26filter_type%3Drealtimehot%26pos%3D10%26realpos%3D10%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E6%2597%25B64%25E4%25B8%25875%25E9%25BB%2584%25E9%2587%2591%25E8%25AE%25A2%25E5%258D%2595%25E8%2592%25B8%25E5%258F%2591%2523%26dgr%3D0%26cate%3D5001%26c_type%3D31%26display_time%3D1760719213%26pre_seqid%3D176071921308701886399106",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时47分 ~ 07时29分]"
-        },
-        {
-          "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
-          "url": "https://www.cls.cn/detail/2173370",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时06分 ~ 18时42分]"
         },
         {
           "title": "金价银价大跳水",
@@ -63,6 +63,19 @@
           "time_info": "[15时28分 ~ 18时42分]"
         },
         {
+          "title": "金价银价大跳水 国内金饰价格下调",
+          "url": "https://www.toutiao.com/trending/7562444745599880713/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 19时30分]"
+        },
+        {
           "title": "黄金白银大跳水",
           "url": "https://www.toutiao.com/trending/7561551906565259273/",
           "source": "今日头条",
@@ -75,18 +88,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时06分 ~ 16时41分]"
-        },
-        {
-          "title": "金价银价大跳水 国内金饰价格下调",
-          "url": "https://www.toutiao.com/trending/7562444745599880713/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 18时42分]"
         },
         {
           "title": "白银年内狂涨87% 比黄金还“疯”",
@@ -232,13 +233,24 @@
           "time_info": "01时34分"
         },
         {
+          "title": "金价暴涨下的水贝",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%8B%E7%9A%84%E6%B0%B4%E8%B4%9D&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%258B%25E7%259A%2584%25E6%25B0%25B4%25E8%25B4%259D%26dgr%3D0%26pos%3D22%26realpos%3D23%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D23%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1760786903%26pre_seqid%3D17607869038650358624615",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
+        },
+        {
           "title": "黄金价格“抛物线式”上涨",
           "url": "https://www.toutiao.com/trending/7562476629914553883/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -293,6 +305,17 @@
       "match_count": 22,
       "titles": [
         {
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时06分 ~ 19时30分]"
+        },
+        {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
@@ -301,8 +324,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 18时42分]"
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 19时30分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -317,15 +340,17 @@
           "time_info": "[00时47分 ~ 07时29分]"
         },
         {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
+          "title": "寒武纪Q3营收同比暴增13倍，净利润5.7亿元，为连续三个季度盈利，章建平再次增持 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757395",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            4,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时06分 ~ 18时42分]"
+          "appearance_count": 10,
+          "time_info": "[11时06分 ~ 19时30分]"
         },
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
@@ -340,19 +365,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时47分 ~ 06时35分]"
-        },
-        {
-          "title": "寒武纪Q3营收同比暴增13倍，净利润5.7亿元，为连续三个季度盈利，章建平再次增持 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757395",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时06分 ~ 18时42分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -392,6 +404,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时06分 ~ 14时46分]"
+        },
+        {
+          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
+          "url": "https://wallstreetcn.com/articles/3757414",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时30分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美三大股指齐反弹，金银跳水，美债下挫",
@@ -436,17 +459,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
-        },
-        {
-          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
-          "url": "https://wallstreetcn.com/articles/3757414",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时42分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
@@ -496,6 +508,17 @@
           "time_info": "[04时36分 ~ 07时29分]"
         },
         {
+          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
+          "url": "https://www.cls.cn/detail/2173450",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时30分]"
+        },
+        {
           "title": "瑞银财富上调新兴市场股票评级上调至有吸引力，看好中国科技股",
           "url": "https://wallstreetcn.com/livenews/2989853",
           "source": "华尔街见闻-快讯",
@@ -518,17 +541,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时35分]"
-        },
-        {
-          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
-          "url": "https://www.cls.cn/detail/2173450",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -556,7 +568,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "人物｜村山富市去世，留下百岁感言：希望日本永远坚守和平",
@@ -650,11 +662,12 @@
             7,
             10,
             15,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时46分 ~ 18时42分]"
+          "appearance_count": 6,
+          "time_info": "[14时46分 ~ 19时30分]"
         },
         {
           "title": "七成日本民众反对自民党任用丑闻议员",
@@ -670,6 +683,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时06分 ~ 15时28分]"
+        },
+        {
+          "title": "日本朝野两党就首相指名选举日期达成一致",
+          "url": "https://flash.jin10.com/detail/20251018142045798800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            14,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 19时30分]"
+        },
+        {
+          "title": "日本自民党与维新会将于周一签署联盟协议。（朝日电视台）",
+          "url": "https://wallstreetcn.com/livenews/2990069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
         },
         {
           "title": "日本维新会退出在野党阵营共选首相的协商",
@@ -698,20 +737,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时34分 ~ 05时31分]"
-        },
-        {
-          "title": "日本朝野两党就首相指名选举日期达成一致",
-          "url": "https://flash.jin10.com/detail/20251018142045798800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 18时42分]"
         },
         {
           "title": "日本自民党将接受削减众议院议员席位。（朝日电视台）",
@@ -778,11 +803,12 @@
             1,
             4,
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 19时30分]"
         },
         {
           "title": "周五（10月17日），彭博电动汽车价格回报指数跌1.81%，报3372.36点，本周累计下跌1.05%，整体呈现出M形走势。 周五当天，成分股吉利汽车控股H股收跌4.52%，小鹏汽车H股收跌4.35%，MP材料跌超4%跌幅第三大。 保时捷P911欧股则收涨1.63%表现第四，蔚来集团H股收涨2.17%，特斯拉涨2.4%，印度Ola Electric Mobility Ltd.收涨3.07%。",
