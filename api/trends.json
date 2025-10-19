@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T05:29:31.889783+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2025-10-20T06:34:43.032477+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -16,8 +16,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时34分]"
+        },
+        {
+          "title": "美股股指期货周一高开，纳指期货涨0.36%。",
+          "url": "https://flash.jin10.com/detail/20251020060149187800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国LPR、GDP、社零、美国CPI；二十届四中全会、APEC财长会议；特斯拉、英特尔等财报",
@@ -33,6 +44,45 @@
       ]
     },
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "高市早苗，成为日本首位女首相“稳了”",
+          "url": "https://news.ifeng.com/c/8na3NmF7kAy",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时34分]"
+        },
+        {
+          "title": "一波三折！高市早苗接近成为“日本第一位女首相”，但“早苗交易”前途未卜",
+          "url": "https://wallstreetcn.com/articles/3757442",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时34分]"
+        },
+        {
+          "title": "日本政坛最右组阁或诞生！自民党与维新会基本达成一致，高市早苗出任首相在即，「自维联盟」有何特点？",
+          "url": "https://www.zhihu.com/question/1962977782066841292",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 铜价 白银",
       "match_count": 2,
       "titles": [
@@ -44,8 +94,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时34分]"
         },
         {
           "title": "金价涨了，印度人节日买金习惯变了",
@@ -55,8 +105,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时34分]"
         }
       ]
     },
@@ -73,8 +123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时34分]"
         },
         {
           "title": "当年微信可是求着我上线",
@@ -91,34 +141,6 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "高市早苗，成为日本首位女首相“稳了”",
-          "url": "https://news.ifeng.com/c/8na3NmF7kAy",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 05时29分]"
-        },
-        {
-          "title": "一波三折！高市早苗接近成为“日本第一位女首相”，但“早苗交易”前途未卜",
-          "url": "https://wallstreetcn.com/articles/3757442",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 05时29分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 2,
       "titles": [
@@ -129,11 +151,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 06时34分]"
         },
         {
           "title": "领益智造与绳驱AI机器人公司星尘智能签署战略合作协议",
@@ -162,8 +185,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时34分]"
         }
       ]
     }
