@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T17:35:30.365906+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2025-10-19T18:36:45.784668+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
@@ -27,11 +27,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 17时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 18时36分]"
         },
         {
           "title": "2025年这场白银逼空大戏：印度大V，中国假期与伦敦挤兑",
@@ -43,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时43分 ~ 17时35分]"
+          "appearance_count": 7,
+          "time_info": "[12时43分 ~ 18时36分]"
         },
         {
           "title": "白银价格屡创新高，韩国商业银行将暂停银条销售",
@@ -53,11 +54,12 @@
           "ranks": [
             2,
             6,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 18时36分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -102,6 +104,17 @@
           "time_info": "[11时38分 ~ 15时28分]"
         },
         {
+          "title": "金价涨了 印度人节日买金习惯变了",
+          "url": "https://flash.jin10.com/detail/20251019175330077800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
           "title": "14年等待，纸白银投资者终于“解套”",
           "url": "https://flash.jin10.com/detail/20251019130959128800",
           "source": "金十数据",
@@ -120,11 +133,12 @@
           "url": "https://news.ifeng.com/c/8na31dSR83g",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时36分]"
         },
         {
           "title": "金价狂飙 “租三金”结婚成新选择",
@@ -134,8 +148,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时36分]"
         },
         {
           "title": "金价银价创新高后跳水，白银跌超 6%，黄金跌破 4200 美元，如何看待此次调整？白银能否打破 50 美元魔咒？",
@@ -144,9 +158,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时36分]"
         },
         {
           "title": "黄金虽猛白银已疯",
@@ -155,7 +169,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         }
@@ -163,7 +177,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "自民党与日本维新会就联合执政基本达成共识",
@@ -206,6 +220,18 @@
           "time_info": "[00时46分 ~ 13时37分]"
         },
         {
+          "title": "一波三折！高市早苗接近成为“日本第一位女首相”，但“早苗交易”前途未卜",
+          "url": "https://wallstreetcn.com/articles/3757442",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时49分 ~ 18时36分]"
+        },
+        {
           "title": "日本自民党与维新会将于周一签署联盟协议。（朝日电视台）",
           "url": "https://wallstreetcn.com/livenews/2990069",
           "source": "华尔街见闻-快讯",
@@ -220,18 +246,6 @@
           "time_info": "[00时46分 ~ 07时30分]"
         },
         {
-          "title": "一波三折！高市早苗接近成为“日本第一位女首相”，但“早苗交易”前途未卜",
-          "url": "https://wallstreetcn.com/articles/3757442",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 17时35分]"
-        },
-        {
           "title": "高市早苗能否当选？日本首相指名选举三种可能结果",
           "url": "https://wallstreetcn.com/articles/3757436",
           "source": "华尔街见闻",
@@ -242,6 +256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时37分]"
+        },
+        {
+          "title": "高市早苗，成为日本首位女首相“稳了”",
+          "url": "https://news.ifeng.com/c/8na3NmF7kAy",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "日本自民党与日本维新会同意组建联合政府。",
@@ -271,7 +296,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -283,8 +308,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 17时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 18时36分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -321,6 +346,17 @@
           "time_info": "[00时45分 ~ 14时49分]"
         },
         {
+          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
+          "url": "https://wallstreetcn.com/articles/3757446",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
           "url": "https://flash.jin10.com/detail/20251019091747896800",
           "source": "金十数据",
@@ -348,8 +384,20 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
+          "url": "https://wallstreetcn.com/articles/3757443",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时36分]"
+        },
         {
           "title": "以太坊突破3900美元/枚，日内涨0.28%。",
           "url": "https://flash.jin10.com/detail/20251019114157038800",
@@ -371,29 +419,40 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时36分]"
         },
         {
-          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
-          "url": "https://wallstreetcn.com/articles/3757443",
-          "source": "华尔街见闻",
+          "title": "比特币短线持续拉升，向上突破108000美元/枚，日内涨0.76%。",
+          "url": "https://flash.jin10.com/detail/20251019175019434800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "比特币短线飙升约1000美元，现报107006美元/枚。",
+          "url": "https://flash.jin10.com/detail/20251019174525480800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "实探安世半导体东莞工厂：原材料告急、已限制出货、员工将“上四休三”",
@@ -403,11 +462,23 @@
             1,
             4,
             8,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 17时35分]"
+          "appearance_count": 5,
+          "time_info": "[14时49分 ~ 18时36分]"
+        },
+        {
+          "title": "实探安世半导体东莞工厂：原材料告急",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%B8%9C%E8%8E%9E%E5%B7%A5%E5%8E%82%EF%BC%9A%E5%8E%9F%E6%9D%90%E6%96%99%E5%91%8A%E6%80%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     },
@@ -429,6 +500,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时38分 ~ 15时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "当年微信可是求着我上线",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%BD%93%E5%B9%B4%E5%BE%AE%E4%BF%A1%E5%8F%AF%E6%98%AF%E6%B1%82%E7%9D%80%E6%88%91%E4%B8%8A%E7%BA%BF&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26band_rank%3D2%26stream_entry_id%3D31%26flag%3D1%26pos%3D1%26q%3D%25E5%25BD%2593%25E5%25B9%25B4%25E5%25BE%25AE%25E4%25BF%25A1%25E5%258F%25AF%25E6%2598%25AF%25E6%25B1%2582%25E7%259D%2580%25E6%2588%2591%25E4%25B8%258A%25E7%25BA%25BF%26realpos%3D2%26dgr%3D0%26display_time%3D1760870173%26pre_seqid%3D17608701731810272899531",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     }
