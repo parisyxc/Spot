@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T07:30:15.054114+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2025-10-19T11:38:41.377341+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 11时38分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -50,15 +51,39 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 11时38分]"
+        },
+        {
+          "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
+          "url": "https://flash.jin10.com/detail/20251019091747896800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
+          "url": "https://wallstreetcn.com/articles/3757430",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 11时38分]"
+        },
         {
           "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
           "url": "https://www.cls.cn/detail/2173370",
@@ -68,20 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 07时30分]"
-        },
-        {
-          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
-          "url": "https://wallstreetcn.com/articles/3757430",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 11时38分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -95,12 +108,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时35分 ~ 06时34分]"
+        },
+        {
+          "title": "印度需求飙升引爆白银危机",
+          "url": "https://flash.jin10.com/detail/20251019110053447800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "金价为何下跌",
+          "url": "https://www.toutiao.com/trending/7562708312681090570/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "自民党与日本维新会就联合执政基本达成共识",
@@ -121,11 +156,12 @@
             5,
             7,
             12,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 11时38分]"
         },
         {
           "title": "日本自民党与维新会将于周一签署联盟协议。（朝日电视台）",
@@ -140,6 +176,45 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 07时30分]"
+        },
+        {
+          "title": "高市早苗几乎确定成为日本首相",
+          "url": "https://news.ifeng.com/c/8nZaeQt14hy",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "日本自民党与日本维新会同意组建联合政府。",
+          "url": "https://flash.jin10.com/detail/20251019090924765800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软(MSFT.O)领导人担心，要满足OpenAI快速增长的计算需求，可能会导致服务器过度建设，而这可能无法产生经济回报。",
+          "url": "https://flash.jin10.com/detail/20251019102338888800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         }
       ]
     }
