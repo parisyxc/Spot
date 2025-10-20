@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T16:50:07.789188+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2025-10-20T17:41:50.748493+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "高市早苗，成为日本首位女首相“稳了”",
@@ -42,17 +42,6 @@
           "time_info": "[11时41分 ~ 13时40分]"
         },
         {
-          "title": "消息人士：尽管面临来自美国关税的逆风，日本央行很可能维持其对经济将稳步复苏的看法。",
-          "url": "https://flash.jin10.com/detail/20251020164327239800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
           "title": "日本政坛最右组阁或诞生！自民党与维新会基本达成一致，高市早苗出任首相在即，「自维联盟」有何特点？",
           "url": "https://www.zhihu.com/question/1962977782066841292",
           "source": "知乎",
@@ -63,28 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时30分]"
-        },
-        {
-          "title": "消息人士：日本央行可能在10月的政策会议上小幅上调2025财年经济增长预期。",
-          "url": "https://flash.jin10.com/detail/20251020164309123800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
-          "title": "市场消息：日本首相候选人高市早苗计划对安全政策进行审查。",
-          "url": "https://flash.jin10.com/detail/20251020164101137800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
         },
         {
           "title": "日本央行审议委员高田创：我们需要在假设日本央行价格目标已实现的前提下，讨论货币政策。",
@@ -98,15 +65,15 @@
           "time_info": "12时46分"
         },
         {
-          "title": "据路透，消息人士称，日本央行可能会在10月的政策会议上小幅上调2025财年的经济增长预期。另外，尽管面临美国加征关税的阻力，日本央行预计仍将维持“经济正处于温和复苏轨道”的判断。",
-          "url": "https://wallstreetcn.com/livenews/2990555",
+          "title": "日本自民党与维新会签署联合执政文件",
+          "url": "https://wallstreetcn.com/livenews/2990580",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时50分"
+          "time_info": "17时41分"
         },
         {
           "title": "日本央行审议委员高田创：日本已基本实现日本央行的物价目标。",
@@ -118,17 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
-        },
-        {
-          "title": "据日经新闻：日本永旺集团将与比亚迪合作，在日本销售电动汽车。",
-          "url": "https://flash.jin10.com/detail/20251020163819793800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
         },
         {
           "title": "日本央行审议委员高田创：预计日本消费将继续温和增长。",
@@ -221,6 +177,30 @@
           "time_info": "[12时46分 ~ 13时40分]"
         },
         {
+          "title": "消息人士：尽管面临来自美国关税的逆风，日本央行很可能维持其对经济将稳步复苏的看法。",
+          "url": "https://flash.jin10.com/detail/20251020164327239800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时41分]"
+        },
+        {
+          "title": "消息人士：日本央行可能在10月的政策会议上小幅上调2025财年经济增长预期。",
+          "url": "https://flash.jin10.com/detail/20251020164309123800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时41分]"
+        },
+        {
           "title": "日本央行审议委员高田创：日本央行必须对持续3年半之久的2%以上核心通胀率作出回应。",
           "url": "https://flash.jin10.com/detail/20251020115544129800",
           "source": "金十数据",
@@ -244,6 +224,18 @@
           "time_info": "[12时46分 ~ 13时40分]"
         },
         {
+          "title": "市场消息：日本首相候选人高市早苗计划对安全政策进行审查。",
+          "url": "https://flash.jin10.com/detail/20251020164101137800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时41分]"
+        },
+        {
           "title": "三井住友全球市场业务部主管：日本央行12月有可能加息",
           "url": "https://wallstreetcn.com/livenews/2990476",
           "source": "华尔街见闻-快讯",
@@ -256,6 +248,30 @@
           "time_info": "[14时55分 ~ 15时36分]"
         },
         {
+          "title": "据路透，消息人士称，日本央行可能会在10月的政策会议上小幅上调2025财年的经济增长预期。另外，尽管面临美国加征关税的阻力，日本央行预计仍将维持“经济正处于温和复苏轨道”的判断。",
+          "url": "https://wallstreetcn.com/livenews/2990555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时41分]"
+        },
+        {
+          "title": "据日经新闻：日本永旺集团将与比亚迪合作，在日本销售电动汽车。",
+          "url": "https://flash.jin10.com/detail/20251020163819793800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时41分]"
+        },
+        {
           "title": "日经225指数涨3.37%，报49185.5点，为史上首次站上49000点。 日本东证指数收涨2.5%。 韩国综合指数涨1.75%，再创历史新高。",
           "url": "https://wallstreetcn.com/livenews/2990469",
           "source": "华尔街见闻-快讯",
@@ -266,6 +282,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时55分 ~ 15时36分]"
+        },
+        {
+          "title": "日本维新会决定投票给高市早苗，其当选首相几成定局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31811757",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 17时41分]"
         },
         {
           "title": "日本央行审议委员高田创：我们需要在假设日本央行物价目标已经实现的前提下讨论货币政策。 美联储恢复降息本可能会限制日本央行的政策灵活性，但这次情况并非如此，因为美联储降息是出于风险管理的角度，而非担心经济衰退。 日本正出现通胀的“第二轮效应”可能扩大的条件。 从经济即将迎来“真正的黎明”的角度来看，日本央行必须在实施货币政策时，分几个阶段逐步“转换档位”。",
@@ -302,17 +330,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时46分 ~ 13时40分]"
-        },
-        {
-          "title": "日本维新会决定投票给高市早苗，其当选首相几成定局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31811757",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
           "title": "三井住友金融市场主管：日本央行可能在12月加息。",
@@ -357,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "消息人士：日本央行或小幅上调2025财年经济增长预期",
+          "url": "https://flash.jin10.com/detail/20251020165946270800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "日本央行审议委员高田创：我认为日本央行必须就假设通胀目标已基本实现与市场进行沟通。",
@@ -436,6 +464,17 @@
           "time_info": "12时46分"
         },
         {
+          "title": "据日本时事通讯社：日本和美国政府计划在特朗普访问日本时安排关税协议的签字仪式。",
+          "url": "https://flash.jin10.com/detail/20251020164943352800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "日本自民党和维新会周一下午将签署联合执政协议",
           "url": "https://wallstreetcn.com/livenews/2990371",
           "source": "华尔街见闻-快讯",
@@ -508,7 +547,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -519,7 +558,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -571,7 +610,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "宇树科技发布H2人形机器人",
@@ -579,11 +618,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 16时50分]"
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 17时41分]"
         },
         {
           "title": "比特币涨超2.2%，试探11万美元。 美国参议院Lindsey Graham称，总统特朗普表态要针对哥伦比亚宣布关税（威胁）。 预计将在纽约时间10月19-29日宣布。 特朗普称他要“打击哥伦比亚”。 此前，特朗普掐断了美国对哥伦比亚的援助。",
@@ -608,8 +648,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 17时41分]"
         },
         {
           "title": "宇树科技发布H2仿生人形机器人",
@@ -618,11 +658,23 @@
           "ranks": [
             10,
             18,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 16时50分]"
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 17时41分]"
+        },
+        {
+          "title": "明新旭腾：与上海清宝引擎机器人有限公司拟在上海共同投资设立旭清灵动（上海）具身智能科技有限公司，以开展灵巧手研发、制造及销售业务。",
+          "url": "https://wallstreetcn.com/livenews/2990589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
@@ -676,11 +728,12 @@
           "url": "https://www.douyin.com/hot/2276347",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 17时41分]"
         },
         {
           "title": "比特币突破111000美元/枚，日内涨超2%。",
@@ -730,7 +783,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -750,11 +803,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 16时50分]"
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 17时41分]"
         },
         {
           "title": "本周重要事件与数据预告：中国GDP、美国CPI；二十届四中全会、APEC财长会议；特斯拉财报",
@@ -774,7 +828,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -808,7 +862,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -819,9 +873,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)美股盘前跌约0.4%，亚马逊云计算服务（AWS）表示，正在调查美国东部1区多个AWS服务中出现的错误率和延迟增加问题。",
+          "url": "https://flash.jin10.com/detail/20251020165037004800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "亚马逊美股盘前转跌，现跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/2990560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "港股收盘，恒生指数收涨2.42%，恒生科技指数收涨3%。科技股普涨，阿里巴巴涨近5%，腾讯、百度涨超3%；半导体板块走高，上海复旦涨近5%，中芯国际涨近4%。",
@@ -830,7 +906,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -841,7 +917,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -983,7 +1059,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "各地留学生都出现在了抖音",
@@ -999,8 +1075,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时45分 ~ 16时50分]"
+          "appearance_count": 23,
+          "time_info": "[00时45分 ~ 17时41分]"
+        },
+        {
+          "title": "微盟集团：与抖音集团旗下巨量引擎开展业务合作",
+          "url": "https://wallstreetcn.com/livenews/2990590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "南通队球员抖音庆祝入围决赛",
@@ -1008,11 +1095,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 16时50分]"
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 17时41分]"
         },
         {
           "title": "当年微信可是求着我上线",
@@ -1025,6 +1113,46 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时45分 ~ 01时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
+          "url": "https://wallstreetcn.com/livenews/2990557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时41分]"
+        },
+        {
+          "title": "OpenAI：我们正面临“单点登录”（SSO）问题。",
+          "url": "https://flash.jin10.com/detail/20251020164600924800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
+          "url": "https://flash.jin10.com/detail/20251020164457909800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         }
       ]
     },
@@ -1042,23 +1170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
-          "url": "https://wallstreetcn.com/livenews/2990557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
         }
       ]
     }
