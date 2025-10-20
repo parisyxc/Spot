@@ -1,113 +1,11 @@
 {
-  "generated_at": "2025-10-20T07:30:26.417706+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-10-20T11:42:09.817574+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
-          "url": "https://wallstreetcn.com/articles/3757446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时30分]"
-        },
-        {
-          "title": "本周重要事件与数据预告：中国GDP、美国CPI；二十届四中全会、APEC财长会议；特斯拉财报",
-          "url": "https://flash.jin10.com/detail/20251020070913462800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时30分"
-        },
-        {
-          "title": "美股股指期货周一高开，纳指期货涨0.36%。",
-          "url": "https://flash.jin10.com/detail/20251020060149187800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时30分]"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——中国LPR、GDP、社零、美国CPI；二十届四中全会、APEC财长会议；特斯拉、英特尔等财报",
-          "url": "https://flash.jin10.com/detail/20251019212525735800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "2025年这场白银逼空大戏：印度大V，中国假期与伦敦挤兑",
-          "url": "https://wallstreetcn.com/articles/3757440",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时30分]"
-        },
-        {
-          "title": "金价涨了，印度人节日买金习惯变了",
-          "url": "https://news.ifeng.com/c/8na31dSR83g",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时30分]"
-        },
-        {
-          "title": "国际金价上周连续突破整数关口，两大潜在压力或可关注",
-          "url": "https://wallstreetcn.com/livenews/2990247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时30分"
-        },
-        {
-          "title": "金十图示：2025年10月20日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251020064402117800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "稳定币 日本",
-      "match_count": 3,
+      "match_count": 11,
       "titles": [
         {
           "title": "高市早苗，成为日本首位女首相“稳了”",
@@ -142,19 +40,106 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时30分]"
+        },
+        {
+          "title": "日本自民党维新会基本确认联合执政",
+          "url": "https://news.ifeng.com/c/8nbIcIrnDee",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "日本维新会党首吉村洋文：将于日本标准时间下午6点宣布与自民党的结盟协议。",
+          "url": "https://wallstreetcn.com/livenews/2990375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "日本自民党和维新会周一下午将签署联合执政协议",
+          "url": "https://wallstreetcn.com/livenews/2990371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "日本东证指数涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/2990367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "现货黄金上周五创5月份以来最大单日跌幅，目前多头情绪明显降温。高市早苗成为日本新首相在望，日经225指数买入信号临近，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251020103753528800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "日本维新党党首吉村洋文：将于北京时间17:00与自民党总裁高市早苗会面，以正式确立联盟协议。",
+          "url": "https://flash.jin10.com/detail/20251020103050650800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "日媒：日本自民党与维新达成协议组建联合政府",
+          "url": "https://flash.jin10.com/detail/20251020102751135800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "日本维新党党首吉村洋文：已与自民党就组建联合政府的条件基本达成一致。",
+          "url": "https://flash.jin10.com/detail/20251020102505560800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 5,
       "titles": [
         {
-          "title": "各地留学生都出现在了抖音",
-          "url": "https://www.douyin.com/hot/2275746",
-          "source": "抖音",
+          "title": "2025年这场白银逼空大戏：印度大V，中国假期与伦敦挤兑",
+          "url": "https://wallstreetcn.com/articles/3757440",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
             4
           ],
           "is_new": false,
@@ -162,22 +147,106 @@
           "time_info": "[00时45分 ~ 07时30分]"
         },
         {
-          "title": "当年微信可是求着我上线",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%BD%93%E5%B9%B4%E5%BE%AE%E4%BF%A1%E5%8F%AF%E6%98%AF%E6%B1%82%E7%9D%80%E6%88%91%E4%B8%8A%E7%BA%BF&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26band_rank%3D28%26q%3D%25E5%25BD%2593%25E5%25B9%25B4%25E5%25BE%25AE%25E4%25BF%25A1%25E5%258F%25AF%25E6%2598%25AF%25E6%25B1%2582%25E7%259D%2580%25E6%2588%2591%25E4%25B8%258A%25E7%25BA%25BF%26stream_entry_id%3D31%26dgr%3D0%26pos%3D29%26realpos%3D28%26lcate%3D5001%26flag%3D0%26display_time%3D1760891413%26pre_seqid%3D17608914133510189372142",
-          "source": "微博",
+          "title": "金价涨了，印度人节日买金习惯变了",
+          "url": "https://news.ifeng.com/c/8na31dSR83g",
+          "source": "凤凰网",
           "ranks": [
-            28,
-            26
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 07时30分]"
+        },
+        {
+          "title": "国际金价上周连续突破整数关口，两大潜在压力或可关注",
+          "url": "https://wallstreetcn.com/livenews/2990247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "金十图示：2025年10月20日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251020064402117800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至1.00%，现报52.25美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251020103234596800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
+          "url": "https://wallstreetcn.com/articles/3757446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 11时42分]"
+        },
+        {
+          "title": "本周重要事件与数据预告：中国GDP、美国CPI；二十届四中全会、APEC财长会议；特斯拉财报",
+          "url": "https://flash.jin10.com/detail/20251020070913462800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "美股股指期货周一高开，纳指期货涨0.36%。",
+          "url": "https://flash.jin10.com/detail/20251020060149187800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时30分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——中国LPR、GDP、社零、美国CPI；二十届四中全会、APEC财长会议；特斯拉、英特尔等财报",
+          "url": "https://flash.jin10.com/detail/20251019212525735800",
+          "source": "金十数据",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时45分 ~ 01时35分]"
+          "time_info": "[00时46分 ~ 03时25分]"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "比特币涨超2.2%，试探11万美元。 美国参议院Lindsey Graham称，总统特朗普表态要针对哥伦比亚宣布关税（威胁）。 预计将在纽约时间10月19-29日宣布。 特朗普称他要“打击哥伦比亚”。 此前，特朗普掐断了美国对哥伦比亚的援助。",
@@ -195,6 +264,17 @@
           "time_info": "[03时25分 ~ 07时30分]"
         },
         {
+          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
+          "url": "https://wallstreetcn.com/articles/3757443",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
           "title": "领益智造与绳驱AI机器人公司星尘智能签署战略合作协议",
           "url": "https://wallstreetcn.com/livenews/2990188",
           "source": "华尔街见闻-快讯",
@@ -206,6 +286,48 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时46分 ~ 03时25分]"
+        },
+        {
+          "title": "国家统计局：前三季度工业机器人、服务机器人等产品产量分别增长29.8%、16.3%",
+          "url": "https://wallstreetcn.com/livenews/2990355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "各地留学生都出现在了抖音",
+          "url": "https://www.douyin.com/hot/2275746",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 11时42分]"
+        },
+        {
+          "title": "当年微信可是求着我上线",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%BD%93%E5%B9%B4%E5%BE%AE%E4%BF%A1%E5%8F%AF%E6%98%AF%E6%B1%82%E7%9D%80%E6%88%91%E4%B8%8A%E7%BA%BF&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26band_rank%3D28%26q%3D%25E5%25BD%2593%25E5%25B9%25B4%25E5%25BE%25AE%25E4%25BF%25A1%25E5%258F%25AF%25E6%2598%25AF%25E6%25B1%2582%25E7%259D%2580%25E6%2588%2591%25E4%25B8%258A%25E7%25BA%25BF%26stream_entry_id%3D31%26dgr%3D0%26pos%3D29%26realpos%3D28%26lcate%3D5001%26flag%3D0%26display_time%3D1760891413%26pre_seqid%3D17608914133510189372142",
+          "source": "微博",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 01时35分]"
         }
       ]
     },
