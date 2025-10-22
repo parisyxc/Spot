@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T02:54:39.027681+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2025-10-23T03:26:23.726792+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -15,8 +15,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时26分]"
+        },
+        {
+          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
+          "url": "https://wallstreetcn.com/articles/3757661",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时26分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -30,29 +43,29 @@
           "time_info": "[00时57分 ~ 02时54分]"
         },
         {
-          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
-          "url": "https://wallstreetcn.com/articles/3757661",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时54分]"
-        },
-        {
           "title": "10年期德债收益率涨超1个基点，美股盘前出现一波显著的反弹",
           "url": "https://wallstreetcn.com/livenews/2992020",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
             9,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 03时26分]"
+        },
+        {
+          "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "美股短线跳水，标普500指数跌超1%。",
@@ -159,7 +172,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -178,7 +191,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
@@ -188,8 +201,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时26分]"
         },
         {
           "title": "付鹏：黄金暴跌！白银逼仓！贵金属剧烈波动下策略如何应对？【付鹏说9】",
@@ -200,19 +213,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时54分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月22日（周三）晚盘收盘下跌1.59%报931.99元/克；<br/>上海黄金交易所白银T+D 10月22日（周三）晚盘收盘上涨0.15%报11324.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251023023053606800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时26分]"
         },
         {
           "title": "金价",
@@ -221,11 +223,24 @@
           "ranks": [
             26,
             28,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时26分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月22日（周三）晚盘收盘下跌1.59%报931.99元/克；<br/>上海黄金交易所白银T+D 10月22日（周三）晚盘收盘上涨0.15%报11324.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251023023053606800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时26分]"
         },
         {
           "title": "金价下跌的关键原因是什么",
@@ -252,6 +267,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 02时54分]"
+        },
+        {
+          "title": "黄金价格大跳水 金价到顶了吗",
+          "url": "https://www.toutiao.com/trending/7563965781701037609/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         }
       ]
     },
@@ -272,6 +298,30 @@
           "time_info": "[00时58分 ~ 01时33分]"
         },
         {
+          "title": "费城半导体指数日内跌幅扩大至4%。",
+          "url": "https://flash.jin10.com/detail/20251023014654741800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时26分]"
+        },
+        {
+          "title": "标普跌1%，半导体指数跌4%，EDA软件概念股新思科技跌约3%",
+          "url": "https://wallstreetcn.com/livenews/2992024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时26分]"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至1%。标普500指数跌0.5%，费城半导体指数跌幅扩大至约3%。特斯拉跌1.9%，苹果跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/2992005",
           "source": "华尔街见闻-快讯",
@@ -284,37 +334,16 @@
           "time_info": "[00时58分 ~ 01时33分]"
         },
         {
-          "title": "费城半导体指数日内跌幅扩大至4%。",
-          "url": "https://flash.jin10.com/detail/20251023014654741800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "标普跌1%，半导体指数跌4%，EDA软件概念股新思科技跌约3%",
-          "url": "https://wallstreetcn.com/livenews/2992024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
           "title": "王文涛就安世半导体等问题与荷方通话",
           "url": "https://www.toutiao.com/trending/7563689745155719204/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时26分]"
         }
       ]
     },
@@ -330,19 +359,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时54分]"
-        },
-        {
-          "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
-          "url": "https://wallstreetcn.com/livenews/2992039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时26分]"
         },
         {
           "title": "机器人做的菜好吃吗",
@@ -350,33 +368,48 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时26分]"
+        },
+        {
+          "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
+          "url": "https://wallstreetcn.com/livenews/2992039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时26分]"
         },
         {
           "title": "亚马逊(AMZN.O)：推出Blue Jay和Eluna项目，这是亚马逊最新的机器人技术和人工智能技术，用于运营。",
           "url": "https://flash.jin10.com/detail/20251023013440544800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时26分]"
         },
         {
           "title": "摩根士丹利：亚马逊仓库机器人化可每年节省高达40亿美元",
           "url": "https://flash.jin10.com/detail/20251023012958300800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时26分]"
         }
       ]
     },
@@ -400,11 +433,12 @@
           "url": "https://www.douyin.com/hot/2278309",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时26分]"
         }
       ]
     },
@@ -419,11 +453,12 @@
           "ranks": [
             4,
             8,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 03时26分]"
         },
         {
           "title": "开云集团：第三季度销售额在西欧下降7%，在北美增长3%，在日本下降16%，在亚太地区下降10%。",
@@ -450,8 +485,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时26分]"
         }
       ]
     },
@@ -467,8 +502,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时26分]"
         }
       ]
     }
