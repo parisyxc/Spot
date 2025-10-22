@@ -1,392 +1,11 @@
 {
-  "generated_at": "2025-10-22T07:32:37.630684+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2025-10-22T11:34:55.339143+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3757563",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 06时34分]"
-        },
-        {
-          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
-          "url": "https://wallstreetcn.com/articles/3757563",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251022040658696800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251022040655122800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
-          "url": "https://www.cls.cn/detail/2176345",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "富国银行首席执行官：我可能会支持实行半年一次的财报发布制度。",
-          "url": "https://flash.jin10.com/detail/20251022005624260800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "奈飞(NFLX.O)美股盘后跌超6%。",
-          "url": "https://flash.jin10.com/detail/20251022040513760800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美股短线下挫，纳指跌0.13%。",
-          "url": "https://flash.jin10.com/detail/20251022005553210800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
-          "url": "https://wallstreetcn.com/livenews/2991418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时34分]"
-        },
-        {
-          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
-          "url": "https://wallstreetcn.com/articles/3757528",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 贵金属概念领跌",
-          "url": "https://flash.jin10.com/detail/20251022040119950800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美泰（MAT）美股盘后跌6.22%，特朗普关税相关的不确定性造成2025年美国圣诞节订单延误。",
-          "url": "https://wallstreetcn.com/livenews/2991414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时40分]"
-        },
-        {
-          "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251022003625123800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时35分]"
-        },
-        {
-          "title": "德州仪器三季度营收47.4亿美元，分析师预期46.5亿美元。 三季度Analog营收37.3亿美元，分析师预期36.1亿美元。 三季度资本开支12亿美元，分析师预期12.8亿美元。 三季度自由现金流（FCF）为10.7亿美元，分析师预期6.547亿美元。 预计四季度营收42.2亿-45.8亿美元，分析师预期45亿美元。 德州仪器（TXN）美股盘后跌4.88%。",
-          "url": "https://wallstreetcn.com/livenews/2991410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时40分]"
-        },
-        {
-          "title": "奈飞三季度营收115.1亿美元，分析师预期115.2亿美元。 预计全年营收451亿美元，分析师预期450.2亿美元，公司原本预计448亿-452亿美元。 奈飞（NFLX）美股盘后跌5.95%。",
-          "url": "https://wallstreetcn.com/livenews/2991409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时40分]"
-        },
-        {
-          "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251022003020254800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时35分]"
-        },
-        {
-          "title": "据CNBC：在特斯拉(TSLA.O)周三发布财报之前，一群工会和企业监管机构推出网站Take Back Tesla，反对马斯克的新薪酬计划。",
-          "url": "https://flash.jin10.com/detail/20251022033630953800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "“每日被狠狠打脸，痛苦且沮丧”，高盛指数显示美股做空者经历逼空重创",
-          "url": "https://wallstreetcn.com/livenews/2991320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "国际金价突然大跌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时32分]"
-        },
-        {
-          "title": "黄金价格坐过山车 后续怎么走",
-          "url": "https://www.toutiao.com/trending/7563613729208667702/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时32分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D23%26realpos%3D23%26cate%3D5001%26stream_entry_id%3D31%26flag%3D0%26lcate%3D5001%26dgr%3D0%26band_rank%3D23%26c_type%3D31%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26display_time%3D1761064328%26pre_seqid%3D17610643284720229931946",
-          "source": "微博",
-          "ranks": [
-            23,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 07时32分]"
-        },
-        {
-          "title": "黄金、白银又现震荡 “东南亚小腾讯”剑指万亿市值 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2176123",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时30分 ~ 07时32分]"
-        },
-        {
-          "title": "金银多年来罕见暴跌！盘中黄金跌超6%、白银跌近9%，华尔街拉响回调警报",
-          "url": "https://wallstreetcn.com/articles/3757589",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少93.14吨，当前持仓量为15676.64吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20251022063844385800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "现货白银向下触及48美元/盎司，日内跌1.38%。",
-          "url": "https://flash.jin10.com/detail/20251022060654353800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时32分]"
-        },
-        {
-          "title": "白银交易热度居高不下，资金涌入背后波动风险隐现",
-          "url": "https://wallstreetcn.com/livenews/2991451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时32分]"
-        },
-        {
-          "title": "现货白银日内跌幅一度达1.00%，现报48.15美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251022060546958800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时32分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月21日（周二）晚盘收盘下跌4.55%报944.47元/克；<br/>上海黄金交易所白银T+D 10月21日（周二）晚盘收盘下跌4.86%报11261.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251022023033592800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时30分]"
-        },
-        {
-          "title": "国际金价大跌原因",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D30%26flag%3D0%26pos%3D30%26cate%3D5001%26realpos%3D30%26lcate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761079204%26pre_seqid%3D176107920452003119502114",
-          "source": "微博",
-          "ranks": [
-            30,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时41分 ~ 07时32分]"
-        },
-        {
-          "title": "亚太盘初，现货黄金5分钟内上涨5.47美元/盎司，报4131.51美元/盎司。 COMEX白银期货日内涨幅达0.5%，报48.13美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2991443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时32分]"
-        },
-        {
-          "title": "现货黄金跌6.3%，创2013年4月份以来最大日内跌幅。 现货白银跌8.7%，创2021年以来最大日内跌幅。",
-          "url": "https://wallstreetcn.com/livenews/2991321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "金价银价急跌",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%80%A5%E8%B7%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D24%26cate%3D5001%26realpos%3D24%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E6%2580%25A5%25E8%25B7%258C%2523%26pos%3D24%26dgr%3D0%26c_type%3D31%26display_time%3D1761088209%26pre_seqid%3D176108820904703133243135",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "稳定币 日本",
-      "match_count": 9,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普：很快将访问日本",
@@ -493,119 +112,645 @@
           "url": "https://www.zhihu.com/question/1961723161348379743",
           "source": "知乎",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
-          "url": "https://wallstreetcn.com/articles/3757466",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 06时34分]"
-        },
-        {
-          "title": "太子集团150亿美元比特币被美国查获，是内鬼泄密还是暴力搜索？",
-          "url": "https://finance.ifeng.com/c/8ndLK052oFH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时32分]"
-        },
-        {
-          "title": "产量激增1.2倍！机器人核心部件国产化高歌猛进",
-          "url": "https://www.cls.cn/detail/2175766",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
+            8,
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时32分]"
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 11时34分]"
         },
         {
-          "title": "宇树科技发布 H2 仿生机器人，该产品有哪些技术突破？未来最有可能在哪个行业率先实现大规模商业化应用？",
-          "url": "https://www.zhihu.com/question/1963602333607916311",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "马斯克：人工智能和机器人将取代所有工作。工作将成为可选项，就像自己种植蔬菜而不是从商店购买一样。",
-          "url": "https://flash.jin10.com/detail/20251022064158770800",
+          "title": "日本外务大臣茂木敏充：打算继续为乌克兰提供支持。",
+          "url": "https://flash.jin10.com/detail/20251022105756776800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "11时34分"
         },
         {
-          "title": "周二（10月21日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨0.25%，至11.1万美元上方。 CME以太币期货DCR主力合约跌0.71%，报3966.50美元。",
-          "url": "https://wallstreetcn.com/livenews/2991431",
-          "source": "华尔街见闻-快讯",
+          "title": "日本警方从女子内衣中搜出黄金8公斤",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%E4%BB%8E%E5%A5%B3%E5%AD%90%E5%86%85%E8%A1%A3%E4%B8%AD%E6%90%9C%E5%87%BA%E9%BB%84%E9%87%918%E5%85%AC%E6%96%A4",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            16,
-            28
+            12
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时40分 ~ 07时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
-          "title": "比特币突破114000美元/枚，为10月14日以来首次，日内涨3.14%。",
-          "url": "https://flash.jin10.com/detail/20251022003719507800",
+          "title": "日本外务大臣茂木敏充：我将负责与美国的关税谈判。",
+          "url": "https://flash.jin10.com/detail/20251022104435896800",
           "source": "金十数据",
           "ranks": [
-            5,
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "日本外务大臣茂木敏充：将使美日同盟更进一步。",
+          "url": "https://flash.jin10.com/detail/20251022104346330800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "日本外务大臣茂木敏充：安全环境日益复杂。",
+          "url": "https://flash.jin10.com/detail/20251022104326236800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "日本外务大臣茂木敏充：将加强经济安全和供应链。",
+          "url": "https://wallstreetcn.com/livenews/2991601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "日本人也把日本人当日本人整",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B9%9F%E6%8A%8A%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%BD%93%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%95%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D19%26filter_type%3Drealtimehot%26flag%3D0%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26band_rank%3D19%26q%3D%25E6%2597%25A5%25E6%259C%25AC%25E4%25BA%25BA%25E4%25B9%259F%25E6%258A%258A%25E6%2597%25A5%25E6%259C%25AC%25E4%25BA%25BA%25E5%25BD%2593%25E6%2597%25A5%25E6%259C%25AC%25E4%25BA%25BA%25E6%2595%25B4%26stream_entry_id%3D31%26dgr%3D0%26realpos%3D19%26display_time%3D1761104049%26pre_seqid%3D176110404901102300776149",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "日本经济财政政策大臣城内实：期待在明年的春季工资谈判中进行坦诚的讨论。",
+          "url": "https://wallstreetcn.com/livenews/2991592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：日元疲软提振出口商利润，但推高进口成本。",
+          "url": "https://flash.jin10.com/detail/20251022102943658800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "日本经济财政政策大臣城内实：日元疲软对经济有利有弊。 日元走弱提升了出口商的利润和投资，同时推高了进口成本和物价。",
+          "url": "https://wallstreetcn.com/livenews/2991590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：期待明年春季工资谈判中展开真诚对话。",
+          "url": "https://flash.jin10.com/detail/20251022102851428800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "日本流感疫情持续扩散",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%81%E6%84%9F%E7%96%AB%E6%83%85%E6%8C%81%E7%BB%AD%E6%89%A9%E6%95%A3",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：将坚持积极的财政政策，同时谨记财政纪律。",
+          "url": "https://flash.jin10.com/detail/20251022102449771800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "日本经济财政政策大臣城内实：政府与日本央行继续合作，实施负责任的宏观经济政策至关重要。 希望日本央行与政府密切合作，以实现2%的通胀目标。 经济需要得到支持，直至实现强劲的实际工资增长。 将采取积极的财政政策，同时兼顾财政纪律。",
+          "url": "https://wallstreetcn.com/livenews/2991584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "国际金价突然大跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 11时34分]"
+        },
+        {
+          "title": "黄金价格坐过山车 后续怎么走",
+          "url": "https://www.toutiao.com/trending/7563613729208667702/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 07时32分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D23%26realpos%3D23%26cate%3D5001%26stream_entry_id%3D31%26flag%3D0%26lcate%3D5001%26dgr%3D0%26band_rank%3D23%26c_type%3D31%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26display_time%3D1761064328%26pre_seqid%3D17610643284720229931946",
+          "source": "微博",
+          "ranks": [
+            23,
+            25,
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 07时32分]"
         },
         {
-          "title": "广州机器人企业在广交会上意向成交超千万美元",
-          "url": "https://wallstreetcn.com/livenews/2991374",
-          "source": "华尔街见闻-快讯",
+          "title": "高台跳水！现货黄金一度跌超3.8%、现货白银大跌逾6%，什么原因？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31820176",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "黄金、白银又现震荡 “东南亚小腾讯”剑指万亿市值 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2176123",
+          "source": "财联社热门",
           "ranks": [
             13,
-            19
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时30分 ~ 07时32分]"
+        },
+        {
+          "title": "金银多年来罕见暴跌！盘中黄金跌超6%、白银跌近9%，“所有目光聚焦沪金开盘”",
+          "url": "https://wallstreetcn.com/articles/3757589",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "金价大跌是什么信号？前FED顾问：系统性“流动性危机”已至，金融体系正崩溃！",
+          "url": "https://www.cls.cn/detail/2176453",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "金银多年来罕见暴跌！盘中黄金跌超6%、白银跌近9%，华尔街拉响回调警报",
+          "url": "https://wallstreetcn.com/articles/3757589",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少93.14吨，当前持仓量为15676.64吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20251022063844385800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "现货白银向下触及48美元/盎司，日内跌1.38%。",
+          "url": "https://flash.jin10.com/detail/20251022060654353800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时32分]"
+        },
+        {
+          "title": "白银交易热度居高不下，资金涌入背后波动风险隐现",
+          "url": "https://wallstreetcn.com/livenews/2991451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时32分]"
+        },
+        {
+          "title": "金价银价为什么同时下跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%8C%E6%97%B6%E4%B8%8B%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "现货金价剧烈回调一度跌超5% 避险情绪降温投机多头遭反噬",
+          "url": "https://www.cls.cn/detail/2176255",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "现货白银日内跌幅一度达1.00%，现报48.15美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251022060546958800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时32分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月21日（周二）晚盘收盘下跌4.55%报944.47元/克；<br/>上海黄金交易所白银T+D 10月21日（周二）晚盘收盘下跌4.86%报11261.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251022023033592800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 03时30分]"
         },
         {
-          "title": "以太坊站上4100美元/枚，日内涨3.09%。",
-          "url": "https://flash.jin10.com/detail/20251022002602543800",
+          "title": "国际金价大跌原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D30%26flag%3D0%26pos%3D30%26cate%3D5001%26realpos%3D30%26lcate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761079204%26pre_seqid%3D176107920452003119502114",
+          "source": "微博",
+          "ranks": [
+            30,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 07时32分]"
+        },
+        {
+          "title": "亚太盘初，现货黄金5分钟内上涨5.47美元/盎司，报4131.51美元/盎司。 COMEX白银期货日内涨幅达0.5%，报48.13美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2991443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时32分]"
+        },
+        {
+          "title": "金价银价急跌",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%80%A5%E8%B7%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D24%26cate%3D5001%26realpos%3D24%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E6%2580%25A5%25E8%25B7%258C%2523%26pos%3D24%26dgr%3D0%26c_type%3D31%26display_time%3D1761088209%26pre_seqid%3D176108820904703133243135",
+          "source": "微博",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 11时34分]"
+        },
+        {
+          "title": "金价大跌有人一夜亏5万",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E4%B8%80%E5%A4%9C%E4%BA%8F5%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D11%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26band_rank%3D11%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E4%25B8%2580%25E5%25A4%259C%25E4%25BA%258F5%25E4%25B8%2587%2523%26stream_entry_id%3D31%26dgr%3D0%26realpos%3D11%26display_time%3D1761104049%26pre_seqid%3D176110404901102300776149",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "金价再次跌破 4200 美元，银行提示贵金属风险，交易所上调保证金，如何看待近期调整？普通投资者如何应对？",
+          "url": "https://www.zhihu.com/question/1964024451826943233",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "现货黄金跌6.3%，创2013年4月份以来最大日内跌幅。 现货白银跌8.7%，创2021年以来最大日内跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2991321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "国际金价一度暴跌6%",
+          "url": "https://www.toutiao.com/trending/7563812032793808394/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时34分]"
+        },
+        {
+          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 11时34分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
+          "url": "https://www.cls.cn/detail/2176345",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 11时34分]"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251022040658696800",
           "source": "金十数据",
           "ranks": [
-            14
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251022040655122800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "富国银行首席执行官：我可能会支持实行半年一次的财报发布制度。",
+          "url": "https://flash.jin10.com/detail/20251022005624260800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "奈飞(NFLX.O)美股盘后跌超6%。",
+          "url": "https://flash.jin10.com/detail/20251022040513760800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美股短线下挫，纳指跌0.13%。",
+          "url": "https://flash.jin10.com/detail/20251022005553210800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
+          "url": "https://wallstreetcn.com/livenews/2991418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时34分]"
+        },
+        {
+          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
+          "url": "https://wallstreetcn.com/articles/3757528",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 贵金属概念领跌",
+          "url": "https://flash.jin10.com/detail/20251022040119950800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美泰（MAT）美股盘后跌6.22%，特朗普关税相关的不确定性造成2025年美国圣诞节订单延误。",
+          "url": "https://wallstreetcn.com/livenews/2991414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时40分]"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251022003625123800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时35分]"
+        },
+        {
+          "title": "德州仪器三季度营收47.4亿美元，分析师预期46.5亿美元。 三季度Analog营收37.3亿美元，分析师预期36.1亿美元。 三季度资本开支12亿美元，分析师预期12.8亿美元。 三季度自由现金流（FCF）为10.7亿美元，分析师预期6.547亿美元。 预计四季度营收42.2亿-45.8亿美元，分析师预期45亿美元。 德州仪器（TXN）美股盘后跌4.88%。",
+          "url": "https://wallstreetcn.com/livenews/2991410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时40分]"
+        },
+        {
+          "title": "奈飞三季度营收115.1亿美元，分析师预期115.2亿美元。 预计全年营收451亿美元，分析师预期450.2亿美元，公司原本预计448亿-452亿美元。 奈飞（NFLX）美股盘后跌5.95%。",
+          "url": "https://wallstreetcn.com/livenews/2991409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时40分]"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251022003020254800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时35分]"
+        },
+        {
+          "title": "据CNBC：在特斯拉(TSLA.O)周三发布财报之前，一群工会和企业监管机构推出网站Take Back Tesla，反对马斯克的新薪酬计划。",
+          "url": "https://flash.jin10.com/detail/20251022033630953800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "现货黄金高位暴跌险守4000美元，多头情绪仍浓；美股股指再创新高，道指买进信号强劲，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251022104029255800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "“每日被狠狠打脸，痛苦且沮丧”，高盛指数显示美股做空者经历逼空重创",
+          "url": "https://wallstreetcn.com/livenews/2991320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -615,7 +760,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -652,6 +797,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
+          "url": "https://www.cls.cn/detail/2176315",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "贝莱德集团旗下多只ETF从Meta Platforms的Hyperion买入超过30亿美元债券。（华尔街日报）",
@@ -714,70 +881,155 @@
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 4,
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 10,
       "titles": [
         {
-          "title": "微信三大更新放出",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E4%B8%89%E5%A4%A7%E6%9B%B4%E6%96%B0%E6%94%BE%E5%87%BA",
-          "source": "百度热搜",
+          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时32分]"
-        },
-        {
-          "title": "微信三大更新放出",
-          "url": "https://www.toutiao.com/trending/7563603138776236071/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            5,
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时32分]"
-        },
-        {
-          "title": "微信三大更新放出",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BE%AE%E4%BF%A1%E4%B8%89%E5%A4%A7%E6%9B%B4%E6%96%B0%E6%94%BE%E5%87%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D7%26realpos%3D7%26cate%3D5001%26stream_entry_id%3D31%26flag%3D0%26lcate%3D5001%26dgr%3D0%26band_rank%3D7%26c_type%3D31%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25BE%25AE%25E4%25BF%25A1%25E4%25B8%2589%25E5%25A4%25A7%25E6%259B%25B4%25E6%2596%25B0%25E6%2594%25BE%25E5%2587%25BA%2523%26display_time%3D1761064328%26pre_seqid%3D17610643284720229931946",
-          "source": "微博",
-          "ranks": [
-            7,
-            5,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时32分]"
-        },
-        {
-          "title": "抖音美好奇妙夜阵容官宣",
-          "url": "https://www.douyin.com/hot/2277343",
-          "source": "抖音",
-          "ranks": [
-            19,
-            24,
-            30,
-            22,
-            23
+            4
           ],
           "is_new": false,
           "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时34分]"
+        },
+        {
+          "title": "太子集团150亿美元比特币被美国查获，是内鬼泄密还是暴力搜索？",
+          "url": "https://finance.ifeng.com/c/8ndLK052oFH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
           "time_info": "[00时45分 ~ 07时32分]"
+        },
+        {
+          "title": "产量激增1.2倍！机器人核心部件国产化高歌猛进",
+          "url": "https://www.cls.cn/detail/2175766",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 07时32分]"
+        },
+        {
+          "title": "宇树科技发布 H2 仿生机器人，该产品有哪些技术突破？未来最有可能在哪个行业率先实现大规模商业化应用？",
+          "url": "https://www.zhihu.com/question/1963602333607916311",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 11时34分]"
+        },
+        {
+          "title": "马斯克：人工智能和机器人将取代所有工作。工作将成为可选项，就像自己种植蔬菜而不是从商店购买一样。",
+          "url": "https://flash.jin10.com/detail/20251022064158770800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "周二（10月21日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨0.25%，至11.1万美元上方。 CME以太币期货DCR主力合约跌0.71%，报3966.50美元。",
+          "url": "https://wallstreetcn.com/livenews/2991431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时40分 ~ 07时32分]"
+        },
+        {
+          "title": "比特币突破114000美元/枚，为10月14日以来首次，日内涨3.14%。",
+          "url": "https://flash.jin10.com/detail/20251022003719507800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时35分]"
+        },
+        {
+          "title": "广州机器人企业在广交会上意向成交超千万美元",
+          "url": "https://wallstreetcn.com/livenews/2991374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时30分]"
+        },
+        {
+          "title": "又一人形机器人企业推进IPO！乐聚机器人完成15亿元Pre-IPO轮融资",
+          "url": "https://www.cls.cn/detail/2176420",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "以太坊站上4100美元/枚，日内涨3.09%。",
+          "url": "https://flash.jin10.com/detail/20251022002602543800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "王文涛就安世半导体等问题与荷方通话",
+          "url": "https://www.toutiao.com/trending/7563689745155719204/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "GDP增长5.5%！人工智能、半导体等产业快速增长 上海经济实现奋力一跳",
+          "url": "https://www.cls.cn/detail/2176114",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
         {
           "title": "广东天域半导体股份有限公司香港IPO申请获得港交所（HKEX）批准。",
           "url": "https://wallstreetcn.com/livenews/2991358",
@@ -813,13 +1065,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "日本财务省周三在一份初步报告中表示，今年4月至9月，日本经海关统计的贸易逆差为1.2238万亿日元。2025财年上半年出口额同比增长0.2%，达到536533亿日元。半导体等电子产品出口增加了4.2%，但汽车出口减少了6.7%。",
+          "url": "https://flash.jin10.com/detail/20251022103522462800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "阿里通义千问拿下爱彼迎，CEO公开力挺：比OpenAI好",
+          "url": "https://wallstreetcn.com/livenews/2991625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
         {
           "title": "OpenAI：推出基于ChatGPT构建的AI驱动网络浏览器ChatGPT Atlas。",
           "url": "https://flash.jin10.com/detail/20251022010254471800",
@@ -844,6 +1118,17 @@
           "time_info": "[00时46分 ~ 01时35分]"
         },
         {
+          "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
+          "url": "https://www.cls.cn/detail/2176367",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
           "url": "https://wallstreetcn.com/livenews/2991350",
           "source": "华尔街见闻-快讯",
@@ -853,6 +1138,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "微信三大更新放出",
+          "url": "https://www.toutiao.com/trending/7563603138776236071/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            5,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 07时32分]"
+        },
+        {
+          "title": "微信三大更新放出",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E4%B8%89%E5%A4%A7%E6%9B%B4%E6%96%B0%E6%94%BE%E5%87%BA",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 11时34分]"
+        },
+        {
+          "title": "微信三大更新放出",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BE%AE%E4%BF%A1%E4%B8%89%E5%A4%A7%E6%9B%B4%E6%96%B0%E6%94%BE%E5%87%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D7%26realpos%3D7%26cate%3D5001%26stream_entry_id%3D31%26flag%3D0%26lcate%3D5001%26dgr%3D0%26band_rank%3D7%26c_type%3D31%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25BE%25AE%25E4%25BF%25A1%25E4%25B8%2589%25E5%25A4%25A7%25E6%259B%25B4%25E6%2596%25B0%25E6%2594%25BE%25E5%2587%25BA%2523%26display_time%3D1761064328%26pre_seqid%3D17610643284720229931946",
+          "source": "微博",
+          "ranks": [
+            7,
+            5,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 07时32分]"
+        },
+        {
+          "title": "抖音美好奇妙夜阵容官宣",
+          "url": "https://www.douyin.com/hot/2277343",
+          "source": "抖音",
+          "ranks": [
+            19,
+            24,
+            30,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 11时34分]"
         }
       ]
     },
