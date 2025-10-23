@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T07:28:34.577074+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2025-10-23T11:18:17.278792+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -332,7 +332,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -343,7 +343,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -395,8 +395,23 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
+          "url": "https://wallstreetcn.com/articles/3757661",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 11时18分]"
+        },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
           "url": "https://wallstreetcn.com/articles/3757563",
@@ -407,20 +422,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时57分 ~ 06时38分]"
-        },
-        {
-          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
-          "url": "https://wallstreetcn.com/articles/3757661",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时28分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -434,6 +435,18 @@
           "time_info": "[03时26分 ~ 06时38分]"
         },
         {
+          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
+          "url": "https://www.cls.cn/detail/2177654",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时38分 ~ 11时18分]"
+        },
+        {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
           "url": "https://wallstreetcn.com/articles/3757644",
           "source": "华尔街见闻",
@@ -445,16 +458,16 @@
           "time_info": "[00时57分 ~ 02时54分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
-          "url": "https://www.cls.cn/detail/2177654",
-          "source": "财联社热门",
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 11时18分]"
         },
         {
           "title": "10年期德债收益率涨超1个基点，美股盘前出现一波显著的反弹",
@@ -471,15 +484,15 @@
           "time_info": "[00时58分 ~ 03时26分]"
         },
         {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
+          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757681",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         },
         {
           "title": "美股短线跳水，标普500指数跌超1%。",
@@ -587,7 +600,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "一图看懂 | 人形机器人企业IPO提速，哪些大咖排队入场？",
@@ -666,6 +679,17 @@
           "time_info": "[06时38分 ~ 07时28分]"
         },
         {
+          "title": "渣打银行：比特币可能短暂跌破10万美元 随后继续冲击新高",
+          "url": "https://www.cls.cn/detail/2177616",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)：推出Blue Jay和Eluna项目，这是亚马逊最新的机器人技术和人工智能技术，用于运营。",
           "url": "https://flash.jin10.com/detail/20251023013440544800",
           "source": "金十数据",
@@ -688,6 +712,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 03时26分]"
+        },
+        {
+          "title": "机器人cos能有多逼真",
+          "url": "https://www.douyin.com/hot/2279473",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         },
         {
           "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。 Optimus将是一台不可思议的“外科医生”。 “它（optimus）甚至看起来不像机器人。它是如此的真实，以至于你要戳它才相信那真的是一台机器。”",
@@ -726,7 +761,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
@@ -737,8 +772,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 11时18分]"
         },
         {
           "title": "付鹏：黄金暴跌！白银逼仓！贵金属剧烈波动下策略如何应对？【付鹏说9】",
@@ -748,11 +783,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 11时18分]"
         },
         {
           "title": "金价下跌的关键原因是什么",
@@ -796,6 +832,17 @@
           "time_info": "[06时38分 ~ 07时28分]"
         },
         {
+          "title": "金价回调可以“上车”了吗",
+          "url": "https://www.toutiao.com/trending/7564198979416624682/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 10月22日（周三）晚盘收盘下跌1.59%报931.99元/克；<br/>上海黄金交易所白银T+D 10月22日（周三）晚盘收盘上涨0.15%报11324.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251023023053606800",
           "source": "金十数据",
@@ -833,6 +880,28 @@
           "time_info": "[00时58分 ~ 02时54分]"
         },
         {
+          "title": "金价一夜跌50元顾客相中直接买走",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E4%B8%80%E5%A4%9C%E8%B7%8C50%E5%85%83%E9%A1%BE%E5%AE%A2%E7%9B%B8%E4%B8%AD%E7%9B%B4%E6%8E%A5%E4%B9%B0%E8%B5%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D14%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%2580%25E5%25A4%259C%25E8%25B7%258C50%25E5%2585%2583%25E9%25A1%25BE%25E5%25AE%25A2%25E7%259B%25B8%25E4%25B8%25AD%25E7%259B%25B4%25E6%258E%25A5%25E4%25B9%25B0%25E8%25B5%25B0%2523%26realpos%3D14%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26pos%3D15%26lcate%3D5001%26display_time%3D1761189424%26pre_seqid%3D17611894241600118797824",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "黄金价格为何突然大幅回调",
+          "url": "https://www.toutiao.com/trending/7564185395232001575/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
           "title": "黄金价格大跳水 金价到顶了吗",
           "url": "https://www.toutiao.com/trending/7563965781701037609/",
           "source": "今日头条",
@@ -847,7 +916,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -859,6 +928,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 01时33分]"
+        },
+        {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         },
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
@@ -933,7 +1013,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "王文涛就安世半导体等问题与荷方通话",
@@ -1007,6 +1087,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "两大重磅项目签约 河南半导体产业发展再提速",
+          "url": "https://wallstreetcn.com/livenews/2992246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "日本区域银行制定新策略 等待央行利率峰值抄底国内债券",
+          "url": "https://flash.jin10.com/detail/20251023070144162800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "日本软银集团2025年第二次重返海外债券市场。 据知情人士透露，该公司发行20亿美元债券，收益率定价在8.25%。 发行7.5亿欧元债券，收益率定价在6.50%。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 03时26分]"
+        },
+        {
+          "title": "高市早苗启用7名“黑金议员”，日本官房长官回应",
+          "url": "https://news.ifeng.com/c/8ng9CtErTMv",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "开云集团：第三季度销售额在西欧下降7%，在北美增长3%，在日本下降16%，在亚太地区下降10%。",
+          "url": "https://flash.jin10.com/detail/20251022235342276800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        },
+        {
+          "title": "高盛：日本央行下周可能维持政策利率不变",
+          "url": "https://flash.jin10.com/detail/20251023103029688800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         }
       ]
     },
@@ -1065,48 +1220,6 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "日本区域银行制定新策略 等待央行利率峰值抄底国内债券",
-          "url": "https://flash.jin10.com/detail/20251023070144162800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "日本软银集团2025年第二次重返海外债券市场。 据知情人士透露，该公司发行20亿美元债券，收益率定价在8.25%。 发行7.5亿欧元债券，收益率定价在6.50%。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2992023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 03时26分]"
-        },
-        {
-          "title": "开云集团：第三季度销售额在西欧下降7%，在北美增长3%，在日本下降16%，在亚太地区下降10%。",
-          "url": "https://flash.jin10.com/detail/20251022235342276800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 1,
       "titles": [
@@ -1115,11 +1228,12 @@
           "url": "https://www.douyin.com/hot/2278929",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 11时18分]"
         }
       ]
     },
@@ -1132,11 +1246,12 @@
           "url": "https://www.toutiao.com/trending/7563916723658244105/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 11时18分]"
         }
       ]
     }
