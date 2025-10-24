@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T04:40:09.355272+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2025-10-25T05:31:35.399173+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 04时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时31分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 04时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时31分]"
         },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -38,19 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 04时40分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
-          "url": "https://wallstreetcn.com/livenews/2993598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时31分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -59,9 +48,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时31分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）热门中概股行情一览（美股收盘）",
@@ -70,9 +59,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时31分]"
         },
         {
           "title": "美股收盘：三大股指齐创新高",
@@ -81,9 +70,21 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时31分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
+          "url": "https://wallstreetcn.com/livenews/2993598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时31分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股盘中）",
@@ -110,6 +111,17 @@
           "time_info": "[00时51分 ~ 01时39分]"
         },
         {
+          "title": "高盛：对冲基金对AI投资敞口达到近9年来新高 押注亚股和美股将上涨",
+          "url": "https://www.cls.cn/detail/2180012",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
           "title": "贝莱德全球首席投资策略师Wei Li：美联储下周降息“基本已成定局”。 “唯一的不确定性”在于量化紧缩问题。 周五的CPI数据可能影响中期利率前景。 对于2026年底前的降息次数预期存在 “分歧空间”。 “关税仍有空间传导至商品通胀”。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/2993527",
           "source": "华尔街见闻-快讯",
@@ -134,8 +146,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 04时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时31分]"
         },
         {
           "title": "日本新首相“鹰派”施政方针引担忧",
@@ -158,11 +170,12 @@
           "ranks": [
             26,
             22,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时55分 ~ 04时40分]"
+          "appearance_count": 6,
+          "time_info": "[02时55分 ~ 05时31分]"
         },
         {
           "title": "日产汽车CTO Eiichi Akashi表示，该公司考虑将美国生产的Murano SUV进口到日本市场。（日经新闻）",
@@ -237,6 +250,47 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "京东物流：未来5年拟采购300万台机器人、100万台无人车和10万架无人机",
+          "url": "https://www.cls.cn/detail/2180237",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时31分]"
+        },
+        {
+          "title": "周五（10月24日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨0.53%，报11.1万美元，北京时间20:30发布美国CPI通胀数据时曾逼近11.2万美元，本周累计上涨4.05%，整体交投于10.7万-11.5万美元区间。 CME以太币期货DCR主力合约涨2.00%，报3945.50美元，本周累涨2.17%，整体交投于3741-4126.50美元区间。",
+          "url": "https://wallstreetcn.com/livenews/2993606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "市场消息：摩根大通集团计划在今年年底前允许机构客户使用其持有的比特币和以太坊作为贷款抵押品。",
+          "url": "https://flash.jin10.com/detail/20251025010101795800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时55分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 2,
       "titles": [
@@ -266,6 +320,35 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货黄金本周跌3.3%，美国CPI数据发布后有所回升，现货白银累跌约6.3%",
+          "url": "https://wallstreetcn.com/livenews/2993604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月24日（周五）晚盘收盘下跌0.14%报940.3元/克；<br/>上海黄金交易所白银T+D 10月24日（周五）晚盘收盘上涨0.39%报11394.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251025023041622800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 03时30分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 2,
       "titles": [
@@ -280,8 +363,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 04时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时31分]"
         },
         {
           "title": "拍抖音就是为了这个BGM",
@@ -291,59 +374,29 @@
             24,
             28,
             30,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时31分]"
         }
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "京东物流：未来5年拟采购300万台机器人、100万台无人车和10万架无人机",
-          "url": "https://www.cls.cn/detail/2180237",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 04时40分]"
-        },
-        {
-          "title": "市场消息：摩根大通集团计划在今年年底前允许机构客户使用其持有的比特币和以太坊作为贷款抵押品。",
-          "url": "https://flash.jin10.com/detail/20251025010101795800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "上海黄金交易所黄金T+D 10月24日（周五）晚盘收盘下跌0.14%报940.3元/克；<br/>上海黄金交易所白银T+D 10月24日（周五）晚盘收盘上涨0.39%报11394.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251025023041622800",
-          "source": "金十数据",
+          "title": "OpenAI围绕开发AI生成的音乐采取行动。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/2993612",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            17
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 03时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     }
