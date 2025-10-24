@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T14:51:37.839058+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2025-10-24T15:31:40.101965+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 15时31分]"
         },
         {
           "title": "日本暴发流感疫情",
@@ -183,17 +183,6 @@
           "time_info": "13时38分"
         },
         {
-          "title": "日经225指数收涨1.4%，报49299.65点。日本东证指数收涨0.5%。 韩国首尔综合指数收涨2.5%。",
-          "url": "https://wallstreetcn.com/livenews/2993118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
           "title": "美国财长贝森特：将前往马来西亚、日本和韩国。",
           "url": "https://flash.jin10.com/detail/20251024045639110800",
           "source": "金十数据",
@@ -283,6 +272,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 03时28分]"
+        },
+        {
+          "title": "日经225指数收涨1.4%，报49299.65点。日本东证指数收涨0.5%。 韩国首尔综合指数收涨2.5%。",
+          "url": "https://wallstreetcn.com/livenews/2993118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时31分]"
         },
         {
           "title": "日本首相高市早苗：将在冬季期间就电费、煤气费提供援助。",
@@ -573,11 +574,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时30分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[07时30分 ~ 15时31分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -613,8 +615,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 15时31分]"
         },
         {
           "title": "但斌最新美股持仓曝光：首度建仓阿里、博通，英伟达仍为第一大重仓股",
@@ -766,7 +768,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
@@ -811,11 +813,37 @@
           "source": "微博",
           "ranks": [
             16,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 15时31分]"
+        },
+        {
+          "title": "金十图示：2025年10月24日（周五）上海金午盘价为936.94元/克，较国际金价(937.82元/克)，低0.88元/克",
+          "url": "https://flash.jin10.com/detail/20251024150354782800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "分析人士：国际金价长期仍看涨",
+          "url": "https://www.douyin.com/hot/2280483",
+          "source": "抖音",
+          "ranks": [
+            11,
+            8,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时31分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）白银ETF持仓报告",
@@ -827,19 +855,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
-        },
-        {
-          "title": "分析人士：国际金价长期仍看涨",
-          "url": "https://www.douyin.com/hot/2280483",
-          "source": "抖音",
-          "ranks": [
-            11,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时51分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上一交易日减少128.41吨，当前持仓量为15469.2吨。",
@@ -871,9 +886,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "现货黄金大跌后日内涨逾1%，摩根大通预计金价明年底冲上5055美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "交易员为今晚的美国CPI数据做准备，现货金银价格在亚盘小幅走低，黄金多头小心谨慎，白银多头大步迈进，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -901,7 +927,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "10月24日投资避雷针：600亿半导体材料龙头或遭国家大基金减持",
@@ -913,8 +939,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 15时31分]"
         },
         {
           "title": "安世半导体风波如何影响汽车行业",
@@ -926,8 +952,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 15时31分]"
+        },
+        {
+          "title": "金十图示：2025年10月24日（周五）富时中国A50指数成分股今日收盘行情一览：白酒、石油、家电等板块收低，半导体、消费电子、通讯设备等板块大幅走强，寒武纪涨超9%",
+          "url": "https://flash.jin10.com/detail/20251024150258777800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "费城半导体指数上涨2.5%，前一交易日下跌2.4%。",
@@ -987,6 +1024,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "日本半导体制造装置协会（SEAJ）：日本半导体制造设备9月订单额同比增长14.9%。",
+          "url": "https://wallstreetcn.com/livenews/2993130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "安世半导体风波波及全球汽车供应链",
+          "url": "https://www.toutiao.com/trending/7564662734042697266/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "日本半导体制造装置协会（SEAJ）：日本半导体制造设备9月订单额同比增长14.9%。",
+          "url": "https://flash.jin10.com/detail/20251024144833385800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     },
@@ -1080,8 +1150,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 15时31分]"
         },
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
@@ -1149,8 +1219,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时48分 ~ 14时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时48分 ~ 15时31分]"
         },
         {
           "title": "周四（10月23日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨2%，至11.0万美元上方，全天持续震荡上行，北京时间14:00和01:30先后出现相对显著的上涨。 CME以太币期货DCR主力合约涨1.65%，报3851美元。",
@@ -1251,11 +1321,12 @@
           "url": "https://www.douyin.com/hot/2281201",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时31分]"
         }
       ]
     }
