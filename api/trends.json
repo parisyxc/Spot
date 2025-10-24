@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T11:12:16.276772+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2025-10-24T12:43:22.685626+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "日本暴发流感疫情",
@@ -39,11 +39,26 @@
           "url": "https://news.ifeng.com/c/8nhzSOzpBcB",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 11时12分]"
+          "appearance_count": 3,
+          "time_info": "[11时11分 ~ 12时43分]"
+        },
+        {
+          "title": "如何看待日本人饺子拉面配米饭的现象？",
+          "url": "https://www.zhihu.com/question/58349108",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时36分 ~ 12时43分]"
         },
         {
           "title": "日本9月核心CPI年率将于十分钟后公布。",
@@ -57,17 +72,26 @@
           "time_info": "07时30分"
         },
         {
-          "title": "如何看待日本人饺子拉面配米饭的现象？",
-          "url": "https://www.zhihu.com/question/58349108",
-          "source": "知乎",
+          "title": "日本麒麟控股公司已将其肯塔基波本威士忌品牌Four Roses以10亿美元的价格挂牌出售，该啤酒制造商正从陷入困境的烈酒行业转向医疗保健行业。",
+          "url": "https://flash.jin10.com/detail/20251024120300905800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            13,
-            10
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时36分 ~ 11时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "日本新任财务大臣告诉美国财长贝森特，日美关系“极其重要”",
+          "url": "https://flash.jin10.com/detail/20251024115453848800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "据日本共同社：日本首相高市早苗计划于10月25日左右与美国总统特朗普通话。",
@@ -87,7 +111,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -109,7 +133,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -133,7 +157,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -156,7 +180,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -167,9 +191,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
+        },
+        {
+          "title": "日本财相暗示可能增发债券为经济刺激计划融资",
+          "url": "https://flash.jin10.com/detail/20251024113225120800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "日本财务大臣片山皋月：日本央行行长植田和男本人曾强调维持宽松货币环境的重要性。",
@@ -178,7 +213,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -189,7 +224,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -200,7 +235,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -211,7 +246,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -230,7 +265,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -277,8 +312,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 12时43分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -286,11 +321,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 12时43分]"
         },
         {
           "title": "但斌最新美股持仓曝光：首度建仓阿里、博通，英伟达仍为第一大重仓股",
@@ -299,7 +335,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -308,11 +344,12 @@
           "url": "https://www.cls.cn/detail/2179115",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 11时12分]"
+          "appearance_count": 3,
+          "time_info": "[11时11分 ~ 12时43分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股收盘）",
@@ -349,6 +386,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时28分]"
+        },
+        {
+          "title": "印度Sensex指数开盘上涨0.1%，报84667.23点，科技股领涨。",
+          "url": "https://flash.jin10.com/detail/20251024114203830800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "交易员押注中概科技股ETF上涨",
@@ -442,7 +490,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
@@ -482,6 +530,17 @@
           "time_info": "[00时48分 ~ 11时12分]"
         },
         {
+          "title": "金十图示：2025年10月24日（周五）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251024115356079800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上一交易日减少128.41吨，当前持仓量为15469.2吨。",
           "url": "https://flash.jin10.com/detail/20251024060325956800",
           "source": "金十数据",
@@ -498,11 +557,23 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E5%88%9A%E4%B9%B0%E9%95%AF%E5%AD%90%E6%83%B3%E9%80%80%E8%B4%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D16%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E5%2588%259A%25E4%25B9%25B0%25E9%2595%25AF%25E5%25AD%2590%25E6%2583%25B3%25E9%2580%2580%25E8%25B4%25A7%2523%26pos%3D16%26realpos%3D16%26c_type%3D31%26cate%3D5001%26dgr%3D0%26filter_type%3Drealtimehot%26display_time%3D1761275468%26pre_seqid%3D17612754680970322703114",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 11时12分]"
+          "appearance_count": 3,
+          "time_info": "[11时11分 ~ 12时43分]"
+        },
+        {
+          "title": "分析人士：国际金价长期仍看涨",
+          "url": "https://www.douyin.com/hot/2280483",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月23日（周四）晚盘收盘上涨1.11%报946.19元/克；<br/>上海黄金交易所白银T+D 10月23日（周四）晚盘收盘上涨1.18%报11495.0元/千克。",
@@ -522,7 +593,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -541,18 +612,19 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "10月24日投资避雷针：600亿半导体材料龙头或遭国家大基金减持",
           "url": "https://www.cls.cn/detail/2179094",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 11时12分]"
+          "appearance_count": 3,
+          "time_info": "[11时11分 ~ 12时43分]"
         },
         {
           "title": "安世半导体风波如何影响汽车行业",
@@ -562,8 +634,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 11时12分]"
+          "appearance_count": 3,
+          "time_info": "[11时11分 ~ 12时43分]"
         },
         {
           "title": "费城半导体指数上涨2.5%，前一交易日下跌2.4%。",
@@ -601,6 +673,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时36分]"
+        },
+        {
+          "title": "金十图示：2025年10月24日（周五）富时中国A50指数成分股午盘收盘行情一览：盘面涨跌个股平衡，半导体、消费电子、通讯设备板块依旧强势，寒武纪涨3.58%，白酒板块走弱，贵州茅台跌0.9%",
+          "url": "https://flash.jin10.com/detail/20251024113404763800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%，半导体指数涨2.7%",
@@ -700,11 +783,12 @@
           "url": "https://www.cls.cn/detail/2179066",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 11时12分]"
+          "appearance_count": 3,
+          "time_info": "[11时11分 ~ 12时43分]"
         },
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
@@ -755,7 +839,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "宇树机器人在韩国穿衬衫跳街舞",
@@ -767,11 +851,12 @@
             17,
             22,
             2,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时48分 ~ 11时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 12时43分]"
         },
         {
           "title": "周四（10月23日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨2%，至11.0万美元上方，全天持续震荡上行，北京时间14:00和01:30先后出现相对显著的上涨。 CME以太币期货DCR主力合约涨1.65%，报3851美元。",
@@ -806,6 +891,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "宇树机器人翻跳权志龙POWER",
+          "url": "https://www.douyin.com/hot/2280704",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         }
       ]
     },
