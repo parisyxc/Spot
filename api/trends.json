@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T15:31:40.101965+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2025-10-24T16:50:35.287703+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "白宫：特朗普将访问马来西亚、日本、韩国",
@@ -115,6 +115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "日本首相高市早苗在X平台上向印度总理莫迪表示，期待与莫迪携手合作，进一步推动日印特殊战略全球伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20251024163418888800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "日本首相高市早苗：核能、钙钛矿太阳能电池等国内能源很重要。",
@@ -462,6 +473,17 @@
           "time_info": "11时12分"
         },
         {
+          "title": "明查｜日本为提升生育率引进50万印度移民？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31827352",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "日本首相高市早苗：将本着“负责任的积极财政政策”理念，战略性地实施财政支出。",
           "url": "https://flash.jin10.com/detail/20251024130538111800",
           "source": "金十数据",
@@ -542,7 +564,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -578,8 +600,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时30分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[07时30分 ~ 16时50分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -612,11 +634,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[11时11分 ~ 16时50分]"
         },
         {
           "title": "但斌最新美股持仓曝光：首度建仓阿里、博通，英伟达仍为第一大重仓股",
@@ -732,6 +755,17 @@
           "time_info": "07时30分"
         },
         {
+          "title": "美股黄金股盘前下挫，科尔黛伦矿业跌超4%，金田、哈莫尼黄金跌逾2%。 现货黄金失守4060美元/盎司，日内跌超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/2993213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251024003023348800",
           "source": "金十数据",
@@ -754,6 +788,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "港股收盘：恒生指数收涨0.74%，重回26000点上方，恒生科技指数收涨1.82%。半导体、科技股多数走高，华虹半导体涨超13%，中芯国际涨超8%，地平线机器人涨超6%，阿里巴巴涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2993207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "美股三大股指走高，纳指涨超1%。",
           "url": "https://flash.jin10.com/detail/20251024013951334800",
           "source": "金十数据",
@@ -768,7 +813,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
@@ -821,17 +866,6 @@
           "time_info": "[11时11分 ~ 15时31分]"
         },
         {
-          "title": "金十图示：2025年10月24日（周五）上海金午盘价为936.94元/克，较国际金价(937.82元/克)，低0.88元/克",
-          "url": "https://flash.jin10.com/detail/20251024150354782800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
           "title": "分析人士：国际金价长期仍看涨",
           "url": "https://www.douyin.com/hot/2280483",
           "source": "抖音",
@@ -839,11 +873,23 @@
             11,
             8,
             14,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 15时31分]"
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 16时50分]"
+        },
+        {
+          "title": "金十图示：2025年10月24日（周五）上海金午盘价为936.94元/克，较国际金价(937.82元/克)，低0.88元/克",
+          "url": "https://flash.jin10.com/detail/20251024150354782800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "金十图示：2025年10月24日（周五）白银ETF持仓报告",
@@ -869,6 +915,18 @@
           "time_info": "[06时36分 ~ 07时30分]"
         },
         {
+          "title": "现货黄金大跌后日内涨逾1%，摩根大通预计金价明年底冲上5055美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 16时50分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 10月23日（周四）晚盘收盘上涨1.11%报946.19元/克；<br/>上海黄金交易所白银T+D 10月23日（周四）晚盘收盘上涨1.18%报11495.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251024023049208800",
           "source": "金十数据",
@@ -891,17 +949,6 @@
           "time_info": "14时51分"
         },
         {
-          "title": "现货黄金大跌后日内涨逾1%，摩根大通预计金价明年底冲上5055美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
           "title": "交易员为今晚的美国CPI数据做准备，现货金银价格在亚盘小幅走低，黄金多头小心谨慎，白银多头大步迈进，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251024103858767800",
           "source": "金十数据",
@@ -922,6 +969,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "现货白银向下触及48美元/盎司，日内跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/2993204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     },
@@ -949,11 +1007,12 @@
           "ranks": [
             8,
             7,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[11时11分 ~ 16时50分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）富时中国A50指数成分股今日收盘行情一览：白酒、石油、家电等板块收低，半导体、消费电子、通讯设备等板块大幅走强，寒武纪涨超9%",
@@ -962,7 +1021,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1004,6 +1063,18 @@
           "time_info": "[05时28分 ~ 06时36分]"
         },
         {
+          "title": "安世半导体风波波及全球汽车供应链",
+          "url": "https://www.toutiao.com/trending/7564662734042697266/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 16时50分]"
+        },
+        {
           "title": "金十图示：2025年10月24日（周五）富时中国A50指数成分股午盘收盘行情一览：盘面涨跌个股平衡，半导体、消费电子、通讯设备板块依旧强势，寒武纪涨3.58%，白酒板块走弱，贵州茅台跌0.9%",
           "url": "https://flash.jin10.com/detail/20251024113404763800",
           "source": "金十数据",
@@ -1032,18 +1103,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "安世半导体风波波及全球汽车供应链",
-          "url": "https://www.toutiao.com/trending/7564662734042697266/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1054,7 +1114,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
@@ -1137,6 +1197,88 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "宇树机器人在韩国穿衬衫跳街舞",
+          "url": "https://www.toutiao.com/trending/7564336987147075622/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            16,
+            17,
+            22,
+            2,
+            30,
+            27,
+            28,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时48分 ~ 16时50分]"
+        },
+        {
+          "title": "周四（10月23日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨2%，至11.0万美元上方，全天持续震荡上行，北京时间14:00和01:30先后出现相对显著的上涨。 CME以太币期货DCR主力合约涨1.65%，报3851美元。",
+          "url": "https://wallstreetcn.com/livenews/2992758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时36分]"
+        },
+        {
+          "title": "宇树机器人翻跳权志龙POWER",
+          "url": "https://www.douyin.com/hot/2280704",
+          "source": "抖音",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时38分]"
+        },
+        {
+          "title": "王兴兴回应新款机器人长得吓人",
+          "url": "https://www.toutiao.com/trending/7563218744776867894/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "比特币突破111000美元/枚，日内涨3.19%。",
+          "url": "https://flash.jin10.com/detail/20251024014826237800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "智元发布「灵创」平台，0 代码、0 门槛训练机器人",
+          "url": "https://wallstreetcn.com/livenews/2993206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 5,
       "titles": [
@@ -1201,72 +1343,46 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 5,
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 3,
       "titles": [
         {
-          "title": "宇树机器人在韩国穿衬衫跳街舞",
-          "url": "https://www.toutiao.com/trending/7564336987147075622/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            16,
-            17,
-            22,
-            2,
-            30,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时48分 ~ 15时31分]"
-        },
-        {
-          "title": "周四（10月23日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨2%，至11.0万美元上方，全天持续震荡上行，北京时间14:00和01:30先后出现相对显著的上涨。 CME以太币期货DCR主力合约涨1.65%，报3851美元。",
-          "url": "https://wallstreetcn.com/livenews/2992758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时36分]"
-        },
-        {
-          "title": "宇树机器人翻跳权志龙POWER",
-          "url": "https://www.douyin.com/hot/2280704",
+          "title": "无耻之徒卡尔入驻抖音",
+          "url": "https://www.douyin.com/hot/2280275",
           "source": "抖音",
           "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时38分]"
-        },
-        {
-          "title": "王兴兴回应新款机器人长得吓人",
-          "url": "https://www.toutiao.com/trending/7563218744776867894/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时30分"
-        },
-        {
-          "title": "比特币突破111000美元/枚，日内涨3.19%。",
-          "url": "https://flash.jin10.com/detail/20251024014826237800",
-          "source": "金十数据",
-          "ranks": [
+            26,
+            27,
+            28,
             24
           ],
           "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 13时38分]"
+        },
+        {
+          "title": "入青云破万福利全员抖音热舞",
+          "url": "https://www.douyin.com/hot/2281201",
+          "source": "抖音",
+          "ranks": [
+            23,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 16时50分]"
+        },
+        {
+          "title": "微信状态 新时代朋友圈",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%BE%AE%E4%BF%A1%E7%8A%B6%E6%80%81+%E6%96%B0%E6%97%B6%E4%BB%A3%E6%9C%8B%E5%8F%8B%E5%9C%88&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26pos%3D14%26band_rank%3D13%26q%3D%25E5%25BE%25AE%25E4%25BF%25A1%25E7%258A%25B6%25E6%2580%2581%2520%25E6%2596%25B0%25E6%2597%25B6%25E4%25BB%25A3%25E6%259C%258B%25E5%258F%258B%25E5%259C%2588%26lcate%3D5001%26realpos%3D13%26c_type%3D31%26filter_type%3Drealtimehot%26dgr%3D0%26cate%3D5001%26display_time%3D1761295748%26pre_seqid%3D1761295748728032949221",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "16时50分"
         }
       ]
     },
@@ -1295,38 +1411,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "无耻之徒卡尔入驻抖音",
-          "url": "https://www.douyin.com/hot/2280275",
-          "source": "抖音",
-          "ranks": [
-            26,
-            27,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 13时38分]"
-        },
-        {
-          "title": "入青云破万福利全员抖音热舞",
-          "url": "https://www.douyin.com/hot/2281201",
-          "source": "抖音",
-          "ranks": [
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 15时31分]"
         }
       ]
     }
