@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T06:45:41.739308+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2025-10-25T07:32:29.323451+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时45分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）热门中概股行情一览（美股收盘）",
@@ -61,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时45分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "美股收盘：三大股指齐创新高",
@@ -72,19 +72,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时45分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
           "url": "https://www.cls.cn/detail/2180462",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时32分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
@@ -93,11 +94,23 @@
           "ranks": [
             4,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时45分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
+        },
+        {
+          "title": "美通胀低于预期，美股三大股指高开，美债收益率下挫，美元跳水，金银回落，油价反弹",
+          "url": "https://wallstreetcn.com/articles/3757811",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股盘中）",
@@ -159,8 +172,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "日本新首相“鹰派”施政方针引担忧",
@@ -170,11 +183,12 @@
             25,
             20,
             30,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 04时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "俄战略轰炸机在日本完成例行巡航",
@@ -188,8 +202,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时55分 ~ 06时45分]"
+          "appearance_count": 8,
+          "time_info": "[02时55分 ~ 07时32分]"
         },
         {
           "title": "日产汽车CTO Eiichi Akashi表示，该公司考虑将美国生产的Murano SUV进口到日本市场。（日经新闻）",
@@ -278,8 +292,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "拍抖音就是为了这个BGM",
@@ -293,8 +307,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "抖音混剪圈来欢迎卡尔入驻",
@@ -303,7 +317,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         }
@@ -320,11 +334,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "周五（10月24日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨0.53%，报11.1万美元，北京时间20:30发布美国CPI通胀数据时曾逼近11.2万美元，本周累计上涨4.05%，整体交投于10.7万-11.5万美元区间。 CME以太币期货DCR主力合约涨2.00%，报3945.50美元，本周累涨2.17%，整体交投于3741-4126.50美元区间。",
@@ -332,11 +347,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时45分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时32分]"
         },
         {
           "title": "市场消息：摩根大通集团计划在今年年底前允许机构客户使用其持有的比特币和以太坊作为贷款抵押品。",
@@ -391,11 +407,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时45分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时32分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月24日（周五）晚盘收盘下跌0.14%报940.3元/克；<br/>上海黄金交易所白银T+D 10月24日（周五）晚盘收盘上涨0.39%报11394.0元/千克。",
@@ -421,11 +438,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时45分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时32分]"
         }
       ]
     }
