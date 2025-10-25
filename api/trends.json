@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-10-26T06:34:01.164945+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2025-10-26T07:30:12.481303+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 5,
       "titles": [
+        {
+          "title": "英特尔Q3财报专题解析",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E7%89%B9%E5%B0%94Q3%E8%B4%A2%E6%8A%A5%E4%B8%93%E9%A2%98%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时30分]"
+        },
+        {
+          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2180462",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时30分]"
+        },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
           "url": "https://wallstreetcn.com/articles/3757811",
@@ -19,39 +42,17 @@
           "time_info": "[00时48分 ~ 06时34分]"
         },
         {
-          "title": "英特尔Q3财报专题解析",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E7%89%B9%E5%B0%94Q3%E8%B4%A2%E6%8A%A5%E4%B8%93%E9%A2%98%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时34分]"
-        },
-        {
-          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2180462",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时34分]"
-        },
-        {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1965195615022587967",
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时30分]"
         },
         {
           "title": "美股为何一直在上涨",
@@ -76,11 +77,12 @@
           "url": "https://wallstreetcn.com/articles/3757894",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时30分]"
         },
         {
           "title": "多省市前三季度GDP增长亮眼 机器人“立功”",
@@ -90,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时30分]"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
@@ -101,8 +103,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 07时30分]"
         },
         {
           "title": "人形机器人会失败吗",
@@ -130,7 +132,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普与日本首相高市早苗通电话。（共同社）",
@@ -140,8 +142,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 07时30分]"
+        },
+        {
+          "title": "今年利润预计150亿美元，利润率高达99%，用户数超5亿，估值5000亿美元！“稳定币老大”Tether“春风得意”",
+          "url": "https://wallstreetcn.com/articles/3757888",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
           "title": "马库斯前往日本展出日军侵华照片",
