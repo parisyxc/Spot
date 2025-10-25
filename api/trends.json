@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T18:36:59.670472+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2025-10-25T19:26:13.421671+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
@@ -73,11 +73,25 @@
             4,
             13,
             16,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时30分 ~ 18时36分]"
+          "appearance_count": 5,
+          "time_info": "[15时30分 ~ 19时26分]"
+        },
+        {
+          "title": "80年前的今天日本代表在台北签字投降",
+          "url": "https://www.toutiao.com/trending/7564957352702296073/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 19时26分]"
         },
         {
           "title": "日本首相高市早苗将在吉隆坡出席东盟峰会期间，分别与澳大利亚、马来西亚和菲律宾三国领导人举行会谈。",
@@ -116,18 +130,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时39分 ~ 13时36分]"
-        },
-        {
-          "title": "80年前的今天日本代表在台北签字投降",
-          "url": "https://www.toutiao.com/trending/7564957352702296073/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 18时36分]"
         },
         {
           "title": "美国总统特朗普：我听说了很多关于日本首相的好消息。",
@@ -236,8 +238,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时16分 ~ 18时36分]"
+          "appearance_count": 12,
+          "time_info": "[11时16分 ~ 19时26分]"
         },
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -262,8 +264,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时45分 ~ 18时36分]"
+          "appearance_count": 14,
+          "time_info": "[06时45分 ~ 19时26分]"
         },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -402,7 +404,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "京东物流：未来5年拟采购300万台机器人、100万台无人车和10万架无人机",
@@ -427,11 +429,12 @@
             11,
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时16分 ~ 18时36分]"
+          "appearance_count": 12,
+          "time_info": "[11时16分 ~ 19时26分]"
         },
         {
           "title": "京东物流：将采购300万台机器人、100万台无人车、10万架无人机",
@@ -473,9 +476,31 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 19时26分]"
+        },
+        {
+          "title": "人形机器人会失败吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E5%A4%B1%E8%B4%A5%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
+        },
+        {
+          "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
+          "url": "https://wallstreetcn.com/livenews/2993677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时36分"
+          "time_info": "19时26分"
         },
         {
           "title": "市场消息：摩根大通集团计划在今年年底前允许机构客户使用其持有的比特币和以太坊作为贷款抵押品。",
@@ -585,8 +610,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 18时36分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 19时26分]"
         },
         {
           "title": "拍抖音就是为了这个BGM",
@@ -621,7 +646,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
