@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T07:32:29.323451+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2025-10-25T11:16:46.248791+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 11时16分]"
         },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -81,11 +82,23 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 11时16分]"
+        },
+        {
+          "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
+          "url": "https://wallstreetcn.com/articles/3757811",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
@@ -95,11 +108,12 @@
             4,
             13,
             14,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时32分]"
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 11时16分]"
         },
         {
           "title": "美通胀低于预期，美股三大股指高开，美债收益率下挫，美元跳水，金银回落，油价反弹",
@@ -108,7 +122,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -162,7 +176,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "明查｜日本为提升生育率引进50万印度移民？",
@@ -274,12 +288,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "日本在东海大搞演习是向中国示威吗",
+          "url": "https://www.toutiao.com/trending/7563635526893469737/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "京东物流：未来5年拟采购300万台机器人、100万台无人车和10万架无人机",
+          "url": "https://www.cls.cn/detail/2180237",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 11时16分]"
+        },
+        {
+          "title": "周五（10月24日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨0.53%，报11.1万美元，北京时间20:30发布美国CPI通胀数据时曾逼近11.2万美元，本周累计上涨4.05%，整体交投于10.7万-11.5万美元区间。 CME以太币期货DCR主力合约涨2.00%，报3945.50美元，本周累涨2.17%，整体交投于3741-4126.50美元区间。",
+          "url": "https://wallstreetcn.com/livenews/2993606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 11时16分]"
+        },
+        {
+          "title": "京东物流：将采购300万台机器人、100万台无人车、10万架无人机",
+          "url": "https://wallstreetcn.com/livenews/2993636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "市场消息：摩根大通集团计划在今年年底前允许机构客户使用其持有的比特币和以太坊作为贷款抵押品。",
+          "url": "https://flash.jin10.com/detail/20251025010101795800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时55分]"
+        },
+        {
+          "title": "多省市前三季度GDP增长亮眼 机器人“立功”",
+          "url": "https://www.cls.cn/detail/2180504",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "入青云破万福利全员抖音热舞",
@@ -292,8 +385,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 11时16分]"
         },
         {
           "title": "拍抖音就是为了这个BGM",
@@ -307,8 +400,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 11时16分]"
+        },
+        {
+          "title": "申请加入尹老师的抖音音乐班",
+          "url": "https://www.douyin.com/hot/2281946",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "抖音混剪圈来欢迎卡尔入驻",
@@ -324,53 +428,8 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "京东物流：未来5年拟采购300万台机器人、100万台无人车和10万架无人机",
-          "url": "https://www.cls.cn/detail/2180237",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时32分]"
-        },
-        {
-          "title": "周五（10月24日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨0.53%，报11.1万美元，北京时间20:30发布美国CPI通胀数据时曾逼近11.2万美元，本周累计上涨4.05%，整体交投于10.7万-11.5万美元区间。 CME以太币期货DCR主力合约涨2.00%，报3945.50美元，本周累涨2.17%，整体交投于3741-4126.50美元区间。",
-          "url": "https://wallstreetcn.com/livenews/2993606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时32分]"
-        },
-        {
-          "title": "市场消息：摩根大通集团计划在今年年底前允许机构客户使用其持有的比特币和以太坊作为贷款抵押品。",
-          "url": "https://flash.jin10.com/detail/20251025010101795800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时55分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "标普500指数涨1%，道指涨511点涨幅1.09%，纳指涨293点涨幅1.28%，纳斯达克100指数涨292点涨幅1.17%，半导体指数涨2.2%，银行指数涨2.3%，小盘股指涨1.5%，特斯拉跌1.8%。",
@@ -394,12 +453,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时29分 ~ 03时30分]"
+        },
+        {
+          "title": "闻泰科技：半导体业务发展存不确定性",
+          "url": "https://www.toutiao.com/trending/7563997046543007798/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货黄金本周跌3.3%，美国CPI数据发布后有所回升，现货白银累跌约6.3%",
@@ -408,11 +478,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时32分]"
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 11时16分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月24日（周五）晚盘收盘下跌0.14%报940.3元/克；<br/>上海黄金交易所白银T+D 10月24日（周五）晚盘收盘上涨0.39%报11394.0元/千克。",
@@ -425,12 +496,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 03时30分]"
+        },
+        {
+          "title": "黄金白银再跌",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%86%8D%E8%B7%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E7%2599%25BD%25E9%2593%25B6%25E5%2586%258D%25E8%25B7%258C%2523%26band_rank%3D18%26pos%3D18%26realpos%3D18%26c_type%3D31%26flag%3D1%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26dgr%3D0%26display_time%3D1761361778%26pre_seqid%3D1761361778861032636164",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI围绕开发AI生成的音乐采取行动。（The Information）",
@@ -439,11 +521,23 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时32分]"
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 11时16分]"
+        },
+        {
+          "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
+          "url": "https://flash.jin10.com/detail/20251025085423303800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     }
