@@ -1,76 +1,106 @@
 {
-  "generated_at": "2025-10-26T07:30:12.481303+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2025-10-26T11:33:50.187415+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 5,
+      "keyword_group": "稳定币 日本",
+      "match_count": 8,
       "titles": [
         {
-          "title": "英特尔Q3财报专题解析",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E7%89%B9%E5%B0%94Q3%E8%B4%A2%E6%8A%A5%E4%B8%93%E9%A2%98%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
+          "title": "特朗普与日本首相高市早苗通电话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/2993699",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时30分]"
-        },
-        {
-          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2180462",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时30分]"
-        },
-        {
-          "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
-          "url": "https://wallstreetcn.com/articles/3757811",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时34分]"
-        },
-        {
-          "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1965195615022587967",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时30分]"
-        },
-        {
-          "title": "美股为何一直在上涨",
-          "url": "https://www.toutiao.com/trending/7564074588235317290/",
-          "source": "今日头条",
-          "ranks": [
-            10,
+            5,
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 03时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 11时33分]"
+        },
+        {
+          "title": "今年利润预计150亿美元，利润率高达99%，用户数超5亿，估值5000亿美元！“稳定币老大”Tether“春风得意”",
+          "url": "https://wallstreetcn.com/articles/3757888",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
+        },
+        {
+          "title": "美国、日本将合作加强造船业。（读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/2993711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "如何看待日本人饺子拉面配米饭的现象？",
+          "url": "https://www.zhihu.com/question/58349108",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：不评论与美国财长贝森特的通话是否涉及针对俄罗斯的能源制裁，日本将在必要时配合制裁，但也必须兼顾日本的能源安全。",
+          "url": "https://flash.jin10.com/detail/20251026083645311800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：（在被问及日本是否可以发行弥补赤字的债券时）如果需要，政府显然必须想方设法为国防开支的增加提供资金。",
+          "url": "https://flash.jin10.com/detail/20251026083041760800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "日本新型H3火箭7号机发射升空",
+          "url": "https://flash.jin10.com/detail/20251026081708968800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "马库斯前往日本展出日军侵华照片",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%BA%93%E6%96%AF%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%E5%B1%95%E5%87%BA%E6%97%A5%E5%86%9B%E4%BE%B5%E5%8D%8E%E7%85%A7%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "火热！定价9998元，3小时卖出200台！全球首款万元以下“高性能”人形机器人，身高仅94厘米，体重约12千克",
@@ -89,11 +119,12 @@
           "url": "https://www.cls.cn/detail/2180504",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 11时33分]"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
@@ -105,6 +136,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时48分 ~ 07时30分]"
+        },
+        {
+          "title": "林园：4300点是牛市起点，AI机器人方向未来可能一文不值，我只管好自己的一亩三分地——“嘴巴生意”",
+          "url": "https://wallstreetcn.com/articles/3757825",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "人形机器人会失败吗",
@@ -131,41 +173,69 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 3,
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普与日本首相高市早苗通电话。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/2993699",
-          "source": "华尔街见闻-快讯",
+          "title": "英特尔Q3财报专题解析",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E7%89%B9%E5%B0%94Q3%E8%B4%A2%E6%8A%A5%E4%B8%93%E9%A2%98%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 11时33分]"
+        },
+        {
+          "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
+          "url": "https://wallstreetcn.com/articles/3757811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时48分 ~ 07时30分]"
+          "time_info": "[00时48分 ~ 06时34分]"
         },
         {
-          "title": "今年利润预计150亿美元，利润率高达99%，用户数超5亿，估值5000亿美元！“稳定币老大”Tether“春风得意”",
-          "url": "https://wallstreetcn.com/articles/3757888",
-          "source": "华尔街见闻",
+          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2180462",
+          "source": "财联社热门",
           "ranks": [
-            9
+            7,
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 11时33分]"
         },
         {
-          "title": "马库斯前往日本展出日军侵华照片",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%BA%93%E6%96%AF%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%E5%B1%95%E5%87%BA%E6%97%A5%E5%86%9B%E4%BE%B5%E5%8D%8E%E7%85%A7%E7%89%87",
-          "source": "百度热搜",
+          "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1965195615022587967",
+          "source": "知乎",
           "ranks": [
-            29
+            12,
+            9,
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 11时33分]"
+        },
+        {
+          "title": "美股为何一直在上涨",
+          "url": "https://www.toutiao.com/trending/7564074588235317290/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时29分]"
         }
       ]
     }
