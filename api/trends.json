@@ -1,8 +1,103 @@
 {
-  "generated_at": "2025-10-28T01:34:34.106970+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2025-10-28T02:52:33.448073+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/2994485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "Meta旗下Threads推出限时贴文功能 支持分享“随心想法”",
+          "url": "https://flash.jin10.com/detail/20251028001533118800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时34分]"
+        },
+        {
+          "title": "据福克斯新闻：谷歌(GOOG.O)与NextEra能源公司合作重启爱荷华州核电站。",
+          "url": "https://flash.jin10.com/detail/20251028015838753800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2994482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "据英国《金融时报》：扎克伯格已任命长期副手维沙尔·沙阿担任Meta Platforms(META.O)人工智能团队的关键职务。",
+          "url": "https://flash.jin10.com/detail/20251028013708523800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：通过Bigtable中的分层存储，可借助单一接口访问和修改热层与冷层中的数据。",
+          "url": "https://flash.jin10.com/detail/20251028000607598800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：推出全新Bigtable存储层，助力效管理海量数据集，现已开放预览版。",
+          "url": "https://flash.jin10.com/detail/20251028000516556800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：推出幽灵帖子（Ghost posts），即24小时后自动归档的Threads帖子。",
+          "url": "https://flash.jin10.com/detail/20251028000209983800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 5,
@@ -15,30 +110,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "抖音音乐班逐渐抽象",
           "url": "https://www.douyin.com/hot/2284394",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "黄磊微信名叫多妹弟爸",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E7%A3%8A%E5%BE%AE%E4%BF%A1%E5%90%8D%E5%8F%AB%E5%A4%9A%E5%A6%B9%E5%BC%9F%E7%88%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26stream_entry_id%3D31%26realpos%3D17%26q%3D%2523%25E9%25BB%2584%25E7%25A3%258A%25E5%25BE%25AE%25E4%25BF%25A1%25E5%2590%258D%25E5%258F%25AB%25E5%25A4%259A%25E5%25A6%25B9%25E5%25BC%259F%25E7%2588%25B8%2523%26flag%3D2%26pos%3D16%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26display_time%3D1761583205%26pre_seqid%3D17615832051990195585407",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",
@@ -48,19 +145,85 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "尹老师开始批改抖音音乐班作业了",
           "url": "https://www.douyin.com/hot/2283908",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
+          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
+        },
+        {
+          "title": "中国米成救命粮,日本人破大防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346283&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%B1%B3%E6%88%90%E6%95%91%E5%91%BD%E7%B2%AE%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A0%B4%E5%A4%A7%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
+        },
+        {
+          "title": "日本鸡蛋价格逼近历史最高值",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E9%80%BC%E8%BF%91%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98%E5%80%BC",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
+        },
+        {
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
+        },
+        {
+          "title": "日本18000名警察出动确保东京安全",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC18000%E5%90%8D%E8%AD%A6%E5%AF%9F%E5%87%BA%E5%8A%A8%E7%A1%AE%E4%BF%9D%E4%B8%9C%E4%BA%AC%E5%AE%89%E5%85%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26pos%3D15%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC18000%25E5%2590%258D%25E8%25AD%25A6%25E5%25AF%259F%25E5%2587%25BA%25E5%258A%25A8%25E7%25A1%25AE%25E4%25BF%259D%25E4%25B8%259C%25E4%25BA%25AC%25E5%25AE%2589%25E5%2585%25A8%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D16%26c_type%3D31%26band_rank%3D16%26cate%3D5001%26lcate%3D5001%26display_time%3D1761590404%26pre_seqid%3D17615904042820281867672",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         }
       ]
     },
@@ -76,8 +239,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -117,105 +280,45 @@
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 4,
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 3,
       "titles": [
         {
-          "title": "Meta旗下Threads推出限时贴文功能 支持分享“随心想法”",
-          "url": "https://flash.jin10.com/detail/20251028001533118800",
+          "title": "上海黄金交易所黄金T+D 10月27日（周一）晚盘收盘下跌1.79%报917.9元/克；<br/>上海黄金交易所白银T+D 10月27日（周一）晚盘收盘下跌2.3%报11122.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251028023058504800",
           "source": "金十数据",
           "ranks": [
-            14,
-            29
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：通过Bigtable中的分层存储，可借助单一接口访问和修改热层与冷层中的数据。",
-          "url": "https://flash.jin10.com/detail/20251028000607598800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "02时52分"
         },
         {
-          "title": "谷歌(GOOG.O)：推出全新Bigtable存储层，助力效管理海量数据集，现已开放预览版。",
-          "url": "https://flash.jin10.com/detail/20251028000516556800",
-          "source": "金十数据",
+          "title": "现货黄金、白银双双大跌",
+          "url": "https://www.toutiao.com/trending/7565906604558650899/",
+          "source": "今日头条",
           "ranks": [
-            20
+            8,
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
-          "title": "Meta Platforms(META.O)：推出幽灵帖子（Ghost posts），即24小时后自动归档的Threads帖子。",
-          "url": "https://flash.jin10.com/detail/20251028000209983800",
-          "source": "金十数据",
+          "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2994463",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            3,
+            12,
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
-          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
-        },
-        {
-          "title": "中国米成救命粮,日本人破大防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346283&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%B1%B3%E6%88%90%E6%95%91%E5%91%BD%E7%B2%AE%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A0%B4%E5%A4%A7%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
-        },
-        {
-          "title": "日本天皇用英语说很高兴见到特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
-        },
-        {
-          "title": "日本鸡蛋价格逼近历史最高值",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E9%80%BC%E8%BF%91%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98%E5%80%BC",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         }
       ]
     },
@@ -231,8 +334,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -240,41 +343,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现货黄金、白银双双大跌",
-          "url": "https://www.toutiao.com/trending/7565906604558650899/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
-        },
-        {
-          "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2994463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时52分]"
         }
       ]
     },
