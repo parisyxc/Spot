@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T02:52:33.448073+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2025-10-28T03:28:42.534595+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,36 @@
           "url": "https://wallstreetcn.com/livenews/2994485",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时28分]"
+        },
+        {
+          "title": "据福克斯新闻：谷歌(GOOG.O)与NextEra能源公司合作重启爱荷华州核电站。",
+          "url": "https://flash.jin10.com/detail/20251028015838753800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时28分]"
+        },
+        {
+          "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2994482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时28分]"
         },
         {
           "title": "Meta旗下Threads推出限时贴文功能 支持分享“随心想法”",
@@ -31,37 +56,16 @@
           "time_info": "[00时51分 ~ 01时34分]"
         },
         {
-          "title": "据福克斯新闻：谷歌(GOOG.O)与NextEra能源公司合作重启爱荷华州核电站。",
-          "url": "https://flash.jin10.com/detail/20251028015838753800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/2994482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
           "title": "据英国《金融时报》：扎克伯格已任命长期副手维沙尔·沙阿担任Meta Platforms(META.O)人工智能团队的关键职务。",
           "url": "https://flash.jin10.com/detail/20251028013708523800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时28分]"
         },
         {
           "title": "谷歌(GOOG.O)：通过Bigtable中的分层存储，可借助单一接口访问和修改热层与冷层中的数据。",
@@ -110,8 +114,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
         },
         {
           "title": "抖音音乐班逐渐抽象",
@@ -119,11 +123,24 @@
           "source": "抖音",
           "ranks": [
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
+        },
+        {
+          "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1966086071931593385",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
         },
         {
           "title": "黄磊微信名叫多妹弟爸",
@@ -131,22 +148,12 @@
           "source": "微博",
           "ranks": [
             17,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
-        },
-        {
-          "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1966086071931593385",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
         },
         {
           "title": "尹老师开始批改抖音音乐班作业了",
@@ -154,11 +161,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
         }
       ]
     },
@@ -174,8 +182,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
         },
         {
           "title": "中国米成救命粮,日本人破大防",
@@ -185,8 +193,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
         },
         {
           "title": "日本鸡蛋价格逼近历史最高值",
@@ -195,11 +203,12 @@
           "ranks": [
             24,
             23,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -208,11 +217,12 @@
           "ranks": [
             17,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
         },
         {
           "title": "日本18000名警察出动确保东京安全",
@@ -221,9 +231,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时28分]"
         }
       ]
     },
@@ -239,8 +249,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -284,28 +294,18 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "上海黄金交易所黄金T+D 10月27日（周一）晚盘收盘下跌1.79%报917.9元/克；<br/>上海黄金交易所白银T+D 10月27日（周一）晚盘收盘下跌2.3%报11122.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251028023058504800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
           "title": "现货黄金、白银双双大跌",
           "url": "https://www.toutiao.com/trending/7565906604558650899/",
           "source": "今日头条",
           "ranks": [
             8,
             7,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -314,11 +314,24 @@
           "ranks": [
             3,
             12,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月27日（周一）晚盘收盘下跌1.79%报917.9元/克；<br/>上海黄金交易所白银T+D 10月27日（周一）晚盘收盘下跌2.3%报11122.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251028023058504800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时28分]"
         }
       ]
     },
@@ -334,8 +347,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -347,8 +360,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时28分]"
         }
       ]
     },
