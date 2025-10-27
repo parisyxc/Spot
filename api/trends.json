@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T12:54:17.977091+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2025-10-27T13:43:48.391443+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "萨莉亚火爆！日媒：日本餐饮用“低价经验”走红中国",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 12时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 13时43分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
@@ -39,11 +39,12 @@
           "url": "https://flash.jin10.com/detail/20251027124939764800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时43分]"
         },
         {
           "title": "日本首次成功发射HTV-X货运飞船，将为国际空间站提供补给",
@@ -57,26 +58,52 @@
           "time_info": "07时31分"
         },
         {
+          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "日本拟设立本国版外资审议委员会，加强对外资收购的国安审查",
           "url": "https://flash.jin10.com/detail/20251027123822145800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时43分]"
         },
         {
           "title": "丰田：9月份日本本土汽车产量同比增长8.5%，达到301,626辆。",
           "url": "https://flash.jin10.com/detail/20251027123108480800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时43分]"
+        },
+        {
+          "title": "深扒日本新任防卫大臣",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%89%92%E6%97%A5%E6%9C%AC%E6%96%B0%E4%BB%BB%E9%98%B2%E5%8D%AB%E5%A4%A7%E8%87%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 13时43分]"
         },
         {
           "title": "日本新型H3火箭7号机发射升空",
@@ -90,16 +117,28 @@
           "time_info": "[04时35分 ~ 07时31分]"
         },
         {
-          "title": "深扒日本新任防卫大臣",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%89%92%E6%97%A5%E6%9C%AC%E6%96%B0%E4%BB%BB%E9%98%B2%E5%8D%AB%E5%A4%A7%E8%87%A3",
-          "source": "bilibili 热搜",
+          "title": "全球首个与日元挂钩稳定币在日本亮相",
+          "url": "https://flash.jin10.com/detail/20251027120610617800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            22
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时54分]"
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时43分]"
+        },
+        {
+          "title": "全球首个与日元挂钩的稳定币在日本推出",
+          "url": "https://wallstreetcn.com/livenews/2993983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时43分]"
         },
         {
           "title": "日本人因超市卖中国大米破防",
@@ -112,28 +151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时31分]"
-        },
-        {
-          "title": "全球首个与日元挂钩稳定币在日本亮相",
-          "url": "https://flash.jin10.com/detail/20251027120610617800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "全球首个与日元挂钩的稳定币在日本推出",
-          "url": "https://wallstreetcn.com/livenews/2993983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
         },
         {
           "title": "日本内阁官房长官木原稔：汇率走势反映基本面很重要。",
@@ -187,6 +204,19 @@
           "time_info": "07时31分"
         },
         {
+          "title": "金十图示：2025年10月27日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251027065113423800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 13时43分]"
+        },
+        {
           "title": "现货白银周一开盘跳空大幅低开超0.5美元后小幅反弹，现报48.23美元/盎司，日内跌0.75%。",
           "url": "https://flash.jin10.com/detail/20251027060312573800",
           "source": "金十数据",
@@ -197,18 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时31分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251027065113423800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 12时54分]"
         },
         {
           "title": "黄金价格下跌是进场“捡便宜”时机吗",
@@ -319,7 +337,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         }
@@ -338,8 +356,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 13时43分]"
         },
         {
           "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
@@ -407,22 +425,24 @@
             27,
             28,
             23,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 12时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 13时43分]"
         },
         {
           "title": "抖音音乐班逐渐抽象",
           "url": "https://www.douyin.com/hot/2284394",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时43分]"
         }
       ]
     },
@@ -440,8 +460,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 12时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 13时43分]"
         }
       ]
     }
