@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T06:36:38.995148+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2025-10-28T07:31:27.681521+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
@@ -19,26 +19,15 @@
           "time_info": "[00时51分 ~ 06时36分]"
         },
         {
-          "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
-          "url": "https://wallstreetcn.com/livenews/2994556",
-          "source": "华尔街见闻-快讯",
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "半导体ETF收涨2.5%，领跑美股行业ETF，标普电信板块涨2.3%",
-          "url": "https://wallstreetcn.com/livenews/2994554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "time_info": "07时31分"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
@@ -47,11 +36,37 @@
           "ranks": [
             6,
             10,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 06时36分]"
+          "appearance_count": 4,
+          "time_info": "[04时37分 ~ 07时31分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
+          "url": "https://www.cls.cn/detail/2182682",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040534174800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时37分 ~ 07时31分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
@@ -67,6 +82,18 @@
           "time_info": "[04时37分 ~ 06时36分]"
         },
         {
+          "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
+          "url": "https://wallstreetcn.com/livenews/2994556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时31分]"
+        },
+        {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251028003902797800",
           "source": "金十数据",
@@ -79,17 +106,16 @@
           "time_info": "[00时51分 ~ 01时34分]"
         },
         {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040534174800",
-          "source": "金十数据",
+          "title": "半导体ETF收涨2.5%，领跑美股行业ETF，标普电信板块涨2.3%",
+          "url": "https://wallstreetcn.com/livenews/2994554",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            11,
-            24
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 06时36分]"
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时31分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
@@ -131,8 +157,19 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "据Yomiuri报道：日本通信公司KDDI株式会社与谷歌（日本）将启动AI媒体搜索工具。",
+          "url": "https://wallstreetcn.com/livenews/2994570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
         {
           "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
           "url": "https://wallstreetcn.com/livenews/2994485",
@@ -242,7 +279,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -261,11 +298,26 @@
           "source": "贴吧",
           "ranks": [
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "日本18000名警察出动确保东京安全",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC18000%E5%90%8D%E8%AD%A6%E5%AF%9F%E5%87%BA%E5%8A%A8%E7%A1%AE%E4%BF%9D%E4%B8%9C%E4%BA%AC%E5%AE%89%E5%85%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26pos%3D15%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC18000%25E5%2590%258D%25E8%25AD%25A6%25E5%25AF%259F%25E5%2587%25BA%25E5%258A%25A8%25E7%25A1%25AE%25E4%25BF%259D%25E4%25B8%259C%25E4%25BA%25AC%25E5%25AE%2589%25E5%2585%25A8%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D16%26c_type%3D31%26band_rank%3D16%26cate%3D5001%26lcate%3D5001%26display_time%3D1761590404%26pre_seqid%3D17615904042820281867672",
+          "source": "微博",
+          "ranks": [
+            16,
+            17,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时52分 ~ 07时31分]"
         },
         {
           "title": "日本鸡蛋价格逼近历史最高值",
@@ -277,11 +329,12 @@
             15,
             17,
             20,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -293,35 +346,46 @@
             19,
             20,
             25,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
         },
         {
-          "title": "日本18000名警察出动确保东京安全",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC18000%E5%90%8D%E8%AD%A6%E5%AF%9F%E5%87%BA%E5%8A%A8%E7%A1%AE%E4%BF%9D%E4%B8%9C%E4%BA%AC%E5%AE%89%E5%85%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26pos%3D15%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC18000%25E5%2590%258D%25E8%25AD%25A6%25E5%25AF%259F%25E5%2587%25BA%25E5%258A%25A8%25E7%25A1%25AE%25E4%25BF%259D%25E4%25B8%259C%25E4%25BA%25AC%25E5%25AE%2589%25E5%2585%25A8%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D16%26c_type%3D31%26band_rank%3D16%26cate%3D5001%26lcate%3D5001%26display_time%3D1761590404%26pre_seqid%3D17615904042820281867672",
-          "source": "微博",
+          "title": "据日本朝日新闻：日本与韩国正在协调安排，拟于10月30日在韩国亚太经合组织峰会期间，举行日本首相高市早苗与韩国总统李在明之间的首次首脑会晤。",
+          "url": "https://flash.jin10.com/detail/20251028064830582800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            17,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时52分 ~ 06时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "日本与韩国首脑们安排10月30日会面。（朝日新闻）",
+          "url": "https://wallstreetcn.com/livenews/2994572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美国商务部长卢特尼克：日本对美投资将从电力（行业）开始。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/2994555",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时31分]"
         },
         {
           "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
@@ -330,7 +394,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         }
@@ -348,8 +412,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
         },
         {
           "title": "抖音音乐班逐渐抽象",
@@ -364,8 +428,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
         },
         {
           "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",
@@ -376,8 +440,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
         },
         {
           "title": "黄磊微信名叫多妹弟爸",
@@ -390,8 +454,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
         },
         {
           "title": "尹老师开始批改抖音音乐班作业了",
@@ -403,8 +467,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 06时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 07时31分]"
         }
       ]
     },
@@ -432,11 +496,12 @@
           "url": "https://flash.jin10.com/detail/20251028060526313800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时31分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -522,8 +587,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -533,11 +598,12 @@
             12,
             11,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，纽约州审计长托马斯·P·迪纳波利敦促特斯拉(TSLA.O)股东投票反对2025年首席执行官绩效奖励方案。",
@@ -563,22 +629,24 @@
           "url": "https://wallstreetcn.com/livenews/2994543",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时31分]"
         },
         {
           "title": "以太坊跌破4100美元/枚，日内跌1.45%。",
           "url": "https://flash.jin10.com/detail/20251028052428627800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时31分]"
         }
       ]
     },
@@ -610,11 +678,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 06时36分]"
+          "appearance_count": 3,
+          "time_info": "[05时30分 ~ 07时31分]"
         }
       ]
     }
