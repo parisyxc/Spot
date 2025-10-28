@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T13:42:10.724732+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2025-10-28T14:56:31.551820+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "中国米成救命粮,日本人破大防",
@@ -17,11 +17,12 @@
             14,
             18,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 13时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时56分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -83,19 +84,6 @@
           "time_info": "[00时51分 ~ 07时31分]"
         },
         {
-          "title": "央行称将继续打击境内虚拟货币经营和炒作，并密切跟踪、动态评估境外稳定币的发展，如何解读？",
-          "url": "https://www.zhihu.com/question/1966420653952434899",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时31分 ~ 13时42分]"
-        },
-        {
           "title": "日本熊出没,警方卸磨杀驴食恶果",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346330&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%86%8A%E5%87%BA%E6%B2%A1%2C%E8%AD%A6%E6%96%B9%E5%8D%B8%E7%A3%A8%E6%9D%80%E9%A9%B4%E9%A3%9F%E6%81%B6%E6%9E%9C",
           "source": "贴吧",
@@ -103,8 +91,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 14时56分]"
+        },
+        {
+          "title": "央行称将继续打击境内虚拟货币经营和炒作，并密切跟踪、动态评估境外稳定币的发展，如何解读？",
+          "url": "https://www.zhihu.com/question/1966420653952434899",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 14时56分]"
         },
         {
           "title": "日本鸡蛋价格逼近历史最高值",
@@ -113,7 +115,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -140,15 +142,15 @@
           "time_info": "12时44分"
         },
         {
-          "title": "日本前首相安倍晋三被控谋杀的嫌疑人承认谋杀罪。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/2994787",
+          "title": "日经225指数收跌0.6%，报50219.18点。 日本东证指数收跌1.2%，报3285.87点。 韩国首尔综指收盘跌0.8%，报4010.41点。",
+          "url": "https://wallstreetcn.com/livenews/2994827",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时42分"
+          "time_info": "14时56分"
         },
         {
           "title": "日本与韩国首脑们安排10月30日会面。（朝日新闻）",
@@ -198,6 +200,18 @@
           "time_info": "[12时44分 ~ 13时42分]"
         },
         {
+          "title": "日本前首相安倍晋三被控谋杀的嫌疑人承认谋杀罪。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/2994787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 14时56分]"
+        },
+        {
           "title": "美国财政部：财长贝森特在与日本财务大臣会晤时强调，制定健全的货币政策并加强沟通，在稳定通胀预期和防止汇率过度波动方面发挥着重要作用。",
           "url": "https://flash.jin10.com/detail/20251028121026578800",
           "source": "金十数据",
@@ -238,9 +252,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "日本股指午后延续跌势，日经225指数现跌0.65%，东证指数跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251028133817757800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
@@ -260,7 +285,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -300,8 +325,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时31分 ~ 13时42分]"
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 14时56分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -313,8 +338,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时31分 ~ 13时42分]"
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 14时56分]"
         },
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -324,8 +349,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时31分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 14时56分]"
         },
         {
           "title": "胜宏科技Q3净利11.02亿元，产能扩张激进、在建工程暴增1283.08% | 财报见闻",
@@ -335,8 +360,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 14时56分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
@@ -598,6 +623,119 @@
       ]
     },
     {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "大量用户举报违规直播 微信：严打！",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E4%B8%BE%E6%8A%A5%E8%BF%9D%E8%A7%84%E7%9B%B4%E6%92%AD+%E5%BE%AE%E4%BF%A1%EF%BC%9A%E4%B8%A5%E6%89%93%EF%BC%81",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            14,
+            16,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时56分]"
+        },
+        {
+          "title": "微信“对方正在输入”说明在干什么",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E2%80%9C%E5%AF%B9%E6%96%B9%E6%AD%A3%E5%9C%A8%E8%BE%93%E5%85%A5%E2%80%9D%E8%AF%B4%E6%98%8E%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 14时56分]"
+        },
+        {
+          "title": "抖音音乐班逐渐抽象",
+          "url": "https://www.douyin.com/hot/2284394",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18,
+            17,
+            13,
+            14,
+            15,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 12时44分]"
+        },
+        {
+          "title": "许绍雄最后一条抖音：时间最公平",
+          "url": "https://www.douyin.com/hot/2285651",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 14时56分]"
+        },
+        {
+          "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1966086071931593385",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "黄磊微信名叫多妹弟爸",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E7%A3%8A%E5%BE%AE%E4%BF%A1%E5%90%8D%E5%8F%AB%E5%A4%9A%E5%A6%B9%E5%BC%9F%E7%88%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26stream_entry_id%3D31%26realpos%3D17%26q%3D%2523%25E9%25BB%2584%25E7%25A3%258A%25E5%25BE%25AE%25E4%25BF%25A1%25E5%2590%258D%25E5%258F%25AB%25E5%25A4%259A%25E5%25A6%25B9%25E5%25BC%259F%25E7%2588%25B8%2523%26flag%3D2%26pos%3D16%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26display_time%3D1761583205%26pre_seqid%3D17615832051990195585407",
+          "source": "微博",
+          "ranks": [
+            17,
+            23,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "尹老师开始批改抖音音乐班作业了",
+          "url": "https://www.douyin.com/hot/2283908",
+          "source": "抖音",
+          "ranks": [
+            28,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "张艺兴也来抖音音乐班了",
+          "url": "https://www.douyin.com/hot/2285610",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 铜价 白银",
       "match_count": 7,
       "titles": [
@@ -610,8 +748,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时31分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 14时56分]"
         },
         {
           "title": "现货黄金、白银双双大跌",
@@ -691,109 +829,20 @@
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 7,
       "titles": [
         {
-          "title": "大量用户举报违规直播 微信：严打！",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E4%B8%BE%E6%8A%A5%E8%BF%9D%E8%A7%84%E7%9B%B4%E6%92%AD+%E5%BE%AE%E4%BF%A1%EF%BC%9A%E4%B8%A5%E6%89%93%EF%BC%81",
-          "source": "百度热搜",
+          "title": "A股机器人概念股再度拉升，三花智控触及涨停，股价再创历史新高，总市值逼近2000亿，永茂泰、方正电机此前封板，万向钱潮、富临精工、中坚科技、拓普集团等纷纷跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2994817",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            14,
-            16,
-            19
+            9
           ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 13时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
-        {
-          "title": "抖音音乐班逐渐抽象",
-          "url": "https://www.douyin.com/hot/2284394",
-          "source": "抖音",
-          "ranks": [
-            16,
-            18,
-            17,
-            13,
-            14,
-            15,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 12时44分]"
-        },
-        {
-          "title": "微信“对方正在输入”说明在干什么",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E2%80%9C%E5%AF%B9%E6%96%B9%E6%AD%A3%E5%9C%A8%E8%BE%93%E5%85%A5%E2%80%9D%E8%AF%B4%E6%98%8E%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时31分 ~ 13时42分]"
-        },
-        {
-          "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1966086071931593385",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "黄磊微信名叫多妹弟爸",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E7%A3%8A%E5%BE%AE%E4%BF%A1%E5%90%8D%E5%8F%AB%E5%A4%9A%E5%A6%B9%E5%BC%9F%E7%88%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26stream_entry_id%3D31%26realpos%3D17%26q%3D%2523%25E9%25BB%2584%25E7%25A3%258A%25E5%25BE%25AE%25E4%25BF%25A1%25E5%2590%258D%25E5%258F%25AB%25E5%25A4%259A%25E5%25A6%25B9%25E5%25BC%259F%25E7%2588%25B8%2523%26flag%3D2%26pos%3D16%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26display_time%3D1761583205%26pre_seqid%3D17615832051990195585407",
-          "source": "微博",
-          "ranks": [
-            17,
-            23,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "许绍雄最后一条抖音：时间最公平",
-          "url": "https://www.douyin.com/hot/2285651",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时42分]"
-        },
-        {
-          "title": "尹老师开始批改抖音音乐班作业了",
-          "url": "https://www.douyin.com/hot/2283908",
-          "source": "抖音",
-          "ranks": [
-            28,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 07时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
-      "titles": [
         {
           "title": "全球首款！“机器人老师”在合肥开讲",
           "url": "https://wallstreetcn.com/livenews/2994748",
@@ -806,6 +855,19 @@
           "time_info": "12时44分"
         },
         {
+          "title": "机器人现在连触觉都有了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E5%9C%A8%E8%BF%9E%E8%A7%A6%E8%A7%89%E9%83%BD%E6%9C%89%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 14时56分]"
+        },
+        {
           "title": "周一（10月27日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨3.61%，逼近11.5万美元，亚太盘初短线拉升之后，剩余时间持续高位震荡，北京时间15:06曾涨穿11.65万美元。 CME以太币期货DCR主力合约涨4.92%，报4138.50美元，亚太盘初“跳空高开”之后，持续高位震荡。",
           "url": "https://wallstreetcn.com/livenews/2994543",
           "source": "华尔街见闻-快讯",
@@ -816,18 +878,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时31分]"
-        },
-        {
-          "title": "机器人现在连触觉都有了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E5%9C%A8%E8%BF%9E%E8%A7%A6%E8%A7%89%E9%83%BD%E6%9C%89%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时42分]"
         },
         {
           "title": "以太坊跌破4100美元/枚，日内跌1.45%。",
@@ -867,7 +917,7 @@
     },
     {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -895,11 +945,23 @@
             6,
             9,
             12,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 13时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时56分]"
+        },
+        {
+          "title": "特斯拉董事长呼吁批准马斯克万亿薪酬计划",
+          "url": "https://flash.jin10.com/detail/20251028143104144800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，纽约州审计长托马斯·P·迪纳波利敦促特斯拉(TSLA.O)股东投票反对2025年首席执行官绩效奖励方案。",
@@ -921,7 +983,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         }
@@ -971,6 +1033,47 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
+          "url": "https://flash.jin10.com/detail/20251028141734494800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
+          "url": "https://flash.jin10.com/detail/20251028045401357800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时30分 ~ 07时31分]"
+        },
+        {
+          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
+          "url": "https://flash.jin10.com/detail/20251028123906600800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI基础设施 算力基建 AI Agent",
       "match_count": 2,
       "titles": [
@@ -993,37 +1096,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
-          "url": "https://flash.jin10.com/detail/20251028045401357800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            20
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时30分 ~ 07时31分]"
-        },
-        {
-          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
-          "url": "https://flash.jin10.com/detail/20251028123906600800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "13时42分"
         }
