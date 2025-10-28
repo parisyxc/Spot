@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T07:31:27.681521+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2025-10-28T11:32:11.751699+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
@@ -25,9 +25,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 11时32分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
+          "url": "https://www.cls.cn/detail/2182682",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 11时32分]"
+        },
+        {
+          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
+          "url": "https://www.cls.cn/detail/2182699",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
@@ -42,17 +65,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时37分 ~ 07时31分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
-          "url": "https://www.cls.cn/detail/2182682",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         },
         {
           "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
@@ -143,6 +155,17 @@
           "time_info": "[04时37分 ~ 06时36分]"
         },
         {
+          "title": "美股收盘：三大指数齐刷历史新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
           "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
           "url": "https://flash.jin10.com/detail/20251028000829704800",
           "source": "金十数据",
@@ -152,6 +175,174 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "韩国股市从高位回落 市场等待三星等企业财报公布",
+          "url": "https://flash.jin10.com/detail/20251028105546043800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "中国米成救命粮,日本人破大防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346283&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%B1%B3%E6%88%90%E6%95%91%E5%91%BD%E7%B2%AE%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A0%B4%E5%A4%A7%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            13,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 11时32分]"
+        },
+        {
+          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
+          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时30分]"
+        },
+        {
+          "title": "日本18000名警察出动确保东京安全",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC18000%E5%90%8D%E8%AD%A6%E5%AF%9F%E5%87%BA%E5%8A%A8%E7%A1%AE%E4%BF%9D%E4%B8%9C%E4%BA%AC%E5%AE%89%E5%85%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26pos%3D15%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC18000%25E5%2590%258D%25E8%25AD%25A6%25E5%25AF%259F%25E5%2587%25BA%25E5%258A%25A8%25E7%25A1%25AE%25E4%25BF%259D%25E4%25B8%259C%25E4%25BA%25AC%25E5%25AE%2589%25E5%2585%25A8%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D16%26c_type%3D31%26band_rank%3D16%26cate%3D5001%26lcate%3D5001%26display_time%3D1761590404%26pre_seqid%3D17615904042820281867672",
+          "source": "微博",
+          "ranks": [
+            16,
+            17,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时52分 ~ 07时31分]"
+        },
+        {
+          "title": "日本鸡蛋价格逼近历史最高值",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E9%80%BC%E8%BF%91%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98%E5%80%BC",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            23,
+            15,
+            17,
+            20,
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16,
+            19,
+            20,
+            25,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "据日本朝日新闻：日本与韩国正在协调安排，拟于10月30日在韩国亚太经合组织峰会期间，举行日本首相高市早苗与韩国总统李在明之间的首次首脑会晤。",
+          "url": "https://flash.jin10.com/detail/20251028064830582800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "日本与韩国首脑们安排10月30日会面。（朝日新闻）",
+          "url": "https://wallstreetcn.com/livenews/2994572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：日本对美投资将从电力（行业）开始。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/2994555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842038",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 11时32分]"
+        },
+        {
+          "title": "央行称将继续打击境内虚拟货币经营和炒作，并密切跟踪、动态评估境外稳定币的发展，如何解读？",
+          "url": "https://www.zhihu.com/question/1966420653952434899",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "国际能源署署长比罗尔：东盟未来十年需要300吉瓦的电力，与日本的用电需求相当。",
+          "url": "https://flash.jin10.com/detail/20251028110912781800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "美国总统特朗普：日本正在增加国防开支。",
+          "url": "https://flash.jin10.com/detail/20251028105119280800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
@@ -166,7 +357,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -278,203 +469,8 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
-          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 05时30分]"
-        },
-        {
-          "title": "中国米成救命粮,日本人破大防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346283&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%B1%B3%E6%88%90%E6%95%91%E5%91%BD%E7%B2%AE%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A0%B4%E5%A4%A7%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "日本18000名警察出动确保东京安全",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC18000%E5%90%8D%E8%AD%A6%E5%AF%9F%E5%87%BA%E5%8A%A8%E7%A1%AE%E4%BF%9D%E4%B8%9C%E4%BA%AC%E5%AE%89%E5%85%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26pos%3D15%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC18000%25E5%2590%258D%25E8%25AD%25A6%25E5%25AF%259F%25E5%2587%25BA%25E5%258A%25A8%25E7%25A1%25AE%25E4%25BF%259D%25E4%25B8%259C%25E4%25BA%25AC%25E5%25AE%2589%25E5%2585%25A8%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D16%26c_type%3D31%26band_rank%3D16%26cate%3D5001%26lcate%3D5001%26display_time%3D1761590404%26pre_seqid%3D17615904042820281867672",
-          "source": "微博",
-          "ranks": [
-            16,
-            17,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时52分 ~ 07时31分]"
-        },
-        {
-          "title": "日本鸡蛋价格逼近历史最高值",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E9%80%BC%E8%BF%91%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98%E5%80%BC",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23,
-            15,
-            17,
-            20,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "日本天皇用英语说很高兴见到特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            16,
-            19,
-            20,
-            25,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "据日本朝日新闻：日本与韩国正在协调安排，拟于10月30日在韩国亚太经合组织峰会期间，举行日本首相高市早苗与韩国总统李在明之间的首次首脑会晤。",
-          "url": "https://flash.jin10.com/detail/20251028064830582800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "日本与韩国首脑们安排10月30日会面。（朝日新闻）",
-          "url": "https://wallstreetcn.com/livenews/2994572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：日本对美投资将从电力（行业）开始。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/2994555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31842038",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "大量用户举报违规直播 微信：严打！",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E4%B8%BE%E6%8A%A5%E8%BF%9D%E8%A7%84%E7%9B%B4%E6%92%AD+%E5%BE%AE%E4%BF%A1%EF%BC%9A%E4%B8%A5%E6%89%93%EF%BC%81",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "抖音音乐班逐渐抽象",
-          "url": "https://www.douyin.com/hot/2284394",
-          "source": "抖音",
-          "ranks": [
-            16,
-            18,
-            17,
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1966086071931593385",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "黄磊微信名叫多妹弟爸",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E7%A3%8A%E5%BE%AE%E4%BF%A1%E5%90%8D%E5%8F%AB%E5%A4%9A%E5%A6%B9%E5%BC%9F%E7%88%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26stream_entry_id%3D31%26realpos%3D17%26q%3D%2523%25E9%25BB%2584%25E7%25A3%258A%25E5%25BE%25AE%25E4%25BF%25A1%25E5%2590%258D%25E5%258F%25AB%25E5%25A4%259A%25E5%25A6%25B9%25E5%25BC%259F%25E7%2588%25B8%2523%26flag%3D2%26pos%3D16%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26display_time%3D1761583205%26pre_seqid%3D17615832051990195585407",
-          "source": "微博",
-          "ranks": [
-            17,
-            23,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "尹老师开始批改抖音音乐班作业了",
-          "url": "https://www.douyin.com/hot/2283908",
-          "source": "抖音",
-          "ranks": [
-            28,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 07时31分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "现货黄金、白银双双大跌",
@@ -504,6 +500,17 @@
           "time_info": "[06时36分 ~ 07时31分]"
         },
         {
+          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
+          "url": "https://wallstreetcn.com/articles/3758018",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
           "url": "https://wallstreetcn.com/livenews/2994463",
           "source": "华尔街见闻-快讯",
@@ -528,6 +535,154 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 03时28分]"
+        },
+        {
+          "title": "随着持续的利好消息影响市场风险偏好，周二金银价格延续疲势，早盘时段现货黄金4000美元关口得而复失，白银回落至47美元下方；有消息称欧佩克+倾向于再度小幅增产，令油价承压，当前白银及美油显现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251028110428303800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "大量用户举报违规直播 微信：严打！",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E4%B8%BE%E6%8A%A5%E8%BF%9D%E8%A7%84%E7%9B%B4%E6%92%AD+%E5%BE%AE%E4%BF%A1%EF%BC%9A%E4%B8%A5%E6%89%93%EF%BC%81",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 11时32分]"
+        },
+        {
+          "title": "抖音音乐班逐渐抽象",
+          "url": "https://www.douyin.com/hot/2284394",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18,
+            17,
+            13,
+            14,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 11时32分]"
+        },
+        {
+          "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1966086071931593385",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "黄磊微信名叫多妹弟爸",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E7%A3%8A%E5%BE%AE%E4%BF%A1%E5%90%8D%E5%8F%AB%E5%A4%9A%E5%A6%B9%E5%BC%9F%E7%88%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26stream_entry_id%3D31%26realpos%3D17%26q%3D%2523%25E9%25BB%2584%25E7%25A3%258A%25E5%25BE%25AE%25E4%25BF%25A1%25E5%2590%258D%25E5%258F%25AB%25E5%25A4%259A%25E5%25A6%25B9%25E5%25BC%259F%25E7%2588%25B8%2523%26flag%3D2%26pos%3D16%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26display_time%3D1761583205%26pre_seqid%3D17615832051990195585407",
+          "source": "微博",
+          "ranks": [
+            17,
+            23,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "微信“对方正在输入”说明在干什么",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E2%80%9C%E5%AF%B9%E6%96%B9%E6%AD%A3%E5%9C%A8%E8%BE%93%E5%85%A5%E2%80%9D%E8%AF%B4%E6%98%8E%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "尹老师开始批改抖音音乐班作业了",
+          "url": "https://www.douyin.com/hot/2283908",
+          "source": "抖音",
+          "ranks": [
+            28,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 07时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周一（10月27日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨3.61%，逼近11.5万美元，亚太盘初短线拉升之后，剩余时间持续高位震荡，北京时间15:06曾涨穿11.65万美元。 CME以太币期货DCR主力合约涨4.92%，报4138.50美元，亚太盘初“跳空高开”之后，持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/2994543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时31分]"
+        },
+        {
+          "title": "以太坊跌破4100美元/枚，日内跌1.45%。",
+          "url": "https://flash.jin10.com/detail/20251028052428627800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时31分]"
+        },
+        {
+          "title": "商务部：本届进博会将展示低空经济、人形机器人等未来产业",
+          "url": "https://wallstreetcn.com/livenews/2994703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "以太坊失守4100美元/枚，日内跌幅0.56%。",
+          "url": "https://flash.jin10.com/detail/20251028105043863800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
@@ -584,11 +739,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 11时32分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -599,11 +755,12 @@
             11,
             10,
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 11时32分]"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，纽约州审计长托马斯·P·迪纳波利敦促特斯拉(TSLA.O)股东投票反对2025年首席执行官绩效奖励方案。",
@@ -617,36 +774,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时37分 ~ 06时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周一（10月27日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨3.61%，逼近11.5万美元，亚太盘初短线拉升之后，剩余时间持续高位震荡，北京时间15:06曾涨穿11.65万美元。 CME以太币期货DCR主力合约涨4.92%，报4138.50美元，亚太盘初“跳空高开”之后，持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/2994543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时31分]"
-        },
-        {
-          "title": "以太坊跌破4100美元/枚，日内跌1.45%。",
-          "url": "https://flash.jin10.com/detail/20251028052428627800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时31分]"
         }
       ]
     },
