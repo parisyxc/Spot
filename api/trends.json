@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T14:56:31.551820+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2025-10-28T15:33:59.010825+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 24,
+      "match_count": 35,
       "titles": [
         {
           "title": "中国米成救命粮,日本人破大防",
@@ -21,8 +21,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 14时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 15时33分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -34,6 +34,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 05时30分]"
+        },
+        {
+          "title": "央行称将继续打击境内虚拟货币经营和炒作，并密切跟踪、动态评估境外稳定币的发展，如何解读？",
+          "url": "https://www.zhihu.com/question/1966420653952434899",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            5,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 15时33分]"
         },
         {
           "title": "日本18000名警察出动确保东京安全",
@@ -48,6 +63,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时52分 ~ 07时31分]"
+        },
+        {
+          "title": "日本熊出没,警方卸磨杀驴食恶果",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346330&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%86%8A%E5%87%BA%E6%B2%A1%2C%E8%AD%A6%E6%96%B9%E5%8D%B8%E7%A3%A8%E6%9D%80%E9%A9%B4%E9%A3%9F%E6%81%B6%E6%9E%9C",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时33分]"
         },
         {
           "title": "日本鸡蛋价格逼近历史最高值",
@@ -84,29 +110,37 @@
           "time_info": "[00时51分 ~ 07时31分]"
         },
         {
-          "title": "日本熊出没,警方卸磨杀驴食恶果",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346330&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%86%8A%E5%87%BA%E6%B2%A1%2C%E8%AD%A6%E6%96%B9%E5%8D%B8%E7%A3%A8%E6%9D%80%E9%A9%B4%E9%A3%9F%E6%81%B6%E6%9E%9C",
-          "source": "贴吧",
+          "title": "日本首相高市早苗：决心将已成为全球最强大的日美同盟提升至新高度。",
+          "url": "https://flash.jin10.com/detail/20251028152631824800",
+          "source": "金十数据",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 14时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
-          "title": "央行称将继续打击境内虚拟货币经营和炒作，并密切跟踪、动态评估境外稳定币的发展，如何解读？",
-          "url": "https://www.zhihu.com/question/1966420653952434899",
-          "source": "知乎",
+          "title": "日本首相高市早苗：日本致力于从根本上加强其防御能力。",
+          "url": "https://flash.jin10.com/detail/20251028152604420800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            14,
-            5,
-            12
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 14时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "高市早苗：日本做好准备为和平与稳定作出更多贡献。 将与特朗普一起将盟友关系推升至新的高度。",
+          "url": "https://wallstreetcn.com/livenews/2994867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "日本鸡蛋价格逼近历史最高值",
@@ -120,6 +154,17 @@
           "time_info": "13时42分"
         },
         {
+          "title": "王毅同日本外相茂木敏充通电话",
+          "url": "https://wallstreetcn.com/livenews/2994865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "据日本朝日新闻：日本与韩国正在协调安排，拟于10月30日在韩国亚太经合组织峰会期间，举行日本首相高市早苗与韩国总统李在明之间的首次首脑会晤。",
           "url": "https://flash.jin10.com/detail/20251028064830582800",
           "source": "金十数据",
@@ -131,6 +176,28 @@
           "time_info": "07时31分"
         },
         {
+          "title": "日本首相高市早苗：这是前所未有的安全环境。",
+          "url": "https://flash.jin10.com/detail/20251028152419176800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "日本首相高市早苗：很荣幸能在美军乔治·华盛顿号航空母舰上发表演讲，这艘航母是维护本地区和平与自由的象征。",
+          "url": "https://flash.jin10.com/detail/20251028152330370800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "美国财政部：美国财长贝森特与日本财务大臣片山皋月讨论了汇率问题。 贝森特强调了稳健货币政策的作用。 贝森特称赞日本在放松管制方面所做的工作。 贝森特很高兴听到日本对财政措施的看法，并表示渴望了解更多有关措施的信息。",
           "url": "https://wallstreetcn.com/livenews/2994751",
           "source": "华尔街见闻-快讯",
@@ -140,17 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
-        },
-        {
-          "title": "日经225指数收跌0.6%，报50219.18点。 日本东证指数收跌1.2%，报3285.87点。 韩国首尔综指收盘跌0.8%，报4010.41点。",
-          "url": "https://wallstreetcn.com/livenews/2994827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
         },
         {
           "title": "日本与韩国首脑们安排10月30日会面。（朝日新闻）",
@@ -212,6 +268,18 @@
           "time_info": "[13时42分 ~ 14时56分]"
         },
         {
+          "title": "日经225指数收跌0.6%，报50219.18点。 日本东证指数收跌1.2%，报3285.87点。 韩国首尔综指收盘跌0.8%，报4010.41点。",
+          "url": "https://wallstreetcn.com/livenews/2994827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时33分]"
+        },
+        {
           "title": "美国财政部：财长贝森特在与日本财务大臣会晤时强调，制定健全的货币政策并加强沟通，在稳定通胀预期和防止汇率过度波动方面发挥着重要作用。",
           "url": "https://flash.jin10.com/detail/20251028121026578800",
           "source": "金十数据",
@@ -263,9 +331,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：目前尚未确定任何具体的美国项目。 没有直接讨论货币调整。 日美财长在汇率问题上达成共识。 汇率稳定波动并反映基本面是理想的。 贝森特理解中央银行独立性的规则。",
+          "url": "https://wallstreetcn.com/livenews/2994849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
@@ -290,6 +369,39 @@
           "time_info": "13时42分"
         },
         {
+          "title": "日本财务大臣片山皋月：未与美国财长贝森特就货币政策或外汇汇率进行详细会谈。",
+          "url": "https://flash.jin10.com/detail/20251028150810690800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：美国财长贝森特非常了解有关央行的规则。",
+          "url": "https://flash.jin10.com/detail/20251028150421528800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：美国财长贝森特可能不是在敦促日本央行提高利率。",
+          "url": "https://flash.jin10.com/detail/20251028150414363800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "美国总统特朗普：日本正在增加国防开支。",
           "url": "https://flash.jin10.com/detail/20251028105119280800",
           "source": "金十数据",
@@ -299,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：关于日美联合声明中的外汇内容没有变化。",
+          "url": "https://flash.jin10.com/detail/20251028150125679800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         }
       ]
     },
@@ -306,6 +429,17 @@
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 16,
       "titles": [
+        {
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时31分 ~ 15时33分]"
+        },
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
           "url": "https://wallstreetcn.com/articles/3757937",
@@ -318,15 +452,15 @@
           "time_info": "[00时51分 ~ 06时36分]"
         },
         {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
+          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
+          "url": "https://www.cls.cn/detail/2182699",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时31分 ~ 14时56分]"
+          "time_info": "[11时31分 ~ 15时33分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -342,17 +476,6 @@
           "time_info": "[07时31分 ~ 14时56分]"
         },
         {
-          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
-          "url": "https://www.cls.cn/detail/2182699",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 14时56分]"
-        },
-        {
           "title": "胜宏科技Q3净利11.02亿元，产能扩张激进、在建工程暴增1283.08% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3757994",
           "source": "华尔街见闻",
@@ -360,8 +483,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 15时33分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
@@ -623,121 +746,8 @@
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "大量用户举报违规直播 微信：严打！",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E4%B8%BE%E6%8A%A5%E8%BF%9D%E8%A7%84%E7%9B%B4%E6%92%AD+%E5%BE%AE%E4%BF%A1%EF%BC%9A%E4%B8%A5%E6%89%93%EF%BC%81",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            14,
-            16,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 14时56分]"
-        },
-        {
-          "title": "微信“对方正在输入”说明在干什么",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E2%80%9C%E5%AF%B9%E6%96%B9%E6%AD%A3%E5%9C%A8%E8%BE%93%E5%85%A5%E2%80%9D%E8%AF%B4%E6%98%8E%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 14时56分]"
-        },
-        {
-          "title": "抖音音乐班逐渐抽象",
-          "url": "https://www.douyin.com/hot/2284394",
-          "source": "抖音",
-          "ranks": [
-            16,
-            18,
-            17,
-            13,
-            14,
-            15,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 12时44分]"
-        },
-        {
-          "title": "许绍雄最后一条抖音：时间最公平",
-          "url": "https://www.douyin.com/hot/2285651",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时56分]"
-        },
-        {
-          "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1966086071931593385",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "黄磊微信名叫多妹弟爸",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E7%A3%8A%E5%BE%AE%E4%BF%A1%E5%90%8D%E5%8F%AB%E5%A4%9A%E5%A6%B9%E5%BC%9F%E7%88%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26stream_entry_id%3D31%26realpos%3D17%26q%3D%2523%25E9%25BB%2584%25E7%25A3%258A%25E5%25BE%25AE%25E4%25BF%25A1%25E5%2590%258D%25E5%258F%25AB%25E5%25A4%259A%25E5%25A6%25B9%25E5%25BC%259F%25E7%2588%25B8%2523%26flag%3D2%26pos%3D16%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26display_time%3D1761583205%26pre_seqid%3D17615832051990195585407",
-          "source": "微博",
-          "ranks": [
-            17,
-            23,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "尹老师开始批改抖音音乐班作业了",
-          "url": "https://www.douyin.com/hot/2283908",
-          "source": "抖音",
-          "ranks": [
-            28,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "张艺兴也来抖音音乐班了",
-          "url": "https://www.douyin.com/hot/2285610",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -748,8 +758,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 15时33分]"
         },
         {
           "title": "现货黄金、白银双双大跌",
@@ -765,6 +775,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时51分 ~ 04时37分]"
+        },
+        {
+          "title": "金价突然杀跌原因何在",
+          "url": "https://www.toutiao.com/trending/7565674495126847531/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少79.02吨，当前持仓量为15340.79吨。欢迎点击查看数据中心...",
@@ -825,6 +846,131 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）上海金午盘价为899.11元/克，较国际金价(899.41元/克)，低0.3元/克",
+          "url": "https://flash.jin10.com/detail/20251028150537606800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "微信“对方正在输入”说明在干什么",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E2%80%9C%E5%AF%B9%E6%96%B9%E6%AD%A3%E5%9C%A8%E8%BE%93%E5%85%A5%E2%80%9D%E8%AF%B4%E6%98%8E%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 15时33分]"
+        },
+        {
+          "title": "大量用户举报违规直播 微信：严打！",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E7%94%A8%E6%88%B7%E4%B8%BE%E6%8A%A5%E8%BF%9D%E8%A7%84%E7%9B%B4%E6%92%AD+%E5%BE%AE%E4%BF%A1%EF%BC%9A%E4%B8%A5%E6%89%93%EF%BC%81",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            14,
+            16,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时56分]"
+        },
+        {
+          "title": "抖音音乐班逐渐抽象",
+          "url": "https://www.douyin.com/hot/2284394",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18,
+            17,
+            13,
+            14,
+            15,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 12时44分]"
+        },
+        {
+          "title": "许绍雄最后一条抖音：时间最公平",
+          "url": "https://www.douyin.com/hot/2285651",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 15时33分]"
+        },
+        {
+          "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1966086071931593385",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "黄磊微信名叫多妹弟爸",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E7%A3%8A%E5%BE%AE%E4%BF%A1%E5%90%8D%E5%8F%AB%E5%A4%9A%E5%A6%B9%E5%BC%9F%E7%88%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26stream_entry_id%3D31%26realpos%3D17%26q%3D%2523%25E9%25BB%2584%25E7%25A3%258A%25E5%25BE%25AE%25E4%25BF%25A1%25E5%2590%258D%25E5%258F%25AB%25E5%25A4%259A%25E5%25A6%25B9%25E5%25BC%259F%25E7%2588%25B8%2523%26flag%3D2%26pos%3D16%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26display_time%3D1761583205%26pre_seqid%3D17615832051990195585407",
+          "source": "微博",
+          "ranks": [
+            17,
+            23,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "尹老师开始批改抖音音乐班作业了",
+          "url": "https://www.douyin.com/hot/2283908",
+          "source": "抖音",
+          "ranks": [
+            28,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "张艺兴也来抖音音乐班了",
+          "url": "https://www.douyin.com/hot/2285610",
+          "source": "抖音",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时33分]"
         }
       ]
     },
@@ -839,7 +985,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -946,11 +1092,12 @@
             9,
             12,
             18,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 14时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 15时33分]"
         },
         {
           "title": "特斯拉董事长呼吁批准马斯克万亿薪酬计划",
@@ -959,7 +1106,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -991,7 +1138,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "格罗方德半导体（格芯，GFS）首席财务官（CFO）John Hollister将因个人原因而离职。",
@@ -1029,6 +1176,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 06时36分]"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）富时中国A50指数成分股今日收盘行情一览：酿酒板块午后走势分化，半导体、石油板块全线走低",
+          "url": "https://flash.jin10.com/detail/20251028150454014800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         }
       ]
     },
@@ -1043,7 +1201,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
