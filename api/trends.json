@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T12:44:20.291152+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2025-10-28T13:42:10.724732+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国米成救命粮,日本人破大防",
@@ -16,11 +16,12 @@
             13,
             14,
             18,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 12时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 13时42分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -82,15 +83,39 @@
           "time_info": "[00时51分 ~ 07时31分]"
         },
         {
-          "title": "美国财政部：贝森特赞扬片山皋月在之前内阁任职时为推动放宽管制所做的出色工作，并坚信她有能力继续推动日本经济提升生产力。",
-          "url": "https://flash.jin10.com/detail/20251028121740973800",
+          "title": "央行称将继续打击境内虚拟货币经营和炒作，并密切跟踪、动态评估境外稳定币的发展，如何解读？",
+          "url": "https://www.zhihu.com/question/1966420653952434899",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 13时42分]"
+        },
+        {
+          "title": "日本熊出没,警方卸磨杀驴食恶果",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346330&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%86%8A%E5%87%BA%E6%B2%A1%2C%E8%AD%A6%E6%96%B9%E5%8D%B8%E7%A3%A8%E6%9D%80%E9%A9%B4%E9%A3%9F%E6%81%B6%E6%9E%9C",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
+          "title": "日本鸡蛋价格逼近历史最高值",
+          "url": "https://flash.jin10.com/detail/20251028132458827800",
           "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "13时42分"
         },
         {
           "title": "据日本朝日新闻：日本与韩国正在协调安排，拟于10月30日在韩国亚太经合组织峰会期间，举行日本首相高市早苗与韩国总统李在明之间的首次首脑会晤。",
@@ -104,26 +129,26 @@
           "time_info": "07时31分"
         },
         {
-          "title": "美国财政部：贝森特很高兴听到日本财务大臣片山皋月对日本正在考虑的财政措施的看法，并表示希望在制定完整的一揽子计划时了解更多，以便更好地了解潜在的影响。",
-          "url": "https://flash.jin10.com/detail/20251028121300826800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
           "title": "美国财政部：美国财长贝森特与日本财务大臣片山皋月讨论了汇率问题。 贝森特强调了稳健货币政策的作用。 贝森特称赞日本在放松管制方面所做的工作。 贝森特很高兴听到日本对财政措施的看法，并表示渴望了解更多有关措施的信息。",
           "url": "https://wallstreetcn.com/livenews/2994751",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "日本前首相安倍晋三被控谋杀的嫌疑人承认谋杀罪。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/2994787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "日本与韩国首脑们安排10月30日会面。（朝日新闻）",
@@ -137,15 +162,16 @@
           "time_info": "07时31分"
         },
         {
-          "title": "美国财政部：财长贝森特在与日本财务大臣会晤时强调，制定健全的货币政策并加强沟通，在稳定通胀预期和防止汇率过度波动方面发挥着重要作用。",
-          "url": "https://flash.jin10.com/detail/20251028121026578800",
+          "title": "美国财政部：贝森特赞扬片山皋月在之前内阁任职时为推动放宽管制所做的出色工作，并坚信她有能力继续推动日本经济提升生产力。",
+          "url": "https://flash.jin10.com/detail/20251028121740973800",
           "source": "金十数据",
           "ranks": [
-            9
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时42分]"
         },
         {
           "title": "美国商务部长卢特尼克：日本对美投资将从电力（行业）开始。（日经新闻）",
@@ -160,16 +186,28 @@
           "time_info": "[06时36分 ~ 07时31分]"
         },
         {
-          "title": "央行称将继续打击境内虚拟货币经营和炒作，并密切跟踪、动态评估境外稳定币的发展，如何解读？",
-          "url": "https://www.zhihu.com/question/1966420653952434899",
-          "source": "知乎",
+          "title": "美国财政部：贝森特很高兴听到日本财务大臣片山皋月对日本正在考虑的财政措施的看法，并表示希望在制定完整的一揽子计划时了解更多，以便更好地了解潜在的影响。",
+          "url": "https://flash.jin10.com/detail/20251028121300826800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            14
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 12时44分]"
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时42分]"
+        },
+        {
+          "title": "美国财政部：财长贝森特在与日本财务大臣会晤时强调，制定健全的货币政策并加强沟通，在稳定通胀预期和防止汇率过度波动方面发挥着重要作用。",
+          "url": "https://flash.jin10.com/detail/20251028121026578800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时42分]"
         },
         {
           "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
@@ -194,15 +232,37 @@
           "time_info": "11时32分"
         },
         {
+          "title": "据日本共同社：日本首相高市早苗周二在与美国总统特朗普的首次会晤中表示，为纪念美国建国250周年，日本将于明年向华盛顿捐赠250棵樱花树。",
+          "url": "https://flash.jin10.com/detail/20251028124115417800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
           "url": "https://flash.jin10.com/detail/20251028114540746800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "日本东证指数下跌1%，至3291.73点。",
+          "url": "https://wallstreetcn.com/livenews/2994769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "美国总统特朗普：日本正在增加国防开支。",
@@ -240,8 +300,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 12时44分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 13时42分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -249,11 +309,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 12时44分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 13时42分]"
         },
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -263,8 +324,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 13时42分]"
+        },
+        {
+          "title": "胜宏科技Q3净利11.02亿元，产能扩张激进、在建工程暴增1283.08% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757994",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时31分 ~ 12时44分]"
+          "time_info": "[12时44分 ~ 13时42分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
@@ -342,17 +414,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时31分]"
-        },
-        {
-          "title": "胜宏科技Q3净利11.02亿元，产能扩张激进、在建工程暴增1283.08% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757994",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         },
         {
           "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
@@ -549,8 +610,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 13时42分]"
         },
         {
           "title": "现货黄金、白银双双大跌",
@@ -623,7 +684,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
@@ -640,11 +701,12 @@
           "ranks": [
             4,
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 12时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 13时42分]"
         },
         {
           "title": "抖音音乐班逐渐抽象",
@@ -673,8 +735,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 13时42分]"
         },
         {
           "title": "抖音、腾讯、淘天等 61 家单位签署公约推动互联网平台互通互操作，将对互联网流量分发带来哪些影响？",
@@ -703,6 +765,17 @@
           "time_info": "[00时51分 ~ 07时31分]"
         },
         {
+          "title": "许绍雄最后一条抖音：时间最公平",
+          "url": "https://www.douyin.com/hot/2285651",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 13时42分]"
+        },
+        {
           "title": "尹老师开始批改抖音音乐班作业了",
           "url": "https://www.douyin.com/hot/2283908",
           "source": "抖音",
@@ -714,17 +787,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "许绍雄最后一条抖音：时间最公平",
-          "url": "https://www.douyin.com/hot/2285651",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         }
       ]
     },
@@ -739,7 +801,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -754,6 +816,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时31分]"
+        },
+        {
+          "title": "机器人现在连触觉都有了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E5%9C%A8%E8%BF%9E%E8%A7%A6%E8%A7%89%E9%83%BD%E6%9C%89%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 13时42分]"
         },
         {
           "title": "以太坊跌破4100美元/枚，日内跌1.45%。",
@@ -779,17 +853,6 @@
           "time_info": "11时32分"
         },
         {
-          "title": "机器人现在连触觉都有了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E5%9C%A8%E8%BF%9E%E8%A7%A6%E8%A7%89%E9%83%BD%E6%9C%89%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
           "title": "以太坊失守4100美元/枚，日内跌幅0.56%。",
           "url": "https://flash.jin10.com/detail/20251028105043863800",
           "source": "金十数据",
@@ -799,6 +862,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
+          "url": "https://www.cls.cn/detail/2182542",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8,
+            7,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 12时44分]"
+        },
+        {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6,
+            9,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 13时42分]"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，纽约州审计长托马斯·P·迪纳波利敦促特斯拉(TSLA.O)股东投票反对2025年首席执行官绩效奖励方案。",
+          "url": "https://flash.jin10.com/detail/20251028033138017800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时36分]"
+        },
+        {
+          "title": "欧洲汽车制造商协会：特斯拉(TSLA.O)9月欧盟新车注册量下降19%；比亚迪9月欧盟新车注册量增长272%。",
+          "url": "https://flash.jin10.com/detail/20251028130109340800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     },
@@ -846,58 +971,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特斯拉在虚拟世界训练AI司机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 12时44分]"
-        },
-        {
-          "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
-          "url": "https://www.cls.cn/detail/2182542",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            8,
-            7,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 12时44分]"
-        },
-        {
-          "title": "美国证券交易委员会（SEC）文件显示，纽约州审计长托马斯·P·迪纳波利敦促特斯拉(TSLA.O)股东投票反对2025年首席执行官绩效奖励方案。",
-          "url": "https://flash.jin10.com/detail/20251028033138017800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 06时36分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI基础设施 算力基建 AI Agent",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
@@ -910,12 +985,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时34分]"
+        },
+        {
+          "title": "谷歌宣布重启一核电站为AI基础设施供电",
+          "url": "https://flash.jin10.com/detail/20251028124839536800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
@@ -929,6 +1015,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时30分 ~ 07时31分]"
+        },
+        {
+          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
+          "url": "https://flash.jin10.com/detail/20251028123906600800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     }
