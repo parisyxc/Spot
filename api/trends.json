@@ -1,132 +1,198 @@
 {
-  "generated_at": "2025-10-30T04:44:32.222960+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-30T05:35:32.418343+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "Meta Platforms(META.O)CFO：由于计算需求增加，预计明年资本支出和费用计划将面临“上行压力”。",
+          "url": "https://flash.jin10.com/detail/20251030050159726800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "AI热潮助推云业务增长 谷歌营收飙升",
+          "url": "https://flash.jin10.com/detail/20251030044830557800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "Meta营收创纪录 利润因一次性税务支出而大减",
+          "url": "https://flash.jin10.com/detail/20251030044500635800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "扎克伯格：Meta对计算能力的需求持续超出预期。 如果公司能有更多可用的计算能力，就可以创造更高的利润。 认为Meta有可能在这方面“超出目标”（overshoot），获得过多的容量。 相信Meta会找到方法来使用它所构建（或购买）的任何资源。",
+          "url": "https://wallstreetcn.com/livenews/2996229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
         {
           "title": "Alphabet(GOOG.O)：Gemini应用程序的月活跃用户已超过6.5亿。",
           "url": "https://flash.jin10.com/detail/20251030041555585800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "Alphabet(GOOG.O)：欧盟委员会决定处以35亿美元罚款，该罚款已计入截至9月30日季度谷歌服务部门的一般及管理费用中。",
           "url": "https://flash.jin10.com/detail/20251030041537308800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "Alphabet(GOOG.O)：三季度谷歌广告收入741.8亿美元，YouTube广告收入102.6亿美元，谷歌搜索收入为565.67亿美元，三季度营业利润率31%。",
           "url": "https://flash.jin10.com/detail/20251030041438967800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "Meta Platforms(META.O)：预计将积极投资计算需求，建设自己的基础设施，并与第三方云服务提供商合作。",
           "url": "https://flash.jin10.com/detail/20251030041214505800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "Meta Platforms(META.O)：预计2026年的总支出增幅将显著高于2025年。",
           "url": "https://flash.jin10.com/detail/20251030041126946800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "Meta Platforms(META.O)：人工智能模型和产品的进展将使我们能够在未来的几年中抓住新的收入增长机遇。",
           "url": "https://flash.jin10.com/detail/20251030041058553800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "Meta Platforms(META.O)：我们已经清楚地看到，我们的计算需求持续显著增长。",
           "url": "https://flash.jin10.com/detail/20251030041043218800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "Meta Platforms(META.O)：截至2025年9月30日，员工人数为78,450人，同比增长8%。",
           "url": "https://flash.jin10.com/detail/20251030040934351800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "Meta Platforms(META.O)第三季度广告收入为500.82亿美元，市场预估为485.99亿美元。",
           "url": "https://flash.jin10.com/detail/20251030040859221800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "Meta Platforms(META.O)：预计第四季度收入为560亿美元至590亿美元。",
           "url": "https://flash.jin10.com/detail/20251030040832995800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "Meta Platforms(META.O)2025年Q3营收512.42亿美元，上年同期405.89亿美元，市场预期493.7亿美元。",
           "url": "https://flash.jin10.com/detail/20251030040704758800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
+        },
+        {
+          "title": "Meta警告称：可能会加大开支来支持人工智能（AI）繁荣。",
+          "url": "https://wallstreetcn.com/livenews/2996222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时44分"
+          "time_info": "05时35分"
         },
         {
           "title": "Alphabet(GOOGL.O)2025年Q3谷歌云服务收入151.6亿美元。",
@@ -143,29 +209,53 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "Global X投资策略主管Scott Helfstein：由于政府停摆，美联储掌握的信息比往常更少，更多依赖高频和信心数据。 挑战在于这些软数据在过去几个季度里持续低估了美国经济的实力。",
+          "url": "https://wallstreetcn.com/livenews/2996236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
+          "url": "https://wallstreetcn.com/livenews/2996231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
         {
           "title": "扎克伯格旗下Meta Platforms Inc.三季度营收512.4亿美元，分析师预期495.9亿美元。 三季度广告收入500.8亿美元，分析师预期485.9亿美元。 三季度运营利润205.4亿美元，同比增长18%。 因税单而一次性计提159.3亿美元非现金费用。 预计全年总体开支1160亿-1180亿美元，公司原本预计1140亿-1180亿美元。 预计四季度总体收入将介于560亿-590亿美元。 Meta美股盘后跌8.7%。",
           "url": "https://wallstreetcn.com/livenews/2996204",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "谷歌母公司Alphabet三季度营收1023.5亿美元，分析师预期998.5亿美元。 三季度ex-tac（不包含流量获取陈本）营收874.7亿美元，分析师预期851.1亿美元。 三季度谷歌云营收151.6亿美元，分析师预期147.5亿美元。 三季度谷歌服务营收870.5亿美元，分析师预期846.7亿美元。 三季度谷歌搜索和其他收入565.7亿美元，分析师预期549.9亿美元。 三季度YouTube广告营收102.6亿美元，分析师预期100.3亿美元。 三季度谷歌广告收入741.8亿美元，分析师预期724.6亿美元。 三季度末谷歌云订单积压1550亿美元。 多个主要业务实现两位数百分比增幅。 Gemini APP拥有超过6.5亿月活用户数。 预计全年资本开支910亿-930亿美元，分析师预期840.4亿美元，公司原本预计大约850亿美元。 谷歌A美股盘后涨7.7%。",
           "url": "https://wallstreetcn.com/livenews/2996201",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
@@ -183,11 +273,23 @@
           "url": "https://flash.jin10.com/detail/20251030040729871800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
+        },
+        {
+          "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。 该公司三季度同店销售增长0.3%，分析师预期增长0.99%。 三季度营收30亿美元，分析师预期30.2亿美元。 25-35岁年龄段Cohort顾客尤其（让公司）面临挑战。 由于客流量欠佳，公司在2025年第三次下调业绩指引。 通胀加速至0%-10%区间的中部。 公司不打算在2026年采取行动来（帮助顾客）应对通胀问题。",
+          "url": "https://wallstreetcn.com/livenews/2996221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时44分"
+          "time_info": "05时35分"
         },
         {
           "title": "金十图示：2025年10月29日（周三）热门中概股行情一览（美股收盘）",
@@ -226,29 +328,31 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "日本网民怒批高市早苗谄媚",
           "url": "https://www.toutiao.com/trending/7566199799146430507/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "日本网民怒批高市早苗谄媚",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E6%80%92%E6%89%B9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B0%84%E5%AA%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D6%26flag%3D0%26c_type%3D31%26realpos%3D6%26dgr%3D0%26cate%3D5001%26pos%3D6%26stream_entry_id%3D31%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E7%25BD%2591%25E6%25B0%2591%25E6%2580%2592%25E6%2589%25B9%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E8%25B0%2584%25E5%25AA%259A%2523%26filter_type%3Drealtimehot%26display_time%3D1761770419%26pre_seqid%3D17617704193270276622113",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
@@ -258,8 +362,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "日本熊出没,警方卸磨杀驴食恶果",
@@ -269,8 +373,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "专家：高市外交软身段在日本获好评",
@@ -282,6 +386,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "特朗普称麦克阿瑟独自起草日本宪法",
+          "url": "https://www.toutiao.com/trending/7565901563726692390/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价在美联储降息后回落 因鲍威尔试图撤回12月降息预期",
+          "url": "https://flash.jin10.com/detail/20251030041626474800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
+        },
+        {
+          "title": "周三（10月29日）纽约尾盘，现货黄金跌0.30%，报3940.43美元/盎司，北京时间06:07微跌至3916.81美元刷新日低，13:00出现一波持续的上涨行情，20:15刷新日高至4030.11美元，随后逐步回吐涨幅，美联储主席鲍威尔在02:35谈及12月降息前景之后转跌。 COMEX黄金期货跌0.63%，报3957.90美元/盎司，日内交投区间为3930.00-4046.20美元。 现货白银涨1.38%，报47.7130美元/盎司，日内交投区间为46.8559-48.4563美元，也在鲍威尔新闻发布会期间显著回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/2996214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
@@ -303,19 +447,36 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "金价在美联储降息后回落 因鲍威尔试图撤回12月降息预期",
-          "url": "https://flash.jin10.com/detail/20251030041626474800",
-          "source": "金十数据",
+          "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
+          "url": "https://wallstreetcn.com/livenews/2996211",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时44分"
+          "time_info": "05时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（10月29日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.17%，逼近11.1万美元，北京时间02:40（美联储主席鲍威尔淡化12月降息前景之后不久）刷新日低至接近10.9万美元。 CME以太币期货DCR主力合约跌1.25%，报3934.50美元，日内交投于4041.50-3838.50美元区间。",
+          "url": "https://wallstreetcn.com/livenews/2996212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     }
