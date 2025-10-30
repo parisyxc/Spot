@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T16:50:35.991421+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2025-10-30T17:40:20.797265+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 91,
+      "match_count": 92,
       "titles": [
         {
           "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
@@ -53,11 +53,12 @@
             25,
             27,
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 16时50分]"
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 17时40分]"
         },
         {
           "title": "日本央行行长植田和男：鉴于关税影响，希望密切关注工资谈判，尤其是在汽车行业。",
@@ -637,6 +638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "第一三共将向日本投资约900亿日元，用于下一代制药的研发。",
+          "url": "https://flash.jin10.com/detail/20251030170332553800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "日本央行：预计2025财年核心CPI为2.7%，持平上次。 预计2026财年核心CPI为1.8%，持平上次。 预计2027财年核心CPI为2.0%，持平上次。",
@@ -1366,7 +1378,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
@@ -1377,8 +1389,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 16时50分]"
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 17时40分]"
+        },
+        {
+          "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
+          "url": "https://wallstreetcn.com/articles/3758225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 17时40分]"
         },
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -1395,19 +1420,6 @@
           "time_info": "[06时44分 ~ 15时33分]"
         },
         {
-          "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
-          "url": "https://wallstreetcn.com/articles/3758225",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 16时50分]"
-        },
-        {
           "title": "Meta一次性税费致季度盈利暴跌83%，预计明年资本支出大增，盘后重挫超8%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3758231",
           "source": "华尔街见闻",
@@ -1416,8 +1428,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 16时50分]"
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 17时40分]"
         },
         {
           "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
@@ -1460,9 +1472,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "美股期指震荡走低，日元跌至8个月最低，现货黄金再度涨破4000美元，比特币跌近2%",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "市场中午“惊魂”一刻：美股期货、数字货币等风险资产急跌后反弹，黄金冲高回落，日元下跌",
@@ -1592,6 +1615,17 @@
           "time_info": "13时40分"
         },
         {
+          "title": "好未来第二财季净营收8.614亿美元，预估8.305亿美元。 第二财季调整后每ADS收益 0.24美元，预估0.16美元。 好未来美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/2996704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "美股股指期货跌幅收窄，标普500指数期货和纳斯达克指数期货再次转为持平。",
           "url": "https://flash.jin10.com/detail/20251030125122056800",
           "source": "金十数据",
@@ -1653,9 +1687,127 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "高盛：目前的基本面证明铜价有理由向每吨1万-1.1万美元预测区间的顶端盘整。",
+          "url": "https://flash.jin10.com/detail/20251030131055634800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "高盛：即使考虑到全球精炼产量的大幅下降，我们仍维持铜市场将在2026年出现小幅过剩的观点，这与我们对2026年铜价10,500美元/吨的预测一致。",
+          "url": "https://flash.jin10.com/detail/20251030130731953800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "高盛：若库存不大幅下降，铜价突破或难持久",
+          "url": "https://flash.jin10.com/detail/20251030171632590800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "金价在美联储降息后回落 因鲍威尔试图撤回12月降息预期",
+          "url": "https://flash.jin10.com/detail/20251030041626474800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时45分]"
+        },
+        {
+          "title": "金十图示：2025年10月30日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251030121318410800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "金价波动加剧，多家银行调整积存金起投门槛",
+          "url": "https://wallstreetcn.com/livenews/2996263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "现货白银日内涨幅达1%，报48.07美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2996705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报48.03美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251030170341195800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "周三（10月29日）纽约尾盘，现货黄金跌0.30%，报3940.43美元/盎司，北京时间06:07微跌至3916.81美元刷新日低，13:00出现一波持续的上涨行情，20:15刷新日高至4030.11美元，随后逐步回吐涨幅，美联储主席鲍威尔在02:35谈及12月降息前景之后转跌。 COMEX黄金期货跌0.63%，报3957.90美元/盎司，日内交投区间为3930.00-4046.20美元。 现货白银涨1.38%，报47.7130美元/盎司，日内交投区间为46.8559-48.4563美元，也在鲍威尔新闻发布会期间显著回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/2996214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "金价反弹",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E5%258F%258D%25E5%25BC%25B9%26dgr%3D0%26realpos%3D22%26band_rank%3D22%26pos%3D23%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26display_time%3D1761817204%26pre_seqid%3D17618172049310361430418",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
@@ -1689,6 +1841,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
+          "url": "https://www.cls.cn/detail/2185897",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时40分]"
+        },
+        {
           "title": "OpenAI正式发布两款全新开源安全推理模型gpt-oss-safeguard-120b与gpt-oss-safeguard-20b。",
           "url": "https://wallstreetcn.com/livenews/2996275",
           "source": "华尔街见闻-快讯",
@@ -1698,17 +1861,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
-          "url": "https://www.cls.cn/detail/2185897",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
         },
         {
           "title": "OpenAI计划于2027年上市",
@@ -1750,80 +1902,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "高盛：目前的基本面证明铜价有理由向每吨1万-1.1万美元预测区间的顶端盘整。",
-          "url": "https://flash.jin10.com/detail/20251030131055634800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "高盛：即使考虑到全球精炼产量的大幅下降，我们仍维持铜市场将在2026年出现小幅过剩的观点，这与我们对2026年铜价10,500美元/吨的预测一致。",
-          "url": "https://flash.jin10.com/detail/20251030130731953800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "金价在美联储降息后回落 因鲍威尔试图撤回12月降息预期",
-          "url": "https://flash.jin10.com/detail/20251030041626474800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 06时45分]"
-        },
-        {
-          "title": "金十图示：2025年10月30日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251030121318410800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "金价波动加剧，多家银行调整积存金起投门槛",
-          "url": "https://wallstreetcn.com/livenews/2996263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "周三（10月29日）纽约尾盘，现货黄金跌0.30%，报3940.43美元/盎司，北京时间06:07微跌至3916.81美元刷新日低，13:00出现一波持续的上涨行情，20:15刷新日高至4030.11美元，随后逐步回吐涨幅，美联储主席鲍威尔在02:35谈及12月降息前景之后转跌。 COMEX黄金期货跌0.63%，报3957.90美元/盎司，日内交投区间为3930.00-4046.20美元。 现货白银涨1.38%，报47.7130美元/盎司，日内交投区间为46.8559-48.4563美元，也在鲍威尔新闻发布会期间显著回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/2996214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1924,18 +2002,19 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待小红书被指对员工进行「期权欺诈」，一审被判赔 73 万？具体情况如何？员工如何应对这种「套路」？",
           "url": "https://www.zhihu.com/question/1966801899245266330",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时43分 ~ 16时50分]"
+          "appearance_count": 7,
+          "time_info": "[12时43分 ~ 17时40分]"
         },
         {
           "title": "双十一期间“二选一”？直播间价格竞争？京东、抖音、美的三方回应",
@@ -1946,8 +2025,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 16时50分]"
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 17时40分]"
+        },
+        {
+          "title": "微信三大新功能",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BE%AE%E4%BF%A1%E4%B8%89%E5%A4%A7%E6%96%B0%E5%8A%9F%E8%83%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25BE%25AE%25E4%25BF%25A1%25E4%25B8%2589%25E5%25A4%25A7%25E6%2596%25B0%25E5%258A%259F%25E8%2583%25BD%2523%26dgr%3D0%26realpos%3D2%26band_rank%3D2%26pos%3D1%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26display_time%3D1761817204%26pre_seqid%3D17618172049310361430418",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     }
