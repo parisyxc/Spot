@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T15:28:50.888528+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2025-11-01T16:42:18.463850+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时56分 ~ 07时30分]"
         },
         {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时29分 ~ 16时42分]"
+        },
+        {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3758368",
           "source": "华尔街见闻",
@@ -31,18 +43,6 @@
           "time_info": "[00时56分 ~ 07时30分]"
         },
         {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时29分 ~ 15时28分]"
-        },
-        {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
           "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
@@ -51,11 +51,12 @@
             9,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时39分 ~ 15时28分]"
+          "appearance_count": 11,
+          "time_info": "[06时39分 ~ 16时42分]"
         },
         {
           "title": "AWS创三年最快增速，资本支出超预期，亚马逊盘后涨14% | 财报见闻",
@@ -78,11 +79,12 @@
             4,
             3,
             5,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 16时42分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -148,11 +150,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 15时28分]"
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 16时42分]"
         },
         {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
@@ -241,7 +244,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "习近平会见日本首相高市早苗",
@@ -251,8 +254,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时56分 ~ 15时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时56分 ~ 16时42分]"
         },
         {
           "title": "习近平会见日本首相高市早苗",
@@ -271,11 +274,24 @@
           "source": "财联社热门",
           "ranks": [
             3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时56分 ~ 16时42分]"
+        },
+        {
+          "title": "日本熊灾怪中国,抗日英熊太坏了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346601&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE%E6%80%AA%E4%B8%AD%E5%9B%BD%2C%E6%8A%97%E6%97%A5%E8%8B%B1%E7%86%8A%E5%A4%AA%E5%9D%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            2,
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时56分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 16时42分]"
         },
         {
           "title": "731导演穿防弹衣出席日本试映",
@@ -293,18 +309,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时56分 ~ 07时30分]"
-        },
-        {
-          "title": "日本熊灾怪中国,抗日英熊太坏了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346601&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE%E6%80%AA%E4%B8%AD%E5%9B%BD%2C%E6%8A%97%E6%97%A5%E8%8B%B1%E7%86%8A%E5%A4%AA%E5%9D%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 15时28分]"
         },
         {
           "title": "日本首个女首相为何如此极端保守",
@@ -332,8 +336,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时33分 ~ 14时49分]"
+          "appearance_count": 7,
+          "time_info": "[11时33分 ~ 16时42分]"
         },
         {
           "title": "日本熊灾现场有明显吃人痕迹",
@@ -356,6 +360,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "加拿大总理办公室：加拿大总理卡尼与日本首相高市早苗重申了他们深化双边贸易与投资的决心，特别是在能源和科技领域。",
+          "url": "https://flash.jin10.com/detail/20251101154043125800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "加拿大总理办公室：加拿大总理卡尼与日本首相高市早苗讨论了在每年320亿美元的双边货物贸易额基础上，进一步拓展加拿大与日本之间富有成效的经济关系的潜力。",
+          "url": "https://flash.jin10.com/detail/20251101153948039800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "加拿大总理办公室：今天，加拿大总理卡尼在亚太经合组织领导人会议间隙会见了日本首相高市早苗。",
+          "url": "https://flash.jin10.com/detail/20251101153831791800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "韩国总统李在明：同意日本首相观点，韩日关系非常重要。",
@@ -446,8 +483,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 16时42分]"
         },
         {
           "title": "机器人牵机器狗遛弯把大哥看懵了",
@@ -456,11 +493,12 @@
           "ranks": [
             10,
             5,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 15时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 16时42分]"
         },
         {
           "title": "宇树科技人形机器人 H2 加入仿生人脸，有些人觉得长得吓人，为什么机器人有了脸之后会觉得吓人？",
@@ -562,7 +600,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "商务部回应安世半导体相关问题：将对符合条件的出口予以豁免",
@@ -575,8 +613,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 16时42分]"
         },
         {
           "title": "事关安世半导体 中方再发声",
@@ -586,11 +624,12 @@
             6,
             10,
             22,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 16时42分]"
         },
         {
           "title": "商务部回应安世半导体相关问题",
@@ -602,6 +641,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时33分 ~ 11时34分]"
+        },
+        {
+          "title": "商务部回应安世半导体相关问题，将综合考虑企业实际情况，对符合条件的出口予以豁免，如何解读？",
+          "url": "https://www.zhihu.com/question/1967886377577342546",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "荷兰在安世半导体问题上进退两难",
@@ -637,8 +687,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时35分 ~ 15时28分]"
+          "appearance_count": 4,
+          "time_info": "[13时35分 ~ 16时42分]"
         },
         {
           "title": "商务部就安世半导体相关问题应询答问：将对符合条件的出口予以豁免",
@@ -690,11 +740,12 @@
             10,
             11,
             8,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时39分 ~ 15时28分]"
+          "appearance_count": 11,
+          "time_info": "[06时39分 ~ 16时42分]"
         },
         {
           "title": "铜价突破“11000美元上限”！高盛“唱空”：任何突破都是暂时的，明年初铜价将逆转",
@@ -758,11 +809,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 16时42分]"
         },
         {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
@@ -819,8 +871,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 15时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 16时42分]"
         },
         {
           "title": "天地剑心抖音追剧团",
