@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T17:29:54.727392+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2025-11-02T18:37:47.438569+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时45分 ~ 17时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 18时37分]"
         },
         {
           "title": "日本男子保存现场26年凶手落网",
@@ -202,11 +202,25 @@
           "source": "今日头条",
           "ranks": [
             17,
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 18时37分]"
+        },
+        {
+          "title": "比特币向上触及111000美元/枚，日内涨0.82%。",
+          "url": "https://flash.jin10.com/detail/20251102155529476800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时29分 ~ 17时29分]"
+          "time_info": "[16时39分 ~ 18时37分]"
         },
         {
           "title": "“十月连涨神话”破灭！比特币本月跌近5%，六年来首次十月收跌",
@@ -218,18 +232,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
-        },
-        {
-          "title": "比特币向上触及111000美元/枚，日内涨0.82%。",
-          "url": "https://flash.jin10.com/detail/20251102155529476800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时29分]"
         },
         {
           "title": "工业机器人加速“上岗”，前三季度我国实现“智”造升级",
@@ -283,7 +285,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -324,6 +326,20 @@
           "time_info": "[00时45分 ~ 07时30分]"
         },
         {
+          "title": "股神卸任前的最后一份财报来袭：伯克希尔哈撒韦现金再创新高！",
+          "url": "https://www.cls.cn/detail/2188662",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时30分 ~ 18时37分]"
+        },
+        {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
           "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
@@ -337,18 +353,26 @@
           "time_info": "[00时45分 ~ 11时38分]"
         },
         {
-          "title": "股神卸任前的最后一份财报来袭：伯克希尔哈撒韦现金再创新高！",
-          "url": "https://www.cls.cn/detail/2188662",
-          "source": "财联社热门",
+          "title": "据港交所文件：广州豪特节能环保科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://wallstreetcn.com/livenews/2998133",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            9,
-            10,
-            12
+            1
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时30分 ~ 17时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "据港交所文件：广州豪特节能环保科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20251102181440300800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     },
@@ -449,11 +473,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时41分 ~ 17时29分]"
+          "appearance_count": 8,
+          "time_info": "[12时41分 ~ 18时37分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -618,8 +643,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时36分 ~ 17时29分]"
+          "appearance_count": 6,
+          "time_info": "[13时36分 ~ 18时37分]"
         }
       ]
     }
