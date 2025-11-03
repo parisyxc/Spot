@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T21:44:10.453495+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2025-11-03T22:43:58.143184+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 15,
+      "match_count": 26,
       "titles": [
         {
           "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时59分 ~ 21时44分]"
+          "appearance_count": 8,
+          "time_info": "[16时59分 ~ 22时43分]"
         },
         {
           "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
@@ -111,6 +111,83 @@
           "time_info": "19时28分"
         },
         {
+          "title": "美股行业ETF盘初涨跌各异，全球科技股指数ETF涨1.39%，半导体ETF与可选消费ETF涨超1%，网络股指数ETF与科技行业ETF涨约0.8%，银行业ETF则跌1.41%，区域银行ETF跌1.45%。",
+          "url": "https://wallstreetcn.com/livenews/2998634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251103224008270800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "Iren美股盘初上涨25%，有望创2024年以来最佳单日表现。",
+          "url": "https://wallstreetcn.com/livenews/2998631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "道指美股盘初转跌。",
+          "url": "https://wallstreetcn.com/livenews/2998629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价回落，比特币跌近3%",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "Kimberly-Clark Corp.（KMB）美股盘初下跌13%，创2008年以来最差盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/2998636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "亚马逊美股盘初涨5.2%，英伟达涨3%。",
+          "url": "https://wallstreetcn.com/livenews/2998633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "美光科技美股盘前涨超4%。报道称DDR5现货价格飙升25%，三星暂停DDR5合约价报价。",
           "url": "https://wallstreetcn.com/livenews/2998506",
           "source": "华尔街见闻-快讯",
@@ -122,6 +199,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时48分 ~ 19时28分]"
+        },
+        {
+          "title": "Beyond Meat(BYND.O)跌超8%，公司将延迟发布第三季度财报以量化一项减值损失。",
+          "url": "https://flash.jin10.com/detail/20251103223249462800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "亚市盘初，现货黄金、现货白银小幅低开。 WTI开盘上涨0.6%，此前彭博报道，OPEC+将在明年一季度暂停增产石油。 美股三大股指期货开盘小幅走高，道指期货涨0.11%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
@@ -157,13 +245,46 @@
           "time_info": "07时31分"
         },
         {
+          "title": "美股数据存储公司股价普涨，SanDisk涨超4%，美光科技(MU.O)涨近5%，希捷科技(STX.O)涨近1.5%，西部数据(WDC.O)涨2.6%。消息面上，报道称三星将DDR5合同定价推迟至11月中旬且现货价格翻了两番。",
+          "url": "https://flash.jin10.com/detail/20251103223215276800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "美股三大股指集体高开",
+          "url": "https://flash.jin10.com/detail/20251103223023169800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2998617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "BioNTech三季度营收15.2亿欧元，预估7.843亿欧元。 三季度每股亏损0.12欧元，预估每股亏损0.96欧元。 BioNTech预计全财年营收26-28亿欧元，此前预计17-22亿欧元。 BioNTech预计全财年资本支出2-2.5亿欧元，此前预计2.5-3.5亿欧元。 BioNTech美股盘前涨近4%。",
           "url": "https://wallstreetcn.com/livenews/2998564",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -174,7 +295,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -185,7 +306,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         }
@@ -241,11 +362,12 @@
             11,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时59分 ~ 21时44分]"
+          "appearance_count": 8,
+          "time_info": "[16时59分 ~ 22时43分]"
         },
         {
           "title": "以太坊日内跌幅达5.00%，现报3710美元/枚。",
@@ -404,8 +526,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时50分 ~ 21时44分]"
+          "appearance_count": 13,
+          "time_info": "[12时50分 ~ 22时43分]"
         },
         {
           "title": "日本熊灾怪中国,抗日英熊太坏了",
@@ -517,6 +639,113 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时42分]"
+        },
+        {
+          "title": "市场消息：OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
+          "url": "https://flash.jin10.com/detail/20251103120231849800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
+          "url": "https://wallstreetcn.com/livenews/2998342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 13时45分]"
+        },
+        {
+          "title": "亚马逊与OpenAI签订价值380亿美元的协议，将供应英伟达芯片提供的算力",
+          "url": "https://wallstreetcn.com/livenews/2998620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "亚马逊与OpenAI签署380亿美元协议 为其提供英伟达芯片算力支持",
+          "url": "https://flash.jin10.com/detail/20251103221140014800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "OpenAI：亚马逊云服务（AWS）算力容量可继续扩容至2027年及后续阶段。",
+          "url": "https://flash.jin10.com/detail/20251103220523576800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "OpenAI：将立即启用亚马逊云服务（AWS）算力服务作为战略合作首阶段部署，计划于2026年底前完成全部算力资源投产。",
+          "url": "https://flash.jin10.com/detail/20251103220458471800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "OpenAI：将接入配备数十万颗英伟达(NVDA.O)先进GPU的AWS算力集群。",
+          "url": "https://flash.jin10.com/detail/20251103220427835800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "OpenAI：此次合作涉及380亿美元投资承诺，OpenAI将借助亚马逊云服务（AWS）的价格优势、卓越性能、扩展能力与安全保障大幅提升算力规模。",
+          "url": "https://flash.jin10.com/detail/20251103220348095800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 铜价 白银",
       "match_count": 8,
       "titles": [
@@ -611,6 +840,80 @@
       ]
     },
     {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "据报道，谷歌母公司Alphabet寻求通过美元债发行筹集150亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2998610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "谷歌母公司Alphabet启动分八部分美元债券发行。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2998596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时43分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet将发行至少30亿欧元债券以支持AI扩张",
+          "url": "https://wallstreetcn.com/livenews/2998517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时28分]"
+        },
+        {
+          "title": "摩根大通：将谷歌母公司Alphabet添加到了“美国分析师关注名单”中。",
+          "url": "https://flash.jin10.com/detail/20251103151938770800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "谷歌母公司Alphabet(GOOG.O)启动八部分美元债券发行。",
+          "url": "https://flash.jin10.com/detail/20251103205814111800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "报道：谷歌母公司Alphabet寻求通过美元债发行筹集150亿美元",
+          "url": "https://wallstreetcn.com/livenews/2998610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 INTEL",
       "match_count": 6,
       "titles": [
@@ -661,7 +964,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -672,7 +975,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -724,6 +1027,41 @@
           "time_info": "[16时59分 ~ 19时28分]"
         },
         {
+          "title": "巧夺天工的抖音手搓大神",
+          "url": "https://www.douyin.com/hot/2293358",
+          "source": "抖音",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时43分 ~ 22时43分]"
+        },
+        {
+          "title": "如何看待南风窗旗下微信公众号南风窗调研 er 发布推文《苦学 12 年，「没人教我高考志愿怎么填」》?",
+          "url": "https://www.zhihu.com/question/1966616017229811882",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时43分 ~ 22时43分]"
+        },
+        {
+          "title": "我要加入抖音全运班",
+          "url": "https://www.douyin.com/hot/2293382",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时43分 ~ 22时43分]"
+        },
+        {
           "title": "抖音旗下深圳星罗拾光科技公司增资至94.8亿，增幅约437%",
           "url": "https://wallstreetcn.com/livenews/2998311",
           "source": "华尔街见闻-快讯",
@@ -734,142 +1072,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 12时51分]"
-        },
-        {
-          "title": "巧夺天工的抖音手搓大神",
-          "url": "https://www.douyin.com/hot/2293358",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 21时44分]"
-        },
-        {
-          "title": "如何看待南风窗旗下微信公众号南风窗调研 er 发布推文《苦学 12 年，「没人教我高考志愿怎么填」》?",
-          "url": "https://www.zhihu.com/question/1966616017229811882",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 21时44分]"
-        },
-        {
-          "title": "我要加入抖音全运班",
-          "url": "https://www.douyin.com/hot/2293382",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 21时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "据报道，谷歌母公司Alphabet寻求通过美元债发行筹集150亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2998610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "谷歌母公司Alphabet启动分八部分美元债券发行。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2998596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "谷歌母公司Alphabet将发行至少30亿欧元债券以支持AI扩张",
-          "url": "https://wallstreetcn.com/livenews/2998517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 19时28分]"
-        },
-        {
-          "title": "摩根大通：将谷歌母公司Alphabet添加到了“美国分析师关注名单”中。",
-          "url": "https://flash.jin10.com/detail/20251103151938770800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "谷歌母公司Alphabet(GOOG.O)启动八部分美元债券发行。",
-          "url": "https://flash.jin10.com/detail/20251103205814111800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时42分]"
-        },
-        {
-          "title": "市场消息：OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
-          "url": "https://flash.jin10.com/detail/20251103120231849800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
-          "url": "https://wallstreetcn.com/livenews/2998342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时45分]"
         }
       ]
     },
@@ -882,11 +1084,12 @@
           "url": "https://wallstreetcn.com/livenews/2998593",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时43分]"
         }
       ]
     }
