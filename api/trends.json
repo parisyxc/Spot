@@ -1,11 +1,197 @@
 {
-  "generated_at": "2025-11-05T05:32:29.839391+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2025-11-05T06:42:54.402478+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时42分]"
+        },
+        {
+          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2191076",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时42分]"
+        },
+        {
+          "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
+          "url": "https://flash.jin10.com/detail/20251105062032603800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "超微电脑第一财季净销售50.2亿美元，分析师预期60.9亿美元。预计全年净销售至少360亿美元，公司原本预计至少330亿美元。预计第二财季净销售100亿-110亿美元，分析师预期80.5亿美元。超微电脑美股盘后跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/2999402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251105050612809800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "AMD美股盘后跌幅重新扩大至1.88%，该公司CEO苏姿丰正在分析师电话会议上讲话。",
+          "url": "https://wallstreetcn.com/livenews/2999433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251105050517718800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美股散户指数创特朗普关税日以来的最大跌幅",
+          "url": "https://flash.jin10.com/detail/20251105061222244800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "偏爱科技股，投资组合化，牛散投资现分歧",
+          "url": "https://wallstreetcn.com/livenews/2999431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "美股收盘：三大股指齐挫 纳指大跌2%",
+          "url": "https://flash.jin10.com/detail/20251105050113482800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251105013105408800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时28分]"
+        },
+        {
+          "title": "费城金银指数收跌4.51%，报265.03点，跳空低开之后，大部分时间低位震荡。 纽约证交所ARCA金矿开采商指数收跌3.98%，报1926.21点；北京时间22:30美股开盘之前维持微幅下跌状态，主要持稳于2000-1990点区间，之后跳空下挫，后续低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/2999423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
+          "url": "https://wallstreetcn.com/livenews/2999422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "Pinterest美股盘后下跌15%，该公司业绩欠佳，给出的指引也疲软。",
+          "url": "https://wallstreetcn.com/livenews/2999419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "戴尔科技美股盘后跌3.7%，投资者关注超微电脑业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/2999416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "半导体ETF收跌超3.6%，与航空业ETF领跌美股行业ETF，标普科技板块跌约2.3%",
+          "url": "https://wallstreetcn.com/livenews/2999413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "加密货币周一继续“血崩”，部分代币已跌回10月闪崩低点，“比特币的机构需求7个月来首次低于挖矿速度”",
@@ -15,8 +201,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时42分]"
         },
         {
           "title": "比特币跌穿10万美元关口，为6月份以来首次，跌幅超过6.5%。",
@@ -126,15 +312,37 @@
           "time_info": "[03时28分 ~ 04时40分]"
         },
         {
+          "title": "周二（11月4日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌6.78%，报99810美元，北京时间13:00之前持平于10.7万美元以下，之后持续下跌。 CME以太币期货DCR主力合约跌12.29%，报3151.50美元，23:20之前持稳于3600美元附近，之后持续、平滑下跌。 目前（北京时间05:58），现货比特币跌6.14%，以太坊跌11.05%，Solana跌8.9%，狗狗币跌4.8%，XRP跌6.1%。",
+          "url": "https://wallstreetcn.com/livenews/2999424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "以太坊向下触及3200美元/枚，日内跌11.24%。",
           "url": "https://flash.jin10.com/detail/20251105041737500800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "以太坊暴跌15% 比特币下破9.9万美元",
+          "url": "https://flash.jin10.com/detail/20251105055024471800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         }
       ]
     },
@@ -150,8 +358,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时42分]"
         },
         {
           "title": "“特斯拉劲敌”Rivian三季度产量10,720辆，分析师预期10,487辆。",
@@ -160,7 +368,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
@@ -231,7 +439,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
@@ -253,96 +461,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时32分]"
-        },
-        {
-          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2191076",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时32分]"
-        },
-        {
-          "title": "超微电脑第一财季净销售50.2亿美元，分析师预期60.9亿美元。预计全年净销售至少360亿美元，公司原本预计至少330亿美元。预计第二财季净销售100亿-110亿美元，分析师预期80.5亿美元。超微电脑美股盘后跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/2999402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时32分"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251105050612809800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251105050517718800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "美股收盘：三大股指齐挫 纳指大跌2%",
-          "url": "https://flash.jin10.com/detail/20251105050113482800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251105013105408800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时28分]"
         }
       ]
     },
@@ -439,8 +560,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时42分]"
         },
         {
           "title": "商务部回应安世半导体磋商进展：荷方应承担全部责任",
@@ -451,8 +572,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时42分]"
         },
         {
           "title": "纳指跌幅扩大至2%，标普500指数跌1.2%——科技板块跌2.2%，可选消费、电信、工业板块至多跌1.89%，半导体指数跌3.3%。特斯拉跌4.7%，苹果目前涨0.48%。 纳斯达克100指数的成分股中，Palantir跌9.4%，CDW跌8.6%，汤森路透跌6.3%，美光科技跌6.2%，新思科技和MSTR跌6.1%，英特尔跌5.6%，特斯拉跌4.9%，英伟达跌3.8%，安森美半导体跌3.6%，Linde则涨1.7%，VRSK涨2%，万豪国际涨3.7%。",
@@ -472,7 +593,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         }
@@ -490,8 +611,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时42分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月4日（周二）晚盘收盘下跌0.66%报907.7元/克；<br/>上海黄金交易所白银T+D 11月4日（周二）晚盘收盘下跌0.57%报11206.0元/千克。",
@@ -512,7 +633,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         }
@@ -530,8 +651,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时42分]"
         },
         {
           "title": "日本熊害已致12人丧生，陆上自卫队出动",
@@ -541,8 +662,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时42分]"
         },
         {
           "title": "日本制铁（新日铁）将为数据中心（市场）提供高级钢材。（日经新闻）",
@@ -569,11 +690,12 @@
           "ranks": [
             23,
             19,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时42分]"
         },
         {
           "title": "抖音企鹅班火热招新中",
@@ -586,8 +708,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时42分]"
         }
       ]
     },
