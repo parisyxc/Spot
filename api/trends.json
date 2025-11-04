@@ -1,419 +1,123 @@
 {
-  "generated_at": "2025-11-04T23:43:48.663096+08:00",
-  "total_titles_processed": 1932,
+  "generated_at": "2025-11-05T00:51:47.091470+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 35,
+      "match_count": 2,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
           "url": "https://wallstreetcn.com/articles/3758543",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时31分 ~ 23时43分]"
-        },
-        {
-          "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
-          "url": "https://www.cls.cn/detail/2189431",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时33分]"
-        },
-        {
-          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
-          "url": "https://www.cls.cn/detail/2190089",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时33分 ~ 15时34分]"
-        },
-        {
-          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2189932",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 12时45分]"
-        },
-        {
-          "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜亚马逊收涨4%，特斯拉和英伟达涨超2%，Meta则跌超2%",
-          "url": "https://wallstreetcn.com/livenews/2998759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "法拉利第三季度营收17.7亿欧元，预估17.1亿欧元。 第三季度EBITDA 6.7亿欧元，预估6.45亿欧元。 第三季度息税前利润5.03亿欧元，预估4.71亿欧元。 第三季度交付量3401辆，预估3347辆。 法拉利美股盘前涨2.5%。",
-          "url": "https://wallstreetcn.com/livenews/2999193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "Palantir三季度营收同比暴增63%，连续九个季度超盈利预期，军工订单爆棚，上调全年营收指引 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758591",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251104013142595800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时50分]"
-        },
-        {
-          "title": "Spotify三季度营收42.7亿欧元，预估42.3亿欧元。 三季度每股收益3.26欧元，上年同期1.45欧元。 三季度营业利润5.82亿欧元，同比增长28%。 Spotify预计四季度营收45亿欧元，预估45.7亿欧元。 Spotify预计四季度营业利润6.2亿欧元，预估6.053亿欧元。 Spotify美股盘前涨近7%。",
-          "url": "https://wallstreetcn.com/livenews/2999184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "金十图示：2025年11月03日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251104013024718800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时50分]"
-        },
-        {
-          "title": "金十图示：2025年11月03日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251104050720883800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时40分]"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251104224011768800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时43分]"
-        },
-        {
-          "title": "周一（11月3日）纽约尾盘，美元兑日元涨0.13%，报154.19日元，日内交投区间为153.93-154.30日元，北京时间21:40刷新日高，美股盘初显著跳水，23:00刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/2998745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时31分]"
-        },
-        {
-          "title": "Palantir三季度营收同比暴增63%，连续21个季度超预期，军工订单爆棚，上调全年营收指引 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758591",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251104050600699800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时40分]"
-        },
-        {
-          "title": "华尔街多位CEO警告 美股可能因估值偏高出现逾10%的回调",
-          "url": "https://wallstreetcn.com/livenews/2999103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时51分]"
-        },
-        {
-          "title": "美股收盘，三大股指涨跌不一",
-          "url": "https://flash.jin10.com/detail/20251104050106634800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时40分]"
-        },
-        {
-          "title": "据上交所官网显示，易思维（杭州）科技股份有限公司科创板IPO审核状态变更为“已问询”。",
-          "url": "https://wallstreetcn.com/livenews/2999235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 22时44分]"
-        },
-        {
-          "title": "Metsera Inc.股票将在美东时间09:50（北京时间22:50，美股开盘后20分钟）恢复交易。 诺和诺德欧股目前跌0.81%，暂报312.75。 辉瑞制药美股盘前暂时跌1.09%。",
-          "url": "https://wallstreetcn.com/livenews/2999262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时43分]"
-        },
-        {
-          "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
-          "url": "https://wallstreetcn.com/livenews/2999122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时51分]"
+          "time_info": "00时51分"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2191076",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "商务部回应安世半导体磋商进展：荷方应承担全部责任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31889089",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
-          "title": "明星科技股普跌，美光科技(MU.O)跌6%，英特尔(INTC.O)、AMD(AMD.O)跌超4%，甲骨文(ORCL.N)、阿里巴巴(BABA.N)跌约3%，英伟达(NVDA.O)跌2.4%。",
-          "url": "https://flash.jin10.com/detail/20251104223357357800",
+          "title": "商务部回应安世半导体磋商进展，称全球半导体产供链的动荡混乱，荷方应承担全部责任，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1969042065313726709",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：与Vitality宣布合作推出Vitality AI。",
+          "url": "https://flash.jin10.com/detail/20251105000406065800",
           "source": "金十数据",
           "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时43分]"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2999257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时44分"
+          "time_info": "00时51分"
         },
         {
-          "title": "特斯拉(TSLA.O)美股盘前下跌2.2%。",
-          "url": "https://flash.jin10.com/detail/20251104171015435800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2998769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.75%，道指期货跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/2999015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "美股三大股指集体低开",
-          "url": "https://flash.jin10.com/detail/20251104223028460800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
-          "url": "https://wallstreetcn.com/livenews/2999272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "可选消费ETF收涨超0.9%，和半导体ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2998765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "Shopify第三季度营收28.4亿美元，预估27.6亿美元。 三季度营业利润3.43亿美元，预估3.114亿美元。 三季度每股收益0.2美元。 Shopify美股盘前跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/2999213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "优步三季度营收134.7亿美元，预估132.6亿美元。 三季度每股收益3.11美元。 三季度调整后税息折旧及摊销前利润22.6亿美元，预期22.7亿美元。 三季度总预订额497.4亿美元，预估489.6亿美元。 优步预计第四季度调整后税息折旧及摊销前利润将在24.1亿至25.1亿美元之间，市场预估24.9亿美元。 优步预计第四季度总预订额将在522.5亿至537.5亿美元之间，市场预估523.3亿美元。 优步美股盘前一度跌近5%。",
-          "url": "https://wallstreetcn.com/livenews/2999210",
+          "title": "Meta Platforms：为苹果公司Apple Watch推出WhatsApp。",
+          "url": "https://wallstreetcn.com/livenews/2999287",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时48分"
-        },
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "美股七巨头收盘播报｜亚马逊涨4%创收盘历史新高，特斯拉和英伟达涨超2%，Meta则跌超2%",
-          "url": "https://wallstreetcn.com/livenews/2998759",
-          "source": "华尔街见闻-快讯",
+          "title": "“传家锅”工厂抖音粉丝已破百万",
+          "url": "https://www.douyin.com/hot/2294089",
+          "source": "抖音",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "00时51分"
         },
         {
-          "title": "辉瑞第三季度营收166.5亿美元，预估165.9亿美元。 辉瑞第三季度调整后每股收益0.87美元。 辉瑞仍然预测全年营收610亿美元至640亿美元。 辉瑞预计全年调整后每股收益3-3.15美元，此前预计2.9-3.1美元。 辉瑞美股盘前涨逾2%。",
-          "url": "https://wallstreetcn.com/livenews/2999207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "美股高开低走，纳指科技指数收涨超0.2%，亚马逊创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/2998752",
-          "source": "华尔街见闻-快讯",
+          "title": "抖音企鹅班火热招新中",
+          "url": "https://www.douyin.com/hot/2294097",
+          "source": "抖音",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "00时51分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 26,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国外交部严厉正告后，日本外相最新涉台表态",
@@ -423,8 +127,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时42分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "日本熊害已致12人丧生，陆上自卫队出动",
@@ -434,1145 +138,59 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时50分 ~ 23时43分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "日本本州岛确认禽流感疫情",
-          "url": "https://flash.jin10.com/detail/20251104193121583800",
-          "source": "金十数据",
+          "title": "美国一特斯拉打不开车门 5人被烧死",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%93%E4%B8%8D%E5%BC%80%E8%BD%A6%E9%97%A8+5%E4%BA%BA%E8%A2%AB%E7%83%A7%E6%AD%BB",
+          "source": "百度热搜",
           "ranks": [
-            1
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时32分"
-        },
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "日本30年期国债收益率上升5个基点，至3.09%。",
-          "url": "https://flash.jin10.com/detail/20251104123843606800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "日本本州岛确认禽流感疫情",
-          "url": "https://wallstreetcn.com/livenews/2999198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 21时48分]"
-        },
-        {
-          "title": "日本30年期国债收益率上升5个基点，至3.09%。",
-          "url": "https://wallstreetcn.com/livenews/2998986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时40分]"
-        },
-        {
-          "title": "日本首相高市早苗表示，扩大自由贸易是经济外交的核心支柱。",
-          "url": "https://wallstreetcn.com/livenews/2998996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "日经225指数收跌1.7%，报51497.20点。 日本东证指数收跌0.7%，报3310.14点。 韩国首尔综指收盘跌2.4%，报4121.74点。",
-          "url": "https://wallstreetcn.com/livenews/2999041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时34分]"
-        },
-        {
-          "title": "专家：从日本看德国外交的大失态",
-          "url": "https://www.toutiao.com/trending/7567546396136620068/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 15时34分]"
-        },
-        {
-          "title": "英伟达市值咋超过了日本GDP",
-          "url": "https://www.toutiao.com/trending/7568646681730747910/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 12时45分]"
-        },
-        {
-          "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
-          "url": "https://www.zhihu.com/question/1967568181846602402",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 06时40分]"
-        },
-        {
-          "title": "日本年轻人为何支持高市早苗",
-          "url": "https://www.toutiao.com/trending/7568764656089566766/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 18时51分]"
-        },
-        {
-          "title": "日本首相高市早苗：希望日本央行针对通胀目标采取适当的政策。 “安倍经济学” 造成了通缩环境。",
-          "url": "https://wallstreetcn.com/livenews/2998991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "本田十月份在日本的销量同比下降了2.3%。",
-          "url": "https://flash.jin10.com/detail/20251104130645656800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "日本首相高市早苗：暂不就追加预算的规模发表评论。",
-          "url": "https://wallstreetcn.com/livenews/2998989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "日本央行：日本央行行长植田和男将于12月1日在日本中部名古屋发表演讲，并会见商界领袖。",
-          "url": "https://flash.jin10.com/detail/20251104130622585800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "日产十月份在日本的销量同比下降了28.8%。",
-          "url": "https://flash.jin10.com/detail/20251104130612422800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "丰田汽车10月在日本销量同比下降5.6%。",
-          "url": "https://flash.jin10.com/detail/20251104130600487800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：以高度紧迫感关注外汇市场走势。 近来出现了单边、快速的走势。",
-          "url": "https://wallstreetcn.com/livenews/2998921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "三菱公司首席执行官：将继续与日本政府及商业伙伴就我们在俄罗斯萨哈林-2液化天然气项目中的股权问题进行磋商。",
-          "url": "https://flash.jin10.com/detail/20251104130409225800",
-          "source": "金十数据",
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26pos%3D20%26band_rank%3D21%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26realpos%3D21%26flag%3D1%26cate%3D5001%26lcate%3D5001%26display_time%3D1762274352%26pre_seqid%3D17622743525260343237307&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：各方同意在年底前削减汽油税。",
-          "url": "https://flash.jin10.com/detail/20251104165345745800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "日本首相高市早苗：将与特朗普举行更多会晤以深化关系。",
-          "url": "https://wallstreetcn.com/livenews/2999077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "瑞穗金融CEO：高市早苗政策与日本央行加息将助推银行业务增长",
-          "url": "https://flash.jin10.com/detail/20251104110709727800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "日本首相高市早苗：日本距离实现由工资增长支撑的稳定通胀仍有一半路程。",
-          "url": "https://flash.jin10.com/detail/20251104125143430800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "瑞穗CEO：市场对高市早苗的增长计划反应良好。 考虑到通胀，日本还有两次或更多的加息空间。 日本央行准备好在对薪资增长有信心时加息。",
-          "url": "https://wallstreetcn.com/livenews/2998907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "日本经济财政政策大臣城内实：将于明年夏天确定日本的经济增长策略。 增长策略小组的成员包括学者和商界领袖，将首先列出经济刺激计划的焦点。 对经济刺激计划的资金来源不予置评。 预计日本央行将与政府就物价目标密切合作。 预计日本央行将同时致力于经济增长和物价稳定。",
-          "url": "https://wallstreetcn.com/livenews/2998903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
+          "time_info": "00时51分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 22,
+      "match_count": 1,
       "titles": [
         {
           "title": "加密货币周一继续“血崩”，部分代币已跌回10月闪崩低点，“比特币的机构需求7个月来首次低于挖矿速度”",
           "url": "https://wallstreetcn.com/articles/3758598",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时56分 ~ 23时43分]"
-        },
-        {
-          "title": "物流人形机器人爆发前夜：厂家频获订单，“轮式”成趋势|行业观察",
-          "url": "https://www.cls.cn/detail/2189523",
-          "source": "财联社热门",
-          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时33分]"
-        },
-        {
-          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
-          "url": "https://www.cls.cn/detail/2190136",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时31分 ~ 16时54分]"
-        },
-        {
-          "title": "道指盘中转跌，AI交易火爆、纳指逼近纪录，加密货币盘中跳水、以太坊跌近9%",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 06时40分]"
-        },
-        {
-          "title": "标普道指早盘转跌，加密货币跳水，盘中比特币跌超4%、以太坊跌超8%",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时37分]"
-        },
-        {
-          "title": "标普道指早盘转跌，加密货币跳水，盘中比特币跌近5%、以太坊跌近9%",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 02时50分]"
-        },
-        {
-          "title": "避险情绪冲击加密货币，比特币触及6月以来最低水平。",
-          "url": "https://flash.jin10.com/detail/20251104213203234800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "比特币触及6月以来最低水平",
-          "url": "https://wallstreetcn.com/livenews/2999240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 22时44分]"
-        },
-        {
-          "title": "比特币财库公交公司Strategy Inc.（MSTR）计划通过欧元区IPO发行STRE股票。",
-          "url": "https://wallstreetcn.com/livenews/2998784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时33分]"
-        },
-        {
-          "title": "比特币失守103000美元/枚，日内跌幅3.37%。",
-          "url": "https://flash.jin10.com/detail/20251104223825527800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时43分]"
-        },
-        {
-          "title": "具身智能何以进阶通用机器人？产业界“沿途下蛋” ROI门槛仍待跨越",
-          "url": "https://www.cls.cn/detail/2190197",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 18时51分]"
-        },
-        {
-          "title": "中国机器人产业开启“智能伙伴”新形态，前三季度产量已超去年全年",
-          "url": "https://wallstreetcn.com/livenews/2998781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时33分]"
-        },
-        {
-          "title": "周一（11月3日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.74%，逼近10.7万美元。 CME以太币期货DCR主力合约跌7.70%，报3608.50美元，全天持续震荡下行，北京时间23:26出现一波相对显著的加速下跌行情。",
-          "url": "https://wallstreetcn.com/livenews/2998776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时33分]"
-        },
-        {
-          "title": "比特币短线从10.7万美元上方下挫至10.6万美元下方，日内跌幅迅速扩大至约4%，以太坊跌6%，Solana跌8.9%，狗狗币跌9.8%，XRP跌6%。 加密货币概念股普跌，BitMine跌8.3%，以太币ETF FETH跌7.6%，Coinbase跌4.1%，Riot Platform则涨3.4%，Bitfarms涨4.1%，Iren涨13.1%，Cipher Mining涨20.5%。",
-          "url": "https://wallstreetcn.com/livenews/2998658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时37分]"
-        },
-        {
-          "title": "比特币跌至两周低点 史诗级爆仓事件后风险偏好低迷难振",
-          "url": "https://wallstreetcn.com/livenews/2999087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时42分]"
-        },
-        {
-          "title": "以太坊跌破3600美元/枚，日内跌近8%。",
-          "url": "https://flash.jin10.com/detail/20251103233552106800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "深成指、创业板指均跌超1%，沪指跌0.14%，贵金属、机器人、创新药、锂矿等方向跌幅居前，沪深京三市下跌个股超3900只。",
-          "url": "https://wallstreetcn.com/livenews/2998927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "比特币日内大跌5001美元，现报105540美元/枚，跌幅4.52%。",
-          "url": "https://flash.jin10.com/detail/20251103233114926800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "代币网络协议遭黑客攻击，周一以太坊暴跌",
-          "url": "https://flash.jin10.com/detail/20251104052656011800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "比特币回落至106000美元/枚下方，日内跌4.18%。",
-          "url": "https://flash.jin10.com/detail/20251103233037937800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "加密货币相关股票盘前下跌 比特币跌至两周低点",
-          "url": "https://wallstreetcn.com/livenews/2999215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "数字货币普跌，比特币24小时跌幅达2%，以太坊24小时跌幅近6%，Solana 24小时跌幅超9%，BNB 24小时跌幅近7%。",
-          "url": "https://wallstreetcn.com/livenews/2999010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "三星SDI称正与特斯拉洽谈向其供应电池",
-          "url": "https://flash.jin10.com/detail/20251104072222232800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "乘联分会：特斯拉10月份中国制造汽车销量为61,497辆。",
-          "url": "https://flash.jin10.com/detail/20251104164825895800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "市场消息：三星SDI正与特斯拉洽谈供应储能系统（ESS）电池事宜。",
-          "url": "https://flash.jin10.com/detail/20251104070012105800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "特斯拉欧洲市场销量再度大幅下滑，保持数季度以来的低迷态势",
-          "url": "https://wallstreetcn.com/livenews/2998688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时50分]"
-        },
-        {
-          "title": "美国一特斯拉打不开车门 5人被烧死",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%93%E4%B8%8D%E5%BC%80%E8%BD%A6%E9%97%A8+5%E4%BA%BA%E8%A2%AB%E7%83%A7%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            21,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时48分 ~ 23时43分]"
-        },
-        {
-          "title": "乘联分会：据月度数据综合预估，10月全国新能源乘用车厂商批发销量161万辆，同比增长16%，环比增长7%。综合预估今年1-10月累计批发1,205.4万辆，同比增长30%。特斯拉中国10月份批发销量为61,497辆。",
-          "url": "https://wallstreetcn.com/livenews/2999116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时51分]"
-        },
-        {
-          "title": "三星SDI称正与特斯拉洽谈向其供应电池",
-          "url": "https://wallstreetcn.com/livenews/2998796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "意大利交通部：特斯拉(TSLA.O)1月至10月在意大利的新车注册量同比下降32.89%。",
-          "url": "https://flash.jin10.com/detail/20251104010420781800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "意大利交通部：10月份特斯拉(TSLA.O)在意大利的新车注册量同比下降了47.11%。",
-          "url": "https://flash.jin10.com/detail/20251104010407952800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
-          "url": "https://wallstreetcn.com/livenews/2999214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "挪威主权财富基金：将投票反对特斯拉(TSLA.O)首席执行官马斯克的薪酬方案。",
-          "url": "https://flash.jin10.com/detail/20251104144205020800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "市场消息：特斯拉(TSLA.O)将聘请前兰博基尼负责人Sharad Agarwal来推动在印度的销售。",
-          "url": "https://flash.jin10.com/detail/20251104162211931800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "乘联分会：特斯拉10月份中国制造汽车销量为61,497辆，9月批发销量为90812辆。",
-          "url": "https://flash.jin10.com/detail/20251104164825895800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 11月3日（周一）晚盘收盘上涨0.09%报917.1元/克；<br/>上海黄金交易所白银T+D 11月3日（周一）晚盘收盘下跌0.37%报11328.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251104023204638800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 03时28分]"
-        },
-        {
-          "title": "黄金一夜“变贵”！深圳水贝金价每克上涨60元，多家金店加价前暂停出货",
-          "url": "https://wallstreetcn.com/livenews/2998697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 03时28分]"
-        },
-        {
-          "title": "现货白银失守47美元/盎司，日内跌幅2.22%。",
-          "url": "https://flash.jin10.com/detail/20251104223548013800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时43分]"
-        },
-        {
-          "title": "现货白银日内跌幅达1.0%，报48.14美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2998659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时37分]"
-        },
-        {
-          "title": "现货白银日内跌幅达1%，报47.57美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2999024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时34分]"
-        },
-        {
-          "title": "现货黄金短线反弹近20美元，现报3946.46美元/盎司。现货白银短线反弹近0.3美元，现报47.25美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251104225442162800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "现货白银日内走低1%，现报48.19美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251103233617809800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）上海金午盘价为913.54元/克，较国际金价(912.74元/克)，高0.8元/克",
-          "url": "https://flash.jin10.com/detail/20251104150233781800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "现货黄金短线走低20美元，现报4012.73美元/盎司。现货白银短线走低0.4美元，现报48.34美元/盎司",
-          "url": "https://flash.jin10.com/detail/20251103233020705800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251104115415673800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "现货白银日内跌幅达1%，现报47.58美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251104135848928800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "Meta Platforms：为苹果公司Apple Watch推出WhatsApp。",
-          "url": "https://wallstreetcn.com/livenews/2999287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
-          "url": "https://wallstreetcn.com/livenews/2998693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 03时28分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2998716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时40分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet美元债和欧元债总计发售250亿美元",
-          "url": "https://wallstreetcn.com/livenews/2998790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "市场消息：Meta Platforms(META.O) 完成300亿美元债券发行。",
-          "url": "https://flash.jin10.com/detail/20251104052240350800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：实时车道导航功能将拓展至更多道路类型及合作车企车型。",
-          "url": "https://flash.jin10.com/detail/20251104210818012800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "Meta Platforms完成300亿美元票据发行。",
-          "url": "https://wallstreetcn.com/livenews/2998764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：谷歌地图为内置谷歌系统的汽车推出基于人工智能的实时车道指引功能，首发车型为极星4。",
-          "url": "https://flash.jin10.com/detail/20251104210638002800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "巧夺天工的抖音手搓大神",
-          "url": "https://www.douyin.com/hot/2293358",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 11时32分]"
-        },
-        {
-          "title": "如何看待南风窗旗下微信公众号南风窗调研 er 发布推文《苦学 12 年，「没人教我高考志愿怎么填」》?",
-          "url": "https://www.zhihu.com/question/1966616017229811882",
-          "source": "知乎",
-          "ranks": [
-            13,
-            15,
-            16,
-            14,
-            9,
-            10,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 11时32分]"
-        },
-        {
-          "title": "“传家锅”工厂抖音粉丝已破百万",
-          "url": "https://www.douyin.com/hot/2294089",
-          "source": "抖音",
-          "ranks": [
-            7,
-            10,
-            9,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时56分 ~ 23时43分]"
-        },
-        {
-          "title": "抖音企鹅班火热招新中",
-          "url": "https://www.douyin.com/hot/2294097",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时33分 ~ 23时43分]"
-        },
-        {
-          "title": "杨笠清空抖音",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%9D%A8%E7%AC%A0%E6%B8%85%E7%A9%BA%E6%8A%96%E9%9F%B3&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D26%26cate%3D5001%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26pos%3D26%26q%3D%25E6%259D%25A8%25E7%25AC%25A0%25E6%25B8%2585%25E7%25A9%25BA%25E6%258A%2596%25E9%259F%25B3%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D26%26display_time%3D1762188074%26pre_seqid%3D176218807472502502579126&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            26,
-            30,
-            22,
-            16,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时33分]"
-        },
-        {
-          "title": "我要加入抖音全运班",
-          "url": "https://www.douyin.com/hot/2293382",
-          "source": "抖音",
-          "ranks": [
-            22,
-            19,
-            20,
-            23,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "商务部回应安世半导体磋商进展：荷方应承担全部责任",
-          "url": "https://www.cls.cn/detail/2190464",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时56分 ~ 22时44分]"
-        },
-        {
-          "title": "商务部回应安世半导体相关问题",
-          "url": "https://www.douyin.com/hot/2294197",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时56分 ~ 19时32分]"
-        },
-        {
-          "title": "商务部回应安世半导体磋商进展：荷方应承担全部责任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31889089",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            11,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时54分 ~ 23时43分]"
-        },
-        {
-          "title": "商务部回应安世半导体磋商进展，称全球半导体产供链的动荡混乱，荷方应承担全部责任，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1969042065313726709",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时48分 ~ 23时43分]"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）富时中国A50指数成分股今日收盘行情一览：银行、保险、石油板块全天维持强劲表现，酿酒、半导体、消费电子板块表现低迷",
-          "url": "https://flash.jin10.com/detail/20251104150446010800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
-          "url": "https://wallstreetcn.com/articles/3758580",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[05时31分 ~ 22时44分]"
-        },
-        {
-          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
-          "url": "https://www.cls.cn/detail/2190043",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时31分 ~ 15时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI基础设施 算力基建 AI Agent",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
-          "url": "https://wallstreetcn.com/articles/3758569",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时40分 ~ 19时32分]"
+          "time_info": "00时51分"
         }
       ]
     }
