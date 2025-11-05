@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T12:44:50.738624+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2025-11-05T13:40:52.124281+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时40分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时40分]"
         },
         {
           "title": "【早报】 美科技股大幅回调！英伟达跌近4%；央行今日开展7000亿元买断式逆回购操作",
@@ -65,8 +65,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时40分]"
         },
         {
           "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
@@ -77,8 +77,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 13时40分]"
+        },
+        {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 13时40分]"
         },
         {
           "title": "机构：仓位过重与估值担忧引发科技股回调",
@@ -168,18 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时32分]"
-        },
-        {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 12时44分]"
         },
         {
           "title": "AMD美股盘后跌幅重新扩大至1.88%，该公司CEO苏姿丰正在分析师电话会议上讲话。",
@@ -281,7 +282,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -315,6 +316,18 @@
           "time_info": "[00时51分 ~ 07时32分]"
         },
         {
+          "title": "币圈再度血流成河！比特币6月以来首次跌破10万大关，以太币暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3758675",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 13时40分]"
+        },
+        {
           "title": "比特币跌穿10万美元关口，为6月份以来首次，跌幅超过6.5%。",
           "url": "https://wallstreetcn.com/livenews/2999358",
           "source": "华尔街见闻-快讯",
@@ -324,18 +337,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        },
-        {
-          "title": "币圈再度血流成河！比特币6月以来首次跌破10万大关，以太币暴跌10%",
-          "url": "https://wallstreetcn.com/articles/3758675",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 12时44分]"
         },
         {
           "title": "比特币扭转早前跌势，向上触及102000美元/枚，日内涨0.52%。以太坊上涨1.28%，报3328美元/枚。",
@@ -515,6 +516,146 @@
       ]
     },
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "中国外交部严厉正告后，日本外相最新涉台表态",
+          "url": "https://news.ifeng.com/c/8o0b2FeKggq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 07时32分]"
+        },
+        {
+          "title": "日本熊害已致12人丧生，陆上自卫队出动",
+          "url": "https://news.ifeng.com/c/8o0jLDC88Db",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 07时32分]"
+        },
+        {
+          "title": "丰田汽车第二财季经营利润8,395.5亿日元，同比下降27%，预估8,443.1亿日元。 第二财季净利润9,320.8亿日元，同比增长62%，预估7,651.1亿日元。 第二财季销售净额12.38万亿日元，同比增长8.2%，预估12.11万亿日元。 第二财季日本营业利润4,721亿日元，同比下降26%。 第二财季北美营业亏损467.0亿日元，上年同期收益287亿日元，预估收益406.1亿日元（2个预估）。",
+          "url": "https://wallstreetcn.com/livenews/2999650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "日本10年期国债收益率在拍卖结果公布后抹去了跌幅。",
+          "url": "https://flash.jin10.com/detail/20251105122022484800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时40分]"
+        },
+        {
+          "title": "日本制铁（新日铁）将为数据中心（市场）提供高级钢材。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/2999323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 02时52分]"
+        },
+        {
+          "title": "据日本共同社：美国钢铁公司将在2028年前向日本制铁公司的新资本计划投资110亿美元。",
+          "url": "https://flash.jin10.com/detail/20251105120431316800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "日本10年期国债收益率下降0.5个基点，至1.665%。",
+          "url": "https://flash.jin10.com/detail/20251105120315025800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "日本川崎重工：子公司获得了纽约市交通局的15亿美元合同，负责提供378辆地铁车厢。",
+          "url": "https://flash.jin10.com/detail/20251105114117637800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "日本伊藤忠商事株式会社：从中长期来看，我们可能会重新加入该项目（萨哈林1号），以确保日本的能源供应。",
+          "url": "https://flash.jin10.com/detail/20251105124821381800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "日本10年期国债拍卖的投标倍数为2.97，低于10月份前次拍卖的3.34。",
+          "url": "https://flash.jin10.com/detail/20251105113545716800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "日本伊藤忠商事株式会社：我们在萨哈林1号石油项目中的股份于去年被俄罗斯政府没收了，所以我们现在不持有任何股份。",
+          "url": "https://flash.jin10.com/detail/20251105124721482800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "日本三井物产宣布2000亿日元回购计划",
+          "url": "https://flash.jin10.com/detail/20251105113027402800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 INTEL",
       "match_count": 10,
       "titles": [
@@ -637,114 +778,8 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "中国外交部严厉正告后，日本外相最新涉台表态",
-          "url": "https://news.ifeng.com/c/8o0b2FeKggq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 07时32分]"
-        },
-        {
-          "title": "日本熊害已致12人丧生，陆上自卫队出动",
-          "url": "https://news.ifeng.com/c/8o0jLDC88Db",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 07时32分]"
-        },
-        {
-          "title": "日本10年期国债收益率在拍卖结果公布后抹去了跌幅。",
-          "url": "https://flash.jin10.com/detail/20251105122022484800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "日本制铁（新日铁）将为数据中心（市场）提供高级钢材。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/2999323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时52分]"
-        },
-        {
-          "title": "据日本共同社：美国钢铁公司将在2028年前向日本制铁公司的新资本计划投资110亿美元。",
-          "url": "https://flash.jin10.com/detail/20251105120431316800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "日本10年期国债收益率下降0.5个基点，至1.665%。",
-          "url": "https://flash.jin10.com/detail/20251105120315025800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "日本川崎重工：子公司获得了纽约市交通局的15亿美元合同，负责提供378辆地铁车厢。",
-          "url": "https://flash.jin10.com/detail/20251105114117637800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "日本10年期国债拍卖的投标倍数为2.97，低于10月份前次拍卖的3.34。",
-          "url": "https://flash.jin10.com/detail/20251105113545716800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "日本三井物产宣布2000亿日元回购计划",
-          "url": "https://flash.jin10.com/detail/20251105113027402800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "商务部回应安世半导体磋商进展，称全球半导体产供链的动荡混乱，荷方应承担全部责任，哪些信息值得关注？",
@@ -772,8 +807,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 12时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 13时40分]"
         },
         {
           "title": "安世半导体承认：不知道何时中方放行",
@@ -784,8 +819,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 13时40分]"
         },
         {
           "title": "纳指跌幅扩大至2%，标普500指数跌1.2%——科技板块跌2.2%，可选消费、电信、工业板块至多跌1.89%，半导体指数跌3.3%。特斯拉跌4.7%，苹果目前涨0.48%。 纳斯达克100指数的成分股中，Palantir跌9.4%，CDW跌8.6%，汤森路透跌6.3%，美光科技跌6.2%，新思科技和MSTR跌6.1%，英特尔跌5.6%，特斯拉跌4.9%，英伟达跌3.8%，安森美半导体跌3.6%，Linde则涨1.7%，VRSK涨2%，万豪国际涨3.7%。",
@@ -810,13 +845,24 @@
           "time_info": "05时32分"
         },
         {
+          "title": "TD COWEN：将超威半导体的目标价从270美元上调至290美元。",
+          "url": "https://flash.jin10.com/detail/20251105130710914800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
           "title": "派杰投资：将超威半导体的目标价从240美元上调至280美元。",
           "url": "https://flash.jin10.com/detail/20251105115605481800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -891,11 +937,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 13时40分]"
         },
         {
           "title": "谷歌(GOOG.O)：与Vitality宣布合作推出Vitality AI。",
@@ -924,7 +971,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价",
@@ -970,6 +1017,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "现货黄金涨超1%，报3971美元。现货白银涨1.3%，报47.75美元。",
+          "url": "https://wallstreetcn.com/livenews/2999633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "金价跌至4000美元/盎司以下，分析师称其为“修正”",
@@ -1037,7 +1095,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“传家锅”工厂抖音粉丝已破百万",
@@ -1068,6 +1126,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时51分 ~ 07时32分]"
+        },
+        {
+          "title": "微信式恋爱",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%BE%AE%E4%BF%A1%E5%BC%8F%E6%81%8B%E7%88%B1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D28%26c_type%3D31%26cate%3D5001%26band_rank%3D27%26stream_entry_id%3D31%26dgr%3D0%26q%3D%25E5%25BE%25AE%25E4%25BF%25A1%25E5%25BC%258F%25E6%2581%258B%25E7%2588%25B1%26flag%3D0%26realpos%3D27%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1762321133%26pre_seqid%3D176232113344203411707153&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         }
       ]
     },
