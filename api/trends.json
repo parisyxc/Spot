@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T03:28:35.207371+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2025-11-06T04:42:53.989510+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时42分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时42分]"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时42分]"
         },
         {
           "title": "AMD营收大超预期但指引未能打动投资者，股价盘后震荡下挫 | 财报见闻",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时53分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时53分 ~ 04时42分]"
         },
         {
           "title": "特朗普上任一年美股跑输全球大盘",
@@ -101,19 +101,8 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
-          "url": "https://flash.jin10.com/detail/20251106031453898800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
         {
           "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3000071",
@@ -121,7 +110,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -135,6 +124,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
+          "url": "https://flash.jin10.com/detail/20251106031453898800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时42分]"
         },
         {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
@@ -183,6 +184,78 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时54分]"
+        },
+        {
+          "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果接近最终敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3000071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI尚未为上市做准备",
+          "url": "https://flash.jin10.com/detail/20251106040810943800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "OpenAI首席财务官：市场应当对人工智能的潜力拥有更多的信心。",
+          "url": "https://flash.jin10.com/detail/20251106035846813800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "据The Information：OpenAI的数据中心合作伙伴Crusoe正接近完成一笔约1.2亿美元的员工股票出售，估值约为130亿美元。",
+          "url": "https://flash.jin10.com/detail/20251106033256495800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。 OpenAI尚未为上市做准备。 凭借“非常健康”的毛利率，OpenAI有望实现盈亏平衡。 OpenAI希望美国联邦政府为数据中心投资提供支持。",
+          "url": "https://wallstreetcn.com/livenews/3000080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
+          "url": "https://www.zhihu.com/question/1969338787738906634",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         }
       ]
     },
@@ -190,17 +263,6 @@
       "keyword_group": "半导体 芯片产业",
       "match_count": 4,
       "titles": [
-        {
-          "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
-          "url": "https://wallstreetcn.com/livenews/3000064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
         {
           "title": "ASML：半导体产业开放合作是主流",
           "url": "https://www.toutiao.com/trending/7568849695255511081/",
@@ -225,6 +287,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 03时28分]"
+        },
+        {
+          "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3000064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时42分]"
         },
         {
           "title": "标普500指数涨0.35%，道指微跌，纳指涨0.61%，半导体指数涨2.45%。 美国最高法院似乎怀疑总统特朗普关税的合法性。",
@@ -252,8 +326,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时42分]"
         },
         {
           "title": "币圈再度血流成河！比特币6月以来首次跌破10万大关，以太币暴跌10%",
@@ -264,8 +338,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时42分]"
         },
         {
           "title": "以太坊日内涨超5.00%，现报3453美元/枚。",
@@ -273,11 +347,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时54分 ~ 04时42分]"
         },
         {
           "title": "以太坊向上触及3400美元/枚，日内涨3.44%。",
@@ -302,11 +377,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时54分 ~ 04时42分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
@@ -344,8 +420,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时42分]"
         },
         {
           "title": "解读日本社会门阀化",
@@ -383,11 +459,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时42分]"
         },
         {
           "title": "吴昕微信几乎不留聊天记录",
@@ -399,8 +476,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时42分]"
         }
       ]
     },
