@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T19:31:46.343221+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-11-06T21:43:31.930291+08:00",
+  "total_titles_processed": 1776,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时39分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[11时39分 ~ 21时43分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -111,11 +111,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 21时43分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -135,7 +136,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -241,7 +242,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -340,7 +341,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         }
@@ -348,7 +349,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
@@ -359,8 +360,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时39分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[11时39分 ~ 21时43分]"
         },
         {
           "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
@@ -418,6 +419,32 @@
           "time_info": "[13时40分 ~ 18时46分]"
         },
         {
+          "title": "宇树机器人丝滑做完全套家务",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9D%E6%BB%91%E5%81%9A%E5%AE%8C%E5%85%A8%E5%A5%97%E5%AE%B6%E5%8A%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 21时43分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 21时43分]"
+        },
+        {
           "title": "币圈再度血流成河！比特币6月以来首次跌破10万大关，以太币暴跌10%",
           "url": "https://wallstreetcn.com/articles/3758675",
           "source": "华尔街见闻",
@@ -447,31 +474,6 @@
           "time_info": "[11时39分 ~ 19时31分]"
         },
         {
-          "title": "宇树机器人丝滑做完全套家务",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9D%E6%BB%91%E5%81%9A%E5%AE%8C%E5%85%A8%E5%A5%97%E5%AE%B6%E5%8A%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时31分]"
-        },
-        {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时31分]"
-        },
-        {
           "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
           "url": "https://www.zhihu.com/question/1969734521176941617",
           "source": "知乎",
@@ -480,8 +482,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 21时43分]"
         },
         {
           "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
@@ -516,11 +518,12 @@
           "ranks": [
             18,
             7,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 21时43分]"
         },
         {
           "title": "以太坊日内涨超5.00%，现报3453美元/枚。",
@@ -643,6 +646,17 @@
           "time_info": "13时40分"
         },
         {
+          "title": "小鹏机器人里藏了真人？何小鹏发一镜到底视频，机器人“脱衣”回应质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31905754",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "力星股份：与浙江荣泰签署了《战略合作协议》，双方拟在产业机器人用丝杆部件等重要领域的滚动体应用开展战略合作。",
           "url": "https://wallstreetcn.com/livenews/3000416",
           "source": "华尔街见闻-快讯",
@@ -667,229 +681,20 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 18,
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 20,
       "titles": [
         {
-          "title": "事关稀土出口、安世半导体问题，商务部最新回应",
-          "url": "https://www.cls.cn/detail/2193035",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时31分]"
-        },
-        {
-          "title": "商务部：荷方不当干预，造成了全球半导体产供链的动荡和混乱",
-          "url": "https://news.ifeng.com/c/8o3ukKH0hYW",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
-        },
-        {
-          "title": "商务部回应安世半导体相关问题",
-          "url": "https://news.ifeng.com/c/8o3ukKH0hYW",
-          "source": "凤凰网",
+          "title": "据报道，谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。",
+          "url": "https://wallstreetcn.com/livenews/3000596",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "安世半导体对华断供反“里外不是人”",
-          "url": "https://www.toutiao.com/trending/7569508777779531290/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时46分]"
-        },
-        {
-          "title": "恒生科技指数日内涨幅扩大至2%，中芯国际涨超5%，华虹半导体涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3000287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时40分]"
-        },
-        {
-          "title": "华虹半导体：第三季度母公司拥有人应占利润2.570万美元，同比下降42.6%",
-          "url": "https://wallstreetcn.com/livenews/3000447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时41分]"
-        },
-        {
-          "title": "荷兰安世半导体否认张学政复职CEO",
-          "url": "https://www.toutiao.com/trending/7568604116834943003/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时33分]"
-        },
-        {
-          "title": "ASML：半导体产业开放合作是主流",
-          "url": "https://www.toutiao.com/trending/7568849695255511081/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时28分]"
-        },
-        {
-          "title": "纳斯达克100指数涨超1%，成分股美光科技涨8.3%，安进涨7.8%，迈威尔科技涨6.1%；铿腾电子则跌2.2%，Palantir跌2.6%，Axon仍然跌11.1%。 标普500指数涨0.85%，道指涨371点涨幅0.8%，纳斯达克综合指数涨1.04%。 费城半导体指数涨3.15%，银行指数涨0.98%，生物科技指数涨1.90%。",
-          "url": "https://wallstreetcn.com/livenews/3000051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时28分]"
-        },
-        {
-          "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
-          "url": "https://wallstreetcn.com/livenews/3000064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时42分]"
-        },
-        {
-          "title": "恒生指数收盘涨2.12%，半导体股涨幅居前",
-          "url": "https://wallstreetcn.com/livenews/3000432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时41分]"
-        },
-        {
-          "title": "标普500指数涨0.35%，道指微跌，纳指涨0.61%，半导体指数涨2.45%。 美国最高法院似乎怀疑总统特朗普关税的合法性。",
-          "url": "https://wallstreetcn.com/livenews/3000015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时38分]"
-        },
-        {
-          "title": "A股半导体芯片股持续拉升，长光华芯20cm涨停，海光信息大涨10%，寒武纪、新相微、中微公司、拓荆科技等纷纷走强。",
-          "url": "https://wallstreetcn.com/livenews/3000275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时50分]"
-        },
-        {
-          "title": "荷兰安世半导体回应供应链恢复进展 否认张学政恢复CEO职务",
-          "url": "https://wallstreetcn.com/livenews/3000299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时40分]"
-        },
-        {
-          "title": "苏大维格：拟以自有或自筹资金5.1亿元收购常州维普半导体设备有限公司51%股权。本次交易完成后，常州维普成为公司控股子公司，纳入公司合并报表范围。",
-          "url": "https://wallstreetcn.com/livenews/3000516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时31分"
+          "time_info": "21时43分"
         },
-        {
-          "title": "商务部回应安世半导体相关问题",
-          "url": "https://wallstreetcn.com/livenews/3000427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "荷兰安世半导体回应CEO安排",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%B7%E5%85%B0%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%9B%9E%E5%BA%94CEO%E5%AE%89%E6%8E%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D18%26stream_entry_id%3D31%26q%3D%2523%25E8%258D%25B7%25E5%2585%25B0%25E5%25AE%2589%25E4%25B8%2596%25E5%258D%258A%25E5%25AF%25BC%25E4%25BD%2593%25E5%259B%259E%25E5%25BA%2594CEO%25E5%25AE%2589%25E6%258E%2592%2523%26dgr%3D0%26pos%3D18%26flag%3D1%26band_rank%3D18%26display_time%3D1762407537%26pre_seqid%3D1762407537749040750124&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "恒生科技指数日内涨幅扩大至1%。中芯国际涨超3%，阿里巴巴、海尔智家、华虹半导体涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3000258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 17,
-      "titles": [
         {
           "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3000071",
@@ -902,6 +707,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "谷歌将在未来几周全面上市其最强大的AI芯片Ironwood",
+          "url": "https://flash.jin10.com/detail/20251106211437983800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
           "url": "https://flash.jin10.com/detail/20251106010550622800",
           "source": "金十数据",
@@ -911,6 +727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "据CNBC：谷歌(GOOG.O)正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。",
+          "url": "https://flash.jin10.com/detail/20251106211009167800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "谷歌洽谈加大投资Anthropic 后者估值或超3500亿美元",
@@ -1086,8 +913,240 @@
       ]
     },
     {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "事关稀土出口、安世半导体问题，商务部最新回应",
+          "url": "https://www.cls.cn/detail/2193035",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 21时43分]"
+        },
+        {
+          "title": "商务部：荷方不当干预，造成了全球半导体产供链的动荡和混乱",
+          "url": "https://news.ifeng.com/c/8o3ukKH0hYW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 21时43分]"
+        },
+        {
+          "title": "商务部回应安世半导体相关问题",
+          "url": "https://news.ifeng.com/c/8o3ukKH0hYW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "安世半导体对华断供反“里外不是人”",
+          "url": "https://www.toutiao.com/trending/7569508777779531290/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 18时46分]"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至2%，中芯国际涨超5%，华虹半导体涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3000287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时40分]"
+        },
+        {
+          "title": "华虹半导体：第三季度母公司拥有人应占利润2.570万美元，同比下降42.6%",
+          "url": "https://wallstreetcn.com/livenews/3000447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时41分]"
+        },
+        {
+          "title": "荷兰安世半导体否认张学政复职CEO",
+          "url": "https://www.toutiao.com/trending/7568604116834943003/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时33分]"
+        },
+        {
+          "title": "ASML：半导体产业开放合作是主流",
+          "url": "https://www.toutiao.com/trending/7568849695255511081/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时28分]"
+        },
+        {
+          "title": "纳斯达克100指数涨超1%，成分股美光科技涨8.3%，安进涨7.8%，迈威尔科技涨6.1%；铿腾电子则跌2.2%，Palantir跌2.6%，Axon仍然跌11.1%。 标普500指数涨0.85%，道指涨371点涨幅0.8%，纳斯达克综合指数涨1.04%。 费城半导体指数涨3.15%，银行指数涨0.98%，生物科技指数涨1.90%。",
+          "url": "https://wallstreetcn.com/livenews/3000051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时28分]"
+        },
+        {
+          "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3000064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时42分]"
+        },
+        {
+          "title": "恒生指数收盘涨2.12%，半导体股涨幅居前",
+          "url": "https://wallstreetcn.com/livenews/3000432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时41分]"
+        },
+        {
+          "title": "标普500指数涨0.35%，道指微跌，纳指涨0.61%，半导体指数涨2.45%。 美国最高法院似乎怀疑总统特朗普关税的合法性。",
+          "url": "https://wallstreetcn.com/livenews/3000015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时38分]"
+        },
+        {
+          "title": "A股半导体芯片股持续拉升，长光华芯20cm涨停，海光信息大涨10%，寒武纪、新相微、中微公司、拓荆科技等纷纷走强。",
+          "url": "https://wallstreetcn.com/livenews/3000275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时50分]"
+        },
+        {
+          "title": "荷兰安世半导体回应供应链恢复进展 否认张学政恢复CEO职务",
+          "url": "https://wallstreetcn.com/livenews/3000299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 13时40分]"
+        },
+        {
+          "title": "苏大维格：拟以自有或自筹资金5.1亿元收购常州维普半导体设备有限公司51%股权。本次交易完成后，常州维普成为公司控股子公司，纳入公司合并报表范围。",
+          "url": "https://wallstreetcn.com/livenews/3000516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "商务部回应安世半导体相关问题",
+          "url": "https://wallstreetcn.com/livenews/3000427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "MSCI指数最新调整：26只中国股票获纳入，涉资源、半导体等多领域",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31905990",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "荷兰安世半导体回应CEO安排",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%B7%E5%85%B0%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%9B%9E%E5%BA%94CEO%E5%AE%89%E6%8E%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D18%26stream_entry_id%3D31%26q%3D%2523%25E8%258D%25B7%25E5%2585%25B0%25E5%25AE%2589%25E4%25B8%2596%25E5%258D%258A%25E5%25AF%25BC%25E4%25BD%2593%25E5%259B%259E%25E5%25BA%2594CEO%25E5%25AE%2589%25E6%258E%2592%2523%26dgr%3D0%26pos%3D18%26flag%3D1%26band_rank%3D18%26display_time%3D1762407537%26pre_seqid%3D1762407537749040750124&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至1%。中芯国际涨超3%，阿里巴巴、海尔智家、华虹半导体涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3000258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "稳定币 日本",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "日本男性摆烂求自保,窝囊组上大分",
@@ -1098,11 +1157,12 @@
             2,
             4,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时54分 ~ 19时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时54分 ~ 21时43分]"
         },
         {
           "title": "日本熊害已逼近东京",
@@ -1116,8 +1176,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时49分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 21时43分]"
         },
         {
           "title": "日本9月劳动现金收入年率 1.9%，预期1.90%，前值由1.50%修正为1.30%。",
@@ -1245,6 +1305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "日本4名前首相国会酣睡",
+          "url": "https://www.toutiao.com/trending/7569447602782273578/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "日本主要工会UA Zensen：（谈春季薪资谈判）全职员工要求至少加薪6%，兼职员工要求加薪7%。",
@@ -1424,11 +1495,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 21时43分]"
         },
         {
           "title": "澳大利亚贸易顺差受金价飙升推动",
@@ -1478,7 +1550,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "曹骏抖音武术班开课啦",
@@ -1533,12 +1605,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 13时40分]"
+        },
+        {
+          "title": "抖音：将进一步规范金融账号经营行为",
+          "url": "https://www.cls.cn/detail/2192891",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
@@ -1552,6 +1635,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时39分 ~ 17时41分]"
+        },
+        {
+          "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
+          "url": "https://www.cls.cn/detail/2193135",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "特斯拉撞死闯国道野猪 车主被判全责",
