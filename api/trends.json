@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T06:39:21.060322+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2025-11-07T07:31:39.223102+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -32,18 +32,6 @@
           "time_info": "[00时55分 ~ 06时39分]"
         },
         {
-          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2193483",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
-        },
-        {
           "title": "【每日收评】沪指涨近1%重返4000点，半导体引领科技股集体回暖",
           "url": "https://www.cls.cn/detail/2193114",
           "source": "财联社热门",
@@ -55,13 +43,49 @@
           "time_info": "[00时55分 ~ 05时32分]"
         },
         {
+          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2193483",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
+        },
+        {
+          "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
+          "url": "https://www.cls.cn/detail/2193592",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时31分]"
+        },
+        {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "英特尔(INTC.O)美股盘后涨2.5%。",
           "url": "https://flash.jin10.com/detail/20251107062851327800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -99,17 +123,6 @@
           "time_info": "05时32分"
         },
         {
-          "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
-          "url": "https://www.cls.cn/detail/2193592",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
           "title": "金十图示：2025年11月06日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251107013117259800",
           "source": "金十数据",
@@ -132,26 +145,39 @@
           "time_info": "05时32分"
         },
         {
-          "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3000778",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2193628",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时31分]"
+        },
+        {
+          "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
+          "url": "https://wallstreetcn.com/articles/3758813",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时39分"
+          "time_info": "07时31分"
         },
         {
-          "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2193628",
-          "source": "财联社热门",
+          "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3000778",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时31分]"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后涨1.2%。",
@@ -160,7 +186,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -171,7 +197,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -193,7 +219,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -211,6 +237,215 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
+          "url": "https://www.cls.cn/detail/2193135",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
+        },
+        {
+          "title": "特斯拉CEO马斯克：特斯拉将不得不建造一家大型芯片工厂。我们或许会与英特尔开展合作。",
+          "url": "https://flash.jin10.com/detail/20251107062822586800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：希望特斯拉股东能够参与SpaceX的投资。",
+          "url": "https://flash.jin10.com/detail/20251107071303327800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：将于明年4月开始生产CYBERCAB。",
+          "url": "https://flash.jin10.com/detail/20251107061537682800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "特斯拉股东批准马斯克8780亿美元的薪酬计划",
+          "url": "https://flash.jin10.com/detail/20251107061513912800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：我认为我们将能够部署我们生产的所有Cybercab。",
+          "url": "https://flash.jin10.com/detail/20251107070640571800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "马斯克：特斯拉可能会打造自己的芯片工厂。",
+          "url": "https://wallstreetcn.com/livenews/3000784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时31分]"
+        },
+        {
+          "title": "道指下跌超过460点，跌幅扩大至1%，纳指跌1.65%，小盘股指跌1.37%，特斯拉跌4.67%。",
+          "url": "https://wallstreetcn.com/livenews/3000664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时42分]"
+        },
+        {
+          "title": "马斯克：特斯拉将于2026年4月开始生产Cybercab。",
+          "url": "https://wallstreetcn.com/livenews/3000776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时31分]"
+        },
+        {
+          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
+          "url": "https://www.cls.cn/detail/2193634",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股东投票反对取消衍生品诉讼中3%持股比例规定的提案。",
+          "url": "https://flash.jin10.com/detail/20251107055916445800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股东投票反对将高管薪酬与可持续性和人力资本指标挂钩的提案。",
+          "url": "https://flash.jin10.com/detail/20251107055905695800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：超过75%的股东批准马斯克的2025年薪酬计划。",
+          "url": "https://flash.jin10.com/detail/20251107055655849800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股东投票赞成选举伊拉·埃伦普莱斯、乔·盖比亚和凯瑟琳·威尔逊-汤普森为董事的提案。",
+          "url": "https://flash.jin10.com/detail/20251107055625885800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股东投票赞成批准马斯克8780亿美元的薪酬方案。",
+          "url": "https://flash.jin10.com/detail/20251107055530039800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：我们立志在明年底前将汽车产量提高约50%。",
+          "url": "https://flash.jin10.com/detail/20251107064805059800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "提醒：特斯拉股东大会在美国得州开始。",
+          "url": "https://wallstreetcn.com/livenews/3000755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "金十提示：特斯拉(TSLA.O)年度股东大会开始。",
+          "url": "https://flash.jin10.com/detail/20251107052049143800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 15,
       "titles": [
@@ -223,8 +458,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -234,8 +469,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
@@ -246,8 +481,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "宇树机器人丝滑做完全套家务",
@@ -261,8 +496,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
@@ -273,8 +508,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "何小鹏再回应机器人里藏真人质疑",
@@ -289,8 +524,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "智元机器人要约收购上纬新材完成股份交割！彭志辉等八人任董事候选人",
@@ -301,8 +536,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "小鹏机器人无衣状态测试画面",
@@ -316,8 +551,22 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
+        },
+        {
+          "title": "去掉蒙皮的小鹏机器人什么样",
+          "url": "https://www.douyin.com/hot/2296258",
+          "source": "抖音",
+          "ranks": [
+            22,
+            28,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -333,20 +582,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 04时50分]"
-        },
-        {
-          "title": "去掉蒙皮的小鹏机器人什么样",
-          "url": "https://www.douyin.com/hot/2296258",
-          "source": "抖音",
-          "ranks": [
-            22,
-            28,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时39分]"
         },
         {
           "title": "小鹏汽车是真做机器人还是炒作",
@@ -403,169 +638,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
-          "url": "https://www.cls.cn/detail/2193135",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
-        },
-        {
-          "title": "特斯拉CEO马斯克：特斯拉将不得不建造一家大型芯片工厂。我们或许会与英特尔开展合作。",
-          "url": "https://flash.jin10.com/detail/20251107062822586800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "马斯克：特斯拉可能会打造自己的芯片工厂。",
-          "url": "https://wallstreetcn.com/livenews/3000784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "特斯拉CEO马斯克：将于明年4月开始生产CYBERCAB。",
-          "url": "https://flash.jin10.com/detail/20251107061537682800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "特斯拉股东批准马斯克8780亿美元的薪酬计划",
-          "url": "https://flash.jin10.com/detail/20251107061513912800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "道指下跌超过460点，跌幅扩大至1%，纳指跌1.65%，小盘股指跌1.37%，特斯拉跌4.67%。",
-          "url": "https://wallstreetcn.com/livenews/3000664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时42分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股东投票反对取消衍生品诉讼中3%持股比例规定的提案。",
-          "url": "https://flash.jin10.com/detail/20251107055916445800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "马斯克：特斯拉将于2026年4月开始生产Cybercab。",
-          "url": "https://wallstreetcn.com/livenews/3000776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股东投票反对将高管薪酬与可持续性和人力资本指标挂钩的提案。",
-          "url": "https://flash.jin10.com/detail/20251107055905695800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：超过75%的股东批准马斯克的2025年薪酬计划。",
-          "url": "https://flash.jin10.com/detail/20251107055655849800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股东投票赞成选举伊拉·埃伦普莱斯、乔·盖比亚和凯瑟琳·威尔逊-汤普森为董事的提案。",
-          "url": "https://flash.jin10.com/detail/20251107055625885800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股东投票赞成批准马斯克8780亿美元的薪酬方案。",
-          "url": "https://flash.jin10.com/detail/20251107055530039800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "提醒：特斯拉股东大会在美国得州开始。",
-          "url": "https://wallstreetcn.com/livenews/3000755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "金十提示：特斯拉(TSLA.O)年度股东大会开始。",
-          "url": "https://flash.jin10.com/detail/20251107052049143800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时39分"
         }
@@ -583,8 +656,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "日本4名前首相国会酣睡",
@@ -597,8 +670,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "日本熊害已逼近东京",
@@ -610,8 +683,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "日本4名前首相国会“酣睡”",
@@ -622,11 +695,12 @@
             15,
             19,
             20,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "美联储理事沃勒：稳定币给支付系统带来竞争。 稳定币并没有对（FOMC）货币政策构成威胁。",
@@ -687,6 +761,89 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
+        },
+        {
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            17,
+            7,
+            6,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
+        },
+        {
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D29%26flag%3D0%26realpos%3D29%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26pos%3D28%26display_time%3D1762450744%26pre_seqid%3D1762450744957012922486&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            29,
+            28,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时41分 ~ 07时31分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月6日（周四）晚盘收盘下跌0.08%报911.89元/克；<br/>上海黄金交易所白银T+D 11月6日（周四）晚盘收盘上涨0.01%报11347.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251107023042570800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时50分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少36.68吨，当前持仓量为15114.03吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20251107065104124800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "金价“冲高回落”，投资者关注美联储利率前景",
+          "url": "https://wallstreetcn.com/livenews/3000762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 5,
       "titles": [
@@ -698,8 +855,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "MSCI指数最新调整：26只中国股票获纳入，涉资源、半导体等多领域",
@@ -708,11 +865,12 @@
           "ranks": [
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 05时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
@@ -753,76 +911,6 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            17,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D29%26flag%3D0%26realpos%3D29%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26pos%3D28%26display_time%3D1762450744%26pre_seqid%3D1762450744957012922486&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 06时39分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月6日（周四）晚盘收盘下跌0.08%报911.89元/克；<br/>上海黄金交易所白银T+D 11月6日（周四）晚盘收盘上涨0.01%报11347.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251107023042570800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 04时50分]"
-        },
-        {
-          "title": "金价“冲高回落”，投资者关注美联储利率前景",
-          "url": "https://wallstreetcn.com/livenews/3000762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 4,
       "titles": [
@@ -840,6 +928,18 @@
           "time_info": "[03时29分 ~ 05时32分]"
         },
         {
+          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
+          "url": "https://wallstreetcn.com/articles/3758839",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时31分]"
+        },
+        {
           "title": "Pytorch联席创始人Soumith Chintala离开扎克伯格的Meta Platforms。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3000700",
           "source": "华尔街见闻-快讯",
@@ -851,17 +951,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时56分 ~ 04时50分]"
-        },
-        {
-          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
-          "url": "https://wallstreetcn.com/articles/3758839",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
         },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
@@ -893,8 +982,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时31分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
@@ -942,11 +1031,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E7%9B%97%E6%92%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26q%3D%2523%25E6%258A%2596%25E9%259F%25B3%25E5%259B%259E%25E5%25BA%2594%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E8%25A2%25ABAI%25E7%259B%2597%25E6%2592%25AD%2523%26cate%3D5001%26pos%3D16%26realpos%3D17%26stream_entry_id%3D31%26flag%3D2%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1762468622%26pre_seqid%3D176246862218603410426107&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时31分]"
         }
       ]
     }
