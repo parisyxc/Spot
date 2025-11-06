@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T18:46:24.472964+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2025-11-06T19:31:46.343221+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时39分 ~ 18时46分]"
+          "appearance_count": 11,
+          "time_info": "[11时39分 ~ 19时31分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -106,6 +106,18 @@
           "time_info": "[02时53分 ~ 06时40分]"
         },
         {
+          "title": "【每日收评】沪指涨近1%重返4000点，半导体引领科技股集体回暖",
+          "url": "https://www.cls.cn/detail/2193114",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时31分]"
+        },
+        {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
@@ -117,27 +129,15 @@
           "time_info": "[07时33分 ~ 07时34分]"
         },
         {
-          "title": "【每日收评】沪指涨近1%重返4000点，半导体引领科技股集体回暖",
-          "url": "https://www.cls.cn/detail/2193114",
-          "source": "财联社热门",
+          "title": "EchoStar(SATS.O)美股盘前拉升，现涨4.7%。",
+          "url": "https://flash.jin10.com/detail/20251106192855202800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时46分]"
-        },
-        {
-          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
-          "url": "https://wallstreetcn.com/livenews/3000501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时31分"
         },
         {
           "title": "美股收盘：三大股指收涨 超微电脑跌11%",
@@ -149,6 +149,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时31分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
@@ -163,18 +176,6 @@
           "time_info": "[05时33分 ~ 06时40分]"
         },
         {
-          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3000481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时46分]"
-        },
-        {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251106051116318800",
           "source": "金十数据",
@@ -185,6 +186,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时40分]"
+        },
+        {
+          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
+          "url": "https://wallstreetcn.com/livenews/3000501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时31分]"
         },
         {
           "title": "Snap三季度营收15.1亿美元，分析师预期14.9亿美元。 三季度日活用户数4.77亿，分析师预期4.7631亿。 三季度调整后EBITDA为1.82亿美元，分析师预期1.242亿美元。 预计四季度营收16.8亿-17.1亿美元，分析师预期16.9亿美元。 Snap与Perplexity构建合作伙伴关系，将向SnapChat提供人工智能（AI）搜索功能。 Snap美股盘后涨15.99%。",
@@ -220,6 +233,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 03时28分]"
+        },
+        {
+          "title": "纳斯达克美股盘前下跌1.8%，此前欧盟委员会就德意志交易所与纳斯达克之间可能存在的合谋行为展开反垄断调查。",
+          "url": "https://flash.jin10.com/detail/20251106191520119800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
@@ -308,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "博主：今天A股是科技股反弹的行情",
+          "url": "https://www.toutiao.com/trending/7569539515526696486/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     },
@@ -320,11 +355,12 @@
           "url": "https://www.zhihu.com/question/1969450608642745244",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时39分 ~ 18时46分]"
+          "appearance_count": 11,
+          "time_info": "[11时39分 ~ 19时31分]"
         },
         {
           "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
@@ -353,6 +389,20 @@
           "time_info": "[12时49分 ~ 18时46分]"
         },
         {
+          "title": "小鹏女机器人里藏真人？何小鹏回应",
+          "url": "https://www.cls.cn/detail/2192721",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时40分 ~ 19时31分]"
+        },
+        {
           "title": "女性人形机器人里藏真人？何小鹏回应",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -362,20 +412,6 @@
             4,
             8,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时40分 ~ 18时46分]"
-        },
-        {
-          "title": "小鹏女机器人里藏真人？何小鹏回应",
-          "url": "https://www.cls.cn/detail/2192721",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7,
-            4
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -407,8 +443,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时39分 ~ 18时46分]"
+          "appearance_count": 10,
+          "time_info": "[11时39分 ~ 19时31分]"
         },
         {
           "title": "宇树机器人丝滑做完全套家务",
@@ -419,20 +455,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时31分]"
         },
         {
-          "title": "小鹏的人形机器人为啥让网友吵疯了",
-          "url": "https://www.toutiao.com/trending/7569493216051858987/",
-          "source": "今日头条",
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
           "ranks": [
-            2,
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时31分]"
+        },
+        {
+          "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
+          "url": "https://www.zhihu.com/question/1969734521176941617",
+          "source": "知乎",
+          "ranks": [
+            9,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时31分]"
         },
         {
           "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
@@ -448,29 +497,17 @@
           "time_info": "[05时33分 ~ 07时34分]"
         },
         {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
+          "title": "小鹏的人形机器人为啥让网友吵疯了",
+          "url": "https://www.toutiao.com/trending/7569493216051858987/",
+          "source": "今日头条",
           "ranks": [
-            4,
+            2,
             5,
-            3
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时46分]"
-        },
-        {
-          "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
-          "url": "https://www.zhihu.com/question/1969734521176941617",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时31分]"
         },
         {
           "title": "去掉蒙皮的小鹏机器人什么样",
@@ -478,11 +515,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时31分]"
         },
         {
           "title": "以太坊日内涨超5.00%，现报3453美元/枚。",
@@ -630,7 +668,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "事关稀土出口、安世半导体问题，商务部最新回应",
@@ -639,11 +677,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时31分]"
         },
         {
           "title": "商务部：荷方不当干预，造成了全球半导体产供链的动荡和混乱",
@@ -653,8 +692,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时46分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时31分]"
         },
         {
           "title": "商务部回应安世半导体相关问题",
@@ -802,6 +841,17 @@
           "time_info": "[12时50分 ~ 13时40分]"
         },
         {
+          "title": "苏大维格：拟以自有或自筹资金5.1亿元收购常州维普半导体设备有限公司51%股权。本次交易完成后，常州维普成为公司控股子公司，纳入公司合并报表范围。",
+          "url": "https://wallstreetcn.com/livenews/3000516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "商务部回应安世半导体相关问题",
           "url": "https://wallstreetcn.com/livenews/3000427",
           "source": "华尔街见闻-快讯",
@@ -903,7 +953,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -963,7 +1013,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -985,7 +1035,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -1047,11 +1097,12 @@
             3,
             2,
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时54分 ~ 18时46分]"
+          "appearance_count": 22,
+          "time_info": "[00时54分 ~ 19时31分]"
         },
         {
           "title": "日本熊害已逼近东京",
@@ -1065,8 +1116,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 18时46分]"
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 19时31分]"
         },
         {
           "title": "日本9月劳动现金收入年率 1.9%，预期1.90%，前值由1.50%修正为1.30%。",
@@ -1330,7 +1381,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十图示：2025年11月06日（周四）白银ETF持仓报告",
@@ -1367,6 +1418,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时56分 ~ 15时33分]"
+        },
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "澳大利亚贸易顺差受金价飙升推动",
