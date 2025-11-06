@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T07:34:11.826376+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2025-11-06T11:39:20.521454+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -56,6 +56,18 @@
           "time_info": "[02时53分 ~ 06时40分]"
         },
         {
+          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
+          "url": "https://www.cls.cn/detail/2192424",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时33分 ~ 11时39分]"
+        },
+        {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
@@ -67,15 +79,26 @@
           "time_info": "[07时33分 ~ 07时34分]"
         },
         {
-          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
-          "url": "https://www.cls.cn/detail/2192424",
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
+          "url": "https://www.cls.cn/detail/2192518",
           "source": "财联社热门",
           "ranks": [
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 07时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "美股收盘：三大股指收涨 超微电脑跌11%",
@@ -99,6 +122,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时40分]"
+        },
+        {
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股收盘）",
@@ -223,12 +257,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "特朗普称美股将再创新高",
+          "url": "https://www.toutiao.com/trending/7569403413117537838/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
@@ -251,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "谷歌洽谈加大投资Anthropic 后者估值或超3500亿美元",
+          "url": "https://flash.jin10.com/detail/20251106111258842800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
@@ -322,6 +378,217 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3000270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。",
+          "url": "https://flash.jin10.com/detail/20251106104149768800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
+          "url": "https://www.cls.cn/detail/2191948",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 07时34分]"
+        },
+        {
+          "title": "币圈再度血流成河！比特币6月以来首次跌破10万大关，以太币暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3758675",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时42分]"
+        },
+        {
+          "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
+          "url": "https://www.zhihu.com/question/1969450608642745244",
+          "source": "知乎",
+          "ranks": [
+            9,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时33分 ~ 07时34分]"
+        },
+        {
+          "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
+          "url": "https://www.zhihu.com/question/1969450608642745244",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "以太坊日内涨超5.00%，现报3453美元/枚。",
+          "url": "https://flash.jin10.com/detail/20251106023247371800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时54分 ~ 04时42分]"
+        },
+        {
+          "title": "周三（11月5日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨3.07%，至10.4万美元上方，全天持续震荡上行，亚太盘初出现一波V形反转。 CME以太币期货DCR主力合约涨6.96%，报3451.00美元。",
+          "url": "https://wallstreetcn.com/livenews/3000112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时40分]"
+        },
+        {
+          "title": "小鹏机器人走猫步太像人了",
+          "url": "https://www.douyin.com/hot/2295769",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "以太坊向上触及3400美元/枚，日内涨3.44%。",
+          "url": "https://flash.jin10.com/detail/20251106000152761800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "恒生科技指数日内涨幅扩大至2%，中芯国际涨超5%，华虹半导体涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3000287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "ASML：半导体产业开放合作是主流",
+          "url": "https://www.toutiao.com/trending/7568849695255511081/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时28分]"
+        },
+        {
+          "title": "纳斯达克100指数涨超1%，成分股美光科技涨8.3%，安进涨7.8%，迈威尔科技涨6.1%；铿腾电子则跌2.2%，Palantir跌2.6%，Axon仍然跌11.1%。 标普500指数涨0.85%，道指涨371点涨幅0.8%，纳斯达克综合指数涨1.04%。 费城半导体指数涨3.15%，银行指数涨0.98%，生物科技指数涨1.90%。",
+          "url": "https://wallstreetcn.com/livenews/3000051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时28分]"
+        },
+        {
+          "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3000064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时42分]"
+        },
+        {
+          "title": "标普500指数涨0.35%，道指微跌，纳指涨0.61%，半导体指数涨2.45%。 美国最高法院似乎怀疑总统特朗普关税的合法性。",
+          "url": "https://wallstreetcn.com/livenews/3000015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时38分]"
+        },
+        {
+          "title": "A股半导体芯片股持续拉升，长光华芯20cm涨停，海光信息大涨10%，寒武纪、新相微、中微公司、拓荆科技等纷纷走强。",
+          "url": "https://wallstreetcn.com/livenews/3000275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至1%。中芯国际涨超3%，阿里巴巴、海尔智家、华虹半导体涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3000258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     },
@@ -414,18 +681,19 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "日本男性摆烂求自保,窝囊组上大分",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346793&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%80%A7%E6%91%86%E7%83%82%E6%B1%82%E8%87%AA%E4%BF%9D%2C%E7%AA%9D%E5%9B%8A%E7%BB%84%E4%B8%8A%E5%A4%A7%E5%88%86",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 11时39分]"
         },
         {
           "title": "日本9月劳动现金收入年率 1.9%，预期1.90%，前值由1.50%修正为1.30%。",
@@ -434,7 +702,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -445,7 +713,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -456,7 +724,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -483,140 +751,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
-          "url": "https://www.cls.cn/detail/2191948",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时34分]"
         },
         {
-          "title": "币圈再度血流成河！比特币6月以来首次跌破10万大关，以太币暴跌10%",
-          "url": "https://wallstreetcn.com/articles/3758675",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时42分]"
-        },
-        {
-          "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
-          "url": "https://www.zhihu.com/question/1969450608642745244",
-          "source": "知乎",
-          "ranks": [
-            9,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时33分 ~ 07时34分]"
-        },
-        {
-          "title": "以太坊日内涨超5.00%，现报3453美元/枚。",
-          "url": "https://flash.jin10.com/detail/20251106023247371800",
+          "title": "日本副内阁官房长官：正在了解有关美国在关税政策方面诉讼案的最新进展。",
+          "url": "https://flash.jin10.com/detail/20251106104247268800",
           "source": "金十数据",
           "ranks": [
-            1,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时42分]"
-        },
-        {
-          "title": "周三（11月5日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨3.07%，至10.4万美元上方，全天持续震荡上行，亚太盘初出现一波V形反转。 CME以太币期货DCR主力合约涨6.96%，报3451.00美元。",
-          "url": "https://wallstreetcn.com/livenews/3000112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时40分]"
-        },
-        {
-          "title": "以太坊向上触及3400美元/枚，日内涨3.44%。",
-          "url": "https://flash.jin10.com/detail/20251106000152761800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "ASML：半导体产业开放合作是主流",
-          "url": "https://www.toutiao.com/trending/7568849695255511081/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时28分]"
-        },
-        {
-          "title": "纳斯达克100指数涨超1%，成分股美光科技涨8.3%，安进涨7.8%，迈威尔科技涨6.1%；铿腾电子则跌2.2%，Palantir跌2.6%，Axon仍然跌11.1%。 标普500指数涨0.85%，道指涨371点涨幅0.8%，纳斯达克综合指数涨1.04%。 费城半导体指数涨3.15%，银行指数涨0.98%，生物科技指数涨1.90%。",
-          "url": "https://wallstreetcn.com/livenews/3000051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时28分]"
-        },
-        {
-          "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
-          "url": "https://wallstreetcn.com/livenews/3000064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
             21
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时42分]"
-        },
-        {
-          "title": "标普500指数涨0.35%，道指微跌，纳指涨0.61%，半导体指数涨2.45%。 美国最高法院似乎怀疑总统特朗普关税的合法性。",
-          "url": "https://wallstreetcn.com/livenews/3000015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     },
@@ -644,7 +789,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -673,6 +818,34 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
+          "url": "https://wallstreetcn.com/articles/3758729",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "特斯拉撞死闯国道野猪 车主被判全责",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E6%AD%BB%E9%97%AF%E5%9B%BD%E9%81%93%E9%87%8E%E7%8C%AA+%E8%BD%A6%E4%B8%BB%E8%A2%AB%E5%88%A4%E5%85%A8%E8%B4%A3",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 2,
       "titles": [
@@ -688,8 +861,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 11时39分]"
         },
         {
           "title": "吴昕微信几乎不留聊天记录",
@@ -704,23 +877,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时54分 ~ 07时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉撞死闯国道野猪 车主被判全责",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E6%AD%BB%E9%97%AF%E5%9B%BD%E9%81%93%E9%87%8E%E7%8C%AA+%E8%BD%A6%E4%B8%BB%E8%A2%AB%E5%88%A4%E5%85%A8%E8%B4%A3",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     }
