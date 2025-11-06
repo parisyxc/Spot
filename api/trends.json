@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-06T17:41:13.668995+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2025-11-06T18:46:24.472964+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时39分 ~ 18时46分]"
+        },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
           "url": "https://wallstreetcn.com/articles/3758696",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 06时40分]"
-        },
-        {
-          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时39分 ~ 17时41分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -117,26 +117,27 @@
           "time_info": "[07时33分 ~ 07时34分]"
         },
         {
-          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3000481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
           "title": "【每日收评】沪指涨近1%重返4000点，半导体引领科技股集体回暖",
           "url": "https://www.cls.cn/detail/2193114",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 18时46分]"
+        },
+        {
+          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
+          "url": "https://wallstreetcn.com/livenews/3000501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "美股收盘：三大股指收涨 超微电脑跌11%",
@@ -160,6 +161,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时40分]"
+        },
+        {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 18时46分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股收盘）",
@@ -310,8 +323,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时39分 ~ 17时41分]"
+          "appearance_count": 10,
+          "time_info": "[11时39分 ~ 18时46分]"
         },
         {
           "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
@@ -336,8 +349,37 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 17时41分]"
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 18时46分]"
+        },
+        {
+          "title": "女性人形机器人里藏真人？何小鹏回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            6,
+            4,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时40分 ~ 18时46分]"
+        },
+        {
+          "title": "小鹏女机器人里藏真人？何小鹏回应",
+          "url": "https://www.cls.cn/detail/2192721",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时40分 ~ 18时46分]"
         },
         {
           "title": "币圈再度血流成河！比特币6月以来首次跌破10万大关，以太币暴跌10%",
@@ -352,32 +394,45 @@
           "time_info": "[00时54分 ~ 04时42分]"
         },
         {
-          "title": "女性人形机器人里藏真人？何小鹏回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "小鹏机器人走猫步太像人了",
+          "url": "https://www.douyin.com/hot/2295769",
+          "source": "抖音",
           "ranks": [
-            9,
-            6,
-            4,
-            8
+            14,
+            17,
+            16,
+            29,
+            26,
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时40分 ~ 17时41分]"
+          "appearance_count": 9,
+          "time_info": "[11时39分 ~ 18时46分]"
         },
         {
-          "title": "小鹏女机器人里藏真人？何小鹏回应",
-          "url": "https://www.cls.cn/detail/2192721",
-          "source": "财联社热门",
+          "title": "宇树机器人丝滑做完全套家务",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9D%E6%BB%91%E5%81%9A%E5%AE%8C%E5%85%A8%E5%A5%97%E5%AE%B6%E5%8A%A1",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9,
-            7,
-            4
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时40分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 18时46分]"
+        },
+        {
+          "title": "小鹏的人形机器人为啥让网友吵疯了",
+          "url": "https://www.toutiao.com/trending/7569493216051858987/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 18时46分]"
         },
         {
           "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
@@ -393,54 +448,17 @@
           "time_info": "[05时33分 ~ 07时34分]"
         },
         {
-          "title": "宇树机器人丝滑做完全套家务",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9D%E6%BB%91%E5%81%9A%E5%AE%8C%E5%85%A8%E5%A5%97%E5%AE%B6%E5%8A%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时41分]"
-        },
-        {
-          "title": "小鹏机器人走猫步太像人了",
-          "url": "https://www.douyin.com/hot/2295769",
-          "source": "抖音",
-          "ranks": [
-            14,
-            17,
-            16,
-            29,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时39分 ~ 17时41分]"
-        },
-        {
-          "title": "小鹏的人形机器人为啥让网友吵疯了",
-          "url": "https://www.toutiao.com/trending/7569493216051858987/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时41分]"
-        },
-        {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 18时46分]"
         },
         {
           "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
@@ -451,8 +469,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 18时46分]"
         },
         {
           "title": "去掉蒙皮的小鹏机器人什么样",
@@ -463,8 +481,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 18时46分]"
         },
         {
           "title": "以太坊日内涨超5.00%，现报3453美元/枚。",
@@ -620,11 +638,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 18时46分]"
         },
         {
           "title": "商务部：荷方不当干预，造成了全球半导体产供链的动荡和混乱",
@@ -634,8 +653,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 18时46分]"
         },
         {
           "title": "商务部回应安世半导体相关问题",
@@ -657,8 +676,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 18时46分]"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至2%，中芯国际涨超5%，华虹半导体涨超3%。",
@@ -818,6 +837,205 @@
       ]
     },
     {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3000071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
+          "url": "https://flash.jin10.com/detail/20251106010550622800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "谷歌洽谈加大投资Anthropic 后者估值或超3500亿美元",
+          "url": "https://flash.jin10.com/detail/20251106111258842800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
+          "url": "https://flash.jin10.com/detail/20251106031453898800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时42分]"
+        },
+        {
+          "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
+          "url": "https://flash.jin10.com/detail/20251106010421100800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "市场消息：谷歌(GOOG.O)同意从巴西植树造林初创企业Mombak购买20万吨碳排放额度。",
+          "url": "https://flash.jin10.com/detail/20251106180054572800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
+          "url": "https://wallstreetcn.com/livenews/3000038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时28分]"
+        },
+        {
+          "title": "谷歌：Chrome浏览器中的AI模式快捷方式即将扩展至160个新的国家和地区，并支持包括印地语、印尼语、日语、韩语、葡萄牙语等更多语言。",
+          "url": "https://flash.jin10.com/detail/20251106010654630800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 02时54分]"
+        },
+        {
+          "title": "谷歌：该功能将于未来几天开始向移动用户推出。",
+          "url": "https://flash.jin10.com/detail/20251106010606824800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 02时54分]"
+        },
+        {
+          "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
+          "url": "https://wallstreetcn.com/livenews/3000351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时33分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：（即将宣布的在德国）投资将涵盖基础设施、数据中心以及利用可再生能源和余热的项目。",
+          "url": "https://flash.jin10.com/detail/20251106174631511800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果接近最终敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3000071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将于下周二宣布公司在德国的最大一笔投资。",
+          "url": "https://flash.jin10.com/detail/20251106174536782800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3000270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。",
+          "url": "https://flash.jin10.com/detail/20251106104149768800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "德媒：谷歌计划下周公布历史最大德国投资计划 将建设基础设施和数据中心",
+          "url": "https://flash.jin10.com/detail/20251106140725860800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "据德国《商报》：谷歌正准备宣布在德国的有史以来最大的投资计划。",
+          "url": "https://flash.jin10.com/detail/20251106140533490800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "稳定币 日本",
       "match_count": 16,
       "titles": [
@@ -828,11 +1046,12 @@
           "ranks": [
             3,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时54分 ~ 17时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时54分 ~ 18时46分]"
         },
         {
           "title": "日本熊害已逼近东京",
@@ -846,8 +1065,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时49分 ~ 17时41分]"
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 18时46分]"
         },
         {
           "title": "日本9月劳动现金收入年率 1.9%，预期1.90%，前值由1.50%修正为1.30%。",
@@ -958,11 +1177,12 @@
           "url": "https://www.toutiao.com/trending/7569502795548593700/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 18时46分]"
         },
         {
           "title": "日本10月经济形势报告维持全部地区评估",
@@ -1007,172 +1227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3000071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
-          "url": "https://flash.jin10.com/detail/20251106010550622800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "谷歌洽谈加大投资Anthropic 后者估值或超3500亿美元",
-          "url": "https://flash.jin10.com/detail/20251106111258842800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
-          "url": "https://flash.jin10.com/detail/20251106031453898800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时42分]"
-        },
-        {
-          "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
-          "url": "https://flash.jin10.com/detail/20251106010421100800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
-          "url": "https://wallstreetcn.com/livenews/3000038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时28分]"
-        },
-        {
-          "title": "谷歌：Chrome浏览器中的AI模式快捷方式即将扩展至160个新的国家和地区，并支持包括印地语、印尼语、日语、韩语、葡萄牙语等更多语言。",
-          "url": "https://flash.jin10.com/detail/20251106010654630800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时54分]"
-        },
-        {
-          "title": "谷歌：该功能将于未来几天开始向移动用户推出。",
-          "url": "https://flash.jin10.com/detail/20251106010606824800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时54分]"
-        },
-        {
-          "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
-          "url": "https://wallstreetcn.com/livenews/3000351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时33分]"
-        },
-        {
-          "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果接近最终敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3000071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3000270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。",
-          "url": "https://flash.jin10.com/detail/20251106104149768800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "德媒：谷歌计划下周公布历史最大德国投资计划 将建设基础设施和数据中心",
-          "url": "https://flash.jin10.com/detail/20251106140725860800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "据德国《商报》：谷歌正准备宣布在德国的有史以来最大的投资计划。",
-          "url": "https://flash.jin10.com/detail/20251106140533490800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
         }
       ]
     },
