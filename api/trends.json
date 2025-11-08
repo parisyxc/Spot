@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T19:27:30.435195+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-11-08T21:07:47.453368+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "禁令实施两年来日本水产品首次对华出口，中方回应",
@@ -43,11 +43,12 @@
             8,
             9,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时45分 ~ 19时27分]"
+          "appearance_count": 25,
+          "time_info": "[00时45分 ~ 21时07分]"
         },
         {
           "title": "中方回应日本扇贝已对华出口",
@@ -241,6 +242,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "前日本首相石破茂说，日本和美国是不同的国家，有着不同的国家利益。 他不认为对美国言听计从，就能保障日本安然无恙。（中新网）",
+          "url": "https://wallstreetcn.com/livenews/3001573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "当地居民说日本秋田全是熊",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BD%93%E5%9C%B0%E5%B1%85%E6%B0%91%E8%AF%B4%E6%97%A5%E6%9C%AC%E7%A7%8B%E7%94%B0%E5%85%A8%E6%98%AF%E7%86%8A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26pos%3D10%26band_rank%3D10%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D10%26q%3D%2523%25E5%25BD%2593%25E5%259C%25B0%25E5%25B1%2585%25E6%25B0%2591%25E8%25AF%25B4%25E6%2597%25A5%25E6%259C%25AC%25E7%25A7%258B%25E7%2594%25B0%25E5%2585%25A8%25E6%2598%25AF%25E7%2586%258A%2523%26flag%3D0%26dgr%3D0%26display_time%3D1762571621%26pre_seqid%3D17625716219060245528852&launchid=10000360-page_H5",
           "source": "微博",
@@ -250,6 +262,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 11时14分]"
+        },
+        {
+          "title": "石破茂谈卸任日本首相：能随时去吃拉面，很开心",
+          "url": "https://wallstreetcn.com/livenews/3001572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "币圈血流成河之际，又一个稳定币“脱锚”",
+          "url": "https://wallstreetcn.com/articles/3758974",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "据日经新闻：联合国COP30大会将公布由日本主导的拟议回收信息披露规则。苹果公司和丰田汽车等企业披露其使用再生材料相关数据的框架，拟在联合国气候大会上提出。",
@@ -350,21 +384,6 @@
           "time_info": "[00时45分 ~ 07时30分]"
         },
         {
-          "title": "马斯克点赞小鹏机器人",
-          "url": "https://www.toutiao.com/trending/7569429277528145970/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            6,
-            10,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时13分 ~ 19时27分]"
-        },
-        {
           "title": "从展厅到工厂，人形机器人如何跨越规模交付瓶颈？明年是关键期｜进博会观察",
           "url": "https://www.cls.cn/detail/2194894",
           "source": "财联社热门",
@@ -374,11 +393,28 @@
             7,
             4,
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时34分 ~ 19时27分]"
+          "appearance_count": 9,
+          "time_info": "[13时34分 ~ 21时07分]"
+        },
+        {
+          "title": "马斯克点赞小鹏机器人",
+          "url": "https://www.toutiao.com/trending/7569429277528145970/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            6,
+            10,
+            15,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时13分 ~ 21时07分]"
         },
         {
           "title": "国内机器人走出惊艳“猫步”引发热议，专家解读：是不是越像人越好？",
@@ -389,11 +425,12 @@
             13,
             12,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时13分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[11时13分 ~ 21时07分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -406,11 +443,12 @@
             21,
             22,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时45分 ~ 19时27分]"
+          "appearance_count": 25,
+          "time_info": "[00时45分 ~ 21时07分]"
         },
         {
           "title": "摩根大通入股以太坊储备龙头Bitmine，持仓市值1.02亿美元",
@@ -564,8 +602,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时13分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[11时13分 ~ 21时07分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -588,8 +626,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时30分 ~ 19时27分]"
+          "appearance_count": 14,
+          "time_info": "[07时30分 ~ 21时07分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -614,8 +652,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时45分 ~ 19时27分]"
+          "appearance_count": 25,
+          "time_info": "[00时45分 ~ 21时07分]"
+        },
+        {
+          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3758961",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时07分]"
         },
         {
           "title": "金十图示：2025年11月07日（周五）热门中概股行情一览（美股盘中）",
@@ -649,17 +699,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
-        },
-        {
-          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3758961",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时27分]"
         },
         {
           "title": "美股费城半导体指数跌超4%，纳微半导体跌17.5%，英伟达两倍做多ETF跌8.2%，Coherent跌7.6%，Arm跌6.6%，英伟达、超微电脑、博通、AMD、格芯跌超4%。 标普500指数跌约1.2%，纳指跌约1.9%。",
@@ -736,11 +775,12 @@
             6,
             5,
             4,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时45分 ~ 19时27分]"
+          "appearance_count": 25,
+          "time_info": "[00时45分 ~ 21时07分]"
         },
         {
           "title": "中方：同意荷兰派员来华磋商安世半导体问题",
@@ -760,11 +800,12 @@
           "ranks": [
             7,
             9,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 19时27分]"
+          "appearance_count": 7,
+          "time_info": "[15时29分 ~ 21时07分]"
         },
         {
           "title": "商务部再就安世半导体问题答问：中方同意荷派员来华磋商请求",
@@ -776,8 +817,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时43分 ~ 19时27分]"
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 21时07分]"
         },
         {
           "title": "商务部回应安世半导体问题：中方同意荷方派员来华磋商的请求",
@@ -789,8 +830,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时43分 ~ 19时27分]"
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 21时07分]"
         },
         {
           "title": "荷兰将归还安世半导体控制权",
@@ -986,7 +1027,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
@@ -997,11 +1038,12 @@
             6,
             4,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时13分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[11时13分 ~ 21时07分]"
         },
         {
           "title": "Meta去年靠诈骗广告赚1140亿",
@@ -1039,6 +1081,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "gemini 毒奶",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26pos%3D25%26band_rank%3D25%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D25%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26flag%3D1%26dgr%3D0%26display_time%3D1762607163%26pre_seqid%3D176260716370102455296139&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     },
@@ -1116,11 +1169,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时27分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 21时07分]"
         },
         {
           "title": "OpenAI要求美国总统特朗普的政府对众多数据中心扩大由“芯片法案”提供的信用支持。",
@@ -1152,8 +1206,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时13分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[11时13分 ~ 21时07分]"
         },
         {
           "title": "终于等到茜拉第一条抖音了",
