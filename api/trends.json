@@ -1,631 +1,194 @@
 {
-  "generated_at": "2025-11-08T23:31:44.137398+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2025-11-09T00:41:13.497507+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 30,
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 6,
       "titles": [
         {
-          "title": "禁令实施两年来日本水产品首次对华出口，中方回应",
-          "url": "https://news.ifeng.com/c/8o5XA3jzrWt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时30分]"
-        },
-        {
-          "title": "日本扇贝已出口至中国，外交部：将继续加强对日本水产品输华监管",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31880787",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时45分 ~ 15时29分]"
-        },
-        {
-          "title": "日本闹熊患,悬赏日薪八千没人干",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346842&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%97%B9%E7%86%8A%E6%82%A3%2C%E6%82%AC%E8%B5%8F%E6%97%A5%E8%96%AA%E5%85%AB%E5%8D%83%E6%B2%A1%E4%BA%BA%E5%B9%B2",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            7,
-            8,
-            9,
-            11,
-            12,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时45分 ~ 23时31分]"
-        },
-        {
-          "title": "中方回应日本扇贝已对华出口",
-          "url": "https://www.toutiao.com/trending/7569799820060213302/",
+          "title": "刘强东：五年左右机器人送货进家",
+          "url": "https://www.toutiao.com/trending/7569651349332181043/",
           "source": "今日头条",
-          "ranks": [
-            9,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 11时14分]"
-        },
-        {
-          "title": "时隔两年日本水产品首次对华出口，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916151",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时45分 ~ 15时29分]"
-        },
-        {
-          "title": "日本流感疫情扩散",
-          "url": "https://www.douyin.com/hot/2298508",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16,
-            14,
-            13,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时45分 ~ 15时29分]"
-        },
-        {
-          "title": "日本男性摆烂求自保,窝囊组上大分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346793&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%80%A7%E6%91%86%E7%83%82%E6%B1%82%E8%87%AA%E4%BF%9D%2C%E7%AA%9D%E5%9B%8A%E7%BB%84%E4%B8%8A%E5%A4%A7%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            23,
-            25,
-            26,
-            27,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时45分 ~ 19时27分]"
-        },
-        {
-          "title": "泰国12岁少女被亲妈骗到日本卖淫",
-          "url": "https://www.toutiao.com/trending/7569002024734539830/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 06时37分]"
-        },
-        {
-          "title": "美联储理事米兰：稳定币的广泛使用可能会使美联储的利率降低。",
-          "url": "https://flash.jin10.com/detail/20251108040128305800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时34分 ~ 07时30分]"
-        },
-        {
-          "title": "美联储理事米兰：稳定币的广泛使用可能会推高美元价值。",
-          "url": "https://flash.jin10.com/detail/20251108040051217800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时34分 ~ 07时30分]"
-        },
-        {
-          "title": "美联储理事米兰：稳定币的兴起或将推动美元更广泛地使用。",
-          "url": "https://flash.jin10.com/detail/20251108040045147800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时34分 ~ 07时30分]"
-        },
-        {
-          "title": "美联储理事米兰：对稳定币融入金融体系感到鼓舞。",
-          "url": "https://flash.jin10.com/detail/20251108040041138800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时34分 ~ 07时30分]"
-        },
-        {
-          "title": "日本“主妇离奇被杀案”告破",
-          "url": "https://www.toutiao.com/trending/7569918531936980522/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            28,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时34分 ~ 07时30分]"
-        },
-        {
-          "title": "美联储理事米兰：稳定币的广泛使用可能会增加触及零利率下限的风险。大量使用稳定币可能会降低中性利率。",
-          "url": "https://flash.jin10.com/detail/20251108040037011800",
-          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时34分 ~ 07时30分]"
-        },
-        {
-          "title": "日本熊灾 猎人",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE+%E7%8C%8E%E4%BA%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D8%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26cate%3D5001%26band_rank%3D8%26q%3D%25E6%2597%25A5%25E6%259C%25AC%25E7%2586%258A%25E7%2581%25BE%2520%25E7%258C%258E%25E4%25BA%25BA%26realpos%3D8%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26display_time%3D1762543066%26pre_seqid%3D17625430669170330116776&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            8,
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时27分 ~ 05时27分]"
-        },
-        {
-          "title": "日本7名男教师被捕",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC7%E5%90%8D%E7%94%B7%E6%95%99%E5%B8%88%E8%A2%AB%E6%8D%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26band_rank%3D17%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC7%25E5%2590%258D%25E7%2594%25B7%25E6%2595%2599%25E5%25B8%2588%25E8%25A2%25AB%25E6%258D%2595%2523%26dgr%3D0%26lcate%3D5001%26realpos%3D17%26cate%3D5001%26pos%3D17%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26display_time%3D1762546999%26pre_seqid%3D17625469989700161552825&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            17,
-            18,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时33分 ~ 07时30分]"
-        },
-        {
-          "title": "币圈血流成河之际，又一个稳定币“脱锚”",
-          "url": "https://wallstreetcn.com/articles/3758974",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时07分 ~ 23时31分]"
-        },
-        {
-          "title": "日本熊袭人有明显吃人痕迹",
-          "url": "https://www.toutiao.com/trending/7569873304350408750/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
-        },
-        {
-          "title": "美联储理事米兰：稳定币可能会大幅压低R*利率。 当获取美元的渠道受限时，稳定币能满足需求。 稳定币增长应当提振可用于贷款的资金供应量。",
-          "url": "https://wallstreetcn.com/livenews/3001383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "当地居民说日本秋田全是熊",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BD%93%E5%9C%B0%E5%B1%85%E6%B0%91%E8%AF%B4%E6%97%A5%E6%9C%AC%E7%A7%8B%E7%94%B0%E5%85%A8%E6%98%AF%E7%86%8A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26pos%3D10%26band_rank%3D10%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D10%26q%3D%2523%25E5%25BD%2593%25E5%259C%25B0%25E5%25B1%2585%25E6%25B0%2591%25E8%25AF%25B4%25E6%2597%25A5%25E6%259C%25AC%25E7%25A7%258B%25E7%2594%25B0%25E5%2585%25A8%25E6%2598%25AF%25E7%2586%258A%2523%26flag%3D0%26dgr%3D0%26display_time%3D1762571621%26pre_seqid%3D17625716219060245528852&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
-        },
-        {
-          "title": "据日经新闻：联合国COP30大会将公布由日本主导的拟议回收信息披露规则。苹果公司和丰田汽车等企业披露其使用再生材料相关数据的框架，拟在联合国气候大会上提出。",
-          "url": "https://flash.jin10.com/detail/20251108010835221800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "日本流感疫情扩散，新确诊病例数翻番",
-          "url": "https://wallstreetcn.com/livenews/3001477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 13时34分]"
-        },
-        {
-          "title": "前日本首相石破茂说，日本和美国是不同的国家，有着不同的国家利益。 他不认为对美国言听计从，就能保障日本安然无恙。（中新网）",
-          "url": "https://wallstreetcn.com/livenews/3001573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时07分 ~ 23时31分]"
-        },
-        {
-          "title": "石破茂谈卸任日本首相：能随时去吃拉面，很开心",
-          "url": "https://wallstreetcn.com/livenews/3001572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时07分 ~ 23时31分]"
-        },
-        {
-          "title": "2025 年因熊袭击死亡的日本人人数已到达 9 人，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1964700729743771045",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时48分 ~ 16时44分]"
-        },
-        {
-          "title": "如何看待《女神异闻录 3：Reload》NS2 版在日本本土首发预冷：一周仅售出 6778 份？",
-          "url": "https://www.zhihu.com/question/1969055261558837924",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时27分]"
-        },
-        {
-          "title": "日本网友将熊灾甩锅给中国",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E5%B0%86%E7%86%8A%E7%81%BE%E7%94%A9%E9%94%85%E7%BB%99%E4%B8%AD%E5%9B%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26pos%3D24%26band_rank%3D24%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D24%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E7%25BD%2591%25E5%258F%258B%25E5%25B0%2586%25E7%2586%258A%25E7%2581%25BE%25E7%2594%25A9%25E9%2594%2585%25E7%25BB%2599%25E4%25B8%25AD%25E5%259B%25BD%2523%26flag%3D1%26dgr%3D0%26display_time%3D1762571621%26pre_seqid%3D17625716219060245528852&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
-        },
-        {
-          "title": "高市早苗咋成了日本带货王",
-          "url": "https://www.toutiao.com/trending/7569217018189365258/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "美联储理事米兰：稳定币可能会大幅压低R*利率（即中性利率）。 如果R*下降，政策利率也应该下降。 当获取美元的渠道受限时，稳定币能满足需求。 稳定币增长应当提振可用于贷款的资金供应量。",
-          "url": "https://wallstreetcn.com/livenews/3001383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "日本女子把寄存柜当胶囊舱钻进去睡",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E6%8A%8A%E5%AF%84%E5%AD%98%E6%9F%9C%E5%BD%93%E8%83%B6%E5%9B%8A%E8%88%B1%E9%92%BB%E8%BF%9B%E5%8E%BB%E7%9D%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26pos%3D29%26lcate%3D5001%26band_rank%3D29%26stream_entry_id%3D31%26realpos%3D29%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25A5%25B3%25E5%25AD%2590%25E6%258A%258A%25E5%25AF%2584%25E5%25AD%2598%25E6%259F%259C%25E5%25BD%2593%25E8%2583%25B6%25E5%259B%258A%25E8%2588%25B1%25E9%2592%25BB%25E8%25BF%259B%25E5%258E%25BB%25E7%259D%25A1%2523%26flag%3D1%26dgr%3D0%26display_time%3D1762598120%26pre_seqid%3D176259812013902455298157&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "何为进博｜从机器人到“空中专车”，科技成果向“新”见未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31908695",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时30分]"
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
           "title": "从展厅到工厂，人形机器人如何跨越规模交付瓶颈？明年是关键期｜进博会观察",
           "url": "https://www.cls.cn/detail/2194894",
           "source": "财联社热门",
           "ranks": [
-            13,
-            8,
-            7,
-            4,
-            5,
-            6,
-            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时34分 ~ 23时31分]"
-        },
-        {
-          "title": "马斯克点赞小鹏机器人",
-          "url": "https://www.toutiao.com/trending/7569429277528145970/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            6,
-            10,
-            15,
-            17,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时13分 ~ 23时31分]"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
           "title": "国内机器人走出惊艳“猫步”引发热议，专家解读：是不是越像人越好？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31921547",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            13,
-            12,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时13分 ~ 23时31分]"
-        },
-        {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            18,
-            20,
-            21,
-            22,
-            24,
-            25,
-            27,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时45分 ~ 23时31分]"
-        },
-        {
-          "title": "摩根大通入股以太坊储备龙头Bitmine，持仓市值1.02亿美元",
-          "url": "https://flash.jin10.com/detail/20251108121859289800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时34分 ~ 16时44分]"
-        },
-        {
-          "title": "比特币失守102000美元/枚，日内跌幅1.30%。",
-          "url": "https://flash.jin10.com/detail/20251108153012783800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 19时27分]"
-        },
-        {
-          "title": "摩根大通入股以太坊储备龙头Bitmine 持仓市值 1.02 亿美元",
-          "url": "https://wallstreetcn.com/livenews/3001490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 15时29分]"
-        },
-        {
-          "title": "小鹏机器人火了 前景乐观吗",
-          "url": "https://www.toutiao.com/trending/7570178447754923570/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 16时44分]"
-        },
-        {
-          "title": "京东狼族机器人全球智能工厂项目签约落地",
-          "url": "https://wallstreetcn.com/livenews/3001473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 13时34分]"
-        },
-        {
-          "title": "狗狗币周五涨超12%，比特币期货本周跌6%、以太币跌11%、狗狗币涨7.9%",
-          "url": "https://wallstreetcn.com/livenews/3001418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时30分]"
-        },
-        {
-          "title": "马斯克评价小鹏人形机器人身材不错",
-          "url": "https://www.toutiao.com/trending/7569236906177937449/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时40分]"
-        },
-        {
-          "title": "马斯克点赞小鹏机器人",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时40分]"
-        },
-        {
-          "title": "何小鹏回应马斯克点赞小鹏机器人",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时40分]"
-        },
-        {
-          "title": "以太坊突破3400美元/枚，日内涨2.57%。",
-          "url": "https://flash.jin10.com/detail/20251108021317695800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 03时27分]"
-        },
-        {
-          "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
-          "url": "https://wallstreetcn.com/livenews/3001303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
           "title": "宇树机器人被飞踹后仍能快速起身",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E9%A3%9E%E8%B8%B9%E5%90%8E%E4%BB%8D%E8%83%BD%E5%BF%AB%E9%80%9F%E8%B5%B7%E8%BA%AB",
           "source": "百度热搜",
           "ranks": [
-            27
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "马斯克点赞小鹏机器人",
+          "url": "https://www.toutiao.com/trending/7569429277528145970/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "币圈血流成河之际，又一个稳定币“脱锚”",
+          "url": "https://wallstreetcn.com/articles/3758974",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "日本闹熊患,悬赏日薪八千没人干",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346842&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%97%B9%E7%86%8A%E6%82%A3%2C%E6%82%AC%E8%B5%8F%E6%97%A5%E8%96%AA%E5%85%AB%E5%8D%83%E6%B2%A1%E4%BA%BA%E5%B9%B2",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "高市早苗咋成了日本带货王",
+          "url": "https://www.toutiao.com/trending/7569217018189365258/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "前日本首相石破茂说，日本和美国是不同的国家，有着不同的国家利益。 他不认为对美国言听计从，就能保障日本安然无恙。（中新网）",
+          "url": "https://wallstreetcn.com/livenews/3001573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时31分"
+          "time_info": "00时41分"
+        },
+        {
+          "title": "石破茂谈卸任日本首相：能随时去吃拉面，很开心",
+          "url": "https://wallstreetcn.com/livenews/3001572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "商务部再就安世半导体问题答问：中方同意荷派员来华磋商请求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31923011",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "商务部回应安世半导体问题",
+          "url": "https://search.bilibili.com/all?keyword=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "商务部回应安世半导体问题：中方同意荷方派员来华磋商的请求",
+          "url": "https://www.cls.cn/detail/2194929",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "半导体进博会“百花齐放”：ASML、AMD、高通、美光 、三星、SK海力士等全球巨头都来了",
+          "url": "https://www.cls.cn/detail/2194780",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
         {
           "title": "美政府停摆现转机，标普惊险收涨，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -635,677 +198,92 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时13分 ~ 23时31分]"
-        },
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 06时37分]"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
           "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
           "url": "https://www.cls.cn/detail/2194839",
           "source": "财联社热门",
           "ranks": [
-            8,
-            2,
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时30分 ~ 23时31分]"
-        },
-        {
-          "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
-          "url": "https://wallstreetcn.com/articles/3758914",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 06时37分]"
-        },
-        {
-          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2194710",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时45分 ~ 21时07分]"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
           "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
           "url": "https://wallstreetcn.com/articles/3758961",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时38分 ~ 23时31分]"
-        },
-        {
-          "title": "金十图示：2025年11月07日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251108013139801800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3758914",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时30分"
-        },
-        {
-          "title": "航空业ETF收涨约2.2%，领跑美股行业ETF，本周全球科技股指数ETF跌4.7%",
-          "url": "https://wallstreetcn.com/livenews/3001428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时30分"
-        },
-        {
-          "title": "美股费城半导体指数跌超4%，纳微半导体跌17.5%，英伟达两倍做多ETF跌8.2%，Coherent跌7.6%，Arm跌6.6%，英伟达、超微电脑、博通、AMD、格芯跌超4%。 标普500指数跌约1.2%，纳指跌约1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3001323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时49分]"
-        },
-        {
-          "title": "瑞银：（本财季）已有48只工业/材料类股票在财报发布当日相对于标普500指数的涨跌幅超过10%。本以为我们不可能再接近上季度创下的50只纪录，但如今我们又达到了这一水平。",
-          "url": "https://flash.jin10.com/detail/20251108001501235800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时34分]"
-        },
-        {
-          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
-          "url": "https://flash.jin10.com/detail/20251108100037476800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 13时34分]"
-        },
-        {
-          "title": "美股延续跌势，纳指日内跌幅扩大至2%。",
-          "url": "https://flash.jin10.com/detail/20251108005727990800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
-          "url": "https://wallstreetcn.com/livenews/3001463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "半导体进博会“百花齐放”：ASML、AMD、高通、美光 、三星、SK海力士等全球巨头都来了",
-          "url": "https://www.cls.cn/detail/2194780",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时45分 ~ 23时31分]"
-        },
-        {
-          "title": "商务部回应安世半导体问题",
-          "url": "https://search.bilibili.com/all?keyword=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            4,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时29分 ~ 23时31分]"
-        },
-        {
-          "title": "中方：同意荷兰派员来华磋商安世半导体问题",
-          "url": "https://news.ifeng.com/c/8o73rxCcHuT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时48分 ~ 19时27分]"
-        },
-        {
-          "title": "商务部再就安世半导体问题答问：中方同意荷派员来华磋商请求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31923011",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时43分 ~ 23时31分]"
-        },
-        {
-          "title": "商务部回应安世半导体问题：中方同意荷方派员来华磋商的请求",
-          "url": "https://www.cls.cn/detail/2194929",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时43分 ~ 23时31分]"
-        },
-        {
-          "title": "荷兰将归还安世半导体控制权",
-          "url": "https://www.toutiao.com/trending/7569419705610879017/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 13时34分]"
-        },
-        {
-          "title": "商务部新闻发言人就安世半导体问题答记者问：中方同意荷经济部派员来华磋商的请求",
-          "url": "https://flash.jin10.com/detail/20251108133206608800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时48分 ~ 17时31分]"
-        },
-        {
-          "title": "安世半导体争端有望落幕",
-          "url": "https://www.toutiao.com/trending/7570202466101235246/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "本周，标普累跌约1.8%，道指累跌约1.3%，纳指累跌约3.2%，纳指科技指数累跌约4.1%，半导体指数累跌约4.5%，银行指数涨0.4%，小盘股指跌2.2%。 周五当天，标普500指数初步收涨约0.1%，电信板块跌0.9%，科技板块跌0.6%，能源板块则涨1.6%。 纳斯达克100指数初步收跌0.3%，成分股中，Take-Two Interactive Software Inc.跌8%——该公司《GTA 6》游戏延期引发投资者恐慌，微芯科技、德康医疗、Arm控股、吉利德科学、特斯拉、迈威尔科技至少跌超3%，Axon涨2.7%，星巴克涨3.8%，Doordash反弹4.2%，MNST涨5.1%。 可口可乐涨2.1%，雪佛龙涨1.5%，领跑道指成分股，苹果则跌0.5%，霍尼韦尔、波音、卡特彼勒、耐克、IBM跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3001395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "纳斯达克综合指数跌超2%，标普跌1.2%，道指跌382点跌幅0.8%，半导体指数跌4.6%。",
-          "url": "https://wallstreetcn.com/livenews/3001335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时49分]"
-        },
-        {
-          "title": "商务部新闻发言人就安世半导体问题答记者问：中方同意荷经济部派员来华磋商的请求",
-          "url": "https://wallstreetcn.com/livenews/3001502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时48分 ~ 15时29分]"
-        },
-        {
-          "title": "纳指科技指数收跌0.6%，本周跌3.9%，半导体指数累跌3.9%",
-          "url": "https://wallstreetcn.com/livenews/3001395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
-          "url": "https://wallstreetcn.com/articles/3758856",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时30分]"
-        },
-        {
-          "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
-          "url": "https://wallstreetcn.com/articles/3758924",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时45分 ~ 17时31分]"
-        },
-        {
-          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
-          "url": "https://www.zhihu.com/question/1970064184793334914",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时30分]"
-        },
-        {
-          "title": "特斯拉市值一夜蒸发超3800亿元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%853800%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            23,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 14时48分]"
-        },
-        {
-          "title": "特斯拉Model Y长续航后驱版上市",
-          "url": "https://www.toutiao.com/trending/7569479537906716202/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 15时29分]"
-        },
-        {
-          "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
-          "url": "https://flash.jin10.com/detail/20251108085940743800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时40分]"
-        },
-        {
-          "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
-          "url": "https://wallstreetcn.com/livenews/3001456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "Rivian效仿特斯拉 推出CEO 46亿美元薪酬方案",
-          "url": "https://flash.jin10.com/detail/20251108084054402800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
-          "url": "https://www.cls.cn/detail/2194848",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            4,
-            7,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时13分 ~ 23时31分]"
-        },
-        {
-          "title": "Meta去年靠诈骗广告赚1140亿",
-          "url": "https://www.baidu.com/s?wd=Meta%E5%8E%BB%E5%B9%B4%E9%9D%A0%E8%AF%88%E9%AA%97%E5%B9%BF%E5%91%8A%E8%B5%9A1140%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            13,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时39分 ~ 17时31分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet：11月5日，公司CEO Sundar Pichai按每股278.52-286.03美元卖出32,500股C类股。",
-          "url": "https://wallstreetcn.com/livenews/3001422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时30分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
-          "url": "https://flash.jin10.com/detail/20251108010615120800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "gemini 毒奶",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26pos%3D25%26band_rank%3D25%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D25%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26flag%3D1%26dgr%3D0%26display_time%3D1762607163%26pre_seqid%3D176260716370102455296139&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 11月7日（周五）晚盘收盘上涨0.14%报917.42元/克；<br/>上海黄金交易所白银T+D 11月7日（周五）晚盘收盘下跌0.23%报11400.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251108023013740800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 03时27分]"
-        },
-        {
-          "title": "铜价的巨额关税赌注重现：交易员抢购美国供应",
-          "url": "https://wallstreetcn.com/livenews/3001340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 03时27分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少25.4吨，当前持仓量为15088.63吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20251108084812786800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "周大福、周大生足金价格均为1268元/克，涨幅约0.71%",
-          "url": "https://wallstreetcn.com/livenews/3001457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
-        },
-        {
-          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
-          "url": "https://wallstreetcn.com/articles/3758970",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 23时31分]"
-        },
-        {
-          "title": "OpenAI要求美国总统特朗普的政府对众多数据中心扩大由“芯片法案”提供的信用支持。",
-          "url": "https://wallstreetcn.com/livenews/3001405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "[00时40分 ~ 00时41分]"
         }
       ]
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "主播模仿死刑犯劳荣枝直播，抖音：无限期封禁",
           "url": "https://m.thepaper.cn/newsDetail_forward_31919807",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            10,
-            9,
-            5,
-            6,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时13分 ~ 23时31分]"
-        },
-        {
-          "title": "终于等到茜拉第一条抖音了",
-          "url": "https://www.douyin.com/hot/2298107",
-          "source": "抖音",
-          "ranks": [
-            28,
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 07时30分]"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
           "title": "南派三叔在线摇人找丁禹兮微信",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%97%E6%B4%BE%E4%B8%89%E5%8F%94%E5%9C%A8%E7%BA%BF%E6%91%87%E4%BA%BA%E6%89%BE%E4%B8%81%E7%A6%B9%E5%85%AE%E5%BE%AE%E4%BF%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D21%26band_rank%3D21%26lcate%3D5001%26pos%3D22%26cate%3D5001%26c_type%3D31%26q%3D%2523%25E5%258D%2597%25E6%25B4%25BE%25E4%25B8%2589%25E5%258F%2594%25E5%259C%25A8%25E7%25BA%25BF%25E6%2591%2587%25E4%25BA%25BA%25E6%2589%25BE%25E4%25B8%2581%25E7%25A6%25B9%25E5%2585%25AE%25E5%25BE%25AE%25E4%25BF%25A1%2523%26display_time%3D1762612359%26pre_seqid%3D17626123593930161513351&launchid=10000360-page_H5",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%97%E6%B4%BE%E4%B8%89%E5%8F%94%E5%9C%A8%E7%BA%BF%E6%91%87%E4%BA%BA%E6%89%BE%E4%B8%81%E7%A6%B9%E5%85%AE%E5%BE%AE%E4%BF%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D23%26lcate%3D5001%26band_rank%3D23%26stream_entry_id%3D31%26pos%3D24%26q%3D%2523%25E5%258D%2597%25E6%25B4%25BE%25E4%25B8%2589%25E5%258F%2594%25E5%259C%25A8%25E7%25BA%25BF%25E6%2591%2587%25E4%25BA%25BA%25E6%2589%25BE%25E4%25B8%2581%25E7%25A6%25B9%25E5%2585%25AE%25E5%25BE%25AE%25E4%25BF%25A1%2523%26dgr%3D0%26flag%3D2%26cate%3D5001%26display_time%3D1762618839%26pre_seqid%3D17626188391150160847229&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            21,
-            22
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时32分 ~ 23时31分]"
+          "time_info": "[00时40分 ~ 00时41分]"
         }
       ]
     },
     {
-      "keyword_group": "AI基础设施 算力基建 AI Agent",
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
-          "url": "https://wallstreetcn.com/livenews/3001405",
-          "source": "华尔街见闻-快讯",
+          "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
+          "url": "https://www.cls.cn/detail/2194848",
+          "source": "财联社热门",
           "ranks": [
-            22,
-            30
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时30分]"
+          "time_info": "[00时40分 ~ 00时41分]"
         }
       ]
     },
     {
-      "keyword_group": "设计趋势 产品体验",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "蔡康永揭秘天猫年度设计趋势",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E6%8F%AD%E7%A7%98%E5%A4%A9%E7%8C%AB%E5%B9%B4%E5%BA%A6%E8%AE%BE%E8%AE%A1%E8%B6%8B%E5%8A%BF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D20%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E8%2594%25A1%25E5%25BA%25B7%25E6%25B0%25B8%25E6%258F%25AD%25E7%25A7%2598%25E5%25A4%25A9%25E7%258C%25AB%25E5%25B9%25B4%25E5%25BA%25A6%25E8%25AE%25BE%25E8%25AE%25A1%25E8%25B6%258B%25E5%258A%25BF%2523%26pos%3D21%26band_rank%3D20%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1762591302%26pre_seqid%3D176259130243002446589107&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
+          "time_info": "[00时40分 ~ 00时41分]"
         }
       ]
     }
