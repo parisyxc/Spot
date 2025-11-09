@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T00:41:17.856884+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-11-10T01:30:26.147678+08:00",
+  "total_titles_processed": 330,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时30分]"
         },
         {
           "title": "荷兰将归还安世半导体控制权，如何评价整个安世半导体事件的发展？",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时30分]"
         },
         {
           "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
@@ -37,8 +37,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时30分]"
         },
         {
           "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
@@ -47,9 +47,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时30分]"
         }
       ]
     },
@@ -62,11 +62,12 @@
           "url": "https://wallstreetcn.com/articles/3758990",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时30分]"
         },
         {
           "title": "比特币突破104000美元/枚，日内涨1.66%。",
@@ -75,9 +76,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时30分]"
         },
         {
           "title": "以太坊向上触及3500美元/枚，日内涨近3%。",
@@ -86,20 +87,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时30分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
           "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B2%E4%B8%8A%E9%9D%92%E9%93%9C%E5%99%A8%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时30分]"
         }
       ]
     },
@@ -115,19 +117,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时30分]"
         },
         {
           "title": "日本闹熊患,悬赏日薪八千没人干",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346842&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%97%B9%E7%86%8A%E6%82%A3%2C%E6%82%AC%E8%B5%8F%E6%97%A5%E8%96%AA%E5%85%AB%E5%8D%83%E6%B2%A1%E4%BA%BA%E5%B9%B2",
           "source": "贴吧",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时30分]"
         },
         {
           "title": "日本再发生5.6级地震 海啸已抵达本州岛",
@@ -136,9 +139,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时30分]"
         }
       ]
     },
@@ -151,11 +154,29 @@
           "url": "https://wallstreetcn.com/articles/3758989",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "深度解读特斯拉股东大会",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "time_info": "[01时29分 ~ 01时30分]"
         }
       ]
     }
