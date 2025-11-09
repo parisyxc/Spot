@@ -1,311 +1,22 @@
 {
-  "generated_at": "2025-11-09T23:30:26.433879+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2025-11-10T00:41:17.856884+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 21,
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 4,
       "titles": [
         {
-          "title": "币圈血流成河之际，又一个稳定币“脱锚”",
-          "url": "https://wallstreetcn.com/articles/3758974",
-          "source": "华尔街见闻",
+          "title": "商务部回应欧方关于安世半导体问题的声明",
+          "url": "https://news.ifeng.com/c/8o90dh2Z8wq",
+          "source": "凤凰网",
           "ranks": [
-            4,
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 18时35分]"
-        },
-        {
-          "title": "日本发熊难财,猎熊旅游狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346902&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%86%8A%E9%9A%BE%E8%B4%A2%2C%E7%8C%8E%E7%86%8A%E6%97%85%E6%B8%B8%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时35分 ~ 23时30分]"
-        },
-        {
-          "title": "日本闹熊患,悬赏日薪八千没人干",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346842&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%97%B9%E7%86%8A%E6%82%A3%2C%E6%82%AC%E8%B5%8F%E6%97%A5%E8%96%AA%E5%85%AB%E5%8D%83%E6%B2%A1%E4%BA%BA%E5%B9%B2",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            18,
-            24,
-            26,
-            25,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时40分 ~ 23时30分]"
-        },
-        {
-          "title": "日本再发生熊伤人事件，3人受伤",
-          "url": "https://news.ifeng.com/c/8o8h7oVY6OX",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时30分 ~ 17时31分]"
-        },
-        {
-          "title": "前日本首相石破茂说，日本和美国是不同的国家，有着不同的国家利益。 他不认为对美国言听计从，就能保障日本安然无恙。（中新网）",
-          "url": "https://wallstreetcn.com/livenews/3001573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            19,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时30分]"
-        },
-        {
-          "title": "石破茂谈卸任日本首相：能随时去吃拉面，很开心",
-          "url": "https://wallstreetcn.com/livenews/3001572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            20,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时30分]"
-        },
-        {
-          "title": "中国地震台网自动测定：11月09日16时03分在日本本州东岸近海附近（北纬39.59度，东经142.46度）发生6.8级左右地震，最终结果以正式速报为准。",
-          "url": "https://wallstreetcn.com/livenews/3001648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            8,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 21时06分]"
-        },
-        {
-          "title": "日本再发生5.6级地震 海啸已抵达本州岛",
-          "url": "https://flash.jin10.com/detail/20251109182406345800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时35分 ~ 23时30分]"
-        },
-        {
-          "title": "日本气象厅发布局地海啸预警，预计浪高1米",
-          "url": "https://wallstreetcn.com/livenews/3001662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 21时06分]"
-        },
-        {
-          "title": "日本本州东岸近海附近发生6.8级左右地震",
-          "url": "https://flash.jin10.com/detail/20251109161458033800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时26分]"
-        },
-        {
-          "title": "德国地学研究中心GFZ：日本本州东海岸发生6.1级地震。",
-          "url": "https://flash.jin10.com/detail/20251109170519611800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 21时06分]"
-        },
-        {
-          "title": "日本附近海域6.8级地震",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F6.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D10%26c_type%3D31%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E9%2599%2584%25E8%25BF%2591%25E6%25B5%25B7%25E5%259F%259F6.8%25E7%25BA%25A7%25E5%259C%25B0%25E9%259C%2587%2523%26dgr%3D0%26cate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26pos%3D11%26lcate%3D5001%26band_rank%3D10%26display_time%3D1762679802%26pre_seqid%3D17626798020660244122544&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
-        },
-        {
-          "title": "中国地震台网正式测定：11月09日16时54分在日本本州东部远海发生6.4级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20251109171745522800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 21时06分]"
-        },
-        {
-          "title": "日本本州东部远海发生6.8级地震",
-          "url": "https://flash.jin10.com/detail/20251109162806550800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时26分]"
-        },
-        {
-          "title": "日本本州东部远海发生6.8级地震",
-          "url": "https://www.toutiao.com/trending/7569623801294687780/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 19时26分]"
-        },
-        {
-          "title": "日本气象厅发布海啸预警 预计浪高1米",
-          "url": "https://flash.jin10.com/detail/20251109161940597800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时26分]"
-        },
-        {
-          "title": "高市早苗咋成了日本带货王",
-          "url": "https://www.toutiao.com/trending/7569217018189365258/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 06时33分]"
-        },
-        {
-          "title": "日本岩手县以东6.5级地震",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E5%8E%BF%E4%BB%A5%E4%B8%9C6.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D19%26c_type%3D31%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25B2%25A9%25E6%2589%258B%25E5%258E%25BF%25E4%25BB%25A5%25E4%25B8%259C6.5%25E7%25BA%25A7%25E5%259C%25B0%25E9%259C%2587%2523%26dgr%3D0%26cate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26pos%3D20%26lcate%3D5001%26band_rank%3D19%26display_time%3D1762679802%26pre_seqid%3D17626798020660244122544&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
-        },
-        {
-          "title": "日本本州东部远海发生6.8级地震",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E9%83%A8%E8%BF%9C%E6%B5%B7%E5%8F%91%E7%94%9F6.8%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时26分]"
-        },
-        {
-          "title": "地震后日本岩手县观测到20厘米高海啸",
-          "url": "https://www.toutiao.com/trending/7570665010888966153/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        },
-        {
-          "title": "日本地震",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26lcate%3D5001%26cate%3D5001%26q%3D%25E6%2597%25A5%25E6%259C%25AC%25E5%259C%25B0%25E9%259C%2587%26stream_entry_id%3D31%26c_type%3D31%26realpos%3D30%26pos%3D30%26band_rank%3D30%26dgr%3D0%26display_time%3D1762684486%26pre_seqid%3D176268448675503339070105&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "商务部再就安世半导体问题答问：中方同意荷派员来华磋商请求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31923011",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 13时37分]"
-        },
-        {
-          "title": "商务部回应安世半导体问题：中方同意荷方派员来华磋商的请求",
-          "url": "https://www.cls.cn/detail/2194929",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时40分 ~ 21时06分]"
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
           "title": "荷兰将归还安世半导体控制权，如何评价整个安世半导体事件的发展？",
@@ -315,432 +26,76 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时30分 ~ 23时30分]"
-        },
-        {
-          "title": "商务部回应安世半导体问题",
-          "url": "https://search.bilibili.com/all?keyword=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            2,
-            3,
-            12,
-            14,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 14时50分]"
-        },
-        {
-          "title": "半导体进博会“百花齐放”：ASML、AMD、高通、美光 、三星、SK海力士等全球巨头都来了",
-          "url": "https://www.cls.cn/detail/2194780",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 13时37分]"
-        },
-        {
-          "title": "商务部回应欧方关于安世半导体问题的声明",
-          "url": "https://news.ifeng.com/c/8o90dh2Z8wq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时26分 ~ 23时30分]"
-        },
-        {
-          "title": "供应链混乱的源头在荷方！商务部回应安世半导体问题",
-          "url": "https://news.ifeng.com/c/8o90dh2Z8wq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "商务部新闻发言人就欧方关于安世半导体问题的声明答记者问",
-          "url": "https://wallstreetcn.com/livenews/3001669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
-          "url": "https://wallstreetcn.com/livenews/3001669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 23时30分]"
-        },
-        {
-          "title": "商务部回应安世半导体问题",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%97%AE%E9%A2%98%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E5%2595%2586%25E5%258A%25A1%25E9%2583%25A8%25E5%259B%259E%25E5%25BA%2594%25E5%25AE%2589%25E4%25B8%2596%25E5%258D%258A%25E5%25AF%25BC%25E4%25BD%2593%25E9%2597%25AE%25E9%25A2%2598%2523%26stream_entry_id%3D31%26c_type%3D31%26realpos%3D10%26pos%3D10%26band_rank%3D10%26dgr%3D0%26display_time%3D1762684486%26pre_seqid%3D176268448675503339070105&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
           "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
           "url": "https://m.thepaper.cn/newsDetail_forward_31928609",
           "source": "澎湃新闻",
           "ranks": [
-            18,
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时31分 ~ 23时30分]"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
-          "title": "安世半导体争夺战中谁先眨了眼",
-          "url": "https://www.toutiao.com/trending/7570296136779435561/",
-          "source": "今日头条",
+          "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
+          "url": "https://wallstreetcn.com/livenews/3001669",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "安世半导体事件发酵一个月后",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%8B%E4%BB%B6%E5%8F%91%E9%85%B5%E4%B8%80%E4%B8%AA%E6%9C%88%E5%90%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26pos%3D20%26band_rank%3D20%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D20%26q%3D%2523%25E5%25AE%2589%25E4%25B8%2596%25E5%258D%258A%25E5%25AF%25BC%25E4%25BD%2593%25E4%25BA%258B%25E4%25BB%25B6%25E5%258F%2591%25E9%2585%25B5%25E4%25B8%2580%25E4%25B8%25AA%25E6%259C%2588%25E5%2590%258E%2523%26flag%3D1%26dgr%3D0%26display_time%3D1762693550%26pre_seqid%3D176269355050802455294113&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 11,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "从展厅到工厂，人形机器人如何跨越规模交付瓶颈？明年是关键期｜进博会观察",
-          "url": "https://www.cls.cn/detail/2194894",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时40分 ~ 19时26分]"
-        },
-        {
-          "title": "国内机器人走出惊艳“猫步”引发热议，专家解读：是不是越像人越好？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31921547",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时30分]"
-        },
-        {
-          "title": "马斯克点赞小鹏机器人",
-          "url": "https://www.toutiao.com/trending/7569429277528145970/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时30分]"
-        },
-        {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时30分]"
-        },
         {
           "title": "高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台",
           "url": "https://wallstreetcn.com/articles/3758990",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时06分 ~ 23时30分]"
-        },
-        {
-          "title": "宇树机器人被飞踹后仍能快速起身",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E9%A3%9E%E8%B8%B9%E5%90%8E%E4%BB%8D%E8%83%BD%E5%BF%AB%E9%80%9F%E8%B5%B7%E8%BA%AB",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            28,
-            30,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 11时35分]"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         },
         {
           "title": "比特币突破104000美元/枚，日内涨1.66%。",
           "url": "https://flash.jin10.com/detail/20251109223544425800",
           "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时30分"
+          "time_info": "00时41分"
         },
         {
           "title": "以太坊向上触及3500美元/枚，日内涨近3%。",
           "url": "https://flash.jin10.com/detail/20251109222710203800",
           "source": "金十数据",
           "ranks": [
-            5
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时30分"
+          "time_info": "00时41分"
         },
         {
-          "title": "刘强东：五年左右机器人送货进家",
-          "url": "https://www.toutiao.com/trending/7569651349332181043/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时24分]"
-        },
-        {
-          "title": "高盛调研中国人形机器人供应链",
-          "url": "https://www.toutiao.com/trending/7570666231821241892/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        },
-        {
-          "title": "湖南浙江两省省长一同观看机器人表演",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E6%B5%99%E6%B1%9F%E4%B8%A4%E7%9C%81%E7%9C%81%E9%95%BF%E4%B8%80%E5%90%8C%E8%A7%82%E7%9C%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94",
+          "title": "起猛了机器人敲上青铜器了",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B2%E4%B8%8A%E9%9D%92%E9%93%9C%E5%99%A8%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 16时40分]"
-        },
-        {
-          "title": "美政府停摆现转机，标普惊险收涨，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3758914",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时30分]"
-        },
-        {
-          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3758961",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时30分]"
-        },
-        {
-          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
-          "url": "https://wallstreetcn.com/articles/3758989",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时35分 ~ 23时30分]"
-        },
-        {
-          "title": "下周重磅日程：腾讯阿里美团京东财报，中国10月经济数据",
-          "url": "https://wallstreetcn.com/articles/3758913",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 16时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
-          "url": "https://www.cls.cn/detail/2194848",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时30分]"
-        },
-        {
-          "title": "扎克伯格旗下Meta被曝靠海量诈骗广告赚取巨额利润，美国约三分之一的成功诈骗案件与其有关",
-          "url": "https://wallstreetcn.com/livenews/3001612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            21,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时27分 ~ 14时50分]"
-        },
-        {
-          "title": "Meta披露对美国6000亿美元投资承诺的细节信息",
-          "url": "https://wallstreetcn.com/livenews/3001614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19,
-            20,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时33分 ~ 15时31分]"
-        },
-        {
-          "title": "Meta被曝靠海量诈骗广告赚取巨额利润",
-          "url": "https://flash.jin10.com/detail/20251109095925603800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8,
-            17,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 15时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "南派三叔在线摇人找丁禹兮微信",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%97%E6%B4%BE%E4%B8%89%E5%8F%94%E5%9C%A8%E7%BA%BF%E6%91%87%E4%BA%BA%E6%89%BE%E4%B8%81%E7%A6%B9%E5%85%AE%E5%BE%AE%E4%BF%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D23%26lcate%3D5001%26band_rank%3D23%26stream_entry_id%3D31%26pos%3D24%26q%3D%2523%25E5%258D%2597%25E6%25B4%25BE%25E4%25B8%2589%25E5%258F%2594%25E5%259C%25A8%25E7%25BA%25BF%25E6%2591%2587%25E4%25BA%25BA%25E6%2589%25BE%25E4%25B8%2581%25E7%25A6%25B9%25E5%2585%25AE%25E5%25BE%25AE%25E4%25BF%25A1%2523%26dgr%3D0%26flag%3D2%26cate%3D5001%26display_time%3D1762618839%26pre_seqid%3D17626188391150160847229&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            23,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 05时27分]"
-        },
-        {
-          "title": "主播模仿死刑犯劳荣枝直播，抖音：无限期封禁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31919807",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -749,61 +104,58 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 1,
+      "keyword_group": "稳定币 日本",
+      "match_count": 3,
       "titles": [
         {
-          "title": "深度解读特斯拉股东大会",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "日本发熊难财,猎熊旅游狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346902&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%86%8A%E9%9A%BE%E8%B4%A2%2C%E7%8C%8E%E7%86%8A%E6%97%85%E6%B8%B8%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
           "ranks": [
-            4,
-            7,
-            5,
-            2,
-            3,
-            20,
-            23,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "日本闹熊患,悬赏日薪八千没人干",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346842&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%97%B9%E7%86%8A%E6%82%A3%2C%E6%82%AC%E8%B5%8F%E6%97%A5%E8%96%AA%E5%85%AB%E5%8D%83%E6%B2%A1%E4%BA%BA%E5%B9%B2",
+          "source": "贴吧",
+          "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时40分 ~ 23时30分]"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "日本再发生5.6级地震 海啸已抵达本州岛",
+          "url": "https://flash.jin10.com/detail/20251109182406345800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 1,
       "titles": [
         {
-          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
-          "url": "https://wallstreetcn.com/articles/3758970",
+          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
+          "url": "https://wallstreetcn.com/articles/3758989",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 11时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价反复震荡 现在买黄金划算吗",
-          "url": "https://www.toutiao.com/trending/7570333821187395115/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         }
       ]
     }
