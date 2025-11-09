@@ -1,8 +1,84 @@
 {
-  "generated_at": "2025-11-10T04:34:42.241689+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2025-11-10T05:28:57.868841+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "日本发熊难财,猎熊旅游狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346902&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%86%8A%E9%9A%BE%E8%B4%A2%2C%E7%8C%8E%E7%86%8A%E6%97%85%E6%B8%B8%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时28分]"
+        },
+        {
+          "title": "日本闹熊患,悬赏日薪八千没人干",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346842&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%97%B9%E7%86%8A%E6%82%A3%2C%E6%82%AC%E8%B5%8F%E6%97%A5%E8%96%AA%E5%85%AB%E5%8D%83%E6%B2%A1%E4%BA%BA%E5%B9%B2",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时28分]"
+        },
+        {
+          "title": "海啸已抵达日本本州岛",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B5%B7%E5%95%B8%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E5%B2%9B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D18%26cate%3D5001%26flag%3D0%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D18%26q%3D%2523%25E6%25B5%25B7%25E5%2595%25B8%25E5%25B7%25B2%25E6%258A%25B5%25E8%25BE%25BE%25E6%2597%25A5%25E6%259C%25AC%25E6%259C%25AC%25E5%25B7%259E%25E5%25B2%259B%2523%26lcate%3D5001%26filter_type%3Drealtimehot%26pos%3D19%26display_time%3D1762713844%26pre_seqid%3D17627138443430327043994&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            18,
+            19,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时44分 ~ 05时28分]"
+        },
+        {
+          "title": "高盛：美国投资者正涌入日本股市，追涨日经指数",
+          "url": "https://wallstreetcn.com/livenews/3001729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "日本再发生5.6级地震 海啸已抵达本州岛",
+          "url": "https://flash.jin10.com/detail/20251109182406345800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 03时23分]"
+        },
+        {
+          "title": "日本本州东部远海发生6.8级地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E9%83%A8%E8%BF%9C%E6%B5%B7%E5%8F%91%E7%94%9F6.8%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 6,
@@ -16,8 +92,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时28分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
@@ -30,8 +106,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时28分]"
         },
         {
           "title": "比特币突破104000美元/枚，日内涨1.66%。",
@@ -39,11 +115,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时28分]"
         },
         {
           "title": "以太坊向上触及3500美元/枚，日内涨近3%。",
@@ -51,33 +128,36 @@
           "source": "金十数据",
           "ranks": [
             6,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时28分]"
         },
         {
           "title": "比特币站上105000美元/枚，日内涨2.64%。",
           "url": "https://flash.jin10.com/detail/20251110040537729800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时28分]"
         },
         {
           "title": "比特币涨至10.5万美元，刷新日高，日内迄今涨幅超过2.4%。 北京时间18:00之前维持微幅下跌状态，维持在10.20万美元一线，之后持续走高。",
           "url": "https://wallstreetcn.com/livenews/3001717",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时28分]"
         }
       ]
     },
@@ -93,19 +173,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时28分]"
         },
         {
           "title": "荷兰将归还安世半导体控制权，如何评价整个安世半导体事件的发展？",
           "url": "https://www.zhihu.com/question/1970790816256582040",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时28分]"
         },
         {
           "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
@@ -115,8 +196,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时28分]"
         },
         {
           "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
@@ -124,59 +205,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "日本发熊难财,猎熊旅游狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346902&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%86%8A%E9%9A%BE%E8%B4%A2%2C%E7%8C%8E%E7%86%8A%E6%97%85%E6%B8%B8%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 04时34分]"
-        },
-        {
-          "title": "日本闹熊患,悬赏日薪八千没人干",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346842&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%97%B9%E7%86%8A%E6%82%A3%2C%E6%82%AC%E8%B5%8F%E6%97%A5%E8%96%AA%E5%85%AB%E5%8D%83%E6%B2%A1%E4%BA%BA%E5%B9%B2",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 04时34分]"
-        },
-        {
-          "title": "海啸已抵达日本本州岛",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B5%B7%E5%95%B8%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E5%B2%9B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D18%26cate%3D5001%26flag%3D0%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D18%26q%3D%2523%25E6%25B5%25B7%25E5%2595%25B8%25E5%25B7%25B2%25E6%258A%25B5%25E8%25BE%25BE%25E6%2597%25A5%25E6%259C%25AC%25E6%259C%25AC%25E5%25B7%259E%25E5%25B2%259B%2523%26lcate%3D5001%26filter_type%3Drealtimehot%26pos%3D19%26display_time%3D1762713844%26pre_seqid%3D17627138443430327043994&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            18,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时44分 ~ 04时34分]"
-        },
-        {
-          "title": "日本再发生5.6级地震 海啸已抵达本州岛",
-          "url": "https://flash.jin10.com/detail/20251109182406345800",
-          "source": "金十数据",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -199,8 +227,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时28分]"
         }
       ]
     },
@@ -217,8 +245,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 05时28分]"
         }
       ]
     }
