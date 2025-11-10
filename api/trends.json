@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T21:41:48.659625+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2025-11-10T22:43:22.475721+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "高市早苗妄言“台海冲突对日构成国家存亡危机”，日本政府澄清",
@@ -32,11 +32,24 @@
             16,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时40分 ~ 21时41分]"
+          "appearance_count": 29,
+          "time_info": "[00时40分 ~ 22时43分]"
+        },
+        {
+          "title": "中国点名琉球议题 日本为何破防",
+          "url": "https://www.toutiao.com/trending/7571025689172774450/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 22时43分]"
         },
         {
           "title": "日本闹熊患,悬赏日薪八千没人干",
@@ -49,6 +62,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时40分 ~ 07时31分]"
+        },
+        {
+          "title": "“美国资金流入日本速度是安倍经济学实施以来最快”！高盛称：美资涌入意味着日股风格转向成长",
+          "url": "https://wallstreetcn.com/articles/3759012",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 22时43分]"
         },
         {
           "title": "海啸已抵达日本本州岛",
@@ -66,30 +93,6 @@
           "time_info": "[02时44分 ~ 07时31分]"
         },
         {
-          "title": "中国点名琉球议题 日本为何破防",
-          "url": "https://www.toutiao.com/trending/7571025689172774450/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 21时41分]"
-        },
-        {
-          "title": "“美国资金流入日本速度是安倍经济学实施以来最快”！高盛称：美资涌入意味着日股风格转向成长",
-          "url": "https://wallstreetcn.com/articles/3759012",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 21时41分]"
-        },
-        {
           "title": "亲历者谈日本“熊害”：夜晚在山区抽奶香味雪茄引来黑熊",
           "url": "https://news.ifeng.com/c/8oAZFyehiZB",
           "source": "凤凰网",
@@ -97,8 +100,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 21时41分]"
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 22时43分]"
         },
         {
           "title": "日本岩手县以东海域发生5.3级地震",
@@ -328,6 +331,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时40分 ~ 14时56分]"
+        },
+        {
+          "title": "日本内阁大臣“祸从口出”",
+          "url": "https://www.toutiao.com/trending/7570653561512804390/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         },
         {
           "title": "日本首相高市早苗：政府对经济政策负最终责任，而日本央行的货币政策是其中的一部分。具体的货币政策手段由日本央行决定。",
@@ -596,9 +610,230 @@
       ]
     },
     {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
+          "url": "https://wallstreetcn.com/articles/3758989",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时40分 ~ 17时43分]"
+        },
+        {
+          "title": "下周重磅日程：腾讯京东中芯国际财报，中国10月经济数据",
+          "url": "https://wallstreetcn.com/articles/3758998",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[07时31分 ~ 21时41分]"
+        },
+        {
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9,
+            11,
+            5,
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[11时43分 ~ 22时43分]"
+        },
+        {
+          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 15时38分]"
+        },
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时43分]"
+        },
+        {
+          "title": "行业ETF美股盘初多数上涨，半导体ETF、全球科技股指数ETF、科技行业ETF至多涨2.69%。",
+          "url": "https://wallstreetcn.com/livenews/3002213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "金十图示：2025年11月10日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251110223904190800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "高盛称美国投资者在涌入日本股市，受其相对美股的超额回报吸引",
+          "url": "https://wallstreetcn.com/livenews/3001758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美股股指期货周一高开，纳指期货涨0.7%。",
+          "url": "https://flash.jin10.com/detail/20251110070112567800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3002065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时46分]"
+        },
+        {
+          "title": "美股三大股指集体高开",
+          "url": "https://flash.jin10.com/detail/20251110223028989800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
+          "url": "https://wallstreetcn.com/livenews/3001751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨1.55%，恒生科技指数收涨1.34%，科技股多数走高，腾讯涨超2%；消费股走势活跃，泡泡玛特涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3002034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3002194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
+          "url": "https://flash.jin10.com/detail/20251110175803111800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "美股无惧停摆与美联储指引 华尔街高呼“暂时性逆风”不改大局",
+          "url": "https://flash.jin10.com/detail/20251110175802667800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "瑞银：AI生产力增长驱动科技股上行是合理的",
+          "url": "https://flash.jin10.com/detail/20251110202419439800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 17,
       "titles": [
+        {
+          "title": "胸部设计擦边,小鹏机器人被批媚男",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时56分 ~ 22时43分]"
+        },
         {
           "title": "高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台",
           "url": "https://wallstreetcn.com/articles/3758990",
@@ -613,17 +848,19 @@
           "time_info": "[00时40分 ~ 17时43分]"
         },
         {
-          "title": "胸部设计擦边,小鹏机器人被批媚男",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
-          "source": "贴吧",
+          "title": "智元机器人完成股改，即将开启上市之路？",
+          "url": "https://www.cls.cn/detail/2195804",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            2,
-            1
+            13,
+            11,
+            6,
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时56分 ~ 21时41分]"
+          "appearance_count": 10,
+          "time_info": "[15时38分 ~ 22时43分]"
         },
         {
           "title": "美政府关门有望结束，全球风险资产走高，纳指期货涨超1.2%，现货黄金大涨2%，比特币拉涨4%",
@@ -636,21 +873,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时52分 ~ 19时30分]"
-        },
-        {
-          "title": "智元机器人完成股改，即将开启上市之路？",
-          "url": "https://www.cls.cn/detail/2195804",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时38分 ~ 21时41分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
@@ -667,6 +889,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时40分 ~ 07时31分]"
+        },
+        {
+          "title": "美政府关门有望结束，全球风险资产走高，纳指期货涨超1.4%，现货黄金突破4100美元/盎司，比特币拉涨3%",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时43分]"
         },
         {
           "title": "比特币突破104000美元/枚，日内涨1.66%。",
@@ -695,35 +929,13 @@
           "time_info": "[00时41分 ~ 05时28分]"
         },
         {
-          "title": "美政府关门有望结束，全球风险资产走高，纳指期货涨超1.4%，现货黄金突破4100美元/盎司，比特币拉涨3%",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "MicroStrategy在11月3日至11月9日期间以平均价10.26万美元购入487枚比特币，累计支出约4990万美元。",
-          "url": "https://wallstreetcn.com/livenews/3002179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
           "title": "Strategy(MSTR.O)以4990万美元的总价购入487枚比特币。",
           "url": "https://flash.jin10.com/detail/20251110210349804800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -764,6 +976,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时30分 ~ 21时41分]"
+        },
+        {
+          "title": "MicroStrategy在11月3日至11月9日期间以平均价10.26万美元购入487枚比特币，累计支出约4990万美元。",
+          "url": "https://wallstreetcn.com/livenews/3002179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时43分]"
         },
         {
           "title": "创业板指跌超2%，沪指跌0.1%，深成指跌0.64%，算力硬件、机器人、量子科技、消费电子等方向跌幅居前，沪深京三市下跌个股近2300只。",
@@ -813,168 +1037,6 @@
       ]
     },
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
-          "url": "https://wallstreetcn.com/articles/3758989",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时40分 ~ 17时43分]"
-        },
-        {
-          "title": "下周重磅日程：腾讯京东中芯国际财报，中国10月经济数据",
-          "url": "https://wallstreetcn.com/articles/3758998",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时31分 ~ 21时41分]"
-        },
-        {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9,
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时43分 ~ 21时41分]"
-        },
-        {
-          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时48分 ~ 15时38分]"
-        },
-        {
-          "title": "高盛称美国投资者在涌入日本股市，受其相对美股的超额回报吸引",
-          "url": "https://wallstreetcn.com/livenews/3001758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美股股指期货周一高开，纳指期货涨0.7%。",
-          "url": "https://flash.jin10.com/detail/20251110070112567800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
-          "url": "https://wallstreetcn.com/articles/3759034",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3002065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时46分]"
-        },
-        {
-          "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
-          "url": "https://wallstreetcn.com/livenews/3001751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨1.55%，恒生科技指数收涨1.34%，科技股多数走高，腾讯涨超2%；消费股走势活跃，泡泡玛特涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/3002034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
-          "url": "https://flash.jin10.com/detail/20251110175803111800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "美股无惧停摆与美联储指引 华尔街高呼“暂时性逆风”不改大局",
-          "url": "https://flash.jin10.com/detail/20251110175802667800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "瑞银：AI生产力增长驱动科技股上行是合理的",
-          "url": "https://flash.jin10.com/detail/20251110202419439800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
       "match_count": 11,
       "titles": [
@@ -992,6 +1054,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时43分 ~ 15时38分]"
+        },
+        {
+          "title": "金价再次直线上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 22时43分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月10日（周一）收盘上涨1.84%报933.0元/克；<br/>上海黄金交易所白银T+D 11月10日（周一）收盘上涨2.63%报11726.0元/千克。",
@@ -1050,24 +1124,13 @@
           "time_info": "[07时31分 ~ 12时49分]"
         },
         {
-          "title": "金价再次直线上涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 21时41分]"
-        },
-        {
           "title": "纽约期银日内大涨4%，现报50.07美元/盎司； 现货白银现涨3.62%。",
           "url": "https://wallstreetcn.com/livenews/3002165",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1089,7 +1152,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1108,7 +1171,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "商务部回应欧方关于安世半导体问题的声明",
@@ -1154,6 +1217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
+        },
+        {
+          "title": "费城半导体指数涨3%。美光科技(MU.O)涨6.64%，博通(AVGO.O)涨2.25%，台积电(TSM.N)涨3%，英特尔(INTC.O)涨2.39%。",
+          "url": "https://flash.jin10.com/detail/20251110223746758800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
@@ -1204,7 +1278,7 @@
     },
     {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "深度解读特斯拉股东大会",
@@ -1243,6 +1317,17 @@
           "time_info": "19时30分"
         },
         {
+          "title": "特斯拉(TSLA.O)今日上涨2.6%，前两个交易日下跌。",
+          "url": "https://flash.jin10.com/detail/20251110223305934800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "据Electrek：特斯拉Cybertruck项目负责人西丹特·阿瓦斯蒂即将离职。",
           "url": "https://flash.jin10.com/detail/20251110130452203800",
           "source": "金十数据",
@@ -1260,7 +1345,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -1316,11 +1401,12 @@
           "url": "https://www.zhihu.com/question/1971166094694815109",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时43分]"
         }
       ]
     },
