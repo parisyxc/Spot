@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T17:43:31.276983+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2025-11-10T18:46:59.380817+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "日本发熊难财,猎熊旅游狂捞金",
@@ -18,11 +18,12 @@
             10,
             12,
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时40分 ~ 17时43分]"
+          "appearance_count": 24,
+          "time_info": "[00时40分 ~ 18时46分]"
         },
         {
           "title": "日本闹熊患,悬赏日薪八千没人干",
@@ -56,11 +57,12 @@
           "url": "https://news.ifeng.com/c/8oAQxZU4bX3",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时46分]"
         },
         {
           "title": "日本岩手县以东海域发生5.3级地震",
@@ -91,9 +93,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "日本经济方案考虑纳入芯片、矿产、国防三大领域",
+          "url": "https://flash.jin10.com/detail/20251110183533548800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "英国央行提议对个人稳定币持有量设置2万英镑的上限，企业持有稳定币的限额为1000万英镑。",
@@ -102,7 +115,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -135,9 +148,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "“美国资金流入日本速度是安倍经济学实施以来最快”！高盛称：美资涌入意味着日股风格转向成长",
+          "url": "https://wallstreetcn.com/articles/3759012",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "日本央行审议委员中川顺子：通胀上升也可能削弱需求，促使生产企业削减成本，并抑制其提高工资的意愿。",
@@ -233,6 +257,18 @@
           "time_info": "[14时56分 ~ 15时38分]"
         },
         {
+          "title": "英国央行：稳定币持有量应限制在每人2万英镑。 部分零售企业可能可豁免1000万英镑业务限额。",
+          "url": "https://wallstreetcn.com/livenews/3002069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时46分]"
+        },
+        {
           "title": "日本9月同步指标初值 114.6，预期 114.5，前值 112.8。",
           "url": "https://wallstreetcn.com/livenews/3001936",
           "source": "华尔街见闻-快讯",
@@ -301,17 +337,6 @@
           "time_info": "14时56分"
         },
         {
-          "title": "英国央行：稳定币持有量应限制在每人2万英镑。 部分零售企业可能可豁免1000万英镑业务限额。",
-          "url": "https://wallstreetcn.com/livenews/3002069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
           "title": "日本9月领先指标初值 108，预期107.9，前值107。",
           "url": "https://flash.jin10.com/detail/20251110130034940800",
           "source": "金十数据",
@@ -365,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "美国地质勘探局：日本山田108公里处发生5.2级地震。",
+          "url": "https://flash.jin10.com/detail/20251110181747447800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "日本9月领先指标月率初值 1%，前值0.9%。",
@@ -529,6 +565,19 @@
           "time_info": "[00时40分 ~ 17时43分]"
         },
         {
+          "title": "胸部设计擦边,小鹏机器人被批媚男",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时56分 ~ 18时46分]"
+        },
+        {
           "title": "起猛了机器人敲上青铜器了",
           "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B2%E4%B8%8A%E9%9D%92%E9%93%9C%E5%99%A8%E4%BA%86",
           "source": "百度热搜",
@@ -545,27 +594,16 @@
           "time_info": "[00时40分 ~ 07时31分]"
         },
         {
-          "title": "胸部设计擦边,小鹏机器人被批媚男",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时56分 ~ 17时43分]"
-        },
-        {
           "title": "美政府关门有望结束，全球风险资产走高，纳指期货涨超1.2%，现货黄金大涨2%，比特币拉涨4%",
           "url": "https://wallstreetcn.com/articles/3759018",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时46分]"
         },
         {
           "title": "比特币突破104000美元/枚，日内涨1.66%。",
@@ -600,11 +638,12 @@
           "ranks": [
             13,
             11,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 17时43分]"
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 18时46分]"
         },
         {
           "title": "比特币站上105000美元/枚，日内涨2.64%。",
@@ -681,7 +720,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -705,11 +744,12 @@
           "ranks": [
             9,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时31分 ~ 17时43分]"
+          "appearance_count": 12,
+          "time_info": "[07时31分 ~ 18时46分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -722,8 +762,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时43分 ~ 17时43分]"
+          "appearance_count": 11,
+          "time_info": "[11时43分 ~ 18时46分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -760,6 +800,18 @@
           "time_info": "07时31分"
         },
         {
+          "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3002065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时46分]"
+        },
+        {
           "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
           "url": "https://wallstreetcn.com/livenews/3001751",
           "source": "华尔街见闻-快讯",
@@ -782,21 +834,32 @@
           "time_info": "16时53分"
         },
         {
-          "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3002065",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
+          "url": "https://flash.jin10.com/detail/20251110175803111800",
+          "source": "金十数据",
           "ranks": [
-            15
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时43分"
+          "time_info": "18时46分"
+        },
+        {
+          "title": "美股无惧停摆与美联储指引 华尔街高呼“暂时性逆风”不改大局",
+          "url": "https://flash.jin10.com/detail/20251110175802667800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价",
@@ -876,9 +939,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "金价再次直线上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "现货白银日内涨幅扩大至3%，报49.78美元/盎司。",
@@ -1006,6 +1080,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20251110183752790800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
+          "url": "https://flash.jin10.com/detail/20251110183215863800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     },
