@@ -1,12 +1,144 @@
 {
-  "generated_at": "2025-11-11T04:42:40.029768+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2025-11-11T05:32:57.430113+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时32分]"
+        },
+        {
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            18,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时32分]"
+        },
+        {
+          "title": "金十图示：2025年11月10日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251111013140077800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "半导体ETF收涨将近3.1%，领跑美股行业ETF，标普科技板块涨约2.7%",
+          "url": "https://wallstreetcn.com/livenews/3002339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "普拉格动力（PLUG）美股盘后上涨4%，该公司净营收超过市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3002336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "金十图示：2025年11月10日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251111050530628800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "金十图示：2025年11月10日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251111050517730800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
+          "url": "https://wallstreetcn.com/livenews/3002226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "美股收盘：三大股指齐升 金龙指数涨超2%",
+          "url": "https://flash.jin10.com/detail/20251111050106738800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "行业ETF美股盘初多数上涨，半导体ETF、全球科技股指数ETF、科技行业ETF至多涨2.69%。",
+          "url": "https://wallstreetcn.com/livenews/3002213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        }
+      ]
+    },
     {
       "keyword_group": "金价 铜价 白银",
       "match_count": 10,
       "titles": [
+        {
+          "title": "金价涨超2% 创本月最大涨幅",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E8%B6%852%25+%E5%88%9B%E6%9C%AC%E6%9C%88%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时32分]"
+        },
         {
           "title": "上海黄金交易所黄金T+D 11月10日（周一）晚盘收盘上涨1.57%报942.0元/克；<br/>上海黄金交易所白银T+D 11月10日（周一）晚盘收盘上涨2.13%报11860.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251111023044205800",
@@ -27,22 +159,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
-        },
-        {
-          "title": "金价涨超2% 创本月最大涨幅",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E8%B6%852%25+%E5%88%9B%E6%9C%AC%E6%9C%88%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时34分 ~ 04时42分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
@@ -97,11 +216,12 @@
           "url": "https://wallstreetcn.com/livenews/3002303",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时32分]"
         },
         {
           "title": "现货白银日内大涨4.00%，现报50.29美元/盎司。",
@@ -140,8 +260,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时32分]"
         },
         {
           "title": "“美国资金流入日本速度是安倍经济学实施以来最快”！高盛称：美资涌入意味着日股风格转向成长",
@@ -152,8 +272,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时32分]"
         },
         {
           "title": "亲历者谈日本“熊害”：夜晚在山区抽奶香味雪茄引来黑熊",
@@ -163,8 +283,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时32分]"
         },
         {
           "title": "日本发熊难财,猎熊旅游狂捞金",
@@ -174,8 +294,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时32分]"
         },
         {
           "title": "日本高端和牛无限吃是什么体验",
@@ -183,11 +303,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时34分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时32分]"
         },
         {
           "title": "王嘉尔被错认成日本人的反应",
@@ -200,8 +321,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时32分]"
         },
         {
           "title": "日本内阁大臣“祸从口出”",
@@ -218,84 +339,9 @@
       ]
     },
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
-          "url": "https://wallstreetcn.com/articles/3759034",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时42分]"
-        },
-        {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            18,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时42分]"
-        },
-        {
-          "title": "金十图示：2025年11月10日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251111013140077800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
-          "url": "https://wallstreetcn.com/livenews/3002226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "行业ETF美股盘初多数上涨，半导体ETF、全球科技股指数ETF、科技行业ETF至多涨2.69%。",
-          "url": "https://wallstreetcn.com/livenews/3002213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 INTEL",
       "match_count": 5,
       "titles": [
-        {
-          "title": "富国银行：特斯拉10月销量各地均大幅下滑",
-          "url": "https://wallstreetcn.com/livenews/3002319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
         {
           "title": "市场消息：特斯拉(TSLA.O)董事会主席登霍尔姆感谢特斯拉股东的支持，感谢他们批准首席执行官埃隆·马斯克的薪酬方案。",
           "url": "https://flash.jin10.com/detail/20251111023658524800",
@@ -308,6 +354,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时51分 ~ 04时42分]"
+        },
+        {
+          "title": "富国银行：特斯拉10月销量各地均大幅下滑",
+          "url": "https://wallstreetcn.com/livenews/3002319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时32分]"
         },
         {
           "title": "富国银行：特斯拉10月份交付数据显示疲软迹象。",
@@ -328,7 +386,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -337,11 +395,12 @@
           "url": "https://wallstreetcn.com/livenews/3002306",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时32分]"
         }
       ]
     },
@@ -357,8 +416,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时32分]"
         },
         {
           "title": "胸部设计擦边,小鹏机器人被批媚男",
@@ -368,8 +427,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时32分]"
         },
         {
           "title": "智元机器人完成股改，即将开启上市之路？",
@@ -388,18 +447,30 @@
           "source": "今日头条",
           "ranks": [
             23,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时42分]"
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 05时32分]"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "标普500指数收涨103.63点，涨幅1.54%，报6832.43点。 道琼斯工业平均指数收涨381.53点，涨幅0.81%，报47368.63点。 纳斯达克综合指数（纳指）收涨522.637点，涨幅2.27%，报23527.174点。 纳斯达克100指数收涨551.929点，涨幅2.20%，报25611.737点。 纳斯达克生物科技指数收涨1.28%，报5365.40点。 费城半导体指数收涨3.02%，报7156.954点。 费城证交所KBW银行指数收涨0.83%，报151.99点。 道琼斯KBW地区银行指数收涨0.22%，报117.80点。",
+          "url": "https://wallstreetcn.com/livenews/3002328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
         {
           "title": "纳斯达克100指数涨幅扩大至2.1%，刷新日高。 标普500指数涨超1.4%，道指涨300点涨幅0.6%，纳指涨503点涨幅2.19%。 半导体指数涨3.09%，小盘股指涨1.2%。",
           "url": "https://wallstreetcn.com/livenews/3002294",
@@ -483,8 +554,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时32分]"
         }
       ]
     }
