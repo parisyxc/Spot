@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T03:28:31.683853+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2025-11-11T04:42:40.029768+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 11月10日（周一）晚盘收盘上涨1.57%报942.0元/克；<br/>上海黄金交易所白银T+D 11月10日（周一）晚盘收盘上涨2.13%报11860.0元/千克。",
@@ -13,22 +13,23 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 03时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时42分]"
         },
         {
-          "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
-          "url": "https://wallstreetcn.com/livenews/3002234",
-          "source": "华尔街见闻-快讯",
+          "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
+          "url": "https://flash.jin10.com/detail/20251111034728559800",
+          "source": "金十数据",
           "ranks": [
-            9
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "04时42分"
         },
         {
           "title": "金价涨超2% 创本月最大涨幅",
@@ -40,8 +41,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时34分 ~ 04时42分]"
+        },
+        {
+          "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
+          "url": "https://wallstreetcn.com/livenews/3002234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
           "title": "金价大涨但黄金首饰难卖了",
@@ -81,6 +93,17 @@
           "time_info": "[02时51分 ~ 03时28分]"
         },
         {
+          "title": "摩根大通私人银行：黄金价格到明年底有望突破5,000美元",
+          "url": "https://wallstreetcn.com/livenews/3002303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
           "title": "现货白银日内大涨4.00%，现报50.29美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251111014613307800",
           "source": "金十数据",
@@ -117,19 +140,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时42分]"
         },
         {
           "title": "“美国资金流入日本速度是安倍经济学实施以来最快”！高盛称：美资涌入意味着日股风格转向成长",
           "url": "https://wallstreetcn.com/articles/3759012",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时42分]"
         },
         {
           "title": "亲历者谈日本“熊害”：夜晚在山区抽奶香味雪茄引来黑熊",
@@ -139,8 +163,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时42分]"
         },
         {
           "title": "日本发熊难财,猎熊旅游狂捞金",
@@ -150,8 +174,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时42分]"
         },
         {
           "title": "日本高端和牛无限吃是什么体验",
@@ -162,8 +186,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时34分 ~ 04时42分]"
         },
         {
           "title": "王嘉尔被错认成日本人的反应",
@@ -172,11 +196,12 @@
           "ranks": [
             28,
             23,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 04时42分]"
         },
         {
           "title": "日本内阁大臣“祸从口出”",
@@ -204,19 +229,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时28分]"
-        },
-        {
-          "title": "金十图示：2025年11月10日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251111013140077800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时42分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -229,8 +243,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时42分]"
+        },
+        {
+          "title": "金十图示：2025年11月10日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251111013140077800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
         },
         {
           "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
@@ -257,6 +282,70 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "富国银行：特斯拉10月销量各地均大幅下滑",
+          "url": "https://wallstreetcn.com/livenews/3002319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "市场消息：特斯拉(TSLA.O)董事会主席登霍尔姆感谢特斯拉股东的支持，感谢他们批准首席执行官埃隆·马斯克的薪酬方案。",
+          "url": "https://flash.jin10.com/detail/20251111023658524800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时42分]"
+        },
+        {
+          "title": "富国银行：特斯拉10月份交付数据显示疲软迹象。",
+          "url": "https://flash.jin10.com/detail/20251111030154714800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时42分]"
+        },
+        {
+          "title": "先锋领航三季度增持特斯拉 减持苹果",
+          "url": "https://flash.jin10.com/detail/20251111033417884800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "先锋领航三季度增持特斯拉 减持苹果",
+          "url": "https://wallstreetcn.com/livenews/3002306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 4,
       "titles": [
@@ -268,8 +357,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时42分]"
         },
         {
           "title": "胸部设计擦边,小鹏机器人被批媚男",
@@ -279,8 +368,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时42分]"
         },
         {
           "title": "智元机器人完成股改，即将开启上市之路？",
@@ -298,11 +387,12 @@
           "url": "https://www.toutiao.com/trending/7570940971802693161/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时42分]"
         }
       ]
     },
@@ -315,11 +405,12 @@
           "url": "https://wallstreetcn.com/livenews/3002294",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时42分]"
         },
         {
           "title": "纳指涨超2%，纳斯达克100指数成分股Palantir涨7.1%，美光科技涨6.9%，Applovin涨6.3%，AMD涨5.5%，英伟达涨3.8%，谷歌A涨3.5%，特许通讯仍然跌2.4%，Axon跌3.2%。 标普涨1.1%，道指涨0.3%，半导体指数涨2.7%。",
@@ -363,35 +454,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：特斯拉(TSLA.O)董事会主席登霍尔姆感谢特斯拉股东的支持，感谢他们批准首席执行官埃隆·马斯克的薪酬方案。",
-          "url": "https://flash.jin10.com/detail/20251111023658524800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 03时28分]"
-        },
-        {
-          "title": "富国银行：特斯拉10月份交付数据显示疲软迹象。",
-          "url": "https://flash.jin10.com/detail/20251111030154714800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -421,8 +483,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时42分]"
         }
       ]
     }
