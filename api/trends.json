@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-12T01:39:45.143533+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2025-11-12T02:53:20.044403+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
       "match_count": 12,
       "titles": [
+        {
+          "title": "鸠山由纪夫驳高市早苗涉台言论：台湾是中国一部分，日本不应干涉中国内政",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939993",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
+        },
         {
           "title": "台前舰长怒呛日本暗示可能介入台海",
           "url": "https://www.toutiao.com/trending/7570657270552346678/",
@@ -15,19 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
-        },
-        {
-          "title": "鸠山由纪夫驳高市早苗涉台言论：台湾是中国一部分，日本不应干涉中国内政",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939993",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
         },
         {
           "title": "鸠山由纪夫：日本不应干涉中国内政",
@@ -37,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
         },
         {
           "title": "高市早苗发表涉台错误言论后，日本内阁官房长官忙澄清",
@@ -48,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
         },
         {
           "title": "在日本荒郊野岭长大be like",
@@ -57,11 +58,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
         },
         {
           "title": "466具琉球人遗骨被日本殖民者偷挖",
@@ -72,8 +74,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
         },
         {
           "title": "英国央行副行长Breeden：削弱稳定币（监管）制度是有风险的。",
@@ -146,7 +148,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美政府关门有望结束，科技股引领纳指大反弹，英伟达涨近6%，金银大涨",
@@ -156,8 +158,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
         },
         {
           "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
@@ -168,8 +170,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -178,7 +180,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         },
@@ -189,9 +191,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "挪威：暂停主权财富基金道德准则使其免于抛售2300亿美元科技股",
+          "url": "https://wallstreetcn.com/livenews/3002930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "华尔街老将克劳夫：科技股泡沫担忧被夸大",
@@ -200,9 +213,73 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "2张海报推动20cm涨停，机器人牛股预警：股价或随时快速下跌",
+          "url": "https://www.cls.cn/detail/2197537",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
+          "url": "https://www.cls.cn/detail/2197306",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
+        },
+        {
+          "title": "比特币富婆钱志敏最高面临14年监禁",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E6%9C%80%E9%AB%98%E9%9D%A2%E4%B8%B414%E5%B9%B4%E7%9B%91%E7%A6%81",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
+        },
+        {
+          "title": "胸部设计擦边,小鹏机器人被批媚男",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3002929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         }
       ]
     },
@@ -218,8 +295,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
         },
         {
           "title": "谷歌宣布未来四年在德国投资55亿欧元",
@@ -259,59 +336,8 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "2张海报推动20cm涨停，机器人牛股预警：股价或随时快速下跌",
-          "url": "https://www.cls.cn/detail/2197537",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
-          "url": "https://www.cls.cn/detail/2197306",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
-        },
-        {
-          "title": "比特币富婆钱志敏最高面临14年监禁",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E6%9C%80%E9%AB%98%E9%9D%A2%E4%B8%B414%E5%B9%B4%E7%9B%91%E7%A6%81",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
-        },
-        {
-          "title": "胸部设计擦边,小鹏机器人被批媚男",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -321,15 +347,48 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时53分]"
+        },
+        {
+          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
+          "url": "https://wallstreetcn.com/livenews/3002934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
+          "url": "https://flash.jin10.com/detail/20251112020238925800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 11月11日（周二）晚盘收盘下跌0.39%报942.19元/克；<br/>上海黄金交易所白银T+D 11月11日（周二）晚盘收盘上涨0.12%报11909.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251112023113887800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
         {
           "title": "金价跌穿4100美元",
           "url": "https://wallstreetcn.com/livenews/3002885",
