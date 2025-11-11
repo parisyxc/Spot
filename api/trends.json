@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T13:41:57.754279+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-11-11T14:56:52.224078+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "中国点名琉球议题 日本为何破防",
@@ -43,6 +43,18 @@
           "time_info": "[00时53分 ~ 07时33分]"
         },
         {
+          "title": "中国驻日本大使馆就日本领导人涉台错误言论答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31936367",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时33分 ~ 14时56分]"
+        },
+        {
           "title": "日本高端和牛无限吃是什么体验",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E9%AB%98%E7%AB%AF%E5%92%8C%E7%89%9B%E6%97%A0%E9%99%90%E5%90%83%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
@@ -74,18 +86,6 @@
           "time_info": "[00时53分 ~ 13时41分]"
         },
         {
-          "title": "中国驻日本大使馆就日本领导人涉台错误言论答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31936367",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时33分 ~ 13时41分]"
-        },
-        {
           "title": "王嘉尔被错认成日本人的反应",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E5%98%89%E5%B0%94%E8%A2%AB%E9%94%99%E8%AE%A4%E6%88%90%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%9A%84%E5%8F%8D%E5%BA%94%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D28%26q%3D%2523%25E7%258E%258B%25E5%2598%2589%25E5%25B0%2594%25E8%25A2%25AB%25E9%2594%2599%25E8%25AE%25A4%25E6%2588%2590%25E6%2597%25A5%25E6%259C%25AC%25E4%25BA%25BA%25E7%259A%2584%25E5%258F%258D%25E5%25BA%2594%2523%26dgr%3D0%26realpos%3D28%26stream_entry_id%3D31%26band_rank%3D28%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26flag%3D0%26display_time%3D1762792892%26pre_seqid%3D17627928926590199701515&launchid=10000360-page_H5",
           "source": "微博",
@@ -106,11 +106,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 14时56分]"
         },
         {
           "title": "高市早苗淡化日本政府承诺",
@@ -124,48 +125,26 @@
           "time_info": "11时37分"
         },
         {
-          "title": "日本10月经济观察家前景指数 53.1，预期 48.8，前值 48.5。",
-          "url": "https://wallstreetcn.com/livenews/3002526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "在日本荒郊野岭长大be like",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%8D%92%E9%83%8A%E9%87%8E%E5%B2%AD%E9%95%BF%E5%A4%A7be%20like",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
           "title": "日本10月经济观察家前景指数 53.1，预期48.8，前值48.5。",
           "url": "https://flash.jin10.com/detail/20251111130039170800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
         {
-          "title": "日本10月经济观察家现况指数 49.1，预期 47.5，前值 47.1。",
-          "url": "https://wallstreetcn.com/livenews/3002525",
+          "title": "日经225指数收跌0.1%，报50,842.93点。 日本东证指数收涨0.1%，报3,321.58点。",
+          "url": "https://wallstreetcn.com/livenews/3002560",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时41分"
+          "time_info": "14时56分"
         },
         {
           "title": "日本10月经济观察家现况指数 49.1，预期47.5，前值47.1。",
@@ -174,7 +153,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -197,7 +176,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -214,24 +193,25 @@
           "time_info": "[12时45分 ~ 13时41分]"
         },
         {
+          "title": "日本首相高市早苗：补充预算的大部分将拨付给有需要的家庭。",
+          "url": "https://wallstreetcn.com/livenews/3002514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 14时56分]"
+        },
+        {
           "title": "日本首相高市早苗：现在还不能说日本经济已经摆脱通缩，希望与日本央行保持密切沟通。",
           "url": "https://flash.jin10.com/detail/20251111120919378800",
           "source": "金十数据",
           "ranks": [
             4,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时41分]"
-        },
-        {
-          "title": "日本首相高市早苗：补充预算的大部分将拨付给有需要的家庭。",
-          "url": "https://wallstreetcn.com/livenews/3002514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -250,6 +230,43 @@
           "time_info": "[12时45分 ~ 13时41分]"
         },
         {
+          "title": "日本10月经济观察家前景指数 53.1，预期 48.8，前值 48.5。",
+          "url": "https://wallstreetcn.com/livenews/3002526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 14时56分]"
+        },
+        {
+          "title": "日本国宝级演员仲代达矢去世",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%9D%E7%BA%A7%E6%BC%94%E5%91%98%E4%BB%B2%E4%BB%A3%E8%BE%BE%E7%9F%A2%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 14时56分]"
+        },
+        {
+          "title": "在日本荒郊野岭长大be like",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%8D%92%E9%83%8A%E9%87%8E%E5%B2%AD%E9%95%BF%E5%A4%A7be%20like",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 14时56分]"
+        },
+        {
           "title": "日本首相高市早苗：目前尚不能说日本经济已摆脱通缩。 旨在与日本央行密切沟通。",
           "url": "https://wallstreetcn.com/livenews/3002511",
           "source": "华尔街见闻-快讯",
@@ -262,16 +279,16 @@
           "time_info": "[12时45分 ~ 13时41分]"
         },
         {
-          "title": "日本国宝级演员仲代达矢去世",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%9D%E7%BA%A7%E6%BC%94%E5%91%98%E4%BB%B2%E4%BB%A3%E8%BE%BE%E7%9F%A2%E5%8E%BB%E4%B8%96",
-          "source": "百度热搜",
+          "title": "日本10月经济观察家现况指数 49.1，预期 47.5，前值 47.1。",
+          "url": "https://wallstreetcn.com/livenews/3002525",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26,
+            7,
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时41分]"
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 14时56分]"
         },
         {
           "title": "日本内阁大臣“祸从口出”",
@@ -350,8 +367,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时33分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时33分 ~ 14时56分]"
         },
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -362,8 +379,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时33分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时33分 ~ 14时56分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领纳指大反弹，英伟达涨近6%，金银大涨",
@@ -373,19 +390,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 14时56分]"
         },
         {
           "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
           "url": "https://www.cls.cn/detail/2196635",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 14时56分]"
         },
         {
           "title": "CoreWeave美股盘后跌约7%。",
@@ -740,7 +758,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美政府关门有望结束，全球风险资产走高，纳指涨超1.7%，现货黄金涨近2%，比特币拉涨3%",
@@ -761,11 +779,12 @@
             1,
             9,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 13时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 14时56分]"
         },
         {
           "title": "深圳人形机器人卖爆",
@@ -793,6 +812,17 @@
           "time_info": "[00时53分 ~ 01时34分]"
         },
         {
+          "title": "A股机器人概念股局部活跃，上纬新材20cm涨停，五洲新春、拓普集团、美力科技、松霖科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3002555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
           "title": "上纬新材发布机器人预告，智元回应",
           "url": "https://wallstreetcn.com/livenews/3002509",
           "source": "华尔街见闻-快讯",
@@ -817,6 +847,17 @@
           "time_info": "[11时37分 ~ 12时45分]"
         },
         {
+          "title": "上纬新材发布机器人新品预告，证券部回应：未收到剥离原有业务信息",
+          "url": "https://wallstreetcn.com/livenews/3002552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
           "title": "宇树科技机器人手指专利获授权",
           "url": "https://wallstreetcn.com/livenews/3002468",
           "source": "华尔街见闻-快讯",
@@ -826,6 +867,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "比特币向下触及105000美元/枚，日内跌0.95%。",
+          "url": "https://flash.jin10.com/detail/20251111140834800800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         }
       ]
     },
@@ -833,6 +885,18 @@
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 6,
       "titles": [
+        {
+          "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
+          "url": "https://wallstreetcn.com/articles/3759101",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 14时56分]"
+        },
         {
           "title": "美国参议员联名致信抨击Meta、OpenAI、Alphabet和Oracle。",
           "url": "https://flash.jin10.com/detail/20251111004153687800",
@@ -843,17 +907,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
-          "url": "https://wallstreetcn.com/articles/3759101",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
         },
         {
           "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
@@ -1032,8 +1085,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "软银集团：OpenAI的共同投资者承诺参与全部100亿美元的银团融资。",
+          "url": "https://flash.jin10.com/detail/20251111144640620800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
         {
           "title": "英特尔CTO跳槽至OpenAI，CEO陈立武将兼任该职",
           "url": "https://wallstreetcn.com/livenews/3002355",
@@ -1094,7 +1158,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         }
