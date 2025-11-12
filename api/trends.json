@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T06:16:11.000603+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2025-11-13T07:17:06.499567+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "日本向“台独”分子授勋，外交部：坚决反对",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "日本敢不敢武力干涉中国的统一？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "日本向“台独”分子授勋，外交部：在涉台问题上的又一错误举动",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "日本敢介入台海吗",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "刘和平：日本是阻碍两岸统一最大障碍",
@@ -62,11 +62,59 @@
           "ranks": [
             23,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "日本熊灾为何频发",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE%E4%B8%BA%E4%BD%95%E9%A2%91%E5%8F%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            29,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时13分 ~ 07时17分]"
+        },
+        {
+          "title": "路透调查：近一半的日本企业认为少数派政府的稳定性是商业环境的潜在风险因素。",
+          "url": "https://flash.jin10.com/detail/20251113070215905800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "路透日本企业调查：超过三分之二的日本企业计划明年加薪幅度将维持在与今年大致相同的水平。",
+          "url": "https://wallstreetcn.com/livenews/3003669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "路透调查：约43%日本企业预计在首相高市早苗领导下，商业环境将有所改善，3%企业预计商业环境将恶化。超过三分之二的日本企业计划明年加薪幅度将维持在与今年大致相同的水平。",
+          "url": "https://flash.jin10.com/detail/20251113070133391800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "美联储理事米兰：对稳定币增长的独立预估显示，稳定币的影响可能会达到2000-2010年期间储蓄的30%-60%。",
@@ -141,19 +189,6 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
-          "title": "日本熊灾为何频发",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE%E4%B8%BA%E4%BD%95%E9%A2%91%E5%8F%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时15分]"
-        },
-        {
           "title": "据日经新闻：日本考虑将离境税至少提高两倍。",
           "url": "https://flash.jin10.com/detail/20251112235414913800",
           "source": "金十数据",
@@ -168,7 +203,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -179,8 +214,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
@@ -189,22 +224,23 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
-          "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3003643",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
+          "url": "https://www.cls.cn/detail/2198992",
+          "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -218,6 +254,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "稳定币发行商Circle三季度营收增长66%至7.4亿美元，盈利大超预期，USDC稳定币流通量同比翻番 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759236",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
           "title": "金十图示：2025年11月12日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251113050525386800",
           "source": "金十数据",
@@ -229,15 +276,16 @@
           "time_info": "05时15分"
         },
         {
-          "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
-          "url": "https://wallstreetcn.com/livenews/3003637",
+          "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3003643",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时17分]"
         },
         {
           "title": "美股七巨头收盘播报｜Meta收跌将近2.9%，特斯拉跌超2%",
@@ -246,9 +294,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3003637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时17分]"
         },
         {
           "title": "美股收盘：道指创新高 AMD涨9%",
@@ -277,8 +337,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "“拟人”暗战打响！多上市公司披露仿生布局 机构称机器人“泡沫”处于上升期|行业观察",
@@ -289,8 +349,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "比特币向下触及101000美元/枚，日内跌2.02%。",
@@ -304,17 +364,6 @@
           "time_info": "04时18分"
         },
         {
-          "title": "加密货币与加密货币关联指数跌3.19%，报75.21点。 周三（11月12日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.88%，报10.2万美元。 CME以太币期货DCR主力合约跌0.20%，报3434美元，北京时间21:50涨至3596.50美元刷新日高，随后快速转跌。",
-          "url": "https://wallstreetcn.com/livenews/3003639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
           "title": "以太坊失守3400美元/枚，日内跌幅0.55%。",
           "url": "https://flash.jin10.com/detail/20251113001042904800",
           "source": "金十数据",
@@ -325,6 +374,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "加密货币与加密货币关联指数跌3.19%，报75.21点。 周三（11月12日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.88%，报10.2万美元。 CME以太币期货DCR主力合约跌0.20%，报3434美元，北京时间21:50涨至3596.50美元刷新日高，随后快速转跌。",
+          "url": "https://wallstreetcn.com/livenews/3003639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时17分]"
         },
         {
           "title": "比特币向下触及102000美元/枚，日内跌1.05%。",
@@ -343,6 +404,68 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
+          "url": "https://wallstreetcn.com/livenews/3003663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "现货白银日内涨幅达4.0%，报53.24美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3003551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时23分]"
+        },
+        {
+          "title": "渣打银行：2026年第一季度金价存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20251113063512644800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "现货白银向上触及53美元/盎司，创10月17日以来新高，日内涨3.50%。",
+          "url": "https://flash.jin10.com/detail/20251112234944623800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "现货白银日内涨幅达2.0%，报52.22美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3003502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -401,48 +524,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
-        },
-        {
-          "title": "法拉第未来(FFIE.O)：未来的FF和FX系列纯电动车型将可使用超过28,000个特斯拉超级充电站。",
-          "url": "https://flash.jin10.com/detail/20251113060331720800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
-          "url": "https://www.cls.cn/detail/2197827",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -460,11 +543,12 @@
           "url": "https://flash.jin10.com/detail/20251113060235382800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时17分]"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -476,42 +560,54 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
+          "url": "https://wallstreetcn.com/livenews/3003648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
+      "keyword_group": "特斯拉 INTEL",
       "match_count": 3,
       "titles": [
         {
-          "title": "现货白银日内涨幅达4.0%，报53.24美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3003551",
-          "source": "华尔街见闻-快讯",
+          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            29
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "法拉第未来(FFIE.O)：未来的FF和FX系列纯电动车型将可使用超过28,000个特斯拉超级充电站。",
+          "url": "https://flash.jin10.com/detail/20251113060331720800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时23分]"
+          "time_info": "[06时16分 ~ 07时17分]"
         },
         {
-          "title": "现货白银向上触及53美元/盎司，创10月17日以来新高，日内涨3.50%。",
-          "url": "https://flash.jin10.com/detail/20251112234944623800",
-          "source": "金十数据",
+          "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
+          "url": "https://www.cls.cn/detail/2197827",
+          "source": "财联社热门",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "现货白银日内涨幅达2.0%，报52.22美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3003502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -530,7 +626,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         }
@@ -547,7 +643,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         }
@@ -565,8 +661,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时17分]"
         }
       ]
     }
