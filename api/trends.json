@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T15:16:42.025737+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2025-11-12T16:22:25.122383+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
@@ -92,11 +92,12 @@
             20,
             26,
             24,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 15时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 16时22分]"
         },
         {
           "title": "日本前首相驳高市早苗：狗越小越会叫",
@@ -122,8 +123,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 16时22分]"
         },
         {
           "title": "日本真的敢武力干涉中国的统一吗",
@@ -135,8 +136,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 16时22分]"
         },
         {
           "title": "日本熊灾为何频发",
@@ -149,8 +150,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 16时22分]"
         },
         {
           "title": "受日元贬值和稳健订单支撑，日本11月制造业信心创近四年新高",
@@ -283,6 +284,17 @@
           "time_info": "[04时40分 ~ 05时32分]"
         },
         {
+          "title": "媒体批日本首相涉台错误言论",
+          "url": "https://www.toutiao.com/trending/7571317714880151594/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 16时22分]"
+        },
+        {
           "title": "英国央行副行长Breeden：削弱稳定币（监管）制度是有风险的。",
           "url": "https://wallstreetcn.com/livenews/3002894",
           "source": "华尔街见闻-快讯",
@@ -304,17 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "媒体批日本首相涉台错误言论",
-          "url": "https://www.toutiao.com/trending/7571317714880151594/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
         },
         {
           "title": "日本11月路透短观制造业景气判断指数 17，前值8。",
@@ -466,7 +467,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -572,6 +573,221 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "2张海报推动20cm涨停，机器人牛股预警：股价或随时快速下跌",
+          "url": "https://www.cls.cn/detail/2197537",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
+          "url": "https://www.cls.cn/detail/2197306",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "胸部设计擦边,小鹏机器人被批媚男",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            26,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 14时24分]"
+        },
+        {
+          "title": "比特币富婆钱志敏最高面临14年监禁",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E6%9C%80%E9%AB%98%E9%9D%A2%E4%B8%B414%E5%B9%B4%E7%9B%91%E7%A6%81",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            14,
+            19,
+            30,
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "“比特币富婆”钱志敏被捕画面曝光",
+          "url": "https://www.toutiao.com/trending/7570823653735235647/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            13,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 16时22分]"
+        },
+        {
+          "title": "俄人形机器人摔倒 零部件散落在地",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%91%94%E5%80%92+%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%95%A3%E8%90%BD%E5%9C%A8%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            18,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 14时24分]"
+        },
+        {
+          "title": "中海达：已获得小鹏具身机器人的IMU姿态传感器定点 小规模样品交付中",
+          "url": "https://wallstreetcn.com/livenews/3003150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时17分]"
+        },
+        {
+          "title": "俄罗斯人形机器人首秀时摔倒",
+          "url": "https://www.douyin.com/hot/2303223",
+          "source": "抖音",
+          "ranks": [
+            20,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 15时16分]"
+        },
+        {
+          "title": "专家：人形机器人未来将有两大收入",
+          "url": "https://www.toutiao.com/trending/7571637202573069878/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 12时20分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3002929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时27分]"
+        },
+        {
+          "title": "加密货币与加密货币关联指数跌5.85%，报77.69点，跳空低开之后，全天持续震荡下行。 周二（11月11日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌3.46%，至10.3万美元下方。 CME以太币期货DCR主力合约跌4.48%，报3419美元。 北京时间05:52，现货比特币跌3.4%，报102449.62美元；以太坊跌4.54%，报3409.50美元；Solana跌7.16%，狗狗币跌4.62%，XRP跌6.85%。",
+          "url": "https://wallstreetcn.com/livenews/3002993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时31分]"
+        },
+        {
+          "title": "比特币洗钱案钱志敏奢靡生活披露",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E9%92%B1%E5%BF%97%E6%95%8F%E5%A5%A2%E9%9D%A1%E7%94%9F%E6%B4%BB%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 16时22分]"
+        },
+        {
+          "title": "全球首批人形机器人店员深圳上岗",
+          "url": "https://wallstreetcn.com/livenews/3003163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "智微智能：公司在机器人“大小脑”控制器领域已有客户订单落地",
+          "url": "https://wallstreetcn.com/livenews/3003269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "车企为何要研发机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BD%A6%E4%BC%81%E4%B8%BA%E4%BD%95%E8%A6%81%E7%A0%94%E5%8F%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人",
+          "url": "https://www.toutiao.com/trending/7571523644342550564/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "俄罗斯机器人亮相时挥手臂摔倒",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E6%97%B6%E6%8C%A5%E6%89%8B%E8%87%82%E6%91%94%E5%80%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25BF%2584%25E7%25BD%2597%25E6%2596%25AF%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E4%25BA%25AE%25E7%259B%25B8%25E6%2597%25B6%25E6%258C%25A5%25E6%2589%258B%25E8%2587%2582%25E6%2591%2594%25E5%2580%2592%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26pos%3D30%26realpos%3D30%26cate%3D5001%26c_type%3D31%26band_rank%3D30%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762918445%26pre_seqid%3D176291844556303472184&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 15,
       "titles": [
@@ -599,6 +815,18 @@
           "time_info": "[00时51分 ~ 06时39分]"
         },
         {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时31分 ~ 16时22分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
           "url": "https://www.cls.cn/detail/2197739",
           "source": "财联社热门",
@@ -610,18 +838,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[06时38分 ~ 15时16分]"
-        },
-        {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 15时16分]"
         },
         {
           "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
@@ -753,200 +969,155 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 15,
+      "keyword_group": "chatgpt openai",
+      "match_count": 11,
       "titles": [
         {
-          "title": "2张海报推动20cm涨停，机器人牛股预警：股价或随时快速下跌",
-          "url": "https://www.cls.cn/detail/2197537",
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 16时22分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
-          "url": "https://www.cls.cn/detail/2197306",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "胸部设计擦边,小鹏机器人被批媚男",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            26,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 14时24分]"
-        },
-        {
-          "title": "比特币富婆钱志敏最高面临14年监禁",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E6%9C%80%E9%AB%98%E9%9D%A2%E4%B8%B414%E5%B9%B4%E7%9B%91%E7%A6%81",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            14,
-            19,
-            30,
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "“比特币富婆”钱志敏被捕画面曝光",
-          "url": "https://www.toutiao.com/trending/7570823653735235647/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            13,
-            14
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时35分 ~ 15时16分]"
         },
         {
-          "title": "俄人形机器人摔倒 零部件散落在地",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%91%94%E5%80%92+%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%95%A3%E8%90%BD%E5%9C%A8%E5%9C%B0",
-          "source": "百度热搜",
+          "title": "鸿海：将于下周公布与OpenAI合作的具体细节。",
+          "url": "https://wallstreetcn.com/livenews/3003282",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            18,
-            23,
-            25
+            6
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 14时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
-          "title": "中海达：已获得小鹏具身机器人的IMU姿态传感器定点 小规模样品交付中",
-          "url": "https://wallstreetcn.com/livenews/3003150",
+          "title": "鸿海：我们将于下周发布与OpenAI相关的公告。",
+          "url": "https://flash.jin10.com/detail/20251112154841373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
+          "url": "https://wallstreetcn.com/livenews/3002934",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时17分]"
-        },
-        {
-          "title": "俄罗斯人形机器人首秀时摔倒",
-          "url": "https://www.douyin.com/hot/2303223",
-          "source": "抖音",
-          "ranks": [
-            20,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 15时16分]"
-        },
-        {
-          "title": "专家：人形机器人未来将有两大收入",
-          "url": "https://www.toutiao.com/trending/7571637202573069878/",
-          "source": "今日头条",
-          "ranks": [
-            25,
+            15,
             28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时35分 ~ 12时20分]"
+          "time_info": "[02时53分 ~ 04时40分]"
         },
         {
-          "title": "俄罗斯推出首款国产人形机器人",
-          "url": "https://wallstreetcn.com/livenews/3002929",
-          "source": "华尔街见闻-快讯",
+          "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
+          "url": "https://flash.jin10.com/detail/20251112060435250800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 03时27分]"
-        },
-        {
-          "title": "加密货币与加密货币关联指数跌5.85%，报77.69点，跳空低开之后，全天持续震荡下行。 周二（11月11日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌3.46%，至10.3万美元下方。 CME以太币期货DCR主力合约跌4.48%，报3419美元。 北京时间05:52，现货比特币跌3.4%，报102449.62美元；以太坊跌4.54%，报3409.50美元；Solana跌7.16%，狗狗币跌4.62%，XRP跌6.85%。",
-          "url": "https://wallstreetcn.com/livenews/3002993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
+            5,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时31分]"
         },
         {
-          "title": "全球首批人形机器人店员深圳上岗",
-          "url": "https://wallstreetcn.com/livenews/3003163",
-          "source": "华尔街见闻-快讯",
+          "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
+          "url": "https://flash.jin10.com/detail/20251112054804540800",
+          "source": "金十数据",
           "ranks": [
-            12
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时31分]"
         },
         {
-          "title": "比特币洗钱案钱志敏奢靡生活披露",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E9%92%B1%E5%BF%97%E6%95%8F%E5%A5%A2%E9%9D%A1%E7%94%9F%E6%B4%BB%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
+          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
+          "url": "https://flash.jin10.com/detail/20251112020238925800",
+          "source": "金十数据",
           "ranks": [
-            20
+            23,
+            30
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时27分]"
+        },
+        {
+          "title": "市场消息：三菱日联金融集团与OpenAI达成战略合作。",
+          "url": "https://flash.jin10.com/detail/20251112144050948800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
         {
-          "title": "俄罗斯推出首款国产人形机器人",
-          "url": "https://www.toutiao.com/trending/7571523644342550564/",
-          "source": "今日头条",
+          "title": "鸿海：我们当然会与OpenAI合作。",
+          "url": "https://flash.jin10.com/detail/20251112154635082800",
+          "source": "金十数据",
           "ranks": [
-            29
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "16时22分"
         },
         {
-          "title": "俄罗斯机器人亮相时挥手臂摔倒",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E6%97%B6%E6%8C%A5%E6%89%8B%E8%87%82%E6%91%94%E5%80%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25BF%2584%25E7%25BD%2597%25E6%2596%25AF%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E4%25BA%25AE%25E7%259B%25B8%25E6%2597%25B6%25E6%258C%25A5%25E6%2589%258B%25E8%2587%2582%25E6%2591%2594%25E5%2580%2592%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26pos%3D30%26realpos%3D30%26cate%3D5001%26c_type%3D31%26band_rank%3D30%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762918445%26pre_seqid%3D176291844556303472184&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
+          "url": "https://wallstreetcn.com/livenews/3002981",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "06时39分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "花旗：预计到2026年第二季度，铜价将攀升至平均1.2万美元/吨",
+          "url": "https://flash.jin10.com/detail/20251112155728642800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
         {
           "title": "花旗：预计今年剩余时间内铜价将在每吨11000美元左右波动。",
           "url": "https://flash.jin10.com/detail/20251112133258524800",
@@ -1031,6 +1202,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "“定时炸弹”滴答作响！专家提醒：铜价爆发行情还没结束",
+          "url": "https://www.cls.cn/detail/2197983",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "现货白银向下触及51美元/盎司，日内跌0.42%。",
           "url": "https://flash.jin10.com/detail/20251112120419358800",
           "source": "金十数据",
@@ -1055,104 +1237,89 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 7,
       "titles": [
         {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
+          "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
+          "url": "https://wallstreetcn.com/articles/3759101",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            7,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 15时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时31分]"
         },
         {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
-          "source": "财联社热门",
+          "title": "土耳其电信宣布与谷歌云建立战略合作伙伴关系，并计划在土耳其设立谷歌云区域。",
+          "url": "https://flash.jin10.com/detail/20251112134900756800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 15时16分]"
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
-          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
-          "url": "https://wallstreetcn.com/livenews/3002934",
+          "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
+          "url": "https://wallstreetcn.com/livenews/3002949",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            15,
-            28
+            1,
+            13,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时53分 ~ 04时40分]"
+          "time_info": "[03时27分 ~ 05时32分]"
         },
         {
-          "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
-          "url": "https://flash.jin10.com/detail/20251112060435250800",
+          "title": "谷歌宣布未来四年在德国投资55亿欧元",
+          "url": "https://flash.jin10.com/detail/20251112003809486800",
           "source": "金十数据",
           "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时31分]"
-        },
-        {
-          "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
-          "url": "https://flash.jin10.com/detail/20251112054804540800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时31分]"
-        },
-        {
-          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
-          "url": "https://flash.jin10.com/detail/20251112020238925800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 03时27分]"
-        },
-        {
-          "title": "市场消息：三菱日联金融集团与OpenAI达成战略合作。",
-          "url": "https://flash.jin10.com/detail/20251112144050948800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
-          "url": "https://wallstreetcn.com/livenews/3002981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            4,
             21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时39分]"
+        },
+        {
+          "title": "谷歌公司将在德国数据中心和办公室投资55亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3002895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时39分]"
+        },
+        {
+          "title": "Meta 首席 AI 科学家 LeCun 被曝将离职创业，具体情况如何？他的离职会给公司带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1971881827078726660",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时39分"
+          "time_info": "16时22分"
+        },
+        {
+          "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3002880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     },
@@ -1230,82 +1397,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
-          "url": "https://wallstreetcn.com/articles/3759101",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "土耳其电信宣布与谷歌云建立战略合作伙伴关系，并计划在土耳其设立谷歌云区域。",
-          "url": "https://flash.jin10.com/detail/20251112134900756800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
-          "url": "https://wallstreetcn.com/livenews/3002949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时27分 ~ 05时32分]"
-        },
-        {
-          "title": "谷歌宣布未来四年在德国投资55亿欧元",
-          "url": "https://flash.jin10.com/detail/20251112003809486800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时39分]"
-        },
-        {
-          "title": "谷歌公司将在德国数据中心和办公室投资55亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3002895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时39分]"
-        },
-        {
-          "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3002880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 INTEL",
       "match_count": 1,
       "titles": [
@@ -1320,6 +1411,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时24分 ~ 15时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "抖音推出未成年人陪伴计划",
+          "url": "https://www.douyin.com/hot/2303736",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     }
