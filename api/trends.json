@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T11:12:35.518425+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2025-11-13T12:22:34.363563+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "日本向“台独”分子授勋，外交部：坚决反对",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 11时12分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 12时22分]"
         },
         {
           "title": "日本敢介入台海吗",
@@ -79,11 +79,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 12时22分]"
         },
         {
           "title": "日本熊灾为何频发",
@@ -101,6 +102,18 @@
           "time_info": "[03时13分 ~ 09时13分]"
         },
         {
+          "title": "日本大佬也看不下去了",
+          "url": "https://news.ifeng.com/c/8oEwOZ0oxp6",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 12时22分]"
+        },
+        {
           "title": "高市早苗妄谈台海震惊日本舆论",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%A6%84%E8%B0%88%E5%8F%B0%E6%B5%B7%E9%9C%87%E6%83%8A%E6%97%A5%E6%9C%AC%E8%88%86%E8%AE%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D1%26c_type%3D31%26cate%3D5001%26realpos%3D2%26lcate%3D5001%26flag%3D0%26q%3D%2523%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E5%25A6%2584%25E8%25B0%2588%25E5%258F%25B0%25E6%25B5%25B7%25E9%259C%2587%25E6%2583%258A%25E6%2597%25A5%25E6%259C%25AC%25E8%2588%2586%25E8%25AE%25BA%2523%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D2%26display_time%3D1762996325%26pre_seqid%3D17629963257710054922&launchid=10000360-page_H5",
           "source": "微博",
@@ -111,17 +124,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时12分 ~ 11时12分]"
-        },
-        {
-          "title": "日本大佬也看不下去了",
-          "url": "https://news.ifeng.com/c/8oEwOZ0oxp6",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 11时12分]"
         },
         {
           "title": "路透调查：近一半的日本企业认为少数派政府的稳定性是商业环境的潜在风险因素。",
@@ -157,15 +159,15 @@
           "time_info": "07时17分"
         },
         {
-          "title": "牛弹琴：日本大佬也看不下去了",
-          "url": "https://www.toutiao.com/trending/7571985606952157211/",
+          "title": "专家：中国对日本外交换打法",
+          "url": "https://www.toutiao.com/trending/7572023432695516735/",
           "source": "今日头条",
           "ranks": [
-            8
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时12分"
+          "time_info": "12时22分"
         },
         {
           "title": "日本央行行长植田和男：从更长期来看，货币因素可能会通过经济的需求端影响通胀。",
@@ -273,6 +275,18 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
+          "title": "牛弹琴：日本大佬也看不下去了",
+          "url": "https://www.toutiao.com/trending/7571985606952157211/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 12时22分]"
+        },
+        {
           "title": "中国驻日大使馆揭批日本“老剧本”",
           "url": "https://www.toutiao.com/trending/7571335448270782527/",
           "source": "今日头条",
@@ -312,7 +326,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -345,7 +359,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -367,7 +381,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -444,7 +458,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -522,8 +536,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 11时12分]"
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 12时22分]"
         },
         {
           "title": "稳定币发行商Circle三季度营收增长66%至7.4亿美元，盈利大超预期，USDC稳定币流通量同比翻番 | 财报见闻",
@@ -532,11 +546,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 11时12分]"
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 12时22分]"
         },
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -546,8 +561,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 12时22分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -627,6 +642,113 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 11月13日（周四）早盘盘初上涨1.66%报960.0元/克；<br/>上海黄金交易所白银T+D 11月13日（周四）早盘盘初上涨4.29%报12462.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251113090138790800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "现货白银站上54美元，日内涨1.41%。",
+          "url": "https://wallstreetcn.com/livenews/3003855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
+          "url": "https://wallstreetcn.com/livenews/3003663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "金十图示：2025年11月13日（周四）上海金早盘价为957.96元/克，较国际金价(958.64元/克)，低0.68元/克",
+          "url": "https://flash.jin10.com/detail/20251113110141972800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 12时22分]"
+        },
+        {
+          "title": "现货白银日内涨幅达4.0%，报53.24美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3003551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时23分]"
+        },
+        {
+          "title": "渣打银行：2026年第一季度金价存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20251113063512644800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报53.80美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251113112113182800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "现货白银向上触及53美元/盎司，创10月17日以来新高，日内涨3.50%。",
+          "url": "https://flash.jin10.com/detail/20251112234944623800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "现货白银日内涨幅达2.0%，报52.22美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3003502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     },
@@ -731,92 +853,8 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 11月13日（周四）早盘盘初上涨1.66%报960.0元/克；<br/>上海黄金交易所白银T+D 11月13日（周四）早盘盘初上涨4.29%报12462.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251113090138790800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "金十图示：2025年11月13日（周四）上海金早盘价为957.96元/克，较国际金价(958.64元/克)，低0.68元/克",
-          "url": "https://flash.jin10.com/detail/20251113110141972800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
-          "url": "https://wallstreetcn.com/livenews/3003663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "现货白银日内涨幅达4.0%，报53.24美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3003551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时23分]"
-        },
-        {
-          "title": "渣打银行：2026年第一季度金价存在上行风险。",
-          "url": "https://flash.jin10.com/detail/20251113063512644800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "现货白银向上触及53美元/盎司，创10月17日以来新高，日内涨3.50%。",
-          "url": "https://flash.jin10.com/detail/20251112234944623800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "现货白银日内涨幅达2.0%，报52.22美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3003502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.1",
@@ -824,11 +862,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 12时22分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -865,6 +904,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
+          "url": "https://www.zhihu.com/question/1972154575545955995",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
           "url": "https://wallstreetcn.com/livenews/3003648",
           "source": "华尔街见闻-快讯",
@@ -882,7 +932,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         }
@@ -952,8 +1002,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 11时12分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 12时22分]"
         },
         {
           "title": "法拉第未来(FFIE.O)：未来的FF和FX系列纯电动车型将可使用超过28,000个特斯拉超级充电站。",
@@ -985,7 +1035,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         }
@@ -1037,8 +1087,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 11时12分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 12时22分]"
         }
       ]
     }
