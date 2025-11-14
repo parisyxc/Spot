@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T07:15:51.132148+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2025-11-14T09:11:45.603504+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -30,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时11分]"
         },
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
@@ -55,11 +55,24 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时11分]"
+        },
+        {
+          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
+          "url": "https://www.cls.cn/detail/2200254",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时11分]"
         },
         {
           "title": "应用材料美股盘后跌超4.5%。",
@@ -68,20 +81,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
         {
-          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
-          "url": "https://www.cls.cn/detail/2200254",
-          "source": "财联社热门",
+          "title": "美股全线下挫 特斯拉跌超6%",
+          "url": "https://www.toutiao.com/trending/7571618548569735174/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "09时11分"
+        },
+        {
+          "title": "美股大跌 特斯拉跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股收盘）",
@@ -177,6 +201,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "铠侠股价开盘势将触及跌停板，此前发布财报。",
+          "url": "https://wallstreetcn.com/livenews/3004457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
           "title": "房利美和房地美股价重挫，报道称美国联邦住房金融局局长曾被调查",
           "url": "https://wallstreetcn.com/livenews/3004257",
           "source": "华尔街见闻-快讯",
@@ -224,40 +259,19 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "媒体：日本有事就是日本有事",
-          "url": "https://www.toutiao.com/trending/7571118280522334214/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时15分]"
-        },
-        {
-          "title": "日本有事就是日本有事",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%8B%E5%B0%B1%E6%98%AF%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%8B",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时15分]"
-        },
         {
           "title": "日本自卫队计划恢复“大佐军衔”",
           "url": "https://news.ifeng.com/c/8oFjKnw6qXT",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时11分]"
         },
         {
           "title": "日本驻澳大使：愿意继续与中方对话",
@@ -276,6 +290,30 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "媒体：日本有事就是日本有事",
+          "url": "https://www.toutiao.com/trending/7571118280522334214/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时11分]"
+        },
+        {
+          "title": "日本有事就是日本有事",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%8B%E5%B0%B1%E6%98%AF%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%8B",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时11分]"
+        },
+        {
           "title": "日本店员遭熊袭击浑身血继续做拉面",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BA%97%E5%91%98%E9%81%AD%E7%86%8A%E8%A2%AD%E5%87%BB%E6%B5%91%E8%BA%AB%E8%A1%80%E7%BB%A7%E7%BB%AD%E5%81%9A%E6%8B%89%E9%9D%A2",
           "source": "百度热搜",
@@ -287,8 +325,41 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时11分]"
+        },
+        {
+          "title": "外交部副部长召见日本大使提严正交涉",
+          "url": "https://www.toutiao.com/trending/7572347074818084390/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "孙卫东奉示召见日本大使提严正交涉",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E5%8D%AB%E4%B8%9C%E5%A5%89%E7%A4%BA%E5%8F%AC%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E6%8F%90%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "外交部召见日本驻华大使，提出严正交涉",
+          "url": "https://news.ifeng.com/c/8oGSLc7CSjL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "日本资深议员称高市早苗极为危险",
@@ -297,9 +368,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "中方就日本首相高市早苗涉华错误言行提出严正交涉",
+          "url": "https://www.cls.cn/detail/2200291",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "日本首相高市早苗：自政府设定最低工资目标以来，已收到日本地区企业的投诉。",
+          "url": "https://flash.jin10.com/detail/20251114085112515800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "日本熊害究竟怎么回事",
@@ -327,6 +420,18 @@
           "time_info": "[06时16分 ~ 07时15分]"
         },
         {
+          "title": "外交部副部长孙卫东就日本首相高市早苗涉华错误言行提出严正交涉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31960766",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时11分]"
+        },
+        {
           "title": "“馆长”：台湾人不能和日本人站一起",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%A6%86%E9%95%BF%E2%80%9D%EF%BC%9A%E5%8F%B0%E6%B9%BE%E4%BA%BA%E4%B8%8D%E8%83%BD%E5%92%8C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%AB%99%E4%B8%80%E8%B5%B7",
           "source": "百度热搜",
@@ -339,15 +444,37 @@
           "time_info": "[02时23分 ~ 04时19分]"
         },
         {
-          "title": "外交部副部长孙卫东就日本首相高市早苗涉华错误言行提出严正交涉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31960766",
-          "source": "澎湃新闻",
+          "title": "日本首相高市早苗：目前难以设定最低工资的量化目标，政府的工作是创造一种环境，使企业能够提供高于通胀速度的薪资。",
+          "url": "https://flash.jin10.com/detail/20251114084834440800",
+          "source": "金十数据",
           "ranks": [
-            19
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "09时11分"
+        },
+        {
+          "title": "外交部召见日本大使提出严正交涉",
+          "url": "https://www.douyin.com/hot/2305327",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "日本首相高市早苗：现在很难为最低工资设定数字目标，政府的工作是创造环境，允许公司提供超过通货膨胀速度的工资。",
+          "url": "https://wallstreetcn.com/livenews/3004464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "日本政客的“迷之自信”从何而来",
@@ -526,73 +653,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时15分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时15分]"
-        },
-        {
-          "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
-          "url": "https://wallstreetcn.com/livenews/3004415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "法院文件显示，美国法官裁定苹果(AAPL.O)和OpenAI目前必须应对社交媒体平台“X”的反垄断诉讼。",
-          "url": "https://flash.jin10.com/detail/20251114061331126800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "市场消息：OpenAI前首席技术官Mira Murati的公司Thinking Machines Lab在融资谈判中估值达500亿美元。",
-          "url": "https://flash.jin10.com/detail/20251114044411055800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -600,11 +662,34 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时11分]"
+        },
+        {
+          "title": "现货白银日内涨超1.00%，现报52.80美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251114090148408800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月14日（周五）早盘盘初下跌0.25%报952.03元/克；<br/>上海黄金交易所白银T+D 11月14日（周五）早盘盘初下跌0.8%报12369.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251114090140346800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加84.65吨，当前持仓量为15173.28吨。欢迎点击查看数据中心",
@@ -613,7 +698,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -643,9 +728,85 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 4,
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时11分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时11分]"
+        },
+        {
+          "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
+          "url": "https://wallstreetcn.com/livenews/3004415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "法院文件显示，美国法官裁定苹果(AAPL.O)和OpenAI目前必须应对社交媒体平台“X”的反垄断诉讼。",
+          "url": "https://flash.jin10.com/detail/20251114061331126800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "市场消息：OpenAI前首席技术官Mira Murati的公司Thinking Machines Lab在融资谈判中估值达500亿美元。",
+          "url": "https://flash.jin10.com/detail/20251114044411055800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
+          "url": "https://wallstreetcn.com/articles/3759298",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
         {
           "title": "加密货币与加密货币关联指数跌9.98%，报67.71点，北京时间22:30微幅跳空低开，随后持续走低。 周四（11月13日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.98%，失守9.9万美元。 CME以太币期货DCR主力合约跌7.20%，报3172.50美元。 北京时间05:58，现货比特币跌2.79%，报98788.25美元；以太坊跌7%，报3180.64美元；Solana跌7.49%，狗狗币跌5.21%，XRP跌2.43%。",
           "url": "https://wallstreetcn.com/livenews/3004408",
@@ -696,7 +857,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -705,11 +866,23 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时11分]"
+        },
+        {
+          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "苹果腾讯敲定微信游戏抽成协议",
