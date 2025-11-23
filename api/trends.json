@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T02:21:22.902623+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2025-11-24T03:12:56.671598+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "世界周刊之日本危险转向",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "央媒：日本“夺岛”方案，注定出动即失败",
           "url": "https://m.thepaper.cn/newsDetail_forward_32025481",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "日本共产党党报揭批：高市早苗企图建立战争国家",
@@ -48,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "日本“夺岛”方案注定出动即失败",
@@ -59,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "牛弹琴：日本人不敢相信自己眼睛",
@@ -68,11 +69,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "全服通告!中方致函联合国警告日本",
@@ -84,8 +86,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "中国反制稳准狠,日本遭股债汇三杀",
@@ -97,8 +99,34 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
+        },
+        {
+          "title": "王毅：绝不允许日本军国主义死灰复燃",
+          "url": "https://www.toutiao.com/trending/7575778300254031387/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            27,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
+        },
+        {
+          "title": "日本现职领导人越了不应碰的红线",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%8E%B0%E8%81%8C%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%B6%8A%E4%BA%86%E4%B8%8D%E5%BA%94%E7%A2%B0%E7%9A%84%E7%BA%A2%E7%BA%BF%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时12分]"
         },
         {
           "title": "高市之祸来了 日本发出最强烈警告",
@@ -111,31 +139,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 02时21分]"
-        },
-        {
-          "title": "王毅：绝不允许日本军国主义死灰复燃",
-          "url": "https://www.toutiao.com/trending/7575778300254031387/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
-        },
-        {
-          "title": "日本现职领导人越了不应碰的红线",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%8E%B0%E8%81%8C%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%B6%8A%E4%BA%86%E4%B8%8D%E5%BA%94%E7%A2%B0%E7%9A%84%E7%BA%A2%E7%BA%BF%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时21分]"
         },
         {
           "title": "王毅：有权利对日本历史罪行再清算",
@@ -166,7 +169,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -177,7 +180,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         }
@@ -195,8 +198,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "下周重磅日程：阿里美团财报、美国对乌“最后通牒日”、“美联储最爱通胀指标”",
@@ -206,8 +209,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         }
       ]
     },
@@ -222,11 +225,12 @@
           "ranks": [
             22,
             20,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -253,8 +257,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "反弹难掩颓势，比特币创Terra崩盘后最大月跌幅，“极度恐慌”暗示跌势未止？",
@@ -264,8 +268,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         }
       ]
     },
@@ -280,11 +284,12 @@
           "ranks": [
             11,
             12,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         }
       ]
     },
@@ -299,11 +304,12 @@
           "ranks": [
             17,
             22,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         }
       ]
     }
