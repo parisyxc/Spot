@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-24T19:15:11.173418+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2025-11-24T20:32:43.767766+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 82,
+      "match_count": 84,
       "titles": [
+        {
+          "title": "12 条中日航线取消全部航班，日本旅游业将面临什么？中国游客对日本旅游业重要性有多大？",
+          "url": "https://www.zhihu.com/question/1976258610913891213",
+          "source": "知乎",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时25分 ~ 20时32分]"
+        },
         {
           "title": "搞事恶果已现，日本何去何从？",
           "url": "https://news.ifeng.com/c/8oXQYUe0itq",
@@ -32,6 +44,18 @@
           "time_info": "[00时17分 ~ 07时15分]"
         },
         {
+          "title": "距离中国台湾仅110公里 日本宣布在敏感区域部署导弹",
+          "url": "https://www.cls.cn/detail/2208785",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时16分 ~ 20时32分]"
+        },
+        {
           "title": "台湾没什么事日本真有事了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B2%A1%E4%BB%80%E4%B9%88%E4%BA%8B%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%E4%BA%86%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -46,20 +70,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[11时20分 ~ 18时19分]"
-        },
-        {
-          "title": "口嫌体直,日本人疯抢中国大米",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347420&amp;topic_name=%E5%8F%A3%E5%AB%8C%E4%BD%93%E7%9B%B4%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%96%AF%E6%8A%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时20分 ~ 19时15分]"
         },
         {
           "title": "世界周刊之日本危险转向",
@@ -92,18 +102,6 @@
           "time_info": "[11时20分 ~ 16时23分]"
         },
         {
-          "title": "12 条中日航线取消全部航班，日本旅游业将面临什么？中国游客对日本旅游业重要性有多大？",
-          "url": "https://www.zhihu.com/question/1976258610913891213",
-          "source": "知乎",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时25分 ~ 19时15分]"
-        },
-        {
           "title": "中国对日本的最新警告很不一般",
           "url": "https://www.toutiao.com/trending/7575191520555974710/",
           "source": "今日头条",
@@ -117,8 +115,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时20分 ~ 19时15分]"
+          "appearance_count": 16,
+          "time_info": "[11时20分 ~ 20时32分]"
         },
         {
           "title": "央媒：日本“夺岛”方案，注定出动即失败",
@@ -148,16 +146,19 @@
           "time_info": "[11时20分 ~ 15时17分]"
         },
         {
-          "title": "距离中国台湾仅110公里 日本宣布在敏感区域部署导弹",
-          "url": "https://www.cls.cn/detail/2208785",
-          "source": "财联社热门",
+          "title": "口嫌体直,日本人疯抢中国大米",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347420&amp;topic_name=%E5%8F%A3%E5%AB%8C%E4%BD%93%E7%9B%B4%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%96%AF%E6%8A%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3",
+          "source": "贴吧",
           "ranks": [
-            5,
-            1
+            1,
+            2,
+            9,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时16分 ~ 19时15分]"
+          "appearance_count": 16,
+          "time_info": "[11时20分 ~ 20时32分]"
         },
         {
           "title": "日本网民批高市早苗：去中国道歉",
@@ -187,6 +188,17 @@
           "time_info": "[13时17分 ~ 18时19分]"
         },
         {
+          "title": "中方回应日本部署中程导弹",
+          "url": "https://news.ifeng.com/c/8oXl5HK6C9j",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时32分]"
+        },
+        {
           "title": "牛弹琴：日本人不敢相信自己眼睛",
           "url": "https://www.toutiao.com/trending/7575703485853732361/",
           "source": "今日头条",
@@ -201,6 +213,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时15分]"
+        },
+        {
+          "title": "中方回应日本部署中程导弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E4%B8%AD%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            1,
+            2,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时32分]"
         },
         {
           "title": "日本砸131亿日元在台搞媚日宣传",
@@ -218,15 +245,15 @@
           "time_info": "[11时20分 ~ 17时20分]"
         },
         {
-          "title": "中方回应日本部署中程导弹",
-          "url": "https://news.ifeng.com/c/8oXl5HK6C9j",
-          "source": "凤凰网",
+          "title": "中方回应日本部署进攻性武器",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9B%E6%94%BB%E6%80%A7%E6%AD%A6%E5%99%A8",
+          "source": "百度热搜",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时23分 ~ 19时15分]"
+          "time_info": "[17时20分 ~ 20时32分]"
         },
         {
           "title": "台湾评论员：琉球跟日本没半毛钱关系",
@@ -243,20 +270,6 @@
           "time_info": "[09时16分 ~ 13时18分]"
         },
         {
-          "title": "中方回应日本部署中程导弹",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E4%B8%AD%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            1,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时23分 ~ 19时15分]"
-        },
-        {
           "title": "日本公众：希望大熊猫留在上野动物园",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%85%AC%E4%BC%97%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%95%99%E5%9C%A8%E4%B8%8A%E9%87%8E%E5%8A%A8%E7%89%A9%E5%9B%AD",
           "source": "百度热搜",
@@ -270,29 +283,6 @@
           "time_info": "[14时25分 ~ 19时15分]"
         },
         {
-          "title": "中方回应日本将在台湾附近部署导弹",
-          "url": "https://www.toutiao.com/trending/7576192078879706674/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时23分 ~ 19时15分]"
-        },
-        {
-          "title": "中方回应日本部署进攻性武器",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9B%E6%94%BB%E6%80%A7%E6%AD%A6%E5%99%A8",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 19时15分]"
-        },
-        {
           "title": "日本将在台湾附近岛屿部署导弹",
           "url": "https://www.douyin.com/hot/2316444",
           "source": "抖音",
@@ -303,6 +293,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时20分 ~ 19时15分]"
+        },
+        {
+          "title": "中方回应日本将在台湾附近部署导弹",
+          "url": "https://www.toutiao.com/trending/7576192078879706674/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时32分]"
         },
         {
           "title": "全服通告!中方致函联合国警告日本",
@@ -383,8 +386,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时20分 ~ 19时15分]"
+          "appearance_count": 16,
+          "time_info": "[11时20分 ~ 20时32分]"
         },
         {
           "title": "王毅：绝不允许日本军国主义死灰复燃",
@@ -402,6 +405,18 @@
           "time_info": "[00时17分 ~ 07时15分]"
         },
         {
+          "title": "担忧受高市谬论影响，日本游客排长队参观大熊猫",
+          "url": "https://news.ifeng.com/c/8oXn6zcg4Hk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 20时32分]"
+        },
+        {
           "title": "中国对日本的最新警告，很不一般",
           "url": "https://news.ifeng.com/c/8oX9tLCAOE8",
           "source": "凤凰网",
@@ -412,6 +427,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时16分 ~ 12时31分]"
+        },
+        {
+          "title": "毛宁用日文转发王毅表态：有权利对日本的历史罪行进行再清算",
+          "url": "https://news.ifeng.com/c/8oXsL61mzbX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 20时32分]"
         },
         {
           "title": "中方回应日本部署中程导弹",
@@ -437,15 +463,26 @@
           "time_info": "[00时17分 ~ 03时12分]"
         },
         {
-          "title": "担忧受高市谬论影响，日本游客排长队参观大熊猫",
-          "url": "https://news.ifeng.com/c/8oXn6zcg4Hk",
-          "source": "凤凰网",
+          "title": "日本机场挤满了回国的人",
+          "url": "https://www.toutiao.com/trending/7575269450723672083/",
+          "source": "今日头条",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 19时15分]"
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时32分]"
+        },
+        {
+          "title": "中国暂停租借大熊猫给日本引关注",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9A%82%E5%81%9C%E7%A7%9F%E5%80%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%BB%99%E6%97%A5%E6%9C%AC%E5%BC%95%E5%85%B3%E6%B3%A8%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时32分]"
         },
         {
           "title": "高市花几小时挑衣服遭日本网友嘲讽",
@@ -460,17 +497,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时20分 ~ 14时25分]"
-        },
-        {
-          "title": "毛宁用日文转发王毅表态：有权利对日本的历史罪行进行再清算",
-          "url": "https://news.ifeng.com/c/8oXsL61mzbX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "李家超：香港特区政府支持国家对日本的外交政策",
@@ -491,11 +517,12 @@
           "ranks": [
             6,
             7,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 20时32分]"
         },
         {
           "title": "日本三名前首相接连批评高市早苗谬论",
@@ -509,26 +536,18 @@
           "time_info": "[14时25分 ~ 15时17分]"
         },
         {
-          "title": "日本机场挤满了回国的人",
-          "url": "https://www.toutiao.com/trending/7575269450723672083/",
-          "source": "今日头条",
+          "title": "日本宣布在敏感区域部署导弹，距离中国台湾仅110公里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32029994",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            20,
+            18,
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
-        },
-        {
-          "title": "中国暂停租借大熊猫给日本引关注",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9A%82%E5%81%9C%E7%A7%9F%E5%80%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%BB%99%E6%97%A5%E6%9C%AC%E5%BC%95%E5%85%B3%E6%B3%A8%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时32分]"
         },
         {
           "title": "农民日报：高市早苗，日本人没米下锅了",
@@ -589,17 +608,16 @@
           "time_info": "14时25分"
         },
         {
-          "title": "日本宣布在敏感区域部署导弹，距离中国台湾仅110公里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32029994",
-          "source": "澎湃新闻",
+          "title": "雷倩：解放军若对日本出手绝不手软",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%80%A9%EF%BC%9A%E8%A7%A3%E6%94%BE%E5%86%9B%E8%8B%A5%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%87%BA%E6%89%8B%E7%BB%9D%E4%B8%8D%E6%89%8B%E8%BD%AF",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            18,
-            13
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时23分 ~ 19时15分]"
+          "time_info": "[17时20分 ~ 20时32分]"
         },
         {
           "title": "高市早苗被拒进入日本相扑擂台",
@@ -614,17 +632,6 @@
           "time_info": "[11时20分 ~ 13时18分]"
         },
         {
-          "title": "中国大米在日本售价上涨数倍",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%94%AE%E4%BB%B7%E4%B8%8A%E6%B6%A8%E6%95%B0%E5%80%8D%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
-        },
-        {
           "title": "专家：中国游客“断流”将重创日本",
           "url": "https://www.toutiao.com/trending/7576174233210850857/",
           "source": "今日头条",
@@ -635,6 +642,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时23分 ~ 18时19分]"
+        },
+        {
+          "title": "日本宣布部署中程导弹，离中国台湾仅 110 公里，对台海局势会有哪些连锁反应？东亚安全局势有何影响？",
+          "url": "https://www.zhihu.com/question/1976298348353978596",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "日本Rapidus拟于2031年左右进行IPO",
@@ -648,18 +666,6 @@
           "time_info": "15时17分"
         },
         {
-          "title": "雷倩：解放军若对日本出手绝不手软",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%80%A9%EF%BC%9A%E8%A7%A3%E6%94%BE%E5%86%9B%E8%8B%A5%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%87%BA%E6%89%8B%E7%BB%9D%E4%B8%8D%E6%89%8B%E8%BD%AF",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 19时15分]"
-        },
-        {
           "title": "日本现职领导人越了不应碰的红线",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%8E%B0%E8%81%8C%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%B6%8A%E4%BA%86%E4%B8%8D%E5%BA%94%E7%A2%B0%E7%9A%84%E7%BA%A2%E7%BA%BF%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -670,6 +676,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时13分 ~ 03时12分]"
+        },
+        {
+          "title": "中国大米在日本售价上涨数倍",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%94%AE%E4%BB%B7%E4%B8%8A%E6%B6%A8%E6%95%B0%E5%80%8D%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时32分]"
         },
         {
           "title": "中方重申《联合国宪章》警告日本",
@@ -791,6 +809,17 @@
           "time_info": "[13时17分 ~ 14时25分]"
         },
         {
+          "title": "日本民众在首相官邸前抗议，要求高市早苗立即撤回涉台言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32029107",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时32分]"
+        },
+        {
           "title": "日本加速“军事自主化”进程",
           "url": "https://www.toutiao.com/trending/7575463439847374867/",
           "source": "今日头条",
@@ -860,17 +889,6 @@
           "time_info": "[18时18分 ~ 18时19分]"
         },
         {
-          "title": "日本民众在首相官邸前抗议，要求高市早苗立即撤回涉台言论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32029107",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
-        },
-        {
           "title": "台评论员称琉球跟日本没半毛钱关系",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E7%90%89%E7%90%83%E8%B7%9F%E6%97%A5%E6%9C%AC%E6%B2%A1%E5%8D%8A%E6%AF%9B%E9%92%B1%E5%85%B3%E7%B3%BB%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -903,6 +921,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时14分 ~ 19时15分]"
+        },
+        {
+          "title": "日本学者：高市早苗错误言论触及宪法",
+          "url": "https://www.toutiao.com/trending/7576175289489506367/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "日本东京发生一起机动车冲入人行道事故，多人受伤",
@@ -1029,19 +1058,8 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "下周重磅日程：阿里美团财报、美国对乌“最后通牒日”、“美联储最爱通胀指标”",
-          "url": "https://wallstreetcn.com/articles/3759866",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时15分]"
-        },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
           "url": "https://wallstreetcn.com/articles/3759968",
@@ -1052,8 +1070,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时25分 ~ 19时15分]"
+          "appearance_count": 10,
+          "time_info": "[14时25分 ~ 20时32分]"
+        },
+        {
+          "title": "下周重磅日程：阿里美团财报、美国对乌“最后通牒日”、“美联储最爱通胀指标”",
+          "url": "https://wallstreetcn.com/articles/3759866",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时15分]"
         },
         {
           "title": "本周重磅日程：阿里美团财报、美国对乌“最后通牒日”、“美联储最爱通胀指标”",
@@ -1122,6 +1151,17 @@
           "time_info": "[17时20分 ~ 18时19分]"
         },
         {
+          "title": "诺和诺德美股盘前跌超11%，其Ozempic片剂未能缓解阿尔茨海默病",
+          "url": "https://wallstreetcn.com/livenews/3009588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3009473",
           "source": "华尔街见闻-快讯",
@@ -1136,7 +1176,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 11月24日（周一）早盘盘初上涨0.06%报928.05元/克；<br/>上海黄金交易所白银T+D 11月24日（周一）早盘盘初上涨0.16%报11849.0元/千克。",
@@ -1197,6 +1237,17 @@
           "time_info": "[13时18分 ~ 14时25分]"
         },
         {
+          "title": "上海黄金交易所黄金T+D 11月24日（周一）晚盘盘初上涨0.46%报929.47元/克；<br/>上海黄金交易所白银T+D 11月24日（周一）晚盘盘初上涨0.29%报11843.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251124200259997800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "金十图示：2025年11月24日（周一）上海金午盘价为926.34元/克，较国际金价(926.63元/克)，低0.29元/克",
           "url": "https://flash.jin10.com/detail/20251124150234455800",
           "source": "金十数据",
@@ -1233,7 +1284,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -1256,6 +1307,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时17分 ~ 16时23分]"
+        },
+        {
+          "title": "美国参议员呼吁联邦贸易委员会（FTC）和证券交易委员会（SEC）对Meta平台上的诈骗广告进行调查。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3009596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -1393,7 +1455,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国半导体行业协会：发展半导体产业要坚持系统思维、强化应用牵引",
@@ -1410,6 +1472,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时14分]"
+        },
+        {
+          "title": "美国商务部长卢特尼克：如果法院取消关税，新的行动很快就会开始。 美国与沙特阿拉伯的半导体协议可作为其他国家的范本。",
+          "url": "https://wallstreetcn.com/livenews/3009609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "A股半导体板块震荡反弹，圣晖集成午后涨停，至正股份逼近涨停，张江高科、北方华创、矽电股份、柏诚股份等涨幅靠前。",
@@ -1499,11 +1572,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 20时32分]"
         }
       ]
     }
