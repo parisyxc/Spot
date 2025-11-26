@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T13:16:56.363994+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2025-11-26T14:25:11.586343+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 72,
+      "match_count": 76,
       "titles": [
         {
           "title": "“中美‘默契’敲打日本：老实点”",
@@ -41,19 +41,6 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
-          "title": "日本致函联合国,装模作样给谁看",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347510&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%87%B4%E5%87%BD%E8%81%94%E5%90%88%E5%9B%BD%2C%E8%A3%85%E6%A8%A1%E4%BD%9C%E6%A0%B7%E7%BB%99%E8%B0%81%E7%9C%8B",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时16分]"
-        },
-        {
           "title": "日本餐厅老板：中国客人几乎都消失了，损失很大",
           "url": "https://news.ifeng.com/c/8oZstYi1z9v",
           "source": "凤凰网",
@@ -63,6 +50,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 07时15分]"
+        },
+        {
+          "title": "日本致函联合国,装模作样给谁看",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347510&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%87%B4%E5%87%BD%E8%81%94%E5%90%88%E5%9B%BD%2C%E8%A3%85%E6%A8%A1%E4%BD%9C%E6%A0%B7%E7%BB%99%E8%B0%81%E7%9C%8B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时25分]"
         },
         {
           "title": "中国驻日本福冈总领馆紧急提醒",
@@ -106,6 +107,29 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普电话后，日本沮丧了三次",
+          "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 14时25分]"
+        },
+        {
+          "title": "国际社会警惕日本军国主义“还魂”",
+          "url": "https://news.ifeng.com/c/8oaU4ROZUdi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 14时25分]"
         },
         {
           "title": "日本熊本县5.7级地震",
@@ -153,27 +177,50 @@
           "time_info": "[00时21分 ~ 09时12分]"
         },
         {
-          "title": "特朗普电话后，日本沮丧了三次",
-          "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
-          "source": "凤凰网",
+          "title": "警惕！日本的战争准备正全面铺开",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%EF%BC%81%E6%97%A5%E6%9C%AC%E7%9A%84%E6%88%98%E4%BA%89%E5%87%86%E5%A4%87%E6%AD%A3%E5%85%A8%E9%9D%A2%E9%93%BA%E5%BC%80",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时12分 ~ 13时16分]"
+          "time_info": "[12时22分 ~ 14时25分]"
         },
         {
-          "title": "国际社会警惕日本军国主义“还魂”",
-          "url": "https://news.ifeng.com/c/8oaU4ROZUdi",
+          "title": "2名台胞在日本被5人打成重伤，国台办回应",
+          "url": "https://news.ifeng.com/c/8oakGvzjYaU",
           "source": "凤凰网",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时12分 ~ 13时16分]"
+          "time_info": "[12时22分 ~ 14时25分]"
+        },
+        {
+          "title": "日本的战争准备正全面铺开",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%9A%84%E6%88%98%E4%BA%89%E5%87%86%E5%A4%87%E6%AD%A3%E5%85%A8%E9%9D%A2%E9%93%BA%E5%BC%80%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 14时25分]"
+        },
+        {
+          "title": "2名台胞在日本被打成重伤 国台办回应",
+          "url": "https://www.toutiao.com/trending/7576872146853744154/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时25分]"
         },
         {
           "title": "日本为高市早苗错误言论狡辩找补，中方严厉驳斥",
@@ -186,6 +233,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时12分 ~ 13时16分]"
+        },
+        {
+          "title": "国台办回应日本导弹临近中国台湾",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%AF%BC%E5%BC%B9%E4%B8%B4%E8%BF%91%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时25分]"
         },
         {
           "title": "日本酒店经营者称万分委屈",
@@ -222,44 +282,38 @@
           "source": "今日头条",
           "ranks": [
             4,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 14时25分]"
         },
         {
-          "title": "2名台胞在日本被打成重伤 国台办回应",
-          "url": "https://www.toutiao.com/trending/7576872146853744154/",
-          "source": "今日头条",
+          "title": "日本宣布在敏感区域部署导弹，国台办回应：这一动向极其危险",
+          "url": "https://www.cls.cn/detail/2211142",
+          "source": "财联社热门",
           "ranks": [
-            1
+            10,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时25分]"
         },
         {
-          "title": "警惕！日本的战争准备正全面铺开",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%EF%BC%81%E6%97%A5%E6%9C%AC%E7%9A%84%E6%88%98%E4%BA%89%E5%87%86%E5%A4%87%E6%AD%A3%E5%85%A8%E9%9D%A2%E9%93%BA%E5%BC%80",
+          "title": "国台办回应台胞被日本男子打成重伤",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%8F%B0%E8%83%9E%E8%A2%AB%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%89%93%E6%88%90%E9%87%8D%E4%BC%A4",
           "source": "百度热搜",
           "ranks": [
-            1
+            4,
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时16分]"
-        },
-        {
-          "title": "2名台胞在日本被5人打成重伤，国台办回应",
-          "url": "https://news.ifeng.com/c/8oakGvzjYaU",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 14时25分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -268,30 +322,6 @@
           "ranks": [
             5,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时16分]"
-        },
-        {
-          "title": "日本的战争准备正全面铺开",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%9A%84%E6%88%98%E4%BA%89%E5%87%86%E5%A4%87%E6%AD%A3%E5%85%A8%E9%9D%A2%E9%93%BA%E5%BC%80%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时16分]"
-        },
-        {
-          "title": "国台办回应台胞被日本男子打成重伤",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%8F%B0%E8%83%9E%E8%A2%AB%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%89%93%E6%88%90%E9%87%8D%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -323,6 +353,57 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时24分 ~ 07时15分]"
+        },
+        {
+          "title": "台外事部门负责人要求民众多到日本旅游，国台办回应",
+          "url": "https://news.ifeng.com/c/8oankzjdtjS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
+          "title": "日本升级武器 图谋极具危险性",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8D%87%E7%BA%A7%E6%AD%A6%E5%99%A8+%E5%9B%BE%E8%B0%8B%E6%9E%81%E5%85%B7%E5%8D%B1%E9%99%A9%E6%80%A7",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            16,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 14时25分]"
+        },
+        {
+          "title": "日本民众十分不舍中国大熊猫",
+          "url": "https://www.toutiao.com/trending/7575764902464340009/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 14时25分]"
+        },
+        {
+          "title": "日本餐厅老板：中国客人几乎都消失了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E8%80%81%E6%9D%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AE%A2%E4%BA%BA%E5%87%A0%E4%B9%8E%E9%83%BD%E6%B6%88%E5%A4%B1%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 14时25分]"
         },
         {
           "title": "中方暂停日本电影在华上映审批",
@@ -358,18 +439,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "国台办回应日本导弹临近中国台湾",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%AF%BC%E5%BC%B9%E4%B8%B4%E8%BF%91%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时16分]"
         },
         {
           "title": "陈百祥：中国一讲琉球独立日本就脚软",
@@ -423,18 +492,6 @@
           "time_info": "[03时14分 ~ 07时15分]"
         },
         {
-          "title": "日本宣布在敏感区域部署导弹，国台办回应：这一动向极其危险",
-          "url": "https://www.cls.cn/detail/2211142",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时16分]"
-        },
-        {
           "title": "日本拟取消小额进口免税政策。（读卖新闻）",
           "url": "https://wallstreetcn.com/livenews/3010431",
           "source": "华尔街见闻-快讯",
@@ -444,30 +501,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "日本民众十分不舍中国大熊猫",
-          "url": "https://www.toutiao.com/trending/7575764902464340009/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时16分]"
-        },
-        {
-          "title": "日本餐厅老板：中国客人几乎都消失了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E8%80%81%E6%9D%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AE%A2%E4%BA%BA%E5%87%A0%E4%B9%8E%E9%83%BD%E6%B6%88%E5%A4%B1%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时16分]"
         },
         {
           "title": "特朗普电话后 日本沮丧了三次",
@@ -489,7 +522,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -505,39 +538,43 @@
           "time_info": "09时12分"
         },
         {
-          "title": "日本9月领先指标终值 108.6，初值 108。",
-          "url": "https://wallstreetcn.com/livenews/3010627",
-          "source": "华尔街见闻-快讯",
+          "title": "日本民众排队数小时送别大熊猫",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%8E%92%E9%98%9F%E6%95%B0%E5%B0%8F%E6%97%B6%E9%80%81%E5%88%AB%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "日本9月同步指标终值 114.6，初值 114.6。",
-          "url": "https://wallstreetcn.com/livenews/3010626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "日本升级武器 图谋极具危险性",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8D%87%E7%BA%A7%E6%AD%A6%E5%99%A8+%E5%9B%BE%E8%B0%8B%E6%9E%81%E5%85%B7%E5%8D%B1%E9%99%A9%E6%80%A7",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            16,
-            22
+            17,
+            8,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时12分 ~ 13时16分]"
+          "time_info": "[12时22分 ~ 14时25分]"
+        },
+        {
+          "title": "日本电磁炮试射炸毁舰船？系AI合成",
+          "url": "https://www.toutiao.com/trending/7576307867385888810/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 14时25分]"
+        },
+        {
+          "title": "郑伊健日本演唱会取消",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%BC%8A%E5%81%A5%E6%97%A5%E6%9C%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 14时25分]"
         },
         {
           "title": "据日本放送协会NHK：日本2025财年的税收收入预计将首次突破80万亿日元。",
@@ -574,6 +611,42 @@
           "time_info": "[12时22分 ~ 13时16分]"
         },
         {
+          "title": "日本9月领先指标终值 108.6，初值 108。",
+          "url": "https://wallstreetcn.com/livenews/3010627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 14时25分]"
+        },
+        {
+          "title": "日本9月同步指标终值 114.6，初值 114.6。",
+          "url": "https://wallstreetcn.com/livenews/3010626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 14时25分]"
+        },
+        {
+          "title": "人民日报再发钟声：恪守“和平宪法”，日本才有立世之本",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32043456",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 14时25分]"
+        },
+        {
           "title": "为什么日本米价会疯涨",
           "url": "https://www.toutiao.com/trending/7576621657901501958/",
           "source": "今日头条",
@@ -584,18 +657,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 01时17分]"
-        },
-        {
-          "title": "日本民众排队数小时送别大熊猫",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%8E%92%E9%98%9F%E6%95%B0%E5%B0%8F%E6%97%B6%E9%80%81%E5%88%AB%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时16分]"
         },
         {
           "title": "前日本央行理事：日元疲软提升央行12月加息可能性",
@@ -622,29 +683,16 @@
           "time_info": "[12时22分 ~ 13时16分]"
         },
         {
-          "title": "日本电磁炮试射炸毁舰船？系AI合成",
-          "url": "https://www.toutiao.com/trending/7576307867385888810/",
-          "source": "今日头条",
+          "title": "日本宣布在敏感区域部署导弹，国台办回应：这一动向极其危险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32045172",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            12
+            18,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时16分]"
-        },
-        {
-          "title": "郑伊健日本演唱会取消",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%BC%8A%E5%81%A5%E6%97%A5%E6%9C%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时16分]"
+          "time_info": "[13时16分 ~ 14时25分]"
         },
         {
           "title": "郑伊健日本演唱会取消",
@@ -660,6 +708,18 @@
           "time_info": "[09时12分 ~ 12时22分]"
         },
         {
+          "title": "日本民众十分不舍中国大熊猫",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E5%8D%81%E5%88%86%E4%B8%8D%E8%88%8D%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%86%8A%E7%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时25分]"
+        },
+        {
           "title": "2名台胞在日本街头被打成重伤",
           "url": "https://s.weibo.com/weibo?q=%232%E5%90%8D%E5%8F%B0%E8%83%9E%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E8%A2%AB%E6%89%93%E6%88%90%E9%87%8D%E4%BC%A4%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -670,6 +730,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时16分]"
+        },
+        {
+          "title": "日本熊本发生5.7级地震，中领馆提醒注意防范地震灾害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32039740",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "损失惨重！日本酒店经营者称万分委屈",
@@ -683,16 +754,15 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "人民日报再发钟声：恪守“和平宪法”，日本才有立世之本",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32043456",
-          "source": "澎湃新闻",
+          "title": "日本餐厅老板称中国客人几乎消失了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E8%80%81%E6%9D%BF%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%AE%A2%E4%BA%BA%E5%87%A0%E4%B9%8E%E6%B6%88%E5%A4%B1%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            19,
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时12分 ~ 13时16分]"
+          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "外交部驳斥日本国内涉台谬论",
@@ -716,6 +786,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时12分 ~ 12时22分]"
+        },
+        {
+          "title": "港媒：日本言行不一加剧地区危险",
+          "url": "https://www.toutiao.com/trending/7576877473476906537/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "发生“重大事故”后 日本暂时停飞一款大型无人机",
@@ -771,17 +852,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
-        },
-        {
-          "title": "日本宣布在敏感区域部署导弹，国台办回应：这一动向极其危险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32045172",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
         },
         {
           "title": "日本铠侠股价盘中下跌12%，贝恩将通过大宗交易出售股票。",
@@ -850,17 +920,6 @@
           "time_info": "11时12分"
         },
         {
-          "title": "日本民众十分不舍中国大熊猫",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E5%8D%81%E5%88%86%E4%B8%8D%E8%88%8D%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%86%8A%E7%8C%AB",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "日本10月企业服务价格指数同比 2.7%，预期 2.7%，前值 3%。",
           "url": "https://wallstreetcn.com/livenews/3010450",
           "source": "华尔街见闻-快讯",
@@ -875,7 +934,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -934,8 +993,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 14时25分]"
         },
         {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
@@ -947,8 +1006,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 14时25分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -959,8 +1018,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 14时25分]"
         },
         {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
@@ -970,8 +1029,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 14时25分]"
         },
         {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
@@ -979,11 +1038,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 14时25分]"
         },
         {
           "title": "标普500指数初步收涨0.9%，保健板块涨2.1%，可选消费板块涨2%，电信板块涨1.7%，科技板块持平，能源板块跌0.6%。 纳斯达克100指数初步收涨0.6%，成分股中，ADI涨5.2%，应用材料涨5.2%，露露柠檬涨4.6%，Doordash涨4%，Meta涨3.8%，高通则跌1%，英伟达跌2.6%，Strategy跌4%，AMD跌4.1%。 Merck初步收涨5.3%，领跑道指成分股，家得宝、Salesforce、沃尔玛、耐克、联合健康等至少涨超2%，雪佛龙则跌0.8%表现倒数第二，英伟达跌幅最大。",
@@ -1059,6 +1119,17 @@
           "time_info": "[00时22分 ~ 01时17分]"
         },
         {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
           "title": "美国参议员敦促联邦贸易委员会（FTC）和美国证交会对Meta平台上的诈骗行为展开调查。",
           "url": "https://flash.jin10.com/detail/20251126014152477800",
           "source": "金十数据",
@@ -1100,7 +1171,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -1141,8 +1212,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时25分]"
         },
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
@@ -1180,8 +1251,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 14时25分]"
         },
         {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股收盘）",
@@ -1349,7 +1420,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "铜价因Codelco报价与美元走弱再度上涨",
@@ -1358,7 +1429,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -1369,7 +1440,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -1418,6 +1489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "金价攀升至近两周高点，因美国降息押注增加",
+          "url": "https://flash.jin10.com/detail/20251126133310159800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月26日（周三）早盘盘初上涨0.15%报941.38元/克；<br/>上海黄金交易所白银T+D 11月26日（周三）早盘盘初下跌0.07%报12121.0元/千克。",
@@ -1507,6 +1589,65 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "比特币一个多月来下跌近35%",
+          "url": "https://www.douyin.com/hot/2317407",
+          "source": "抖音",
+          "ranks": [
+            26,
+            21,
+            12,
+            10,
+            2,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时12分]"
+        },
+        {
+          "title": "MrBeast 人类机器人同台竞技",
+          "url": "https://search.bilibili.com/all?keyword=MrBeast%20%E4%BA%BA%E7%B1%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%8C%E5%8F%B0%E7%AB%9E%E6%8A%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            12,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 14时25分]"
+        },
+        {
+          "title": "智元机器人灵巧手控制相关专利获授权",
+          "url": "https://wallstreetcn.com/livenews/3010665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "立讯精密：今年预计出货3000台人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3010647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 3,
       "titles": [
@@ -1563,8 +1704,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时25分]"
         },
         {
           "title": "枭起青壤抖音追剧团",
@@ -1578,47 +1719,12 @@
             14,
             13,
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 13时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "比特币一个多月来下跌近35%",
-          "url": "https://www.douyin.com/hot/2317407",
-          "source": "抖音",
-          "ranks": [
-            26,
-            21,
-            12,
-            10,
-            2,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时12分]"
-        },
-        {
-          "title": "MrBeast 人类机器人同台竞技",
-          "url": "https://search.bilibili.com/all?keyword=MrBeast%20%E4%BA%BA%E7%B1%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%8C%E5%8F%B0%E7%AB%9E%E6%8A%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 14时25分]"
         }
       ]
     },
