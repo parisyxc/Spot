@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T13:17:41.095367+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2025-11-27T14:25:31.061219+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 44,
+      "match_count": 68,
       "titles": [
         {
           "title": "日本前首相野田佳彦：高市已实质撤回涉台发言",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 14时25分]"
         },
         {
           "title": "日本宣布在敏感区域部署导弹，国台办回应：这一动向极其危险",
@@ -141,8 +141,21 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 14时25分]"
+        },
+        {
+          "title": "警惕！日本或迎“重大转变”",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%EF%BC%81%E6%97%A5%E6%9C%AC%E6%88%96%E8%BF%8E%E2%80%9C%E9%87%8D%E5%A4%A7%E8%BD%AC%E5%8F%98%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 14时25分]"
         },
         {
           "title": "专家：日本的“战争准备”正全面铺开",
@@ -204,19 +217,6 @@
           "time_info": "[01时15分 ~ 07时15分]"
         },
         {
-          "title": "警惕！日本或迎“重大转变”",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%EF%BC%81%E6%97%A5%E6%9C%AC%E6%88%96%E8%BF%8E%E2%80%9C%E9%87%8D%E5%A4%A7%E8%BD%AC%E5%8F%98%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 13时17分]"
-        },
-        {
           "title": "日本一学会发声明呼吁修复日中关系",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%AD%A6%E4%BC%9A%E5%8F%91%E5%A3%B0%E6%98%8E%E5%91%BC%E5%90%81%E4%BF%AE%E5%A4%8D%E6%97%A5%E4%B8%AD%E5%85%B3%E7%B3%BB",
           "source": "百度热搜",
@@ -229,17 +229,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "日本商家不断收到中国游客取消通知",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%95%86%E5%AE%B6%E4%B8%8D%E6%96%AD%E6%94%B6%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%96%E6%B6%88%E9%80%9A%E7%9F%A5%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 13时17分]"
         },
         {
           "title": "解放军报：绝不允许日本重走军国主义侵略老路",
@@ -266,6 +255,64 @@
           "time_info": "[09时10分 ~ 13时17分]"
         },
         {
+          "title": "日产汽车：10月销量受日本和美国拖累。",
+          "url": "https://flash.jin10.com/detail/20251127141251812800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "日本商家不断收到中国游客取消通知",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%95%86%E5%AE%B6%E4%B8%8D%E6%96%AD%E6%94%B6%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%96%E6%B6%88%E9%80%9A%E7%9F%A5%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时08分 ~ 14时25分]"
+        },
+        {
+          "title": "驻日使馆再次提醒近期避免前往日本",
+          "url": "https://www.toutiao.com/trending/7576601679031173174/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时25分]"
+        },
+        {
+          "title": "日产汽车：10月从日本出口至北美地区的汽车数量同比下降44.5%，至12,114辆。",
+          "url": "https://flash.jin10.com/detail/20251127141130049800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "日本央行野口旭：若日元走弱加速，可能会影响价格走势。 政策调整的时机取决于数据。",
+          "url": "https://wallstreetcn.com/livenews/3011308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "再次提醒中国公民近期避免前往日本",
           "url": "https://s.weibo.com/weibo?q=%23%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -288,6 +335,28 @@
           "time_info": "12时20分"
         },
         {
+          "title": "日本央行审议委员野口旭：日本央行在判断加息时机时将格外谨慎，确保既不会过快，也不会过晚。",
+          "url": "https://flash.jin10.com/detail/20251127140532423800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "日本央行委员野口旭：并不认为日本经济很强劲。 物价趋势正在接近2%，但尚未实现。",
+          "url": "https://wallstreetcn.com/livenews/3011301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "日本致函联合国秘书长辩解 中方驳斥",
           "url": "https://www.toutiao.com/trending/7576943227635240502/",
           "source": "今日头条",
@@ -299,6 +368,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 07时15分]"
+        },
+        {
+          "title": "日本央行审议委员野口旭：随着通胀逼近日本央行目标，过晚加息的弊端，如对经济和物价的扭曲效应，将日益加剧。",
+          "url": "https://flash.jin10.com/detail/20251127140439151800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：政策观点与9月讲话相比没有变化。 关键在于利率调整的步伐。 日本央行正稳步接近其目标。",
+          "url": "https://wallstreetcn.com/livenews/3011300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "黄金真正的“大庄家”：“稳定币老大”Tether",
+          "url": "https://wallstreetcn.com/articles/3760217",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "日本与美国考虑在美建设“公私合营”NAND工厂。（日刊工业新闻）",
@@ -313,15 +415,37 @@
           "time_info": "[07时15分 ~ 09时11分]"
         },
         {
+          "title": "日本商家不断收到中国游客取消通知",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%95%86%E5%AE%B6%E4%B8%8D%E6%96%AD%E6%94%B6%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%96%E6%B6%88%E9%80%9A%E7%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "丰田汽车(TM.N)：10月日本对美出口量同比增长34%，达57,445辆。",
           "url": "https://flash.jin10.com/detail/20251127124208627800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：未来加息步伐将取决于即将公布的数据，包括薪资上涨情况、美国经济以及外汇走势。",
+          "url": "https://flash.jin10.com/detail/20251127140338808800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "英国考虑扩大短期国库券市场，以满足稳定币发行方等潜在新需求",
@@ -349,6 +473,19 @@
           "time_info": "[12时20分 ~ 13时17分]"
         },
         {
+          "title": "日本一再狡辩 中方：行不通",
+          "url": "https://www.toutiao.com/trending/7576964440420024358/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时08分 ~ 14时25分]"
+        },
+        {
           "title": "日本制定包括战俘处理的战时法律",
           "url": "https://www.toutiao.com/trending/7576124681523281930/",
           "source": "今日头条",
@@ -359,18 +496,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 02时20分]"
-        },
-        {
-          "title": "驻日使馆再次提醒近期避免前往日本",
-          "url": "https://www.toutiao.com/trending/7576601679031173174/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时17分]"
         },
         {
           "title": "标普：下调Tether的稳定币USDT评级至“偏弱”稳定，因其对比特币等高风险资产有敞口，且信息披露有限。",
@@ -397,16 +522,17 @@
           "time_info": "[11时08分 ~ 12时20分]"
         },
         {
-          "title": "日本一再狡辩 中方：行不通",
-          "url": "https://www.toutiao.com/trending/7576964440420024358/",
-          "source": "今日头条",
+          "title": "军报再发钧声：绝不允许日本重走军国主义侵略老路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32052238",
+          "source": "澎湃新闻",
           "ranks": [
-            18,
-            13
+            20,
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时08分 ~ 13时17分]"
+          "time_info": "[12时20分 ~ 14时25分]"
         },
         {
           "title": "军报：绝不许日本重走军国主义老路",
@@ -432,18 +558,6 @@
           "time_info": "[01时15分 ~ 04时18分]"
         },
         {
-          "title": "军报再发钧声：绝不允许日本重走军国主义侵略老路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32052238",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时17分]"
-        },
-        {
           "title": "据日本放送协会NHK：日本2025财年补充预算预计约为18.3万亿日元。",
           "url": "https://flash.jin10.com/detail/20251127111536621800",
           "source": "金十数据",
@@ -455,15 +569,37 @@
           "time_info": "12时20分"
         },
         {
+          "title": "日本央行审议委员野口旭：预计食品通胀将有所缓解，但如果日元进一步走弱，缓解时机可能会推迟。",
+          "url": "https://flash.jin10.com/detail/20251127140135568800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "市场分析：日本央行可能推迟至明年1月加息",
           "url": "https://flash.jin10.com/detail/20251127123522695800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：若日元跌势加速，企业或将进一步转嫁成本上涨压力。",
+          "url": "https://flash.jin10.com/detail/20251127140128840800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "市场分析：日本“债务幻觉”堪忧 人为低利率恐引爆货币危机",
@@ -483,9 +619,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：日元进一步下跌可能影响核心通胀。",
+          "url": "https://flash.jin10.com/detail/20251127140040972800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "20年期和30年期日本国债收益率均下跌2个基点，10年期日本国债收益率下跌1.5个基点。",
@@ -499,6 +646,28 @@
           "time_info": "09时11分"
         },
         {
+          "title": "日本央行审议委员野口旭：核心通胀率尚未达到2%。",
+          "url": "https://flash.jin10.com/detail/20251127135603636800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "惠誉：日本新刺激计划或对其评级构成风险",
+          "url": "https://flash.jin10.com/detail/20251127135558782800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "日本芯片股普涨，铠侠股价上涨3.5%，软银集团上涨3.7%，爱德万测试上涨4.3%。",
           "url": "https://flash.jin10.com/detail/20251127081937600800",
           "source": "金十数据",
@@ -508,6 +677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：日本央行的政策调整一直非常谨慎，并将继续保持谨慎，不会与政府政策相冲突。",
+          "url": "https://flash.jin10.com/detail/20251127135524586800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "中国游客锐减冲击日本旅游业",
@@ -532,6 +712,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "日本央行审议委员野口旭：尽管通胀主要受成本推动因素驱动，但已连续三年超过日本央行目标。",
+          "url": "https://flash.jin10.com/detail/20251127135432210800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "媒体：日本自卫队偷摸发展航母30年",
           "url": "https://www.toutiao.com/trending/7576805295888990251/",
           "source": "今日头条",
@@ -543,6 +734,61 @@
           "time_info": "04时18分"
         },
         {
+          "title": "日本央行审议委员野口旭：若工会诉求得以实现，将推动日本经济朝向日本央行所期望达成的状况发展。",
+          "url": "https://flash.jin10.com/detail/20251127135024929800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：我们已看到明年薪资谈判的各种迹象。",
+          "url": "https://flash.jin10.com/detail/20251127134904578800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：在判断日本工资趋势时，不必一定等到明年薪资谈判结果出炉。",
+          "url": "https://flash.jin10.com/detail/20251127134844387800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：未发现政府与日本央行在逐步调整日本央行货币支持以抑制物价上涨方面的观点存在重大分歧。",
+          "url": "https://flash.jin10.com/detail/20251127134603799800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：鉴于物价上涨，日本当前可取的政策已不再像以往那样简单地通过扩大财政刺激和放松货币政策来实现。",
+          "url": "https://flash.jin10.com/detail/20251127134548171800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "日本拟增发2年期和5年期国债 为经济刺激计划筹措逾7万亿日元",
           "url": "https://flash.jin10.com/detail/20251127074712081800",
           "source": "金十数据",
@@ -552,12 +798,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：包括通胀预期在内的各种衡量潜在通胀的指标，正非常缓慢地向我们的目标靠拢。",
+          "url": "https://flash.jin10.com/detail/20251127134235024800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "日本教授：不认为中方反应过度",
+          "url": "https://www.douyin.com/hot/2319097",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
@@ -604,8 +872,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 14时25分]"
         },
         {
           "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
@@ -613,11 +881,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 14时25分]"
         },
         {
           "title": "Tilray Brands Inc.美股盘后跌20%。",
@@ -795,6 +1064,106 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美股、美债今日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20251127134546651800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时15分]"
+        },
+        {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时15分]"
+        },
+        {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时14分]"
+        },
+        {
+          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
+          "url": "https://wallstreetcn.com/articles/3760164",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 14时25分]"
+        },
+        {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时14分]"
+        },
+        {
+          "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
+          "url": "https://wallstreetcn.com/articles/3760141",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时16分 ~ 11时08分]"
+        },
+        {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
@@ -875,87 +1244,22 @@
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
-          "url": "https://wallstreetcn.com/articles/3760086",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时15分]"
-        },
-        {
-          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
-          "url": "https://wallstreetcn.com/articles/3760128",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时15分]"
-        },
-        {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时14分]"
-        },
-        {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时14分]"
-        },
-        {
-          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
-          "url": "https://wallstreetcn.com/articles/3760164",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 13时17分]"
-        },
-        {
-          "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
-          "url": "https://wallstreetcn.com/articles/3760141",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时16分 ~ 11时08分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
       "match_count": 6,
       "titles": [
+        {
+          "title": "中金公司大宗商品分析师王炙鹿表示，铜价可能在2026年第二季度或第三季度达到每吨11500美元左右的峰值。",
+          "url": "https://wallstreetcn.com/livenews/3011256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时25分]"
+        },
         {
           "title": "现货白银站上53美元/盎司，为11月14日以来首次，日内涨近3%。",
           "url": "https://flash.jin10.com/detail/20251127004201230800",
@@ -1005,18 +1309,6 @@
           "time_info": "[11时08分 ~ 12时20分]"
         },
         {
-          "title": "中金公司大宗商品分析师王炙鹿表示，铜价可能在2026年第二季度或第三季度达到每吨11500美元左右的峰值。",
-          "url": "https://wallstreetcn.com/livenews/3011256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时17分]"
-        },
-        {
           "title": "金十图示：2025年11月27日（周四）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251127080038880800",
           "source": "金十数据",
@@ -1044,8 +1336,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 14时25分]"
         },
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -1071,32 +1363,33 @@
           "time_info": "07时15分"
         },
         {
-          "title": "OpenAI：已将Mixpanel从生产环境中移除",
-          "url": "https://wallstreetcn.com/livenews/3011268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
           "url": "https://wallstreetcn.com/articles/3760202",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "OpenAI：已将Mixpanel从生产环境中移除",
+          "url": "https://wallstreetcn.com/livenews/3011268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时25分]"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "花旗中国人形机器人公司调研：所有人都很乐观，2026年行业或实现指数级增长，至少翻倍！",
@@ -1108,8 +1401,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 14时25分]"
         },
         {
           "title": "MrBeast 人类机器人同台竞技",
@@ -1126,6 +1419,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时15分 ~ 07时15分]"
+        },
+        {
+          "title": "A股机器人概念午后活跃，力星股份涨超10%，斯菱股份、大洋电机、长盈精密、嵘泰股份、浙江荣泰、拓普集团跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3011294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "比特币站上90000美元/枚，日内涨3.01%。",
@@ -1195,11 +1499,12 @@
           "ranks": [
             29,
             25,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 14时25分]"
         }
       ]
     },
@@ -1214,7 +1519,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         }
