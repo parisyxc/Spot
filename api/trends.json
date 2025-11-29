@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-29T07:15:21.685782+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2025-11-29T09:10:37.400206+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "惨烈！美团三年来首度报亏，核心本地商业Q3巨亏141亿元，预计Q4延续经营亏损 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3760333",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时10分]"
         },
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -72,6 +73,44 @@
           "time_info": "[03时13分 ~ 07时15分]"
         },
         {
+          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251129031455925800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            22,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时17分 ~ 09时10分]"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251129031224808800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            26,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时17分 ~ 09时10分]"
+        },
+        {
+          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
+          "url": "https://wallstreetcn.com/livenews/3012399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时10分]"
+        },
+        {
           "title": "半导体ETF+能源业ETF收涨1.3%，领跑美股行业ETF，11月网络股ETF、科技行业ETF跌超4.8%",
           "url": "https://wallstreetcn.com/livenews/3012370",
           "source": "华尔街见闻-快讯",
@@ -87,15 +126,18 @@
           "time_info": "[03时13分 ~ 07时15分]"
         },
         {
-          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
-          "url": "https://wallstreetcn.com/livenews/3012399",
+          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
+          "url": "https://wallstreetcn.com/livenews/3012382",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            5,
+            14,
+            18,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时14分 ~ 09时10分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -123,19 +165,6 @@
           "time_info": "[02时22分 ~ 03时13分]"
         },
         {
-          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
-          "url": "https://wallstreetcn.com/livenews/3012382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时14分 ~ 07时15分]"
-        },
-        {
           "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251129013346097800",
           "source": "金十数据",
@@ -160,39 +189,27 @@
           "time_info": "[00时19分 ~ 01时14分]"
         },
         {
-          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251129031455925800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 07时15分]"
-        },
-        {
-          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251129031224808800",
-          "source": "金十数据",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 07时15分]"
-        },
-        {
           "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
           "url": "https://www.cls.cn/detail/2214656",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时10分]"
+        },
+        {
+          "title": "美股三大指数收涨 英特尔暴涨10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%94%B6%E6%B6%A8+%E8%8B%B1%E7%89%B9%E5%B0%94%E6%9A%B4%E6%B6%A810%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "09时10分"
         },
         {
           "title": "Zhejiang Zentel Memory Technology Co., Ltd.（浙江力积存储科技股份有限公司）申请香港IPO。",
@@ -220,7 +237,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "数据中心“制冷问题”，芝商所“宕机”，各类期货交易停摆，网友戏言“白银新高有人压力太大？”",
@@ -229,11 +246,12 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时10分]"
         },
         {
           "title": "白银期货创新高，中国库存位于近十年低位",
@@ -241,11 +259,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时10分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月28日（周五）晚盘收盘上涨0.71%报954.0元/克；<br/>上海黄金交易所白银T+D 11月28日（周五）晚盘收盘上涨4.59%报13145.0元/千克。",
@@ -254,11 +273,34 @@
           "ranks": [
             9,
             19,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 07时15分]"
+          "appearance_count": 6,
+          "time_info": "[03时13分 ~ 09时10分]"
+        },
+        {
+          "title": "芝商所大宕机无碍“万物齐涨”，标普五连涨，大宗商品、比特币齐升，白银伦铜创新高",
+          "url": "https://wallstreetcn.com/articles/3760330",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加28.21吨，当前持仓量为15610.54吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20251129081846740800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "无视芝商所宕机，标普五连涨，白银飙涨6%创历史新高",
@@ -267,7 +309,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -282,6 +324,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时14分]"
+        },
+        {
+          "title": "知名“铜多头”预警：美国正成全球黑洞 铜价只会一路狂飙",
+          "url": "https://www.cls.cn/detail/2214666",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "现货白银日内涨幅达4.0%，报55.54美元/盎司。",
@@ -347,40 +400,19 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本外相答凤凰记者问：台湾问题是中国内政",
           "url": "https://news.ifeng.com/c/8oevd3mbE2Z",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "日本目的地全部删除！爱达邮轮改航线",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%9B%AE%E7%9A%84%E5%9C%B0%E5%85%A8%E9%83%A8%E5%88%A0%E9%99%A4%EF%BC%81%E7%88%B1%E8%BE%BE%E9%82%AE%E8%BD%AE%E6%94%B9%E8%88%AA%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "中国代表：对这样的日本必须严加管束",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%AF%B9%E8%BF%99%E6%A0%B7%E7%9A%84%E6%97%A5%E6%9C%AC%E5%BF%85%E9%A1%BB%E4%B8%A5%E5%8A%A0%E7%AE%A1%E6%9D%9F",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时10分]"
         },
         {
           "title": "日本持续囤积钚材料远超民用需求，专家：或有涉核“小九九”",
@@ -390,8 +422,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时10分]"
+        },
+        {
+          "title": "日本目的地全部删除！爱达邮轮改航线",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%9B%AE%E7%9A%84%E5%9C%B0%E5%85%A8%E9%83%A8%E5%88%A0%E9%99%A4%EF%BC%81%E7%88%B1%E8%BE%BE%E9%82%AE%E8%BD%AE%E6%94%B9%E8%88%AA%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时10分]"
+        },
+        {
+          "title": "中国代表：对这样的日本必须严加管束",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%AF%B9%E8%BF%99%E6%A0%B7%E7%9A%84%E6%97%A5%E6%9C%AC%E5%BF%85%E9%A1%BB%E4%B8%A5%E5%8A%A0%E7%AE%A1%E6%9D%9F",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时10分]"
         },
         {
           "title": "日本屡越红线 中方“亮剑”",
@@ -413,11 +469,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时15分]"
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 09时10分]"
         },
         {
           "title": "俄罗斯多次对日本发出警告",
@@ -425,11 +482,45 @@
           "source": "微博",
           "ranks": [
             7,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时15分]"
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 09时10分]"
+        },
+        {
+          "title": "十天内 俄罗斯三批日本",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%81%E5%A4%A9%E5%86%85+%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%89%E6%89%B9%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "全日空（ANA）：因为空中客车（软件）问题而取消65个日本境内航班，大约9400名乘客将受到影响。",
+          "url": "https://wallstreetcn.com/livenews/3012403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "上千日本民众在高市早苗官邸外抗议",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%83%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E5%9C%A8%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%AE%98%E9%82%B8%E5%A4%96%E6%8A%97%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "日本学者点破特朗普真实想法",
@@ -442,6 +533,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时17分 ~ 06时15分]"
+        },
+        {
+          "title": "日本全日空由于空客问题取消部分航班",
+          "url": "https://www.toutiao.com/trending/7577633117596024873/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "日本流感扩散 八成地区达“警报”级",
@@ -495,22 +597,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时10分]"
         },
         {
           "title": "国家发改委表示要注意防范重复度高的人形机器人产品扎堆上市，我国已有超 150 家人形机器人企业，如何解读？",
           "url": "https://www.zhihu.com/question/1977401930948044538",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时10分]"
         }
       ]
     },
@@ -533,6 +637,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
+          "url": "https://wallstreetcn.com/articles/3760323",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 1,
       "titles": [
@@ -544,11 +665,12 @@
             12,
             13,
             14,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时10分]"
         }
       ]
     }
