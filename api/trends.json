@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T14:23:44.699144+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2025-11-30T15:14:44.362621+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "央行：虚拟货币相关业务活动属于非法金融活动 稳定币是虚拟货币的一种形式",
@@ -86,6 +86,30 @@
           "time_info": "[00时18分 ~ 06时15分]"
         },
         {
+          "title": "白岩松：日本不要高估了自己",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E6%97%A5%E6%9C%AC%E4%B8%8D%E8%A6%81%E9%AB%98%E4%BC%B0%E4%BA%86%E8%87%AA%E5%B7%B1",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时14分]"
+        },
+        {
+          "title": "历史重演,石破茂预警日本偷袭中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347601&amp;topic_name=%E5%8E%86%E5%8F%B2%E9%87%8D%E6%BC%94%2C%E7%9F%B3%E7%A0%B4%E8%8C%82%E9%A2%84%E8%AD%A6%E6%97%A5%E6%9C%AC%E5%81%B7%E8%A2%AD%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时14分]"
+        },
+        {
           "title": "日本旅游业被曝很难填补中国游客空白",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E8%A2%AB%E6%9B%9D%E5%BE%88%E9%9A%BE%E5%A1%AB%E8%A1%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%A9%BA%E7%99%BD%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -97,16 +121,19 @@
           "time_info": "[05时14分 ~ 07时15分]"
         },
         {
-          "title": "日本民众东京闹市区高喊：打倒高市",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E4%B8%9C%E4%BA%AC%E9%97%B9%E5%B8%82%E5%8C%BA%E9%AB%98%E5%96%8A%EF%BC%9A%E6%89%93%E5%80%92%E9%AB%98%E5%B8%82",
-          "source": "百度热搜",
+          "title": "中国驻日本大使发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            1,
-            10
+            4,
+            7,
+            8,
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 15时14分]"
         },
         {
           "title": "多名在日本中国留学生发声",
@@ -124,18 +151,44 @@
           "time_info": "[02时21分 ~ 07时15分]"
         },
         {
-          "title": "中国驻日本大使发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "日本民众东京闹市区高喊：打倒高市",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E4%B8%9C%E4%BA%AC%E9%97%B9%E5%B8%82%E5%8C%BA%E9%AB%98%E5%96%8A%EF%BC%9A%E6%89%93%E5%80%92%E9%AB%98%E5%B8%82",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            7,
-            8,
-            9
+            1,
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 15时14分]"
+        },
+        {
+          "title": "日本民众自发组织游行抗议",
+          "url": "https://www.douyin.com/hot/2321780",
+          "source": "抖音",
+          "ranks": [
+            9,
+            11,
+            4,
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 15时14分]"
+        },
+        {
+          "title": "中国驻日大使：日本现职领导人误判形势、悖逆潮流",
+          "url": "https://news.ifeng.com/c/8ogyk86W6MY",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时14分]"
         },
         {
           "title": "日本12月会加息吗？市场紧盯下周一日央行行长讲话",
@@ -152,30 +205,6 @@
           "time_info": "[09时20分 ~ 13时16分]"
         },
         {
-          "title": "白岩松：日本不要高估了自己",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E6%97%A5%E6%9C%AC%E4%B8%8D%E8%A6%81%E9%AB%98%E4%BC%B0%E4%BA%86%E8%87%AA%E5%B7%B1",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时23分]"
-        },
-        {
-          "title": "历史重演,石破茂预警日本偷袭中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347601&amp;topic_name=%E5%8E%86%E5%8F%B2%E9%87%8D%E6%BC%94%2C%E7%9F%B3%E7%A0%B4%E8%8C%82%E9%A2%84%E8%AD%A6%E6%97%A5%E6%9C%AC%E5%81%B7%E8%A2%AD%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时23分]"
-        },
-        {
           "title": "中国游客减少，日本旅游城市店铺营业额下滑",
           "url": "https://news.ifeng.com/c/8ohIvQwyqqD",
           "source": "凤凰网",
@@ -187,18 +216,16 @@
           "time_info": "[11时24分 ~ 13时16分]"
         },
         {
-          "title": "日本民众自发组织游行抗议",
-          "url": "https://www.douyin.com/hot/2321780",
-          "source": "抖音",
+          "title": "白岩松：日本不要高估了自己，我们绝对不会允许历史重演",
+          "url": "https://news.ifeng.com/c/8ohQFSQvPMX",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            11,
             4,
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时14分]"
         },
         {
           "title": "日本整体防卫相关费用达到约11万亿日元",
@@ -211,6 +238,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时20分 ~ 12时31分]"
+        },
+        {
+          "title": "日本整体防卫相关费用达到约11万亿日元",
+          "url": "https://wallstreetcn.com/livenews/3012493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 15时14分]"
         },
         {
           "title": "俄罗斯称日本已对邻国构成严重威胁",
@@ -228,18 +269,6 @@
           "time_info": "[03时12分 ~ 07时15分]"
         },
         {
-          "title": "中国驻日大使：日本现职领导人误判形势、悖逆潮流",
-          "url": "https://news.ifeng.com/c/8ogyk86W6MY",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时23分]"
-        },
-        {
           "title": "俄罗斯重拳反制日本",
           "url": "https://www.toutiao.com/trending/7578288348448443947/",
           "source": "今日头条",
@@ -249,43 +278,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 11时24分]"
-        },
-        {
-          "title": "日本整体防卫相关费用达到约11万亿日元",
-          "url": "https://wallstreetcn.com/livenews/3012493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 14时23分]"
-        },
-        {
-          "title": "白岩松：日本不要高估了自己，我们绝对不会允许历史重演",
-          "url": "https://news.ifeng.com/c/8ohQFSQvPMX",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时23分]"
-        },
-        {
-          "title": "白岩松：日本不要高估了自己",
-          "url": "https://www.toutiao.com/trending/7577290553608372260/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时23分]"
         },
         {
           "title": "日本民众在新宿抗议高市早苗",
@@ -308,7 +300,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -327,6 +319,30 @@
           "time_info": "[09时20分 ~ 13时16分]"
         },
         {
+          "title": "白岩松：日本不要高估了自己",
+          "url": "https://www.toutiao.com/trending/7577290553608372260/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时14分]"
+        },
+        {
+          "title": "日本政界人士：高市早苗应尽快撤回错误言论",
+          "url": "https://news.ifeng.com/c/8ohWjLtr0JV",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时14分]"
+        },
+        {
           "title": "驻日大使：日本现职领导人悖逆潮流",
           "url": "https://www.toutiao.com/trending/7577993959331528746/",
           "source": "今日头条",
@@ -339,17 +355,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时20分 ~ 13时16分]"
-        },
-        {
-          "title": "日本政界人士：高市早苗应尽快撤回错误言论",
-          "url": "https://news.ifeng.com/c/8ohWjLtr0JV",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
         },
         {
           "title": "高市早苗错误言论冲击日本旅游业",
@@ -397,6 +402,18 @@
           "time_info": "[00时18分 ~ 01时14分]"
         },
         {
+          "title": "为何今年日本棕熊疯狂伤人",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E4%BB%8A%E5%B9%B4%E6%97%A5%E6%9C%AC%E6%A3%95%E7%86%8A%E7%96%AF%E7%8B%82%E4%BC%A4%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时14分]"
+        },
+        {
           "title": "日本批准1万亿日元防卫经费",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%89%B9%E5%87%861%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83%E9%98%B2%E5%8D%AB%E7%BB%8F%E8%B4%B9%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -420,15 +437,15 @@
           "time_info": "[06时14分 ~ 06时15分]"
         },
         {
-          "title": "为何今年日本棕熊疯狂伤人",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E4%BB%8A%E5%B9%B4%E6%97%A5%E6%9C%AC%E6%A3%95%E7%86%8A%E7%96%AF%E7%8B%82%E4%BC%A4%E4%BA%BA",
-          "source": "bilibili 热搜",
+          "title": "周锡玮：若日本执迷不悟美国也会紧张",
+          "url": "https://www.toutiao.com/trending/7577391725644677139/",
+          "source": "今日头条",
           "ranks": [
-            18
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时23分"
+          "time_info": "15时14分"
         }
       ]
     },
@@ -524,8 +541,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 14时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 15时14分]"
         }
       ]
     },
@@ -569,8 +586,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时14分]"
         }
       ]
     },
@@ -593,6 +610,23 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉登陆印度2个多月仅卖出百辆",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E7%99%BB%E9%99%86%E5%8D%B0%E5%BA%A62%E4%B8%AA%E5%A4%9A%E6%9C%88%E4%BB%85%E5%8D%96%E5%87%BA%E7%99%BE%E8%BE%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -609,11 +643,12 @@
             8,
             14,
             13,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 14时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 15时14分]"
         }
       ]
     },
