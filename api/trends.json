@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-02T16:24:05.548816+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2025-12-02T17:22:30.332899+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 67,
+      "match_count": 74,
       "titles": [
+        {
+          "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时13分 ~ 17时22分]"
+        },
         {
           "title": "日本股债双杀！央行行长强烈暗示12月加息：希望将利率提高至0.75%再谈以后",
           "url": "https://wallstreetcn.com/articles/3760425",
@@ -21,15 +32,17 @@
           "time_info": "[00时22分 ~ 13时17分]"
         },
         {
-          "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
-          "url": "https://wallstreetcn.com/articles/3760444",
-          "source": "华尔街见闻",
+          "title": "12月中国境内到日本的计划航班取消超40%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32079406",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时13分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[09时13分 ~ 17时22分]"
         },
         {
           "title": "日本在野党高层人士批评高市早苗涉台错误言论",
@@ -44,17 +57,17 @@
           "time_info": "[09时13分 ~ 16时24分]"
         },
         {
-          "title": "12月中国境内到日本的计划航班取消超40%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32079406",
-          "source": "澎湃新闻",
+          "title": "央行“轮流砸盘”，美联储砸完日央行砸！日本12月会加息吗？",
+          "url": "https://wallstreetcn.com/articles/3760495",
+          "source": "华尔街见闻",
           "ranks": [
+            8,
             7,
-            5,
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时13分 ~ 16时24分]"
+          "time_info": "[11时15分 ~ 17时22分]"
         },
         {
           "title": "日本国宝级歌手喊话高市爽快一点",
@@ -71,17 +84,18 @@
           "time_info": "[00时22分 ~ 09时13分]"
         },
         {
-          "title": "央行“轮流砸盘”，美联储砸完日央行砸！日本12月会加息吗？",
-          "url": "https://wallstreetcn.com/articles/3760495",
-          "source": "华尔街见闻",
+          "title": "日媒：日本经团联、议员团接连请求访华",
+          "url": "https://www.cls.cn/detail/2216625",
+          "source": "财联社热门",
           "ranks": [
-            8,
+            12,
             7,
-            6
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 16时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 17时22分]"
         },
         {
           "title": "日本渔船非法进入钓鱼岛领海，中国海警驱离",
@@ -138,17 +152,20 @@
           "time_info": "[01时18分 ~ 07时25分]"
         },
         {
-          "title": "日媒：日本经团联、议员团接连请求访华",
-          "url": "https://www.cls.cn/detail/2216625",
-          "source": "财联社热门",
+          "title": "日本首富回应清仓英伟达：哭着卖的",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E5%AF%8C%E5%9B%9E%E5%BA%94%E6%B8%85%E4%BB%93%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%9A%E5%93%AD%E7%9D%80%E5%8D%96%E7%9A%84",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            7,
-            5
+            20,
+            4,
+            8,
+            16,
+            24,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 16时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 17时22分]"
         },
         {
           "title": "早苗狂言日本回归,靖国鬼厕又沸腾",
@@ -164,8 +181,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 16时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 17时22分]"
         },
         {
           "title": "痴人说梦,日本妄想稀土卡中国脖子",
@@ -180,32 +197,18 @@
           "time_info": "[00时22分 ~ 09时13分]"
         },
         {
-          "title": "日本首富回应清仓英伟达：哭着卖的",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E5%AF%8C%E5%9B%9E%E5%BA%94%E6%B8%85%E4%BB%93%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%9A%E5%93%AD%E7%9D%80%E5%8D%96%E7%9A%84",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            4,
-            8,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 16时24分]"
-        },
-        {
           "title": "“日本制造”系统性崩塌",
           "url": "https://www.toutiao.com/trending/7579114919199510079/",
           "source": "今日头条",
           "ranks": [
             4,
             7,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时25分 ~ 16时24分]"
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 17时22分]"
         },
         {
           "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
@@ -221,17 +224,6 @@
           "time_info": "[00时22分 ~ 07时25分]"
         },
         {
-          "title": "日本经团联、议员团接连请求访华",
-          "url": "https://news.ifeng.com/c/8oka4PzaLR8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时17分]"
-        },
-        {
           "title": "中国海警依法警告驱离日本船只",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E4%BE%9D%E6%B3%95%E8%AD%A6%E5%91%8A%E9%A9%B1%E7%A6%BB%E6%97%A5%E6%9C%AC%E8%88%B9%E5%8F%AA",
           "source": "bilibili 热搜",
@@ -240,11 +232,12 @@
             11,
             22,
             24,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 16时24分]"
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 17时22分]"
         },
         {
           "title": "外交部回应日本团体请求访华",
@@ -254,8 +247,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时22分]"
+        },
+        {
+          "title": "日本经团联、议员团接连请求访华",
+          "url": "https://news.ifeng.com/c/8oka4PzaLR8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 13时17分]"
         },
         {
           "title": "日本今年近千头熊在北海道被猎杀",
@@ -299,6 +303,17 @@
           "time_info": "[09时13分 ~ 13时17分]"
         },
         {
+          "title": "外交部三问日本",
+          "url": "https://news.ifeng.com/c/8ol3a42LgmE",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "日本10年期国债拍卖需求强劲 市场加息预期升至80%",
           "url": "https://flash.jin10.com/detail/20251202115328599800",
           "source": "金十数据",
@@ -338,6 +353,17 @@
           "time_info": "[12时27分 ~ 13时17分]"
         },
         {
+          "title": "两个日本团体请求访华，外交部回应",
+          "url": "https://news.ifeng.com/c/8ol3HMED0Nl",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "媒体：琉球被日本打造成反华军事前沿",
           "url": "https://www.toutiao.com/trending/7578357244895674419/",
           "source": "今日头条",
@@ -349,6 +375,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时13分 ~ 12时27分]"
+        },
+        {
+          "title": "日本军事准备细节曝光！研发“万能血浆” 研究“处理战俘”",
+          "url": "https://news.ifeng.com/c/8ol6DbOZr2s",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "胡锡进：日本相关团体的确应该把劝导的方向定在东京",
+          "url": "https://news.ifeng.com/c/8ol5WjCohXB",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "日媒：日本经团联、议员团接连请求访华",
@@ -376,6 +424,17 @@
           "time_info": "[09时13分 ~ 13时17分]"
         },
         {
+          "title": "中方回应日本团体请求访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%9B%A2%E4%BD%93%E8%AF%B7%E6%B1%82%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "凯投宏观：日本央行加息对全球市场的冲击可能被夸大",
           "url": "https://flash.jin10.com/detail/20251202140349800800",
           "source": "金十数据",
@@ -385,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "春秋航空日本回应东京飞上海航班紧急返航",
+          "url": "https://wallstreetcn.com/livenews/3013610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "多家日本媒体遭右翼网暴",
@@ -489,11 +559,24 @@
           "url": "https://www.cls.cn/detail/2216592",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时22分]"
+        },
+        {
+          "title": "日本必须早日还中国一片无化武净土",
+          "url": "https://www.toutiao.com/trending/7579139028805730350/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时22分]"
         },
         {
           "title": "美国商务部长卢特尼克：美国还将取消对韩国飞机零部件的关税，并使对该国的对等关税与日本和欧盟保持一致。",
@@ -529,17 +612,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时15分 ~ 12时27分]"
-        },
-        {
-          "title": "日本必须早日还中国一片无化武净土",
-          "url": "https://www.toutiao.com/trending/7579139028805730350/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "外交部3问日本",
@@ -581,7 +653,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -619,13 +691,24 @@
           "time_info": "09时13分"
         },
         {
+          "title": "日本被曝正在研发万能型血浆",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E6%AD%A3%E5%9C%A8%E7%A0%94%E5%8F%91%E4%B8%87%E8%83%BD%E5%9E%8B%E8%A1%80%E6%B5%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "美国驻日本大使Glass：美日协议是有关深化经济伙伴关系的。",
           "url": "https://flash.jin10.com/detail/20251202153046742800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -647,7 +730,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -713,7 +796,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -996,7 +1079,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -1059,7 +1142,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -1110,6 +1193,39 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时25分 ~ 14时26分]"
+        },
+        {
+          "title": "Credo Technology美股盘前涨15.6%，因第二季度利润和营收均超预期。",
+          "url": "https://flash.jin10.com/detail/20251202171040668800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "中概股美股盘前多数下跌，小鹏汽车跌4.6%，哔哩哔哩跌超1%，阿里巴巴跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3013613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "小鹏汽车(XPEV.N)美股盘前跌4%，阿里巴巴(BABA.N)跌1.4%，哔哩哔哩(BILI.O)跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20251202170323090800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -1267,8 +1383,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 16时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 17时22分]"
+        },
+        {
+          "title": "DeepSeek新模型追平Gemini",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时13分 ~ 17时22分]"
         },
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -1285,30 +1415,18 @@
           "time_info": "[00时22分 ~ 14时26分]"
         },
         {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时13分 ~ 16时24分]"
-        },
-        {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
           "url": "https://www.cls.cn/detail/2216587",
           "source": "财联社热门",
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 16时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 17时22分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1318,11 +1436,12 @@
             17,
             15,
             16,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 16时24分]"
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 17时22分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -1446,8 +1565,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 16时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 17时22分]"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
@@ -1616,8 +1735,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时13分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[09时13分 ~ 17时22分]"
         },
         {
           "title": "抖音音乐年终狂想",
@@ -1627,8 +1746,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时22分]"
         }
       ]
     },
@@ -1648,8 +1767,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 16时24分]"
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 17时22分]"
         }
       ]
     }
