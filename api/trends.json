@@ -1,1786 +1,182 @@
 {
-  "generated_at": "2025-12-03T23:19:10.055317+08:00",
-  "total_titles_processed": 2044,
+  "generated_at": "2025-12-04T00:23:39.405289+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 104,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "视频丨央视曝光日本军事准备细节：研发“万能血浆”研究“处理战俘”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32087362",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时22分 ~ 19时16分]"
-        },
-        {
-          "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
-          "url": "https://wallstreetcn.com/articles/3760444",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时15分]"
-        },
-        {
-          "title": "日本米价狂飙的核心原因",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%B1%B3%E4%BB%B7%E7%8B%82%E9%A3%99%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时14分 ~ 23时19分]"
-        },
-        {
-          "title": "日本自卫队被曝正在向西南转移",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%A2%AB%E6%9B%9D%E6%AD%A3%E5%9C%A8%E5%90%91%E8%A5%BF%E5%8D%97%E8%BD%AC%E7%A7%BB%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时13分]"
-        },
-        {
-          "title": "央行“轮流砸盘”，美联储砸完日央行砸！日本12月会加息吗？",
-          "url": "https://wallstreetcn.com/articles/3760495",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普点名日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            1,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 22时18分]"
-        },
-        {
-          "title": "日本军事准备细节曝光！研发“万能血浆” 研究“处理战俘”",
-          "url": "https://news.ifeng.com/c/8ol6DbOZr2s",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "日本军事准备细节曝光",
-          "url": "https://www.toutiao.com/trending/7578879331192078377/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时15分]"
-        },
-        {
-          "title": "外务省发力,日本公开买水军黑中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347684&amp;topic_name=%E5%A4%96%E5%8A%A1%E7%9C%81%E5%8F%91%E5%8A%9B%2C%E6%97%A5%E6%9C%AC%E5%85%AC%E5%BC%80%E4%B9%B0%E6%B0%B4%E5%86%9B%E9%BB%91%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时16分 ~ 23时19分]"
-        },
-        {
-          "title": "日团体表达访华意愿，外交部：望在日本国内多发挥积极作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32085550",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 15时19分]"
-        },
-        {
-          "title": "胡锡进：日本团体着急访华协商，但症结却在东京！",
-          "url": "https://news.ifeng.com/c/8olH19WAvNx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "批评高市被骂“放冷枪”，石破茂：还记得日本当年的结局吗？",
-          "url": "https://news.ifeng.com/c/8omf5CulzTR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时20分 ~ 23时19分]"
-        },
-        {
-          "title": "航拍曝光！日本被曝昼夜赶建军事基地",
-          "url": "https://www.cls.cn/detail/2218091",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            8,
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时16分 ~ 20时33分]"
-        },
-        {
-          "title": "日本防卫费13连增",
-          "url": "https://www.douyin.com/hot/2323848",
-          "source": "抖音",
-          "ranks": [
-            21,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时15分]"
-        },
-        {
-          "title": "日本决定上调出境税 为现行三倍",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%B3%E5%AE%9A%E4%B8%8A%E8%B0%83%E5%87%BA%E5%A2%83%E7%A8%8E+%E4%B8%BA%E7%8E%B0%E8%A1%8C%E4%B8%89%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时13分]"
-        },
-        {
-          "title": "中俄就涉日本问题达成高度共识",
-          "url": "https://www.toutiao.com/trending/7579060707275735046/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2,
-            7,
-            5,
-            6,
-            8,
-            17,
-            22,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时13分 ~ 23时19分]"
-        },
-        {
-          "title": "高市称日本政府对台湾的立场没改变",
-          "url": "https://www.toutiao.com/trending/7579560279013330468/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时19分 ~ 23时19分]"
-        },
-        {
-          "title": "日本要加息，全球国债闻讯下跌，风险资产全线回调",
-          "url": "https://wallstreetcn.com/articles/3760492",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时25分 ~ 07时15分]"
-        },
-        {
-          "title": "日本军事准备曝光：研发“万能血浆”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E5%87%86%E5%A4%87%E6%9B%9D%E5%85%89%EF%BC%9A%E7%A0%94%E5%8F%91%E2%80%9C%E4%B8%87%E8%83%BD%E8%A1%80%E6%B5%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6,
-            15,
-            14,
-            9,
-            8,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时13分]"
-        },
-        {
-          "title": "外交部：日本不要妄想蒙混过关",
-          "url": "https://www.toutiao.com/trending/7578090701159333930/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            13,
-            7,
-            8,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "日本造军事基地画面曝光",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E9%80%A0%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            18,
-            13,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时16分 ~ 23时19分]"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            4,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 21时33分]"
-        },
-        {
-          "title": "日本投降书明确台湾归还中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E4%B9%A6%E6%98%8E%E7%A1%AE%E5%8F%B0%E6%B9%BE%E5%BD%92%E8%BF%98%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            6,
-            8,
-            2,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时14分 ~ 17时20分]"
-        },
-        {
-          "title": "专家建议不要用日本冲绳称呼琉球群岛",
-          "url": "https://www.toutiao.com/trending/7578902885694603305/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            29,
-            24,
-            20,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "高市早苗称日本政府对台立场没改变",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%AF%B9%E5%8F%B0%E7%AB%8B%E5%9C%BA%E6%B2%A1%E6%94%B9%E5%8F%98",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时33分 ~ 23时19分]"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.toutiao.com/trending/7579444252149763593/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 16时23分]"
-        },
-        {
-          "title": "日本北海道熊尸体多到装不下",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8C%97%E6%B5%B7%E9%81%93%E7%86%8A%E5%B0%B8%E4%BD%93%E5%A4%9A%E5%88%B0%E8%A3%85%E4%B8%8D%E4%B8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            10,
-            9,
-            27,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时15分]"
-        },
         {
           "title": "中国在联合国对日本发起外交反制",
           "url": "https://www.toutiao.com/trending/7579018903666458678/",
           "source": "今日头条",
           "ranks": [
-            4,
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时33分 ~ 23时19分]"
-        },
-        {
-          "title": "日本战争准备曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%98%E4%BA%89%E5%87%86%E5%A4%87%E6%9B%9D%E5%85%89%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 13时16分]"
-        },
-        {
-          "title": "中方回应2个日本团体请求访华",
-          "url": "https://www.douyin.com/hot/2324200",
-          "source": "抖音",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://news.ifeng.com/c/8omI9QpRNFm",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 15时19分]"
-        },
-        {
-          "title": "外交部回应两日本团体请求访华",
-          "url": "https://www.toutiao.com/trending/7579085418500800566/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            29,
-            25,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 07时15分]"
-        },
-        {
-          "title": "中国敦促日本履行战败国义务",
-          "url": "https://www.toutiao.com/trending/7578088720902799387/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1,
-            4,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 14时25分]"
-        },
-        {
-          "title": "全民备战!日本征兵瞄准儿童",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347703&amp;topic_name=%E5%85%A8%E6%B0%91%E5%A4%87%E6%88%98%21%E6%97%A5%E6%9C%AC%E5%BE%81%E5%85%B5%E7%9E%84%E5%87%86%E5%84%BF%E7%AB%A5",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时33分 ~ 23时19分]"
-        },
-        {
-          "title": "高志凯：日本发展核武器之时，就是其作为一个国家被消灭之日",
-          "url": "https://v.ifeng.com/c/8omKSUC2ovI",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 15时19分]"
-        },
-        {
-          "title": "《日本投降书》明确台湾归还中国",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E4%B9%A6%E3%80%8B%E6%98%8E%E7%A1%AE%E5%8F%B0%E6%B9%BE%E5%BD%92%E8%BF%98%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            1,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时25分 ~ 17时20分]"
-        },
-        {
-          "title": "日本被曝昼夜赶建军事基地",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E6%98%BC%E5%A4%9C%E8%B5%B6%E5%BB%BA%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            4,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时25分 ~ 17时20分]"
-        },
-        {
-          "title": "郭正亮：若日本军事介入台海视同侵略",
-          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%EF%BC%9A%E8%8B%A5%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B5%B7%E8%A7%86%E5%90%8C%E4%BE%B5%E7%95%A5",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时15分 ~ 23时19分]"
-        },
-        {
-          "title": "日本参议员：日本军事无法与中国抗衡",
-          "url": "https://www.toutiao.com/trending/7578388276781334570/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            25,
-            26,
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时15分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "高市早苗又现眼 日本网民惊呆了",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E7%8E%B0%E7%9C%BC+%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E6%83%8A%E5%91%86%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            13,
-            12,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时33分 ~ 23时19分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "日本军国主义九头蛇再次抬头",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E4%B9%9D%E5%A4%B4%E8%9B%87%E5%86%8D%E6%AC%A1%E6%8A%AC%E5%A4%B4",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            22,
-            15,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时19分 ~ 19时16分]"
-        },
-        {
-          "title": "石破茂反问：还记得那时日本的结局吗",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%8F%8D%E9%97%AE%EF%BC%9A%E8%BF%98%E8%AE%B0%E5%BE%97%E9%82%A3%E6%97%B6%E6%97%A5%E6%9C%AC%E7%9A%84%E7%BB%93%E5%B1%80%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            25,
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时19分 ~ 22时18分]"
-        },
-        {
-          "title": "中俄就涉日本问题达成高度共识",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E5%B0%B1%E6%B6%89%E6%97%A5%E6%9C%AC%E9%97%AE%E9%A2%98%E8%BE%BE%E6%88%90%E9%AB%98%E5%BA%A6%E5%85%B1%E8%AF%86",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            9,
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 13时16分]"
-        },
-        {
-          "title": "《日本投降书》明确台湾归还中国",
-          "url": "https://www.toutiao.com/trending/7579359598147141686/",
+          "title": "高市称日本政府对台湾的立场没改变",
+          "url": "https://www.toutiao.com/trending/7579560279013330468/",
           "source": "今日头条",
-          "ranks": [
-            29,
-            8,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 20时33分]"
-        },
-        {
-          "title": "日本战争准备曝光",
-          "url": "https://www.toutiao.com/trending/7578879331192078377/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            8,
-            12,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 16时23分]"
-        },
-        {
-          "title": "日团体表达访华意愿，外交部：望在日本国内多发挥积极作用",
-          "url": "https://www.cls.cn/detail/2217058",
-          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时19分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "日本被曝昼夜赶建军事基地",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E6%98%BC%E5%A4%9C%E8%B5%B6%E5%BB%BA%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 14时25分]"
-        },
-        {
-          "title": "日本自卫队被曝正在向西南转移",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%A2%AB%E6%9B%9D%E6%AD%A3%E5%9C%A8%E5%90%91%E8%A5%BF%E5%8D%97%E8%BD%AC%E7%A7%BB",
+          "title": "高市早苗称日本政府对台立场没改变",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%AF%B9%E5%8F%B0%E7%AB%8B%E5%9C%BA%E6%B2%A1%E6%94%B9%E5%8F%98",
           "source": "百度热搜",
-          "ranks": [
-            1,
-            16,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 15时19分]"
-        },
-        {
-          "title": "日本40年期国债收益率上行3个基点至3.715%。",
-          "url": "https://wallstreetcn.com/livenews/3014159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时16分]"
-        },
-        {
-          "title": "日本金属工会寻求超纪录涨幅 将直接影响央行下一步行动",
-          "url": "https://flash.jin10.com/detail/20251203160211786800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "特朗普点名日本",
-          "url": "https://www.douyin.com/hot/2324828",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 20时33分]"
-        },
-        {
-          "title": "日本40年期国债收益率上涨5个基点至3.735%。",
-          "url": "https://wallstreetcn.com/livenews/3014217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "石破茂反问还记得日本那时的结局吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%8F%8D%E9%97%AE%E8%BF%98%E8%AE%B0%E5%BE%97%E6%97%A5%E6%9C%AC%E9%82%A3%E6%97%B6%E7%9A%84%E7%BB%93%E5%B1%80%E5%90%97%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 19时16分]"
-        },
-        {
-          "title": "日本被曝迈向全领域作战",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E8%BF%88%E5%90%91%E5%85%A8%E9%A2%86%E5%9F%9F%E4%BD%9C%E6%88%98%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时19分]"
-        },
-        {
-          "title": "中俄就涉日本问题进行战略对表",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E5%B0%B1%E6%B6%89%E6%97%A5%E6%9C%AC%E9%97%AE%E9%A2%98%E8%BF%9B%E8%A1%8C%E6%88%98%E7%95%A5%E5%AF%B9%E8%A1%A8%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 13时16分]"
-        },
-        {
-          "title": "日本两年期国债收益率上涨1个基点，至1.015%。",
-          "url": "https://flash.jin10.com/detail/20251203090132380800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "“日本制造”系统性崩塌",
-          "url": "https://www.toutiao.com/trending/7579114919199510079/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时20分 ~ 07时15分]"
-        },
-        {
-          "title": "日本30年期国债收益率上涨5个基点，至3.425%，创下纪录新高。",
-          "url": "https://flash.jin10.com/detail/20251203140052158800",
-          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "00时23分"
         },
         {
-          "title": "钧正平：再多万能血浆也救不了日本",
-          "url": "https://www.baidu.com/s?wd=%E9%92%A7%E6%AD%A3%E5%B9%B3%EF%BC%9A%E5%86%8D%E5%A4%9A%E4%B8%87%E8%83%BD%E8%A1%80%E6%B5%86%E4%B9%9F%E6%95%91%E4%B8%8D%E4%BA%86%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
+          "title": "日本米价狂飙的核心原因",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%B1%B3%E4%BB%B7%E7%8B%82%E9%A3%99%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
           "ranks": [
-            23,
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时33分 ~ 23时19分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "日本40年期国债收益率上涨3.0个基点，至3.715%。",
-          "url": "https://flash.jin10.com/detail/20251203121126498800",
-          "source": "金十数据",
+          "title": "全民备战!日本征兵瞄准儿童",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347703&amp;topic_name=%E5%85%A8%E6%B0%91%E5%A4%87%E6%88%98%21%E6%97%A5%E6%9C%AC%E5%BE%81%E5%85%B5%E7%9E%84%E5%87%86%E5%84%BF%E7%AB%A5",
+          "source": "贴吧",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "00时23分"
         },
         {
-          "title": "日本40年期国债收益率上涨5个基点，至3.735%。",
-          "url": "https://flash.jin10.com/detail/20251203135637148800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "日本10年期国债收益率上涨3个基点至1.885%，为自2008年6月以来最高位。",
-          "url": "https://wallstreetcn.com/livenews/3014199",
-          "source": "华尔街见闻-快讯",
+          "title": "批评高市被骂“放冷枪”，石破茂：还记得日本当年的结局吗？",
+          "url": "https://news.ifeng.com/c/8omf5CulzTR",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "00时23分"
         },
         {
-          "title": "孙正义旗下日本软银集团将所持Eutelsat普通股出售大约3600万股权。",
-          "url": "https://wallstreetcn.com/livenews/3013835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 03时17分]"
-        },
-        {
-          "title": "日本卫材（Eisai）与渤健（BIIB）展示关于阿尔茨海默症疗法Lecanemab的（临床研究）数据。",
-          "url": "https://wallstreetcn.com/livenews/3013926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "日共议长：高市言论等同于日本可能会对中国动武，必须撤回",
-          "url": "https://news.ifeng.com/c/8omYc18MqjO",
+          "title": "日本又有新动作：整编航空宇宙自卫队",
+          "url": "https://news.ifeng.com/c/8onBbMOjrXH",
           "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "日本自卫队被曝正向西南扩张军备",
-          "url": "https://www.toutiao.com/trending/7579498711256927807/",
-          "source": "今日头条",
+          "title": "外务省发力,日本公开买水军黑中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347684&amp;topic_name=%E5%A4%96%E5%8A%A1%E7%9C%81%E5%8F%91%E5%8A%9B%2C%E6%97%A5%E6%9C%AC%E5%85%AC%E5%BC%80%E4%B9%B0%E6%B0%B4%E5%86%9B%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
           "ranks": [
-            5,
-            26
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时20分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "日本正发动无声战争",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%8F%91%E5%8A%A8%E6%97%A0%E5%A3%B0%E6%88%98%E4%BA%89%23&t=31&band_rank=24&Refer=top",
+          "title": "日本被曝迈向全领域作战",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E8%BF%88%E5%90%91%E5%85%A8%E9%A2%86%E5%9F%9F%E4%BD%9C%E6%88%98%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            24,
-            14
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 19时16分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "专家：日本军事准备走向实战化",
-          "url": "https://www.toutiao.com/trending/7579523569944628745/",
-          "source": "今日头条",
+          "title": "钧正平：再多万能血浆也救不了日本",
+          "url": "https://www.baidu.com/s?wd=%E9%92%A7%E6%AD%A3%E5%B9%B3%EF%BC%9A%E5%86%8D%E5%A4%9A%E4%B8%87%E8%83%BD%E8%A1%80%E6%B5%86%E4%B9%9F%E6%95%91%E4%B8%8D%E4%BA%86%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时20分]"
-        },
-        {
-          "title": "英国和日本领衔全球政府举债新风向：倚重短债融资、压减长债发行",
-          "url": "https://wallstreetcn.com/livenews/3014356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
-        },
-        {
-          "title": "国台办批日本砸巨资在台培养媚日人士",
-          "url": "https://www.toutiao.com/trending/7579270447046426666/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时20分]"
-        },
-        {
-          "title": "日本被曝昼夜赶建军事基地",
-          "url": "https://www.toutiao.com/trending/7578841984803848219/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 14时25分]"
-        },
-        {
-          "title": "优步CEO将访问日本、韩国，将与亚洲政府官员和商界领袖会面。（道琼斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3014437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时33分 ~ 21时33分]"
-        },
-        {
-          "title": "“敌国条款过时论”及其背后的躁动：警惕日本右翼挑战二战后国际秩序",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32080022",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 09时13分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "郭正亮：若日本军事介入台海视同侵略",
-          "url": "https://www.toutiao.com/trending/7578746558131634219/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时33分 ~ 21时33分]"
-        },
-        {
-          "title": "日经225指数早盘收盘上涨1.1%，报49862.94点。日本东证指数跌0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3014104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "Uber(UBER.N)CEO计划下周前往亚洲，将访问日本和韩国，亚洲之行将会见政府官员、商界领袖及优步员工。",
-          "url": "https://flash.jin10.com/detail/20251203194028063800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "5年期日本国债收益率升至1.38%，创2008年6月以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3014004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "日本激进扩武 “西南方向”再成焦点",
-          "url": "https://www.toutiao.com/trending/7578841984803848219/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "日经225指数收盘涨1.1%，报49864.68点。 日本东证指数收跌0.2%，报3334.32点。 韩国首尔综指收盘涨1%，报4036.30点。",
-          "url": "https://wallstreetcn.com/livenews/3014239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "日本各界人士要求高市撤回错误言论",
-          "url": "https://wallstreetcn.com/livenews/3014284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "日本PMI显示经济温和扩张 服务业连续五个月成为增长主要动力",
-          "url": "https://flash.jin10.com/detail/20251203112723681800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "高市早苗最新表态：“台湾是中华人民共和国领土不可分割的一部分”，日本“理解并尊重”这一立场，“丝毫没有改变”",
-          "url": "https://wallstreetcn.com/livenews/3014322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "日本30年期国债收益率上升3个基点，至3.405%。",
-          "url": "https://wallstreetcn.com/livenews/3014182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "日本30年期国债收益率上涨3.0个基点，至3.405%。",
-          "url": "https://flash.jin10.com/detail/20251203130134945800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "日本11月服务业PMI终值 53.2，前值53.1。",
-          "url": "https://flash.jin10.com/detail/20251203083002190800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "日本11月服务业PMI终值 53.2，初值 53.1。",
-          "url": "https://wallstreetcn.com/livenews/3013998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "日本11月综合PMI终值 52，前值52。",
-          "url": "https://flash.jin10.com/detail/20251203083002189800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "日本11月综合PMI终值 52，初值 52。",
-          "url": "https://wallstreetcn.com/livenews/3013997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "10年期日本国债的收益率上升2.5个基点，至1.88%。",
-          "url": "https://wallstreetcn.com/livenews/3014179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "石破茂反问：还记得那时日本的结局吗",
-          "url": "https://www.toutiao.com/trending/7578820001822490670/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "日本10年期国债收益率上涨2.5个基点，至1.88%。",
-          "url": "https://flash.jin10.com/detail/20251203125522016800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "日本全日空一波音787客机空中发生发动机故障",
-          "url": "https://wallstreetcn.com/livenews/3014502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "日本40年期国债收益率上行5个基点至3.735%。",
-          "url": "https://wallstreetcn.com/livenews/3014217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "美银证券预计日本10年期国债收益率到2026年底将升至2%",
-          "url": "https://wallstreetcn.com/livenews/3013994",
-          "source": "华尔街见闻-快讯",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%EF%BC%9A%E8%8B%A5%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B5%B7%E8%A7%86%E5%90%8C%E4%BE%B5%E7%95%A5",
+          "source": "百度热搜",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "日本国会议员：高市必须撤回错误言论才有可能平息事态",
-          "url": "https://wallstreetcn.com/livenews/3013991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "日本芯片股大幅上涨，瑞萨电子涨5.0%，东京电子涨3.8%，雷泰光电涨4.0%。",
-          "url": "https://flash.jin10.com/detail/20251203081033161800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "日本石油协会（PAJ）：日本11月29日汽油库存为167万千升，而11月22日为175万升。",
-          "url": "https://flash.jin10.com/detail/20251203152135992800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "日本加速扩军 “狐狸尾巴”藏不住了",
-          "url": "https://www.toutiao.com/trending/7578899314433736740/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "日本石油协会（PAJ）：日本11月29日原油库存为1102万升，11月22日为1000万升。",
-          "url": "https://flash.jin10.com/detail/20251203152119063800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "日本周新增流感病例超过19万例",
-          "url": "https://wallstreetcn.com/livenews/3014066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "日本10年期国债收益率上行3个基点至1.885%，为自2008年6月以来最高位。",
-          "url": "https://wallstreetcn.com/livenews/3014199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "高市的错误已实质影响日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E7%9A%84%E9%94%99%E8%AF%AF%E5%B7%B2%E5%AE%9E%E8%B4%A8%E5%BD%B1%E5%93%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "80年前日本投降书",
-          "url": "https://s.weibo.com/weibo?q=%2380%E5%B9%B4%E5%89%8D%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E4%B9%A6%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "日本15岁初中生街头持刀狂刺上班族",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC15%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A1%97%E5%A4%B4%E6%8C%81%E5%88%80%E7%8B%82%E5%88%BA%E4%B8%8A%E7%8F%AD%E6%97%8F%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时13分 ~ 23时19分]"
-        },
-        {
-          "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时15分]"
-        },
-        {
-          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2217558",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时25分 ~ 11时14分]"
-        },
-        {
-          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
-          "url": "https://www.cls.cn/detail/2217711",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时15分 ~ 15时19分]"
-        },
-        {
-          "title": "美股三大指数小幅高开 英伟达涨超1%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时15分]"
-        },
-        {
-          "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
-          "url": "https://wallstreetcn.com/articles/3760624",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时19分]"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-12-03）",
-          "url": "https://flash.jin10.com/detail/20251203214621066800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "小非农超预期降温，美股期货上扬，美元短线跳水，伦铜涨破纪录，白银高位震荡，离岸人民币创14个月来高点",
-          "url": "https://wallstreetcn.com/articles/3760624",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
-        },
-        {
-          "title": "美股涨，数字货币大体收复周一暴跌后失地，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "市场静待美国数据，美股期货上扬，伦铜涨破纪录，白银新高回落，离岸人民币创14个月来高点",
-          "url": "https://wallstreetcn.com/articles/3760624",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "英特尔(INTC.O)美股涨超8%。",
-          "url": "https://flash.jin10.com/detail/20251202235849459800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251203050524229800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时15分]"
-        },
-        {
-          "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251203050515362800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时15分]"
-        },
-        {
-          "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251203013150111800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "能源业ETF收跌约1.3%，领跌美股行业ETF，半导体ETF涨超1.8%",
-          "url": "https://wallstreetcn.com/livenews/3013921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3014495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时18分 ~ 23时19分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜苹果收涨约1.1%，Meta、英伟达等涨幅不到1%",
-          "url": "https://wallstreetcn.com/livenews/3013920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 小鹏跌近8%",
-          "url": "https://flash.jin10.com/detail/20251203050114408800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时15分]"
-        },
-        {
-          "title": "梅西百货第三季度总收入49.1亿美元，预期47.5亿美元。 第三季度净销售额47.1亿美元，预估45.6亿美元。 第三季度经调整后每股收益9美分，市场预期每股亏损14美分。 梅西百货预计全财年经调整后每股收益2-2.2美元，此前预计1.7-2.05美元，市场预估1.99美元。 梅西百货预计全财年净销售额214.8-216.3亿美元，此前预计211.5-214.5亿美元。 梅西百货美股盘前涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3014443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时33分 ~ 21时33分]"
-        },
-        {
-          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2218814",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时19分]"
-        },
-        {
-          "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251203013047632800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "能源业ETF涨0.65%，在美股盘初领跑行业ETF，半导体ETF则跌0.22%，科技行业ETF跌0.6%，全球科技股指数ETF跌0.72%。",
-          "url": "https://wallstreetcn.com/livenews/3014514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "周二（12月2日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨5.42%，报91860美元，北京时间22:00之前大致持平，之后显著走高，03:41刷新日高至92705美元。 CME以太币期货DCR主力合约涨7.37%，报3000美元。 美股加密货币与加密货币关联指数跌2.70%，报66.63点。 最近24小时，MarketVector数字资产100小盘指数涨6.31%，暂报18906.56点。",
-          "url": "https://wallstreetcn.com/livenews/3013930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "（美股）费城金银指数收跌1.67%，报319.14点，美股早盘持续下挫，北京时间00:13刷新日低至310.65点，之后持续收复失地。 纽约证交所ARCA金矿开采商指数收跌1.49%，报2289.10点；22:30美股开盘之前一直大致持平，随后显著下跌，00:13刷新日低至2236.33点，之后逐步收复失地。",
-          "url": "https://wallstreetcn.com/livenews/3013928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "周二（12月2日）纽约尾盘，现货黄金跌0.57%，报4208.04美元/盎司，日内持续震荡下跌，北京时间22:30美股开盘之前反弹至4230美元上方——几乎完全收复日内稍早失地，随后又快速下挫，23:58刷新日低至4163.95美元。 COMEX黄金期货跌0.77%，报4241.90美元/盎司，全天处于下跌状态，23:58也刷新日低至4194.00美元。 现货白银涨0.85%，报58.4841美元/盎司，逼近12月1日所创历史最高位58.8434美元。 COMEX白银期货持平，报59.155美元/盎司，也逼近12月1日所创盘中历史最高位59.435美元。 COMEX铜期货跌1.13%，报5.2430美元/磅。 现货铂金跌1.34%，现货钯金涨2.47%。",
-          "url": "https://wallstreetcn.com/livenews/3013927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "纳斯达克100股指期货美股盘前转跌，英伟达（盘前）转跌。",
-          "url": "https://wallstreetcn.com/livenews/3014503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "金十图示：2025年12月03日（周三）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251203223628216800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "甲骨文(ORCL.N)美股盘前上涨1.8%；富国银行首次覆盖并给予“超配评级”。",
-          "url": "https://flash.jin10.com/detail/20251203205505663800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时33分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 17,
+      "match_count": 4,
       "titles": [
         {
-          "title": "国产T800机器人来了",
-          "url": "https://www.toutiao.com/trending/7579159562473721407/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            1,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "浙江“十五五”规划建议：聚焦人形机器人、脑机接口等领域 布局建设一批未来产业先导区",
-          "url": "https://www.cls.cn/detail/2217788",
+          "title": "“长”出皮肤：人形机器人量产前夜的“触觉战争”",
+          "url": "https://www.cls.cn/detail/2218849",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7,
-            9,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时14分 ~ 17时20分]"
-        },
-        {
-          "title": "手握 65 万枚比特币的巨鲸 Strategy 首提卖币，打破永不卖出承诺，其市值一度跌破持币价值，如何解读？",
-          "url": "https://www.zhihu.com/question/1979277813887551142",
-          "source": "知乎",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时20分 ~ 23时19分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "中国机器人哨兵站岗中印边境",
           "url": "https://www.toutiao.com/trending/7579541949648997929/",
           "source": "今日头条",
           "ranks": [
-            9,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时33分 ~ 23时19分]"
-        },
-        {
-          "title": "全球市场暂获喘息？流动性焦虑缓解，日债拍卖企稳比特币止住跌势",
-          "url": "https://wallstreetcn.com/articles/3760526",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 16时23分]"
-        },
-        {
-          "title": "比特币短线呈现出V形走势，重返93270美元一线，北京时间22:00前后几乎完全回吐日内稍早涨幅，逼近91500美元。",
-          "url": "https://wallstreetcn.com/livenews/3014520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "比特币一度涨至93000美元上方，创近两周高位。",
-          "url": "https://wallstreetcn.com/livenews/3014125",
-          "source": "华尔街见闻-快讯",
+          "title": "手握 65 万枚比特币的巨鲸 Strategy 首提卖币，打破永不卖出承诺，其市值一度跌破持币价值，如何解读？",
+          "url": "https://www.zhihu.com/question/1979277813887551142",
+          "source": "知乎",
           "ranks": [
-            1,
-            22
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时25分]"
-        },
-        {
-          "title": "特朗普政府考虑明年对机器人实施行政令。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3014468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时18分]"
-        },
-        {
-          "title": "领益智造：人形机器人组装突破5000台",
-          "url": "https://wallstreetcn.com/livenews/3014208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时19分]"
-        },
-        {
-          "title": "比特币触及两周高点 但加密货币市场情绪依然脆弱",
-          "url": "https://wallstreetcn.com/livenews/3014305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时20分]"
-        },
-        {
-          "title": "法国Mistral AI发布自家下一代模型Mistral 3。 该系列模型用于支持多语种的机器人聊天工具和其他AI服务，包括在网络连接有限的移动设备上运行。",
-          "url": "https://wallstreetcn.com/livenews/3013847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 04时20分]"
-        },
-        {
-          "title": "比特币涨穿90000美元，涨幅超过6%",
-          "url": "https://wallstreetcn.com/livenews/3013808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时19分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "如何评价众擎新发布的 T800 机器人？",
@@ -1790,798 +186,109 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时19分]"
-        },
-        {
-          "title": "彭博数据显示，比特币短线从93000美元上方跳水，逼近91500美元上方的平盘。",
-          "url": "https://wallstreetcn.com/livenews/3014504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "清华大学成立具身智能与机器人研究院",
-          "url": "https://wallstreetcn.com/livenews/3014176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "据Politico：特朗普政府考虑明年对机器人实施行政令。",
-          "url": "https://flash.jin10.com/detail/20251203210410043800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "American Bitcoin恢复交易，跌幅扩大至超过40%，投资者关注比特币近期走势。 12月1日，Yorkville Acquisition任命Steve Gutternman为合并后新公司的CEO、任命Sim Salzman为CFO。",
-          "url": "https://wallstreetcn.com/livenews/3013794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 16,
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 3,
       "titles": [
         {
-          "title": "全球供应极度紧绷，白银上演史诗级逼空",
-          "url": "https://wallstreetcn.com/articles/3760543",
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时16分 ~ 20时33分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
-          "url": "https://wallstreetcn.com/articles/3760553",
+          "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
+          "url": "https://wallstreetcn.com/articles/3760624",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 21时33分]"
-        },
-        {
-          "title": "高盛：将2026年上半年LME铜价预测上调至10,710美元（此前为10,415美元）。",
-          "url": "https://flash.jin10.com/detail/20251203212013545800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时33分"
+          "time_info": "00时23分"
         },
         {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加60.79吨，当前持仓量为15863.15吨。",
-          "url": "https://flash.jin10.com/detail/20251203115134419800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时16分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月3日（周三）晚盘盘初下跌0.21%报951.0元/克；<br/>上海黄金交易所白银T+D 12月3日（周三）晚盘盘初下跌0.04%报13637.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251203200132614800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月3日（周三）早盘盘初下跌0.28%报953.0元/克；<br/>上海黄金交易所白银T+D 12月3日（周三）早盘盘初上涨2.01%报13684.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251203090033888800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "伦敦金属交易所三个月期铜价格创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3014372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
-        },
-        {
-          "title": "现货白银一度升0.8%至纪录高点每盎司58.94美元。",
-          "url": "https://wallstreetcn.com/livenews/3014152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时16分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月2日（周二）晚盘收盘下跌0.74%报948.61元/克；<br/>上海黄金交易所白银T+D 12月2日（周二）晚盘收盘上涨1.42%报13605.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251203023035420800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时20分]"
-        },
-        {
-          "title": "现货白银失守58美元/盎司，日内跌幅0.78%。",
-          "url": "https://flash.jin10.com/detail/20251203134017148800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "受供应担忧和美元走软的影响， 铜价创历史新高",
-          "url": "https://flash.jin10.com/detail/20251203193931428800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至10月21日当周，COMEX黄金期货投机性净多头寸减少17,442手，至92,134手。COMEX白银期货投机性净多头寸减少6,425手，至18,537手。COMEX铜期货投机性净多头寸减少852手，至59,880手。",
-          "url": "https://flash.jin10.com/detail/20251203043319564800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
-          "url": "https://flash.jin10.com/detail/20251203101800307800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "伦敦金属交易所三个月期铜价格创历史新高",
-          "url": "https://flash.jin10.com/detail/20251203173756271800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月3日（周三）收盘下跌0.59%报949.99元/克；<br/>上海黄金交易所白银T+D 12月3日（周三）收盘上涨0.92%报13538.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251203153012132800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加60.79吨，当前持仓量为15863.15吨。欢迎点击查看数据中心……",
-          "url": "https://flash.jin10.com/detail/20251203081733519800",
+          "title": "微软(MSFT.O)美股跌幅收窄，现跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20251203234502090800",
           "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "独家｜豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32094679",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
+          "url": "https://wallstreetcn.com/articles/3760626",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 13,
+      "match_count": 1,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
           "url": "https://wallstreetcn.com/articles/3760564",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时13分 ~ 23时19分]"
-        },
-        {
-          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
-          "url": "https://wallstreetcn.com/articles/3760505",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 11时14分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时25分 ~ 20时33分]"
-        },
-        {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
-          "url": "https://www.cls.cn/detail/2217188",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时25分 ~ 05时32分]"
-        },
-        {
-          "title": "马士基：目前尚无具体时间表，无法将东西向（Gemini）航线改道经红海航行。",
-          "url": "https://flash.jin10.com/detail/20251203190054995800",
-          "source": "金十数据",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
-          "url": "https://flash.jin10.com/detail/20251203000100879800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
-          "url": "https://wallstreetcn.com/articles/3760498",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 09时13分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至巴尔的摩、圣路易斯、匹兹堡、费城等四个美国城市。",
-          "url": "https://wallstreetcn.com/livenews/3014500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时18分 ~ 23时19分]"
-        },
-        {
-          "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
-          "url": "https://wallstreetcn.com/livenews/3013822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时19分]"
-        },
-        {
-          "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3013807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时19分]"
-        },
-        {
-          "title": "亚马逊宣布Amazon Bedrock 模型库迎来扩容，点名中国开源大模型",
-          "url": "https://wallstreetcn.com/livenews/3014413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时33分 ~ 21时33分]"
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时32分]"
-        },
-        {
-          "title": "OpenAI：面向企业及商用客户的ChatGPT服务当前出现错误率升高。",
-          "url": "https://wallstreetcn.com/livenews/3014402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "OpenAI：我们已全面恢复运营，目前未发现任何影响系统的故障。",
-          "url": "https://flash.jin10.com/detail/20251203185658782800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "OpenAI：企业及机构在使用ChatGPT时遭遇对话错误；已采取缓解措施并持续监控恢复情况。",
-          "url": "https://flash.jin10.com/detail/20251203185148537800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "OpenAI：目前出现了一些问题。",
-          "url": "https://flash.jin10.com/detail/20251203185037298800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "OpenAI：ChatGPT在商业和企业领域出现较高错误率。",
-          "url": "https://flash.jin10.com/detail/20251203184353377800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "部分用户无法访问ChatGPT，OpenAI称已采取应对措施",
-          "url": "https://flash.jin10.com/detail/20251203044535141800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时15分]"
-        },
-        {
-          "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
-          "url": "https://wallstreetcn.com/livenews/3013805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时19分]"
-        },
-        {
-          "title": "OpenAI：我们已全面恢复营运。 我们未发现任何影响我们系统的问题。",
-          "url": "https://wallstreetcn.com/livenews/3014409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "OpenAI：目前遭遇-一些问题。 ChatGPT的商务和企业聊天功能遭遇错误；已实施缓解措施和监控复原。",
-          "url": "https://wallstreetcn.com/livenews/3014402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "特斯拉发布人形机器人跑步视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 13时16分]"
-        },
-        {
-          "title": "枪口瞄准特斯拉！大空头称其估值荒谬、薪酬计划损害股东",
-          "url": "https://wallstreetcn.com/articles/3760515",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 15时19分]"
-        },
-        {
-          "title": "周二（12月2日），彭博电动汽车价格回报指数跌0.58%，报3401.93点。 北京时间09:28过后跳空走低，日内持续低位震荡。 成分股中，普拉格动力公司涨约10%，MP材料涨超4%，特斯拉表现进入倒数前十。",
-          "url": "https://wallstreetcn.com/livenews/3013914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时15分]"
-        },
-        {
-          "title": "德国联邦机动车管理局：特斯拉11月在德国的新车销量下降20.2%至1763辆。",
-          "url": "https://flash.jin10.com/detail/20251203185403530800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "特斯拉人形机器人跑步视频",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "特斯拉擎天柱有哪些升级",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E6%93%8E%E5%A4%A9%E6%9F%B1%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            26,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 17时20分]"
-        },
-        {
-          "title": "特斯拉发布人形机器人跑步视频",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 16时23分]"
-        },
-        {
-          "title": "特斯拉11月德国汽车销量下降五分之一",
-          "url": "https://wallstreetcn.com/livenews/3014412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
-          "url": "https://wallstreetcn.com/articles/3760626",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时19分 ~ 23时19分]"
-        },
-        {
-          "title": "独家｜豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32094679",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时19分 ~ 23时19分]"
-        },
-        {
-          "title": "抖音音乐年终狂想",
-          "url": "https://www.douyin.com/hot/2324129",
-          "source": "抖音",
-          "ranks": [
-            25,
-            27,
-            19,
-            21,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 20时33分]"
-        },
-        {
-          "title": "抖音集团副总裁李亮：豆包手机助手经过用户授权，不存在“入侵”和“越权”",
-          "url": "https://wallstreetcn.com/livenews/3014524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "抖音热门舞蹈计划",
-          "url": "https://www.douyin.com/hot/2323485",
-          "source": "抖音",
-          "ranks": [
-            27,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 07时15分]"
-        },
-        {
-          "title": "豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
-          "url": "https://wallstreetcn.com/livenews/3014312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时20分]"
-        },
-        {
-          "title": "怎么不等微信停运了再说",
-          "url": "https://s.weibo.com/weibo?q=%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AD%89%E5%BE%AE%E4%BF%A1%E5%81%9C%E8%BF%90%E4%BA%86%E5%86%8D%E8%AF%B4&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 19时16分]"
-        },
-        {
-          "title": "“豆包助手”手机微信登录出现异常，微信相关人士回应：未有特别动作",
-          "url": "https://wallstreetcn.com/livenews/3014227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "价值36亿！半导体大佬虞仁荣再度大手笔捐赠股份",
-          "url": "https://www.cls.cn/detail/2217404",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时13分]"
-        },
-        {
-          "title": "英诺赛科与安森美半导体达成共同加速推进氮化镓产业生态建设的战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/3014116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时25分]"
-        },
-        {
-          "title": "费城半导体指数涨幅扩大至2.4%，英伟达涨2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3013796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI基础设施 算力基建 AI Agent",
       "match_count": 1,
       "titles": [
         {
-          "title": "Upwind将与英伟达锁定下一代AI基础设施。",
-          "url": "https://wallstreetcn.com/livenews/3013804",
+          "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
+          "url": "https://wallstreetcn.com/livenews/3014555",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            29
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时19分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     }
