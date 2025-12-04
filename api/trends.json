@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T09:13:46.897487+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2025-12-04T11:16:43.405199+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 28,
+      "match_count": 45,
       "titles": [
         {
           "title": "高市早苗又现眼 日本网民惊呆了",
@@ -46,11 +46,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347703&amp;topic_name=%E5%85%A8%E6%B0%91%E5%A4%87%E6%88%98%21%E6%97%A5%E6%9C%AC%E5%BE%81%E5%85%B5%E7%9E%84%E5%87%86%E5%84%BF%E7%AB%A5",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时16分]"
         },
         {
           "title": "批评高市被骂“放冷枪”，石破茂：还记得日本当年的结局吗？",
@@ -81,11 +82,12 @@
           "ranks": [
             1,
             4,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时16分]"
         },
         {
           "title": "日本被曝迈向全领域作战",
@@ -140,11 +142,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347684&amp;topic_name=%E5%A4%96%E5%8A%A1%E7%9C%81%E5%8F%91%E5%8A%9B%2C%E6%97%A5%E6%9C%AC%E5%85%AC%E5%BC%80%E4%B9%B0%E6%B0%B4%E5%86%9B%E9%BB%91%E4%B8%AD%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时16分]"
         },
         {
           "title": "钧正平：再多万能血浆也救不了日本",
@@ -171,11 +174,12 @@
             23,
             28,
             27,
-            19
+            19,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 09时13分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 11时16分]"
         },
         {
           "title": "日本又玩了一个小动作",
@@ -184,9 +188,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 11时16分]"
         },
         {
           "title": "日本央行行长植田和男定于当地时间上午11点29分出席国会听证会。",
@@ -195,29 +199,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "日本东证指数涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3014737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "日本被曝迈向全领域作战",
-          "url": "https://www.toutiao.com/trending/7579289791909494811/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -228,7 +210,51 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 11时16分]"
+        },
+        {
+          "title": "日本央行行长植田和男：该方案对通胀的影响很可能具有双向性。",
+          "url": "https://flash.jin10.com/detail/20251204104540499800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "日本东证指数涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3014737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本央行行长植田和男：政府经济方案有望推动经济增长。",
+          "url": "https://flash.jin10.com/detail/20251204104509378800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "日本被曝迈向全领域作战",
+          "url": "https://www.toutiao.com/trending/7579289791909494811/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -239,20 +265,54 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "日本央行行长植田和男：当前货币状况仍具宽松性。",
+          "url": "https://flash.jin10.com/detail/20251204104347765800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "UP主挑战反评分在日本吃一天",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8C%91%E6%88%98%E5%8F%8D%E8%AF%84%E5%88%86%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%90%83%E4%B8%80%E5%A4%A9",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 11时16分]"
+        },
+        {
+          "title": "日本央行行长植田和男：我们最终能将利率提高到何种程度仍存在不确定性。",
+          "url": "https://flash.jin10.com/detail/20251204104338951800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "11时16分"
+        },
+        {
+          "title": "全球抛售日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%8A%9B%E5%94%AE%E6%97%A5%E6%9C%AC%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "日本工业机器人概念股走强",
@@ -261,9 +321,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "日本央行行长植田和男：目前，我们仍需基于当前设定的、范围相当宽泛的预估开展工作。",
+          "url": "https://flash.jin10.com/detail/20251204104316002800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "动作频频！日本军事扩张从地面延伸至太空",
@@ -272,7 +343,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -283,9 +354,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "日本央行行长植田和男：我们正在努力缩小对中性利率的估算范围，如果成功，将及时公布相关发现。",
+          "url": "https://flash.jin10.com/detail/20251204104305168800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "日本央行行长植田和男：目前只能估计一个区间较宽的中性利率范畴。 无法具体说明终点利率将在什么水平。 当前的货币政策依旧宽松。 经济方案将对实体经济产生积极影响。 无法说明经济方案将在多大程度上提振物价趋势，该方案对通胀的影响可能是双向的。 物价纾困措施将对整体通胀构成压力。",
+          "url": "https://wallstreetcn.com/livenews/3014835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "30年期日本国债收益率涨2.5个基点，至3.445%，续创历史新高。",
@@ -294,9 +387,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "日本又玩了一个小动作",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%88%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%8A%A8%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "日本30年期国债收益率上行2.5BP，至 3.445%，创历史新高。 日本20年期国债收益率上行3BP至2.94%，创1999年6月以来最高水平。",
@@ -305,7 +409,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -316,9 +420,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：日本国债管理政策的关键在于，在保持中长期必要成本低廉的同时，确保国债发行顺利进行。",
+          "url": "https://flash.jin10.com/detail/20251204102026610800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "日本拟打造“宇宙作战集团”",
+          "url": "https://www.toutiao.com/trending/7579797660530413082/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "郭正亮：若日本军事介入台海视同侵略",
@@ -332,6 +458,50 @@
           "time_info": "00时23分"
         },
         {
+          "title": "日本内阁官房长官木原稔：与国内外市场沟通以购买日本国债更为重要。",
+          "url": "https://flash.jin10.com/detail/20251204101257551800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：将对过度且无序的外汇波动采取适当行动。",
+          "url": "https://flash.jin10.com/detail/20251204101131274800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：重要的是汇率以稳定的方式反映基本面。",
+          "url": "https://flash.jin10.com/detail/20251204101116472800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：日本国债管理政策的核心在于，在控制中长期必要成本的前提下，确保国债顺利发行。",
+          "url": "https://wallstreetcn.com/livenews/3014815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "日本军国主义还魂或有4大灾难性后果",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E8%BF%98%E9%AD%82%E6%88%96%E6%9C%894%E5%A4%A7%E7%81%BE%E9%9A%BE%E6%80%A7%E5%90%8E%E6%9E%9C",
           "source": "百度热搜",
@@ -341,6 +511,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：近期日元走势有些快速且单边。",
+          "url": "https://flash.jin10.com/detail/20251204101051728800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：对外汇走势表示担忧。",
+          "url": "https://flash.jin10.com/detail/20251204101042112800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },
@@ -383,8 +575,33 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时19分 ~ 09时13分]"
+          "appearance_count": 12,
+          "time_info": "[01时19分 ~ 11时16分]"
+        },
+        {
+          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
+          "url": "https://www.cls.cn/detail/2218940",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 11时16分]"
+        },
+        {
+          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
+          "url": "https://www.cls.cn/detail/2218975",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 11时16分]"
         },
         {
           "title": "美股“降息指数”涨超1.4%，刷新日高。 罗素2000指数涨1.4%。 纳斯达克生物科技指数涨1.8%。",
@@ -398,17 +615,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时25分 ~ 04时19分]"
-        },
-        {
-          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
-          "url": "https://www.cls.cn/detail/2218940",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（12月3日），美国科技股七巨头（Magnificent 7）指数跌0.55%，报207.57点，全天绝大部分时间处于下跌状态，整体呈现出n形走势。 “超大”市值科技股指数涨0.09%，报402.08点。",
@@ -470,18 +676,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时25分 ~ 04时19分]"
-        },
-        {
-          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
-          "url": "https://www.cls.cn/detail/2218975",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 09时13分]"
         },
         {
           "title": "区域银行ETF收涨约2.1%，领跑美股行业ETF",
@@ -613,8 +807,20 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "铜价再创历史新高，LME提货订单飙升至2013年以来最高水平，亚洲需求激增",
+          "url": "https://wallstreetcn.com/articles/3760641",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 11时16分]"
+        },
         {
           "title": "上海黄金交易所黄金T+D 12月4日（周四）早盘盘初上涨0.01%报953.09元/克；<br/>上海黄金交易所白银T+D 12月4日（周四）早盘盘初上涨0.03%报13646.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251204090048740800",
@@ -622,18 +828,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "铜价再创历史新高，LME提货订单飙升至2013年以来最高水平，亚洲需求激增",
-          "url": "https://wallstreetcn.com/articles/3760641",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -680,9 +875,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "美国“小非农”爆冷，白银创新高后快速回落！贝森特或将兼任国家经济委员会主任一职，特朗普政府考虑明年加速机器人行业发展......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251204103112695800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "高盛资产配置主管Christian Mueller-Glissmann：在过去两年金价强劲上涨的背景下，回过头看，最优的黄金配置比例应远高于大多数投资者实际持有的水平。",
@@ -691,9 +897,123 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "金十图示：2025年12月04日（周四）上海金早盘价为952.5元/克，较国际金价(955.12元/克)，低2.62元/克",
+          "url": "https://flash.jin10.com/detail/20251204101723963800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "“长”出皮肤：人形机器人量产前夜的“触觉战争”",
+          "url": "https://www.cls.cn/detail/2218849",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时16分]"
+        },
+        {
+          "title": "中国机器人哨兵站岗中印边境",
+          "url": "https://www.toutiao.com/trending/7579541949648997929/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            9,
+            14,
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时13分]"
+        },
+        {
+          "title": "手握 65 万枚比特币的巨鲸 Strategy 首提卖币，打破永不卖出承诺，其市值一度跌破持币价值，如何解读？",
+          "url": "https://www.zhihu.com/question/1979277813887551142",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时16分]"
+        },
+        {
+          "title": "比特币一度升破94000美元，日内涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3014669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.1%，深成指涨0.54%，机器人、商业航天、福建、大金融等方向领涨，沪深京三市上涨个股超2000只。",
+          "url": "https://wallstreetcn.com/livenews/3014846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "机器人概念股走高，报道称特朗普政府考虑支持该行业",
+          "url": "https://wallstreetcn.com/livenews/3014574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时16分]"
+        },
+        {
+          "title": "如何评价众擎新发布的 T800 机器人？",
+          "url": "https://www.zhihu.com/question/1979154184961033830",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "商汤科技联合创始人、执行董事王晓刚出任大晓机器人董事长",
+          "url": "https://wallstreetcn.com/livenews/3014813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },
@@ -720,7 +1040,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -767,90 +1087,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "“长”出皮肤：人形机器人量产前夜的“触觉战争”",
-          "url": "https://www.cls.cn/detail/2218849",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时13分]"
-        },
-        {
-          "title": "中国机器人哨兵站岗中印边境",
-          "url": "https://www.toutiao.com/trending/7579541949648997929/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9,
-            14,
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时13分]"
-        },
-        {
-          "title": "手握 65 万枚比特币的巨鲸 Strategy 首提卖币，打破永不卖出承诺，其市值一度跌破持币价值，如何解读？",
-          "url": "https://www.zhihu.com/question/1979277813887551142",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时13分]"
-        },
-        {
-          "title": "比特币一度升破94000美元，日内涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3014669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "机器人概念股走高，报道称特朗普政府考虑支持该行业",
-          "url": "https://wallstreetcn.com/livenews/3014574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时16分]"
-        },
-        {
-          "title": "如何评价众擎新发布的 T800 机器人？",
-          "url": "https://www.zhihu.com/question/1979154184961033830",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
         }
       ]
     },
@@ -912,9 +1151,48 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "标普500指数初步收涨0.3%，能源板块涨1.8%，金融板块涨1.2%，可选消费板块涨0.8%，电信板块涨0.2%，科技板块跌0.4%。 纳斯达克100指数初步收涨0.2%，成分股中，微芯科技初步收涨12.7%，安森美半导体涨10.8%，迈威尔科技涨7.6%，Strategy涨4%，Meta则跌1.1%，美光、微软跌2.3%，再生元制药跌2.5%，PayPal跌2.7%，TTD跌3.2%，奈飞跌4.9%。 联合健康初步收涨4.9%，高盛涨2.6%，麦当劳、美国运通、安进至少涨2%，领跑道指成分股，英伟达则跌1%，波音跌1.5%，和微软表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3014626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至1%。华虹半导体、地平线机器人涨超4%，携程涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3014848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "道指收涨超0.8%，半导体指数涨超1.8%，银行指数涨超2.3%",
+          "url": "https://wallstreetcn.com/livenews/3014626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
@@ -940,7 +1218,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -951,37 +1229,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "标普500指数初步收涨0.3%，能源板块涨1.8%，金融板块涨1.2%，可选消费板块涨0.8%，电信板块涨0.2%，科技板块跌0.4%。 纳斯达克100指数初步收涨0.2%，成分股中，微芯科技初步收涨12.7%，安森美半导体涨10.8%，迈威尔科技涨7.6%，Strategy涨4%，Meta则跌1.1%，美光、微软跌2.3%，再生元制药跌2.5%，PayPal跌2.7%，TTD跌3.2%，奈飞跌4.9%。 联合健康初步收涨4.9%，高盛涨2.6%，麦当劳、美国运通、安进至少涨2%，领跑道指成分股，英伟达则跌1%，波音跌1.5%，和微软表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3014626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "道指收涨超0.8%，半导体指数涨超1.8%，银行指数涨超2.3%",
-          "url": "https://wallstreetcn.com/livenews/3014626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
         }
       ]
     },
@@ -996,11 +1246,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时16分]"
         },
         {
           "title": "独家｜豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
@@ -1011,8 +1262,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时16分]"
         }
       ]
     }
