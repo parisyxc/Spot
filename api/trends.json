@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T07:15:57.074478+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2025-12-05T09:14:21.140132+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 17,
+      "match_count": 35,
       "titles": [
         {
           "title": "央视军事起底日本新型导弹",
@@ -13,22 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "日本高官公开道歉",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时14分]"
         },
         {
           "title": "日本高官公开道歉",
@@ -40,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时14分]"
         },
         {
           "title": "公开招水军吹捧日本、抹黑中国，金主是谁？",
@@ -51,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时14分]"
         },
         {
           "title": "高市早苗称日本对台湾立场“与《中日联合声明》一样”是战略欺骗",
@@ -61,11 +51,24 @@
           "ranks": [
             8,
             9,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时14分]"
+        },
+        {
+          "title": "日本高官公开道歉",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时14分]"
         },
         {
           "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
@@ -89,8 +92,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时14分]"
         },
         {
           "title": "外务省发力,日本公开买水军黑中国",
@@ -101,8 +104,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时14分]"
         },
         {
           "title": "俄罗斯四批日本",
@@ -138,15 +141,70 @@
           "time_info": "[02时26分 ~ 07时15分]"
         },
         {
+          "title": "日本10年期国债收益率下跌0.5个基点，至1.930%。",
+          "url": "https://wallstreetcn.com/livenews/3015459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "大外交丨王毅访俄、中俄对表，对日本发出“共同反对信号”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32104039",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：具体货币政策措施由日本央行决定。",
+          "url": "https://flash.jin10.com/detail/20251205083543643800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "据朝日新闻：日本防卫大臣小泉进次郎将于1月初访问美国。",
           "url": "https://flash.jin10.com/detail/20251205065724045800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：正在讨论国防经费税收措施。",
+          "url": "https://wallstreetcn.com/livenews/3015455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：已在兼顾财政可持续性的前提下制定额外预算。",
+          "url": "https://flash.jin10.com/detail/20251205082917632800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "商务部回应“是否反制日本”",
@@ -161,6 +219,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 05时16分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：在制定下一财年预算时将考虑到财政可持续性。",
+          "url": "https://flash.jin10.com/detail/20251205082905145800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "郑永年：日本军国主义从未被彻底清算",
+          "url": "https://www.toutiao.com/trending/7579766572353585198/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：将密切与市场沟通，同时推行适当的债务管理政策。",
+          "url": "https://flash.jin10.com/detail/20251205082904120800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "国际货币基金组织：欣慰地看到一些“财政负担更重”的提案没有被纳入日本预算。",
@@ -189,6 +280,17 @@
           "time_info": "[00时22分 ~ 02时26分]"
         },
         {
+          "title": "日本财务大臣片山皋月：利率由多种因素决定。将密切关注市场动态。",
+          "url": "https://flash.jin10.com/detail/20251205082714698800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "日本高官就炒作涉华不实言论道歉",
           "url": "https://www.toutiao.com/trending/7579021715477626921/",
           "source": "今日头条",
@@ -199,6 +301,72 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 02时26分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：在考虑到财政可持续性的情况下，制定了额外预算。 在制定下一财年预算时会考虑到财政可持续性。 具体的货币政策工具将交由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3015444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "日本释放哪些危险信号",
+          "url": "https://www.toutiao.com/trending/7580003249783111707/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：利率由多种因素决定。 将密切关注市场动态。 将确保市场信任不会丢失。 将不对收益率走势发表评论。 将与市场保持密切沟通，做好政策调控。 相信与日本央行行长植田和男的沟通很顺利。",
+          "url": "https://wallstreetcn.com/livenews/3015441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "Vanguard称交易员低估了日本国债收益率上升的风险",
+          "url": "https://wallstreetcn.com/livenews/3015438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "日本10年期国债收益率升至1.94%，创2007年7月来新高。",
+          "url": "https://flash.jin10.com/detail/20251205075631239800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "报道：日本考虑2027年提高所得税用于国防开支",
+          "url": "https://wallstreetcn.com/livenews/3015428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "俄罗斯外交部：日本近期涉台好战言论具有煽动性且违宪",
@@ -212,6 +380,28 @@
           "time_info": "00时22分"
         },
         {
+          "title": "日本11月外汇储备 13594亿美元，前值13474亿美元。",
+          "url": "https://flash.jin10.com/detail/20251205075002394800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "俄方：日本近期涉台好战言论违宪",
+          "url": "https://www.toutiao.com/trending/7579195742356160522/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "UP主挑战反评分在日本吃一天",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8C%91%E6%88%98%E5%8F%8D%E8%AF%84%E5%88%86%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%90%83%E4%B8%80%E5%A4%A9",
           "source": "bilibili 热搜",
@@ -221,12 +411,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "日本10年期国债收益率升至1.94%，创2007年7月来新高。",
+          "url": "https://wallstreetcn.com/livenews/3015420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -244,6 +445,17 @@
           "time_info": "[00时22分 ~ 07时15分]"
         },
         {
+          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251205050523861800",
           "source": "金十数据",
@@ -255,6 +467,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时15分]"
+        },
+        {
+          "title": "美股收盘：小盘股指数再创历史新高",
+          "url": "https://www.cls.cn/detail/2220253",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时14分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）热门中概股行情一览（美股收盘）",
@@ -281,17 +505,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时15分]"
-        },
-        {
-          "title": "美股收盘：小盘股指数再创历史新高",
-          "url": "https://www.cls.cn/detail/2220253",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
         },
         {
           "title": "（美股）费城金银指数收涨0.40%，报319.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.37%，报2284.55点；北京时间22:30美股开盘之前微跌、持稳于2270点上方，23:08刷新日低至2252.98点，之后快速转涨。",
@@ -374,7 +587,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -396,7 +609,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -425,6 +638,83 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "潮水退去谁在裸泳？高盛警告：供应严重过剩，2026年铝、锂、铁矿石价格将重挫，铜价短期承压但长期坚挺",
+          "url": "https://wallstreetcn.com/articles/3760699",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时14分]"
+        },
+        {
+          "title": "高盛称：铜价突破11,000美元不会持久",
+          "url": "https://wallstreetcn.com/livenews/3015322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时16分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月4日（周四）晚盘收盘上涨0.32%报953.51元/克；<br/>上海黄金交易所白银T+D 12月4日（周四）晚盘收盘下跌1.51%报13334.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251205023103616800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时19分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加95.9吨，当前持仓量为16094.45吨。欢迎点击查看数据中心……",
+          "url": "https://flash.jin10.com/detail/20251205081745082800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "铜价大涨中企对“漫天要价”不妥协",
+          "url": "https://www.toutiao.com/trending/7580144463494778409/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
+          "url": "https://flash.jin10.com/detail/20251204234446522800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 5,
       "titles": [
@@ -438,8 +728,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时14分]"
         },
         {
           "title": "台当局以涉诈为由封锁小红书一年，郭正亮斥其“双标”",
@@ -449,20 +739,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
-          "url": "https://www.zhihu.com/question/1979578572474709507",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时14分]"
         },
         {
           "title": "抖音上线未成年人陪伴周刊",
@@ -472,8 +750,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时14分]"
         },
         {
           "title": "全抖音寻找玩法合伙人",
@@ -481,6 +759,18 @@
           "source": "抖音",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时14分]"
+        },
+        {
+          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
+          "url": "https://www.zhihu.com/question/1979578572474709507",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -548,60 +838,6 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "潮水退去谁在裸泳？高盛警告：供应严重过剩，2026年铝、锂、铁矿石价格将重挫，铜价短期承压但长期坚挺",
-          "url": "https://wallstreetcn.com/articles/3760699",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时15分]"
-        },
-        {
-          "title": "高盛称：铜价突破11,000美元不会持久",
-          "url": "https://wallstreetcn.com/livenews/3015322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时16分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月4日（周四）晚盘收盘上涨0.32%报953.51元/克；<br/>上海黄金交易所白银T+D 12月4日（周四）晚盘收盘下跌1.51%报13334.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251205023103616800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时19分]"
-        },
-        {
-          "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
-          "url": "https://flash.jin10.com/detail/20251204234446522800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 3,
       "titles": [
@@ -654,7 +890,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -665,7 +901,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
