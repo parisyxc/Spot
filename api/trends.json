@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T11:16:49.418923+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2025-12-05T12:26:10.875183+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "央视军事起底日本新型导弹",
@@ -56,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 11时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时26分]"
         },
         {
           "title": "日本高官公开道歉",
@@ -91,11 +91,12 @@
           "ranks": [
             20,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 11时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时26分]"
         },
         {
           "title": "外务省发力,日本公开买水军黑中国",
@@ -109,6 +110,29 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 11时16分]"
+        },
+        {
+          "title": "大外交丨王毅访俄、中俄对表，对日本发出“共同反对信号”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32104039",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时26分]"
+        },
+        {
+          "title": "日本民众集会，要求高市撤回涉台错误言论",
+          "url": "https://news.ifeng.com/c/8opaaqw2KpN",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 12时26分]"
         },
         {
           "title": "俄罗斯四批日本",
@@ -128,6 +152,17 @@
           "time_info": "[01时20分 ~ 07时15分]"
         },
         {
+          "title": "米饭当选日本年度美食，日本网民强烈不满",
+          "url": "https://news.ifeng.com/c/8opbUXyc3jt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 12时26分]"
+        },
+        {
           "title": "日媒警告：日本武器出口即将失控",
           "url": "https://www.toutiao.com/trending/7578916595339673642/",
           "source": "今日头条",
@@ -144,15 +179,38 @@
           "time_info": "[02时26分 ~ 07时15分]"
         },
         {
-          "title": "大外交丨王毅访俄、中俄对表，对日本发出“共同反对信号”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32104039",
-          "source": "澎湃新闻",
+          "title": "东大亮出稀土大棒专敲日本小头",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347738&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%A4%A7%E6%A3%92%E4%B8%93%E6%95%B2%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A4%B4",
+          "source": "贴吧",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时14分 ~ 11时16分]"
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "推动加息，日本央行如何“巧取”高市早苗",
+          "url": "https://wallstreetcn.com/articles/3760719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 12时26分]"
+        },
+        {
+          "title": "日本30年期国债收益率下跌3个基点，至3.360%。",
+          "url": "https://flash.jin10.com/detail/20251205122120343800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "日本10年期国债收益率下跌0.5个基点，至1.930%。",
@@ -164,28 +222,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
-        },
-        {
-          "title": "日本民众集会，要求高市撤回涉台错误言论",
-          "url": "https://news.ifeng.com/c/8opaaqw2KpN",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "米饭当选日本年度美食，日本网民强烈不满",
-          "url": "https://news.ifeng.com/c/8opbUXyc3jt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
         },
         {
           "title": "日本财务大臣片山皋月：具体货币政策措施由日本央行决定。",
@@ -279,6 +315,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "日本两年期国债收益率上涨1个基点，至1.030%，创2007年8月以来新高；日本5年期国债收益率上涨0.5个基点，至1.415%。",
+          "url": "https://flash.jin10.com/detail/20251205114120404800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
           "title": "国际货币基金组织：欣慰地看到一些“财政负担更重”的提案没有被纳入日本预算。",
           "url": "https://flash.jin10.com/detail/20251205000736002800",
           "source": "金十数据",
@@ -311,18 +358,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "推动加息，日本央行如何“巧取”高市早苗",
-          "url": "https://wallstreetcn.com/articles/3760719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -390,7 +426,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -434,7 +470,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -467,7 +503,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -526,6 +562,19 @@
           "time_info": "[00时22分 ~ 07时15分]"
         },
         {
+          "title": "美股收盘：小盘股指数再创历史新高",
+          "url": "https://www.cls.cn/detail/2220253",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时15分 ~ 12时26分]"
+        },
+        {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
           "url": "https://wallstreetcn.com/articles/3760711",
           "source": "华尔街见闻",
@@ -534,20 +583,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 11时16分]"
-        },
-        {
-          "title": "美股收盘：小盘股指数再创历史新高",
-          "url": "https://www.cls.cn/detail/2220253",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时26分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
@@ -721,7 +758,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "潮水退去谁在裸泳？高盛警告：供应严重过剩，2026年铝、锂、铁矿石价格将重挫，铜价短期承压但长期坚挺",
@@ -733,8 +770,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 11时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时26分]"
         },
         {
           "title": "高盛称：铜价突破11,000美元不会持久",
@@ -750,15 +787,15 @@
           "time_info": "[03时16分 ~ 05时16分]"
         },
         {
-          "title": "LME铜价升至纪录水平，花旗此前表示持看涨态度。",
-          "url": "https://wallstreetcn.com/livenews/3015541",
-          "source": "华尔街见闻-快讯",
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加95.9吨，当前持仓量为16094.45吨。",
+          "url": "https://flash.jin10.com/detail/20251205115131269800",
+          "source": "金十数据",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时16分"
+          "time_info": "12时26分"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月4日（周四）晚盘收盘上涨0.32%报953.51元/克；<br/>上海黄金交易所白银T+D 12月4日（周四）晚盘收盘下跌1.51%报13334.0元/千克。",
@@ -771,6 +808,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时19分]"
+        },
+        {
+          "title": "LME铜价升至纪录水平，花旗此前表示持看涨态度。",
+          "url": "https://wallstreetcn.com/livenews/3015541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时26分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加95.9吨，当前持仓量为16094.45吨。欢迎点击查看数据中心……",
@@ -790,9 +839,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "花旗：预计铜价将稳步攀升 或逼近13000美元",
+          "url": "https://flash.jin10.com/detail/20251205110627880800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "美初请数据创三年新低，现货白银大幅回调！美官员称特朗普考虑明年退出美墨加协定，日本央行12月加息几成定局......美油卖出信号持续保持强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -801,7 +861,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -823,7 +883,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -874,11 +934,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 11时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时26分]"
         },
         {
           "title": "抖音上线未成年人陪伴周刊",
@@ -910,7 +971,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         }
@@ -918,7 +979,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
@@ -933,6 +994,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时16分 ~ 06时14分]"
+        },
+        {
+          "title": "昔日战略核心大幅收缩！扎克伯格拟削减Meta元宇宙预算最高30%",
+          "url": "https://wallstreetcn.com/articles/3760742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
           "title": "Meta称正在Facebook和Instagram上推出全新的集中式中心，将各类支持工具和选项整合至一处。",
