@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-05T17:18:32.427347+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2025-12-05T18:18:27.390178+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "大外交丨王毅访俄、中俄对表，对日本发出“共同反对信号”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32104039",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时14分 ~ 17时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时14分 ~ 18时18分]"
         },
         {
           "title": "央视军事起底日本新型导弹",
@@ -88,11 +89,12 @@
           "ranks": [
             3,
             7,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 17时18分]"
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 18时18分]"
         },
         {
           "title": "高市早苗称日本对台湾立场“与《中日联合声明》一样”是战略欺骗",
@@ -205,6 +207,17 @@
           "time_info": "[01时20分 ~ 07时15分]"
         },
         {
+          "title": "日方声称中国在日本周边加强军事活动，中方回应",
+          "url": "https://news.ifeng.com/c/8oq2HE0Jkvt",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时18分]"
+        },
+        {
           "title": "日媒警告：日本武器出口即将失控",
           "url": "https://www.toutiao.com/trending/7578916595339673642/",
           "source": "今日头条",
@@ -219,17 +232,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时26分 ~ 07时15分]"
-        },
-        {
-          "title": "日方声称中国在日本周边加强军事活动，中方回应",
-          "url": "https://news.ifeng.com/c/8oq2HE0Jkvt",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
         },
         {
           "title": "日本30年期国债收益率下跌3个基点，至3.360%。",
@@ -263,6 +265,43 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 18时18分]"
+        },
+        {
+          "title": "高市当局被指洗脑日本儿童",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%BD%93%E5%B1%80%E8%A2%AB%E6%8C%87%E6%B4%97%E8%84%91%E6%97%A5%E6%9C%AC%E5%84%BF%E7%AB%A5",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 18时18分]"
+        },
+        {
+          "title": "唐湘龙痛批民进党当局，甘当“日本人”，奴性太可怕了",
+          "url": "https://v.ifeng.com/c/8oq4zqrgzxW",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时18分]"
         },
         {
           "title": "日本财务大臣片山皋月：具体货币政策措施由日本央行决定。",
@@ -307,31 +346,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
-        },
-        {
-          "title": "高市当局被指洗脑日本儿童",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%BD%93%E5%B1%80%E8%A2%AB%E6%8C%87%E6%B4%97%E8%84%91%E6%97%A5%E6%9C%AC%E5%84%BF%E7%AB%A5",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时25分 ~ 17时18分]"
-        },
-        {
-          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时25分 ~ 17时18分]"
         },
         {
           "title": "商务部回应“是否反制日本”",
@@ -379,17 +393,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
-        },
-        {
-          "title": "唐湘龙痛批民进党当局，甘当“日本人”，奴性太可怕了",
-          "url": "https://v.ifeng.com/c/8oq4zqrgzxW",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
         },
         {
           "title": "日本财务大臣片山皋月：将密切与市场沟通，同时推行适当的债务管理政策。",
@@ -521,6 +524,17 @@
           "time_info": "[00时22分 ~ 02时26分]"
         },
         {
+          "title": "中俄就涉日本问题达成高度共识",
+          "url": "https://www.cls.cn/detail/2221021",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "日本启动第17次核污染水排海",
           "url": "https://wallstreetcn.com/livenews/3015682",
           "source": "华尔街见闻-快讯",
@@ -549,7 +563,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -697,6 +711,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "日本大米价格持续上涨 再次刷新纪录",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E7%B1%B3%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%86%8D%E6%AC%A1%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "日本国债收益率面临上行压力 分析师称当前收益率“不算高”",
           "url": "https://flash.jin10.com/detail/20251205100847510800",
           "source": "金十数据",
@@ -802,7 +827,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -843,7 +868,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -854,8 +879,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时14分 ~ 17时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时14分 ~ 18时18分]"
         },
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -1027,9 +1052,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "美股核电股Oklo盘前跌超6%。此前，Oklo签订股权分销协议，拟（增加）发行至多15亿美元的股票。",
+          "url": "https://wallstreetcn.com/livenews/3015811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "周四（12月4日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.72%，报92590美元，日内交投于94440-91165美元区间。 CME以太币期货DCR主力合约持平，报3149.50美元，日内交投于3252.50-3080美元区间。 美股加密货币与加密货币关联指数涨2.72%，报71.95点。 最近24小时，MarketVector数字资产100小盘指数跌2.33%，暂报4277.88点。",
@@ -1041,6 +1077,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "Cloudflare(NET.N)美股盘前跌幅收窄至约2%，公司在北京时间17:12称已对此前出现的问题进行修复，正在监控结果。",
+          "url": "https://flash.jin10.com/detail/20251205172039774800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "Meta美股盘初涨5.7%，创7月31日以来最佳盘中表现。 报道称，Meta Platforms高管们已经讨论了明年将扎克伯格元宇宙预算削减高达30%的可能性，这可能包括最早在2026年1月裁员。",
@@ -1215,7 +1262,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -1314,8 +1361,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 17时18分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 18时18分]"
         },
         {
           "title": "抖音上线未成年人陪伴周刊",
@@ -1350,8 +1397,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 17时18分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时18分]"
         },
         {
           "title": "台媒：民进党当局宣称封锁小红书一年，郭正亮斥“双标”",
@@ -1441,9 +1488,73 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "比特币向下跌破91000美元，过去24小时内下跌1.87%。",
+          "url": "https://wallstreetcn.com/livenews/3015334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 06时14分]"
+        },
+        {
+          "title": "贝莱德比特币ETF恐连续六周出现资金净流出 持续时间为问世以来最长",
+          "url": "https://wallstreetcn.com/livenews/3015828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "任正非点赞小鹏机器人",
+          "url": "https://www.toutiao.com/trending/7579776859911782419/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时25分]"
+        },
+        {
+          "title": "北京将建全球首个国家人形机器人赛训基地 人形机器人产业化持续加速",
+          "url": "https://www.cls.cn/detail/2220290",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "比特币短线加速下跌，跌穿9.2万美元，目前跌幅1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3015254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     },
@@ -1497,59 +1608,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "比特币向下跌破91000美元，过去24小时内下跌1.87%。",
-          "url": "https://wallstreetcn.com/livenews/3015334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时14分]"
-        },
-        {
-          "title": "任正非点赞小鹏机器人",
-          "url": "https://www.toutiao.com/trending/7579776859911782419/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 14时25分]"
-        },
-        {
-          "title": "北京将建全球首个国家人形机器人赛训基地 人形机器人产业化持续加速",
-          "url": "https://www.cls.cn/detail/2220290",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "比特币短线加速下跌，跌穿9.2万美元，目前跌幅1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3015254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
         }
       ]
     },
