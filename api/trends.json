@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T00:22:24.284954+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-09T01:17:13.318887+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "日本发生7.5级地震",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "日本附近海域发生7.5级地震",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "日本发生7.5级地震",
@@ -37,8 +37,97 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "日本地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "日本发生7.5级地震",
+          "url": "https://www.douyin.com/hot/2330927",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "日本发布警报：预计将出现最高3米海啸",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E5%B8%83%E8%AD%A6%E6%8A%A5%EF%BC%9A%E9%A2%84%E8%AE%A1%E5%B0%86%E5%87%BA%E7%8E%B0%E6%9C%80%E9%AB%983%E7%B1%B3%E6%B5%B7%E5%95%B8",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "日本或出现3米高海啸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%88%96%E5%87%BA%E7%8E%B03%E7%B1%B3%E9%AB%98%E6%B5%B7%E5%95%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "12 月 8 日日本本州东部附近海域接连发生 7.5 、 5.6 级地震，气象厅布海啸警报，目前情况如何？",
+          "url": "https://www.zhihu.com/question/1981489756069126646",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "日本近海7.5级强震",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B77.5%E7%BA%A7%E5%BC%BA%E9%9C%87%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "中国游客遇日本地震：连滚带爬躲厕所",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%9A%E8%BF%9E%E6%BB%9A%E5%B8%A6%E7%88%AC%E8%BA%B2%E5%8E%95%E6%89%80",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "日本地震当地居民拍下自家书柜倒塌",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%BD%93%E5%9C%B0%E5%B1%85%E6%B0%91%E6%8B%8D%E4%B8%8B%E8%87%AA%E5%AE%B6%E4%B9%A6%E6%9F%9C%E5%80%92%E5%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "而根据最新观测情况，日本岩手县久慈港目前潮位上升50厘米，青森县陆奥小川原港和北海道浦河町潮位上升40厘米。",
@@ -52,70 +141,37 @@
           "time_info": "00时22分"
         },
         {
-          "title": "日本地震",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top",
+          "title": "日本突发7.6级地震，中国游客：连滚带爬躲到卫生间",
+          "url": "https://news.ifeng.com/c/8ovXAx8YrLo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 01时17分]"
+        },
+        {
+          "title": "日本7.5级地震监控剧烈摇晃",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%9B%91%E6%8E%A7%E5%89%A7%E7%83%88%E6%91%87%E6%99%83%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 01时17分]"
         },
         {
-          "title": "日本发生7.5级地震",
-          "url": "https://www.douyin.com/hot/2330927",
-          "source": "抖音",
+          "title": "日本强震触发多地海啸警报，岩手县沿岸潮位已上涨半米",
+          "url": "https://news.ifeng.com/c/8ovZMbrvfqV",
+          "source": "凤凰网",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "日本发布警报：预计将出现最高3米海啸",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E5%B8%83%E8%AD%A6%E6%8A%A5%EF%BC%9A%E9%A2%84%E8%AE%A1%E5%B0%86%E5%87%BA%E7%8E%B0%E6%9C%80%E9%AB%983%E7%B1%B3%E6%B5%B7%E5%95%B8",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "日本或出现3米高海啸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%88%96%E5%87%BA%E7%8E%B03%E7%B1%B3%E9%AB%98%E6%B5%B7%E5%95%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "日本近海7.5级强震",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B77.5%E7%BA%A7%E5%BC%BA%E9%9C%87%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "中国游客遇日本地震：连滚带爬躲厕所",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%9A%E8%BF%9E%E6%BB%9A%E5%B8%A6%E7%88%AC%E8%BA%B2%E5%8E%95%E6%89%80",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 01时17分]"
         },
         {
           "title": "日本本州东部附近海域发生7.5级地震",
@@ -129,48 +185,157 @@
           "time_info": "00时22分"
         },
         {
+          "title": "日本自卫队战机紧急起飞越发频繁",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E8%B5%B7%E9%A3%9E%E8%B6%8A%E5%8F%91%E9%A2%91%E7%B9%81%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "日本因强震暂停核污染水排海",
+          "url": "https://flash.jin10.com/detail/20251209003512637800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
           "title": "USGS：日本三泽市（Misawa）东偏东北74公里发生7.6级地震。",
           "url": "https://wallstreetcn.com/livenews/3017072",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
-          "title": "12 月 8 日日本本州东部附近海域接连发生 7.5 、 5.6 级地震，气象厅布海啸警报，目前情况如何？",
-          "url": "https://www.zhihu.com/question/1981489756069126646",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "日本地震当地居民拍下自家书柜倒塌",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%BD%93%E5%9C%B0%E5%B1%85%E6%B0%91%E6%8B%8D%E4%B8%8B%E8%87%AA%E5%AE%B6%E4%B9%A6%E6%9F%9C%E5%80%92%E5%A1%8C",
+          "title": "日本记者街头采访找不到中国游客",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E8%A1%97%E5%A4%B4%E9%87%87%E8%AE%BF%E6%89%BE%E4%B8%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2",
           "source": "百度热搜",
           "ranks": [
-            7
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "“蝎形”包围圈：日本高市早苗内阁遏华地缘战略初露端倪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130139",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "日本强震后发布海啸预警",
+          "url": "https://www.douyin.com/hot/2330931",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "日本正确认多座核电站情况",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%A3%E7%A1%AE%E8%AE%A4%E5%A4%9A%E5%BA%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "日本强震不会对中国沿岸造成影响",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E4%B8%8D%E4%BC%9A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B2%BF%E5%B2%B8%E9%80%A0%E6%88%90%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "日本为何24次兵推台海有事",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%9524%E6%AC%A1%E5%85%B5%E6%8E%A8%E5%8F%B0%E6%B5%B7%E6%9C%89%E4%BA%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时16分]"
+        },
+        {
+          "title": "日本内阁官房长官Minoru Kihara（木原稔）：正评估青森（Aomori）海岸地震带来的破坏性。",
+          "url": "https://wallstreetcn.com/livenews/3017060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "据共同社报道：日本福岛、东通核电站没有出现问题。",
+          "url": "https://wallstreetcn.com/livenews/3017057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "40厘米海啸抵达日本青森陆奥小川原港。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3017055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "日本原子能监管机构官员在电话中表示：在Onagawa（女川町）的核电站没有发现问题。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3017049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "日本石油公司引能仕（ENEOS）根据海啸预警撤离了八户液化天然气码头的工作人员。",
@@ -184,59 +349,15 @@
           "time_info": "00时22分"
         },
         {
-          "title": "日本内阁官房长官Minoru Kihara（木原稔）：正评估青森（Aomori）海岸地震带来的破坏性。",
-          "url": "https://wallstreetcn.com/livenews/3017060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "据共同社报道：日本福岛、东通核电站没有出现问题。",
-          "url": "https://wallstreetcn.com/livenews/3017057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "40厘米海啸抵达日本青森陆奥小川原港。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3017055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "日本记者街头采访找不到中国游客",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E8%A1%97%E5%A4%B4%E9%87%87%E8%AE%BF%E6%89%BE%E4%B8%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2",
-          "source": "百度热搜",
+          "title": "日本岩手县沿岸潮位上涨半米",
+          "url": "https://flash.jin10.com/detail/20251209002743209800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "日本自卫队战机紧急起飞越发频繁",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E8%B5%B7%E9%A3%9E%E8%B6%8A%E5%8F%91%E9%A2%91%E7%B9%81%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时17分"
         },
         {
           "title": "日本内阁官房长官木原稔敦促海啸风险地区的居民撤离。",
@@ -250,37 +371,26 @@
           "time_info": "00时22分"
         },
         {
-          "title": "“蝎形”包围圈：日本高市早苗内阁遏华地缘战略初露端倪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130139",
-          "source": "澎湃新闻",
+          "title": "日本气象厅：日本岩手县久慈港观测到70厘米高的海啸。",
+          "url": "https://flash.jin10.com/detail/20251209002001317800",
+          "source": "金十数据",
           "ranks": [
-            20
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时17分"
         },
         {
-          "title": "日本原子能监管机构官员在电话中表示：在Onagawa（女川町）的核电站没有发现问题。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3017049",
-          "source": "华尔街见闻-快讯",
+          "title": "日本震中附近发生火灾 现场火势较为猛烈",
+          "url": "https://flash.jin10.com/detail/20251209001855622800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "日本强震后发布海啸预警",
-          "url": "https://www.douyin.com/hot/2330931",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时17分"
         },
         {
           "title": "日本内阁官房长官木原稔：正在评估青森海岸地震造成的损失。",
@@ -316,33 +426,11 @@
           "time_info": "00时22分"
         },
         {
-          "title": "日本正确认多座核电站情况",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%A3%E7%A1%AE%E8%AE%A4%E5%A4%9A%E5%BA%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E6%83%85%E5%86%B5",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
           "title": "日本发海啸预警",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%91%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6",
           "source": "bilibili 热搜",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "日本强震不会对中国沿岸造成影响",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E4%B8%8D%E4%BC%9A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B2%BF%E5%B2%B8%E9%80%A0%E6%88%90%E5%BD%B1%E5%93%8D",
-          "source": "百度热搜",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -370,11 +458,12 @@
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -384,8 +473,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，半导体ETF涨1.57%，全球科技股指数ETF涨1.12%，科技行业ETF涨1.10%，网络股指数涨0.11%，能源业ETF则跌0.48%，可选消费ETF跌0.85%。",
@@ -412,37 +501,38 @@
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "keyword_group": "金价 铜价 白银",
       "match_count": 3,
       "titles": [
         {
-          "title": "狙击蝴蝶抖音追剧团",
-          "url": "https://www.douyin.com/hot/2330558",
-          "source": "抖音",
+          "title": "国际铜价再创新高 投行高喊这轮行情仍没到顶！",
+          "url": "https://www.cls.cn/detail/2222755",
+          "source": "财联社热门",
           "ranks": [
-            15
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
-          "title": "抖音“煮蛋仙人”两条评论涨粉百万",
-          "url": "https://www.toutiao.com/trending/7580640351493472265/",
+          "title": "铜价疯涨正悄悄影响你的生活",
+          "url": "https://www.toutiao.com/trending/7581405742733725220/",
           "source": "今日头条",
           "ranks": [
-            18
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 01时17分]"
         },
         {
-          "title": "QQ空间vs微信朋友圈",
-          "url": "https://s.weibo.com/weibo?q=QQ%E7%A9%BA%E9%97%B4vs%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "国际金银短线异动，现货黄金短线走低17美元，向下触及4180美元/盎司，日内跌0.38%。现货白银短线下挫0.4美元，现报57.74美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251208230824054800",
+          "source": "金十数据",
           "ranks": [
-            20
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -451,26 +541,39 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 3,
       "titles": [
         {
-          "title": "国际铜价再创新高 投行高喊这轮行情仍没到顶！",
-          "url": "https://www.cls.cn/detail/2222755",
-          "source": "财联社热门",
+          "title": "狙击蝴蝶抖音追剧团",
+          "url": "https://www.douyin.com/hot/2330558",
+          "source": "抖音",
           "ranks": [
-            12
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
-          "title": "国际金银短线异动，现货黄金短线走低17美元，向下触及4180美元/盎司，日内跌0.38%。现货白银短线下挫0.4美元，现报57.74美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251208230824054800",
-          "source": "金十数据",
+          "title": "抖音“煮蛋仙人”两条评论涨粉百万",
+          "url": "https://www.toutiao.com/trending/7580640351493472265/",
+          "source": "今日头条",
           "ranks": [
-            26
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "QQ空间vs微信朋友圈",
+          "url": "https://s.weibo.com/weibo?q=QQ%E7%A9%BA%E9%97%B4vs%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -487,11 +590,12 @@
           "url": "https://wallstreetcn.com/livenews/3017065",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
         }
       ]
     },
@@ -504,11 +608,12 @@
           "url": "https://www.cls.cn/detail/2223271",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         }
       ]
     },
@@ -521,11 +626,12 @@
           "url": "https://www.zhihu.com/question/1980922285369094626",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         }
       ]
     },
@@ -538,11 +644,12 @@
           "url": "https://wallstreetcn.com/livenews/3017061",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
         }
       ]
     },
@@ -558,8 +665,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         }
       ]
     }
