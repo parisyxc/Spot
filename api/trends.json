@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T18:20:28.469848+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2025-12-09T19:16:20.365121+08:00",
+  "total_titles_processed": 1766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 160,
+      "match_count": 163,
       "titles": [
         {
           "title": "日本发生7.5级地震",
@@ -147,34 +147,6 @@
           "time_info": "[05时14分 ~ 13时17分]"
         },
         {
-          "title": "日本7.5级地震瞬间画面",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC7.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1,
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 18时20分]"
-        },
-        {
-          "title": "日本真有事,近海突发7.5级强震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347820&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%2C%E8%BF%91%E6%B5%B7%E7%AA%81%E5%8F%917.5%E7%BA%A7%E5%BC%BA%E9%9C%87",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            6,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时15分 ~ 18时20分]"
-        },
-        {
           "title": "日本自卫队战机紧急起飞越发频繁",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E8%B5%B7%E9%A3%9E%E8%B6%8A%E5%8F%91%E9%A2%91%E7%B9%81%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -189,6 +161,21 @@
           "time_info": "[00时22分 ~ 07时15分]"
         },
         {
+          "title": "日本7.5级地震瞬间画面",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC7.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1,
+            3,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 19时16分]"
+        },
+        {
           "title": "日本青森县东部海域发生7.6级地震：触发海啸预警，东京震感明显",
           "url": "https://m.thepaper.cn/newsDetail_forward_32132836",
           "source": "澎湃新闻",
@@ -199,8 +186,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[04时18分 ~ 18时20分]"
+          "appearance_count": 19,
+          "time_info": "[04时18分 ~ 19时16分]"
         },
         {
           "title": "7.5级强震后日本又发生6.6级地震",
@@ -233,6 +220,21 @@
           "time_info": "[00时22分 ~ 09时14分]"
         },
         {
+          "title": "日本真有事,近海突发7.5级强震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347820&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%2C%E8%BF%91%E6%B5%B7%E7%AA%81%E5%8F%917.5%E7%BA%A7%E5%BC%BA%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            6,
+            8,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时15分 ~ 19时16分]"
+        },
+        {
           "title": "日本近海7.5级强震",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B77.5%E7%BA%A7%E5%BC%BA%E9%9C%87%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -260,6 +262,19 @@
           "time_info": "[00时22分 ~ 09时14分]"
         },
         {
+          "title": "日本强震 高市神色慌张一路小跑",
+          "url": "https://www.toutiao.com/trending/7581078528985759750/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时26分 ~ 19时16分]"
+        },
+        {
           "title": "日本发生7.5级地震",
           "url": "https://www.douyin.com/hot/2330927",
           "source": "抖音",
@@ -270,8 +285,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 18时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时22分 ~ 19时16分]"
         },
         {
           "title": "日本正确认多座核电站震后状态",
@@ -312,16 +327,15 @@
           "time_info": "[12时25分 ~ 16时24分]"
         },
         {
-          "title": "日本强震 高市神色慌张一路小跑",
-          "url": "https://www.toutiao.com/trending/7581078528985759750/",
-          "source": "今日头条",
+          "title": "中国向日本出口稀土出现延误？外交部回应",
+          "url": "https://news.ifeng.com/c/8owfgsEZQGb",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时26分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 19时16分]"
         },
         {
           "title": "日本又发生6.6级地震",
@@ -363,11 +377,12 @@
             13,
             14,
             15,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 18时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时22分 ~ 19时16分]"
         },
         {
           "title": "日本强震后发布海啸预警",
@@ -441,15 +456,42 @@
           "time_info": "[02时24分 ~ 07时15分]"
         },
         {
-          "title": "中国向日本出口稀土出现延误？外交部回应",
-          "url": "https://news.ifeng.com/c/8owfgsEZQGb",
+          "title": "凤凰专访丨日本驻华大使：希望通过对话解决两国问题",
+          "url": "https://news.ifeng.com/c/8owcF9qQ4g4",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 19时16分]"
+        },
+        {
+          "title": "解放军歼15雷达锁定日战机，栗正杰：日本先挑衅，反被吓破胆",
+          "url": "https://v.ifeng.com/c/8owV8vaAnv5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 19时16分]"
+        },
+        {
+          "title": "日本7.5级强震：一核废处理厂池水溢出，当地警告或有更大地震",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32135949",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 19时16分]"
         },
         {
           "title": "日本警告后续或有更大地震",
@@ -467,26 +509,17 @@
           "time_info": "[09时13分 ~ 15时19分]"
         },
         {
-          "title": "凤凰专访丨日本驻华大使：希望通过对话解决两国问题",
-          "url": "https://news.ifeng.com/c/8owcF9qQ4g4",
-          "source": "凤凰网",
+          "title": "“丧葬风”头巾实为日本品牌设计",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%A7%E8%91%AC%E9%A3%8E%E2%80%9D%E5%A4%B4%E5%B7%BE%E5%AE%9E%E4%B8%BA%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E8%AE%BE%E8%AE%A1",
+          "source": "百度热搜",
           "ranks": [
-            4
+            25,
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时20分]"
-        },
-        {
-          "title": "解放军歼15雷达锁定日战机，栗正杰：日本先挑衅，反被吓破胆",
-          "url": "https://v.ifeng.com/c/8owV8vaAnv5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时20分]"
+          "appearance_count": 6,
+          "time_info": "[15时19分 ~ 19时16分]"
         },
         {
           "title": "日本又发生6.6级地震",
@@ -517,21 +550,6 @@
           "time_info": "[09时13分 ~ 13时17分]"
         },
         {
-          "title": "日本7.5级强震：一核废处理厂池水溢出，当地警告或有更大地震",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32135949",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 18时20分]"
-        },
-        {
           "title": "日本地震致多人受伤 超10万人需避难",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E8%87%B4%E5%A4%9A%E4%BA%BA%E5%8F%97%E4%BC%A4+%E8%B6%8510%E4%B8%87%E4%BA%BA%E9%9C%80%E9%81%BF%E9%9A%BE",
           "source": "百度热搜",
@@ -544,6 +562,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时13分 ~ 13时17分]"
+        },
+        {
+          "title": "日本强震对辽宁舰有影响吗",
+          "url": "https://www.toutiao.com/trending/7581749000097762867/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时16分]"
         },
         {
           "title": "日本警告后续或有更大地震",
@@ -582,16 +612,16 @@
           "time_info": "[11时15分 ~ 13时17分]"
         },
         {
-          "title": "“丧葬风”头巾实为日本品牌设计",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%A7%E8%91%AC%E9%A3%8E%E2%80%9D%E5%A4%B4%E5%B7%BE%E5%AE%9E%E4%B8%BA%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E8%AE%BE%E8%AE%A1",
+          "title": "日本气象厅：一周内或发生9级地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%94%E8%B1%A1%E5%8E%85%EF%BC%9A%E4%B8%80%E5%91%A8%E5%86%85%E6%88%96%E5%8F%91%E7%94%9F9%E7%BA%A7%E5%9C%B0%E9%9C%87",
           "source": "百度热搜",
           "ranks": [
-            25,
-            5
+            19,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时19分 ~ 18时20分]"
+          "time_info": "[16时23分 ~ 19时16分]"
         },
         {
           "title": "日本强震瞬间建筑狂晃震中附近大火",
@@ -608,18 +638,6 @@
           "time_info": "[09时13分 ~ 13时17分]"
         },
         {
-          "title": "日本强震对辽宁舰有影响吗",
-          "url": "https://www.toutiao.com/trending/7581749000097762867/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
-        },
-        {
           "title": "日本青森县近海强震，未来一周大规模地震风险多高？",
           "url": "https://news.ifeng.com/c/8owaWx3Cdjk",
           "source": "凤凰网",
@@ -629,18 +647,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时23分 ~ 16时24分]"
-        },
-        {
-          "title": "日本气象厅：一周内或发生9级地震",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%94%E8%B1%A1%E5%8E%85%EF%BC%9A%E4%B8%80%E5%91%A8%E5%86%85%E6%88%96%E5%8F%91%E7%94%9F9%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时20分]"
         },
         {
           "title": "尹正演的日本军人让网友恨得牙痒痒",
@@ -732,7 +738,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -792,6 +798,18 @@
           "time_info": "[11时15分 ~ 11时16分]"
         },
         {
+          "title": "中国向日本出口稀土出现延误？外交部：中方正依法依规处理有关问题",
+          "url": "https://www.cls.cn/detail/2223971",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
           "title": "日本本州东部附近海域发生7.5级地震",
           "url": "https://news.ifeng.com/c/8ovUo26Y4N0",
           "source": "凤凰网",
@@ -849,6 +867,19 @@
           "time_info": "[09时13分 ~ 12时25分]"
         },
         {
+          "title": "一图看懂｜辽宁舰正常演训，日本为何炒作所谓“雷达照射”问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132572",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 19时16分]"
+        },
+        {
           "title": "日本自卫队战机紧急起飞越发频繁",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E8%B5%B7%E9%A3%9E%E8%B6%8A%E5%8F%91%E9%A2%91%E7%B9%81",
           "source": "百度热搜",
@@ -892,17 +923,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
-        },
-        {
-          "title": "中国向日本出口稀土出现延误？外交部：中方正依法依规处理有关问题",
-          "url": "https://www.cls.cn/detail/2223971",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "中国地震台网正式测定：12月09日05时52分在日本本州东部远海（北纬40.95度，东经143.45度）发生6.6级地震，震源深度30千米。",
@@ -988,18 +1008,6 @@
           "time_info": "[14时26分 ~ 16时24分]"
         },
         {
-          "title": "一图看懂｜辽宁舰正常演训，日本为何炒作所谓“雷达照射”问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32132572",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时20分]"
-        },
-        {
           "title": "日本发海啸预警",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%91%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6",
           "source": "bilibili 热搜",
@@ -1012,6 +1020,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 17时20分]"
+        },
+        {
+          "title": "中方回应向日本出口稀土出现延误",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%90%91%E6%97%A5%E6%9C%AC%E5%87%BA%E5%8F%A3%E7%A8%80%E5%9C%9F%E5%87%BA%E7%8E%B0%E5%BB%B6%E8%AF%AF",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时16分]"
         },
         {
           "title": "据日本放送协会（NHK）：日本北部地震后，日本解除所有海啸预警。",
@@ -1204,6 +1224,18 @@
           "time_info": "[02时25分 ~ 03时14分]"
         },
         {
+          "title": "大V：日本加贺号出动或为应对辽宁舰",
+          "url": "https://www.toutiao.com/trending/7581759930256854591/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
           "title": "日本原子能监管机构官员在电话中表示：在Onagawa（女川町）的核电站没有发现问题。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3017049",
           "source": "华尔街见闻-快讯",
@@ -1304,24 +1336,13 @@
           "time_info": "14时26分"
         },
         {
-          "title": "中方回应向日本出口稀土出现延误",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%90%91%E6%97%A5%E6%9C%AC%E5%87%BA%E5%8F%A3%E7%A8%80%E5%9C%9F%E5%87%BA%E7%8E%B0%E5%BB%B6%E8%AF%AF",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
           "title": "日本央行行长植田和男：有信心七国集团能在危机情况下协同行动。",
           "url": "https://flash.jin10.com/detail/20251209173147673800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1343,7 +1364,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1420,9 +1441,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "如何看待「日本三季度 GDP 年化降幅扩大至 2.3%」？日本经济遇到了哪些问题？",
+          "url": "https://www.zhihu.com/question/1981354069793731329",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "日本岩手县沿岸潮位上涨半米",
@@ -1453,7 +1485,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1513,6 +1545,17 @@
           "time_info": "14时26分"
         },
         {
+          "title": "日本财政部高级官员：日本在G7财长会议上并未暗示无法动用被冻结资产向乌克兰发放贷款。",
+          "url": "https://flash.jin10.com/detail/20251209184946148800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "日本未认真履行战败国义务",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AA%E8%AE%A4%E7%9C%9F%E5%B1%A5%E8%A1%8C%E6%88%98%E8%B4%A5%E5%9B%BD%E4%B9%89%E5%8A%A1%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1563,9 +1606,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "日本财政部高级官员：否认媒体有关日本拒绝欧盟请求——即利用被冻结的俄罗斯国家资产为乌克兰提供资金的报道。",
+          "url": "https://flash.jin10.com/detail/20251209184800730800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "日本首相高市早苗：（在被问及下一次日本央行会议讨论加息时将如何应对时表示）不便置评。",
@@ -1585,7 +1639,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1599,17 +1653,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
-        },
-        {
-          "title": "大V：日本加贺号出动或为应对辽宁舰",
-          "url": "https://www.toutiao.com/trending/7581759930256854591/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "美国国债收益率在日本地震后上涨，10年期国债收益率涨幅扩大至4个基点，一度触及4.182%的两个半月高点。",
@@ -1640,7 +1683,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1673,7 +1716,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1717,7 +1760,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1750,7 +1793,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1783,7 +1826,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1827,7 +1870,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1838,7 +1881,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1882,7 +1925,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1912,7 +1955,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1923,8 +1966,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 18时20分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 19时16分]"
         },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -2137,6 +2180,17 @@
           "time_info": "[09时13分 ~ 09时14分]"
         },
         {
+          "title": "英伟达美股盘前涨幅收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3017613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "英伟达美股盘后涨幅扩大至2.7%。",
           "url": "https://wallstreetcn.com/livenews/3017185",
           "source": "华尔街见闻-快讯",
@@ -2249,6 +2303,18 @@
           "time_info": "[09时13分 ~ 15时19分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
           "title": "欧盟将调查谷歌是否违反竞争法",
           "url": "https://wallstreetcn.com/livenews/3017511",
           "source": "华尔街见闻-快讯",
@@ -2259,17 +2325,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时24分 ~ 17时20分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -2592,7 +2647,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
@@ -2689,11 +2744,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时16分]"
         },
         {
           "title": "QQ空间vs微信朋友圈",
