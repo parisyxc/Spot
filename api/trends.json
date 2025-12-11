@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T04:20:18.279150+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2025-12-12T05:19:20.111003+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -106,7 +106,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -190,8 +190,157 @@
       ]
     },
     {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时19分]"
+        },
+        {
+          "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761138",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时19分]"
+        },
+        {
+          "title": "Lululemon(LULU.O)股价在财报发布上涨，涨幅达7%。",
+          "url": "https://flash.jin10.com/detail/20251212050844240800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251212050631133800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3019409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251212050548995800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "美股收盘：道指创新高 甲骨文跌超10%",
+          "url": "https://flash.jin10.com/detail/20251212050039144800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
+          "url": "https://wallstreetcn.com/articles/3761175",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
+          "url": "https://wallstreetcn.com/livenews/3019299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，科技行业ETF跌超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3019297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251212013328350800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "甲骨文美股盘初重挫16%，创2001年3月以来最大单日跌幅，市值蒸发1020亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3019296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251212013102151800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -214,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "标普500指数初步收涨0.2%，原材料板块涨2.1%，金融板块涨1.8%，科技板块跌0.7%，电信板块跌1.1%。 纳斯达克100指数初步收跌0.3%，成分股中，Trade Desk初步收跌5.3%，Arm控股跌3.8%，迈威尔科技跌3.5%，英特尔跌3.3%，谷歌A跌2.5%，美光科技跌2.2%，Adobe则收涨2.1%，再生元制药涨2.7%，Linde Plc.涨2.7%，万豪国际涨3.3%，核电股Constellation Energy涨4.3%。 Visa初步收涨6.3%，领跑道指成分股，耐克涨2.9%，高盛涨2.8%，美国运通涨2.7%，Salesforce则跌0.8%表现倒数第五，亚马逊跌0.9%，思科跌1.2%，可口可乐跌1.5%，英伟达跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3019406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "谷歌(GOOG.O)：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。",
@@ -314,6 +474,20 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "日本民众东京集会反对日本军事扩张",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E4%B8%9C%E4%BA%AC%E9%9B%86%E4%BC%9A%E5%8F%8D%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 05时19分]"
+        },
+        {
           "title": "外交部再次提醒近期避免前往日本",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
           "source": "bilibili 热搜",
@@ -321,24 +495,12 @@
             30,
             23,
             16,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 04时20分]"
-        },
-        {
-          "title": "日本民众东京集会反对日本军事扩张",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E4%B8%9C%E4%BA%AC%E9%9B%86%E4%BC%9A%E5%8F%8D%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 05时19分]"
         },
         {
           "title": "日本泛太平洋铜业公司同意延长2026年铜冶炼费用不变",
@@ -378,6 +540,18 @@
           "time_info": "[03时17分 ~ 04时20分]"
         },
         {
+          "title": "日本民众东京集会反对日本军事扩张",
+          "url": "https://www.toutiao.com/trending/7582214204497920038/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 05时19分]"
+        },
+        {
           "title": "孙颖莎晋级八强 下轮对阵日本选手",
           "url": "https://www.toutiao.com/trending/7581591464342372398/",
           "source": "今日头条",
@@ -409,96 +583,64 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 02时24分]"
-        },
-        {
-          "title": "日本民众东京集会反对日本军事扩张",
-          "url": "https://www.toutiao.com/trending/7582214204497920038/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
         }
       ]
     },
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 7,
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
-          "url": "https://wallstreetcn.com/articles/3761091",
-          "source": "华尔街见闻",
+          "title": "特斯拉机器人摔倒摘镜被群嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347877&amp;topic_name=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%91%94%E5%80%92%E6%91%98%E9%95%9C%E8%A2%AB%E7%BE%A4%E5%98%B2",
+          "source": "贴吧",
           "ranks": [
-            2
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时19分]"
         },
         {
-          "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761138",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
-          "url": "https://wallstreetcn.com/livenews/3019299",
+          "title": "“特斯拉劲敌”Rivian开发AI芯片，用于在未来车型中取代英伟达产品。 其AI平台的性能是之前款式英伟达系统的四倍。",
+          "url": "https://wallstreetcn.com/livenews/3019345",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时22分"
         },
         {
-          "title": "行业ETF美股盘初涨跌各异，科技行业ETF跌超1.4%",
-          "url": "https://wallstreetcn.com/livenews/3019297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251212013328350800",
+          "title": "特斯拉11月美国销量跌至近四年低点，廉价车型未能扭转颓势",
+          "url": "https://flash.jin10.com/detail/20251212045720176800",
           "source": "金十数据",
           "ranks": [
-            28
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "05时19分"
         },
         {
-          "title": "甲骨文美股盘初重挫16%，创2001年3月以来最大单日跌幅，市值蒸发1020亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3019296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251212013102151800",
+          "title": "考克斯数据：尽管特斯拉(TSLA.O)推出更便宜的Model Y和Model 3，但其11月在美销量仍降至近4年低点。（外媒更正，非近3年）",
+          "url": "https://flash.jin10.com/detail/20251212044239983800",
           "source": "金十数据",
           "ranks": [
-            29
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "“特斯拉劲敌”Rivian推出AI芯片，以在未来车型中取代英伟达产品",
+          "url": "https://flash.jin10.com/detail/20251212014224258800",
+          "source": "金十数据",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -511,20 +653,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "男子委托朋友微信购彩票中 748 万，店主称未收到款扣押彩票，男子起诉确认所有权遭驳回，怎样解读？",
-          "url": "https://www.zhihu.com/question/1981722577396311558",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
           "title": "抖音也能召唤雪花了",
           "url": "https://www.douyin.com/hot/2333556",
           "source": "抖音",
@@ -535,8 +663,37 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时19分]"
+        },
+        {
+          "title": "男子委托朋友微信购彩票中 748 万，店主称未收到款扣押彩票，男子起诉确认所有权遭驳回，怎样解读？",
+          "url": "https://www.zhihu.com/question/1981722577396311558",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9,
+            13,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时19分]"
+        },
+        {
+          "title": "时代少年团在抖音宠粉交作业",
+          "url": "https://www.douyin.com/hot/2333368",
+          "source": "抖音",
+          "ranks": [
+            26,
+            27,
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时19分]"
         },
         {
           "title": "上抖音免费看CBA",
@@ -550,29 +707,17 @@
           "time_info": "[00时23分 ~ 01时22分]"
         },
         {
-          "title": "时代少年团在抖音宠粉交作业",
-          "url": "https://www.douyin.com/hot/2333368",
-          "source": "抖音",
-          "ranks": [
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
           "title": "yjj官宣抖音首秀",
           "url": "https://www.douyin.com/hot/2333271",
           "source": "抖音",
           "ranks": [
             26,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 05时19分]"
         }
       ]
     },
@@ -629,46 +774,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特斯拉机器人摔倒摘镜被群嘲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347877&amp;topic_name=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%91%94%E5%80%92%E6%91%98%E9%95%9C%E8%A2%AB%E7%BE%A4%E5%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
-          "title": "“特斯拉劲敌”Rivian开发AI芯片，用于在未来车型中取代英伟达产品。 其AI平台的性能是之前款式英伟达系统的四倍。",
-          "url": "https://wallstreetcn.com/livenews/3019345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "“特斯拉劲敌”Rivian推出AI芯片，以在未来车型中取代英伟达产品",
-          "url": "https://flash.jin10.com/detail/20251212014224258800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 1,
       "titles": [
@@ -683,6 +788,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新华每日电讯：人形机器人企业要避免为急于“上车”作“表面功夫”",
+          "url": "https://wallstreetcn.com/livenews/3019400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     }
