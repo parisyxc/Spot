@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T06:15:19.094598+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2025-12-15T07:15:21.810017+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "日本被指正谋划“太空珍珠港事件”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "想摆脱对华稀土依赖？“日本仍很弱，美国尤其脆皮”",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "超级央行周来了！日本带头加息，发达国家央行“降息周期”进入尾声，明年美联储“独自降息”？",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "日本被曝正在谋划“太空珍珠港事件”",
@@ -61,11 +61,12 @@
             22,
             16,
             5,
-            19
+            19,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "“熊”起!日本年度汉字紧跟时事",
@@ -76,8 +77,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "日本能登半岛近海地区发生4.9级地震",
@@ -87,11 +88,12 @@
             6,
             9,
             12,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "古特雷斯称日本侵华引发二战爆发",
@@ -118,19 +120,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "机器人年终盘点①：宇树科技官宣IPO，掀起行业资本浪潮",
           "url": "https://www.cls.cn/detail/2228623",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "比特币下跌1.6%，刷新日低，逼近88500美元。",
@@ -141,11 +144,41 @@
             4,
             6,
             7,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时22分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时22分 ~ 07时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "金十图示：2025年12月15日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251215064308485800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
@@ -173,24 +206,6 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
-          "url": "https://wallstreetcn.com/articles/3761367",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 1,
       "titles": [
@@ -205,8 +220,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时15分]"
         }
       ]
     }
