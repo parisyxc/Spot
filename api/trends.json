@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T12:36:57.000130+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2025-12-15T13:22:28.950756+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "日本被指正谋划“太空珍珠港事件”",
@@ -80,8 +80,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 12时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 13时22分]"
         },
         {
           "title": "日本能登半岛近海地区发生4.9级地震",
@@ -106,8 +106,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时22分]"
         },
         {
           "title": "日本将不再有大熊猫",
@@ -116,9 +116,31 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时22分]"
+        },
+        {
+          "title": "日本央行据悉最早将于1月开始出售ETF持仓。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3020704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "13时22分"
+        },
+        {
+          "title": "外交部：对日本自卫队前统合幕僚长岩崎茂采取反制措施",
+          "url": "https://www.cls.cn/detail/2229296",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时22分]"
         },
         {
           "title": "南京古石仍被压在日本“和平塔”下",
@@ -143,38 +165,39 @@
           "time_info": "09时18分"
         },
         {
-          "title": "日本10月第三产业活动指数环比 0.9%，预期 0.2%，前值 0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3020680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "中方反制日本自卫队前高官",
           "url": "https://www.toutiao.com/trending/7583898649898598463/",
           "source": "今日头条",
           "ranks": [
             4,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时22分]"
         },
         {
-          "title": "外交部：对日本自卫队前统合幕僚长岩崎茂采取反制措施",
-          "url": "https://www.cls.cn/detail/2229296",
-          "source": "财联社热门",
+          "title": "日本10月第三产业活动指数月率 0.9%，预期0.2%，前值0.30%。",
+          "url": "https://flash.jin10.com/detail/20251215123022217800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "13时22分"
+        },
+        {
+          "title": "日本央行：央行已经通过与商界领袖接触，收集有关企业2026财年相对于2025财年薪资增长立场的信息。 大多数企业似乎都认为，2026财年加薪幅度应与2025财年持平或相近。 企业对于薪资增长的看法是出于在劳动力持续严重短缺下需要留住员工。",
+          "url": "https://wallstreetcn.com/livenews/3020693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "日本10年期国债收益率下行0.5BP报1.945%。",
@@ -186,6 +209,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "日本10月第三产业活动指数环比 0.9%，预期 0.2%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3020680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时22分]"
         },
         {
           "title": "日本将终止大型太阳能项目补贴计划。（日本共同社）",
@@ -342,6 +377,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "日本媒体人：南京大屠杀真相不容否认",
+          "url": "https://www.toutiao.com/trending/7583190318049640486/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "日本央行：企业将美国关税影响、劳动力成本上升、劳动力短缺以及物价上涨引发的消费疲软，列为影响商业景气的负面因素。 企业指出美国贸易政策不确定性降低、美国关税影响小于预期、成本转嫁，以及人工智能和芯片需求强劲是提振企业信心的正面因素。",
           "url": "https://wallstreetcn.com/livenews/3020497",
           "source": "华尔街见闻-快讯",
@@ -390,8 +436,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 12时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 13时22分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）白银ETF持仓报告",
@@ -399,11 +445,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 13时22分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月15日（周一）早盘盘初上涨0.99%报971.2元/克；<br/>上海黄金交易所白银T+D 12月15日（周一）早盘盘初下跌2.3%报14503.0元/千克。",
@@ -453,8 +500,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时18分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 13时22分]"
         },
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -462,11 +509,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 13时22分]"
+        },
+        {
+          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
+          "url": "https://www.cls.cn/detail/2229152",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时18分 ~ 12时36分]"
+          "time_info": "[11时26分 ~ 13时22分]"
         },
         {
           "title": "据港交所文件，12月14日，广州广合科技股份有限公司向港交所提交上市申请书，联席保荐人为中信证券、汇丰。",
@@ -484,24 +544,12 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
-          "url": "https://www.cls.cn/detail/2229152",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "人形机器人细分龙头年内涨超300% 梳理产业链成本占比居前A股名单",
@@ -541,6 +589,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时22分 ~ 07时15分]"
+        },
+        {
+          "title": "智元机器人将于12月22日发布擎天租平台",
+          "url": "https://wallstreetcn.com/livenews/3020685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒生科技指数日内跌幅扩大至2%。华虹半导体跌超7%，百度、快手跌超4%，中芯国际跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3020701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         }
       ]
     },
