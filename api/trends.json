@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T12:33:02.907489+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2025-12-16T13:19:43.316225+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "日本学界发愁：中国要在发展中国家扩大影响力了",
@@ -69,6 +69,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "中方代表当面驳斥日方狡辩：对日本无法听其言，只能观其行",
+          "url": "https://news.ifeng.com/c/8p7xQd3P7LW",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "日本不需要把国家带向战争的首相",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E6%8A%8A%E5%9B%BD%E5%AE%B6%E5%B8%A6%E5%90%91%E6%88%98%E4%BA%89%E7%9A%84%E9%A6%96%E7%9B%B8%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -80,26 +91,28 @@
           "time_info": "11时21分"
         },
         {
-          "title": "日本国内最后两只大熊猫即将租借到期回国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32178939",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 12时33分]"
-        },
-        {
           "title": "大熊猫要回国了 日本民众依依惜别",
           "url": "https://www.toutiao.com/trending/7584224599676554794/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 13时19分]"
+        },
+        {
+          "title": "日本国内最后两只大熊猫即将租借到期回国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32178939",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 13时19分]"
         },
         {
           "title": "日本12月综合PMI初值 51.5，前值52。",
@@ -215,7 +228,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
@@ -265,6 +278,18 @@
           "time_info": "09时16分"
         },
         {
+          "title": "金十图示：2025年12月16日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251216115054940800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时19分]"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少42.3吨，当前持仓量为16060.6吨。欢迎点击查看数据中心…",
           "url": "https://flash.jin10.com/detail/20251216064822705800",
           "source": "金十数据",
@@ -274,6 +299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "金价三年大涨近150%，能否更进一步？",
+          "url": "https://flash.jin10.com/detail/20251216122011848800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "金十图示：2025年12月16日（周二）上海金早盘价为970.56元/克，较国际金价(970.45元/克)，高0.11元/克",
@@ -296,17 +332,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "金十图示：2025年12月16日（周二）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251216115054940800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "周一（12月15日）纽约尾盘，现货白银涨 3.28%，报63.9914美元/盎司，全天持续走高。 COMEX白银期货涨3.25%，报64.020美元/盎司。 COMEX铜期货涨1.10%，报5.4075美元/磅，北京时间20:56曾刷新日高至5.52美元。 现货铂金涨2.48%，报1790.52美元/盎司；现货钯金涨5.51%，报1575.04美元/盎司。",
@@ -350,7 +375,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -418,6 +443,18 @@
           "time_info": "[01时09分 ~ 09时16分]"
         },
         {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 13时19分]"
+        },
+        {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
           "url": "https://wallstreetcn.com/articles/3761417",
           "source": "华尔街见闻",
@@ -431,18 +468,6 @@
           "time_info": "[01时09分 ~ 06时17分]"
         },
         {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 12时33分]"
-        },
-        {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
           "url": "https://wallstreetcn.com/articles/3761417",
           "source": "华尔街见闻",
@@ -450,8 +475,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 13时19分]"
         },
         {
           "title": "非农数据前夕，科技股续跌拖累大盘，特斯拉创年内新高，加密货币遭挫，人民币走强",
@@ -570,71 +595,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时22分]"
-        },
-        {
-          "title": "OpenAI：从谷歌挖来Albert Lee。",
-          "url": "https://flash.jin10.com/detail/20251216015417172800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 04时19分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)：迪士尼+今日在美国向Meta Quest用户推出海量娱乐内容库。",
-          "url": "https://flash.jin10.com/detail/20251216023805986800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
-          "url": "https://wallstreetcn.com/livenews/3021137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "机器人年终盘点②：具身智能加速奔赴“场景”，机遇与挑战共存",
@@ -700,6 +662,80 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 06时17分]"
+        },
+        {
+          "title": "工业机器人产量增长超20%",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%A7%E9%87%8F%E5%A2%9E%E9%95%BF%E8%B6%8520%25%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时22分]"
+        },
+        {
+          "title": "OpenAI：从谷歌挖来Albert Lee。",
+          "url": "https://flash.jin10.com/detail/20251216015417172800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 04时19分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)：迪士尼+今日在美国向Meta Quest用户推出海量娱乐内容库。",
+          "url": "https://flash.jin10.com/detail/20251216023805986800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
+          "url": "https://wallstreetcn.com/livenews/3021137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     },
@@ -712,22 +748,24 @@
           "url": "https://flash.jin10.com/detail/20251216113315753800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时19分]"
         },
         {
           "title": "科创板半导体部分重组交易终止 行业人士：存在三方面原因",
           "url": "https://wallstreetcn.com/livenews/3021392",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时19分]"
         },
         {
           "title": "观察｜半导体领域并购案密集“踩刹车”，市场环境变化之下如何并购整合？",
@@ -755,8 +793,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 13时19分]"
         },
         {
           "title": "标普500指数初步收跌0.1%，科技板块初步收跌1%，能源板块跌0.8%，电信板块跌0.1%，可选消费板块则涨0.5%，公用事业板块涨0.8%，保健板块涨1.3%。 纳斯达克100指数初步收跌0.5%，成分股中，Strategy初步收跌7.9%，博通、CoStar Group跌6.2%，Arm控股跌5.2%，Booking、ISRG、万豪国际、康卡斯特、特斯拉则涨超3%。 Salesforce初步收跌3.1%，3M、亚马逊、苹果、卡特彼勒跌超1%，领跌道指成分股，宝洁、强生、霍尼韦尔则至少涨约1.6%，Travelers Companies Inc.涨1.9%，安进涨2.2%。",
