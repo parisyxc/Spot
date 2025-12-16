@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T11:21:39.883113+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2025-12-16T12:33:02.907489+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "日本学界发愁：中国要在发展中国家扩大影响力了",
@@ -64,7 +64,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -75,9 +75,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "日本国内最后两只大熊猫即将租借到期回国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32178939",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
+        },
+        {
+          "title": "大熊猫要回国了 日本民众依依惜别",
+          "url": "https://www.toutiao.com/trending/7584224599676554794/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
         },
         {
           "title": "日本12月综合PMI初值 51.5，前值52。",
@@ -108,7 +130,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -163,7 +185,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -188,6 +210,193 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
+          "url": "https://wallstreetcn.com/articles/3761400",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时09分 ~ 12时33分]"
+        },
+        {
+          "title": "现货白银日内跌幅达1.00%，现报63.43美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251216090601743800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "现货白银日内跌超2.00%，现报62.78美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251216110917751800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月16日（周二）早盘盘初下跌0.52%报970.05元/克；<br/>上海黄金交易所白银T+D 12月16日（周二）早盘盘初上涨0.84%报14792.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251216090330399800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少42.3吨，当前持仓量为16060.6吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20251216064822705800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）上海金早盘价为970.56元/克，较国际金价(970.45元/克)，高0.11元/克",
+          "url": "https://flash.jin10.com/detail/20251216110323554800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "高盛将其2026年铜价预测从每吨10,650美元上调至11,400美元，理由是2026年上半年实施精炼铜关税的可能性降低，因为可负担性问题被优先考虑。",
+          "url": "https://wallstreetcn.com/livenews/3021270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251216115054940800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "周一（12月15日）纽约尾盘，现货白银涨 3.28%，报63.9914美元/盎司，全天持续走高。 COMEX白银期货涨3.25%，报64.020美元/盎司。 COMEX铜期货涨1.10%，报5.4075美元/磅，北京时间20:56曾刷新日高至5.52美元。 现货铂金涨2.48%，报1790.52美元/盎司；现货钯金涨5.51%，报1575.04美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3021186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 11时21分]"
+        },
+        {
+          "title": "现货黄金短线跳水13美元，跌破4290美元/盎司；现货白银失守63美元/盎司，日内跌幅1.74%。",
+          "url": "https://flash.jin10.com/detail/20251216105904427800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "美国数据公布前投资者保持谨慎，铜价小幅走低",
+          "url": "https://flash.jin10.com/detail/20251216111821598800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "澳新银行：受全球增长前景恶化、贸易紧张局势再起、美联储独立性受损以及股市抛售潮等因素影响，金价或于2026年突破5000美元/盎司。 若美国经济增长前景改善、美元汇率意外走强且美联储采取鹰派政策，现货黄金或于 2026年回落至3500美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3021329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "澳新银行：牛市情景下，2026年金价可突破5000美元/盎司",
+          "url": "https://flash.jin10.com/detail/20251216103053723800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至11月25日当周，COMEX白银投机者的净多头头寸减少了806手，降至20,127手。",
+          "url": "https://flash.jin10.com/detail/20251216043141603800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月15日（周一）晚盘收盘下跌0.49%报970.28元/克；<br/>上海黄金交易所白银T+D 12月15日（周一）晚盘收盘下跌0.05%报14661.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251216023107563800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         }
       ]
     },
@@ -230,8 +439,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 11时21分]"
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 12时33分]"
         },
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -241,8 +450,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 11时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 12时33分]"
         },
         {
           "title": "非农数据前夕，科技股续跌拖累大盘，特斯拉创年内新高，加密货币遭挫，人民币走强",
@@ -361,170 +570,6 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
-          "url": "https://wallstreetcn.com/articles/3761400",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时09分 ~ 11时21分]"
-        },
-        {
-          "title": "现货白银日内跌幅达1.00%，现报63.43美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251216090601743800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "现货白银日内跌超2.00%，现报62.78美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251216110917751800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月16日（周二）早盘盘初下跌0.52%报970.05元/克；<br/>上海黄金交易所白银T+D 12月16日（周二）早盘盘初上涨0.84%报14792.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251216090330399800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少42.3吨，当前持仓量为16060.6吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20251216064822705800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "金十图示：2025年12月16日（周二）上海金早盘价为970.56元/克，较国际金价(970.45元/克)，高0.11元/克",
-          "url": "https://flash.jin10.com/detail/20251216110323554800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "高盛将其2026年铜价预测从每吨10,650美元上调至11,400美元，理由是2026年上半年实施精炼铜关税的可能性降低，因为可负担性问题被优先考虑。",
-          "url": "https://wallstreetcn.com/livenews/3021270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "周一（12月15日）纽约尾盘，现货白银涨 3.28%，报63.9914美元/盎司，全天持续走高。 COMEX白银期货涨3.25%，报64.020美元/盎司。 COMEX铜期货涨1.10%，报5.4075美元/磅，北京时间20:56曾刷新日高至5.52美元。 现货铂金涨2.48%，报1790.52美元/盎司；现货钯金涨5.51%，报1575.04美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3021186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 11时21分]"
-        },
-        {
-          "title": "现货黄金短线跳水13美元，跌破4290美元/盎司；现货白银失守63美元/盎司，日内跌幅1.74%。",
-          "url": "https://flash.jin10.com/detail/20251216105904427800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "澳新银行：受全球增长前景恶化、贸易紧张局势再起、美联储独立性受损以及股市抛售潮等因素影响，金价或于2026年突破5000美元/盎司。 若美国经济增长前景改善、美元汇率意外走强且美联储采取鹰派政策，现货黄金或于 2026年回落至3500美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3021329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "澳新银行：牛市情景下，2026年金价可突破5000美元/盎司",
-          "url": "https://flash.jin10.com/detail/20251216103053723800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至11月25日当周，COMEX白银投机者的净多头头寸减少了806手，降至20,127手。",
-          "url": "https://flash.jin10.com/detail/20251216043141603800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月15日（周一）晚盘收盘下跌0.49%报970.28元/克；<br/>上海黄金交易所白银T+D 12月15日（周一）晚盘收盘下跌0.05%报14661.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251216023107563800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 5,
       "titles": [
@@ -620,6 +665,17 @@
           "time_info": "[01时09分 ~ 11时21分]"
         },
         {
+          "title": "大摩重磅机器人年鉴（一）：AI走向实体化，机器人迎来寒武纪大爆发，中国领先优势明显",
+          "url": "https://wallstreetcn.com/articles/3761403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 12时33分]"
+        },
+        {
           "title": "比特币日内跌幅达3.5%，报85725美元。",
           "url": "https://wallstreetcn.com/livenews/3021132",
           "source": "华尔街见闻-快讯",
@@ -644,17 +700,46 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 06时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月16日（周二）富时中国A50指数成分股午盘收盘行情一览：大面积飘绿，半导体、通信设备、有色金属等板块领跌",
+          "url": "https://flash.jin10.com/detail/20251216113315753800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
-          "title": "大摩重磅机器人年鉴（一）：AI走向实体化，机器人迎来寒武纪大爆发，中国领先优势明显",
-          "url": "https://wallstreetcn.com/articles/3761403",
-          "source": "华尔街见闻",
+          "title": "科创板半导体部分重组交易终止 行业人士：存在三方面原因",
+          "url": "https://wallstreetcn.com/livenews/3021392",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时21分"
+          "time_info": "12时33分"
+        },
+        {
+          "title": "观察｜半导体领域并购案密集“踩刹车”，市场环境变化之下如何并购整合？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180120",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 11时21分]"
         }
       ]
     },
@@ -670,8 +755,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 11时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 12时33分]"
         },
         {
           "title": "标普500指数初步收跌0.1%，科技板块初步收跌1%，能源板块跌0.8%，电信板块跌0.1%，可选消费板块则涨0.5%，公用事业板块涨0.8%，保健板块涨1.3%。 纳斯达克100指数初步收跌0.5%，成分股中，Strategy初步收跌7.9%，博通、CoStar Group跌6.2%，Arm控股跌5.2%，Booking、ISRG、万豪国际、康卡斯特、特斯拉则涨超3%。 Salesforce初步收跌3.1%，3M、亚马逊、苹果、卡特彼勒跌超1%，领跌道指成分股，宝洁、强生、霍尼韦尔则至少涨约1.6%，Travelers Companies Inc.涨1.9%，安进涨2.2%。",
@@ -754,24 +839,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时09分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "观察｜半导体领域并购案密集“踩刹车”，市场环境变化之下如何并购整合？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180120",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 11时21分]"
         }
       ]
     }
