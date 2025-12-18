@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-18T21:34:20.106151+08:00",
-  "total_titles_processed": 1959,
+  "generated_at": "2025-12-18T22:19:15.734563+08:00",
+  "total_titles_processed": 2042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "外交部回应日本拟在冲绳部署雷达监视中方航母",
+          "url": "https://news.ifeng.com/c/8pBb5wCNA1W",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时23分 ~ 22时19分]"
+        },
         {
           "title": "日本H3火箭发射紧急停止，网上直播满屏问号",
           "url": "https://v.ifeng.com/c/8p9gahxB1TN",
@@ -30,15 +41,31 @@
           "time_info": "[00时22分 ~ 14时26分]"
         },
         {
-          "title": "外交部回应日本拟在冲绳部署雷达监视中方航母",
-          "url": "https://news.ifeng.com/c/8pBb5wCNA1W",
-          "source": "凤凰网",
+          "title": "日本拟在冲绳部署雷达监视中方航母、飞机，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32203238",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            20,
+            16,
+            9,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 21时34分]"
+          "appearance_count": 9,
+          "time_info": "[17时22分 ~ 22时19分]"
+        },
+        {
+          "title": "明天，日本加息“板上钉钉”，市场聚焦“下一步如何加”？",
+          "url": "https://wallstreetcn.com/articles/3761605",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 22时19分]"
         },
         {
           "title": "中方回应日本拟用雷达监视中国航母",
@@ -56,30 +83,18 @@
           "time_info": "[16时23分 ~ 21时34分]"
         },
         {
-          "title": "日本拟在冲绳部署雷达监视中方航母、飞机，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32203238",
+          "title": "美挑动“二虎竞食”、日本右翼欲“驱虎吞狼”，中国应固本待时",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32202025",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            16,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 21时34分]"
-        },
-        {
-          "title": "明天，日本加息“板上钉钉”，市场聚焦“下一步如何加”？",
-          "url": "https://wallstreetcn.com/articles/3761605",
-          "source": "华尔街见闻",
-          "ranks": [
+            19,
+            13,
             10,
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 21时34分]"
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 22时19分]"
         },
         {
           "title": "财团在日本经济中有多重要",
@@ -96,6 +111,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时25分 ~ 09时12分]"
+        },
+        {
+          "title": "“删号跑路”！日本副外相国光文乃，被要求引咎辞职",
+          "url": "https://news.ifeng.com/c/8pBjYqTPUiu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 22时19分]"
         },
         {
           "title": "日本副外相删除社媒账号跑路",
@@ -145,19 +171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
-        },
-        {
-          "title": "美挑动“二虎竞食”、日本右翼欲“驱虎吞狼”，中国应固本待时",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32202025",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 21时34分]"
         },
         {
           "title": "日本政府：规模达5500亿美元的对美投资方案咨询委员会于周四举行了会议。",
@@ -213,17 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
-        },
-        {
-          "title": "“删号跑路”！日本副外相国光文乃，被要求引咎辞职",
-          "url": "https://news.ifeng.com/c/8pBjYqTPUiu",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 21时34分]"
         },
         {
           "title": "日本银行协会会长称，本次日本央行加息的可能性已显著升高。",
@@ -315,6 +317,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 17时23分]"
+        },
+        {
+          "title": "日本一幼儿园133名儿童误食塑料",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD133%E5%90%8D%E5%84%BF%E7%AB%A5%E8%AF%AF%E9%A3%9F%E5%A1%91%E6%96%99",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时19分]"
         },
         {
           "title": "外交部回应日本拟在冲绳部署雷达",
@@ -441,7 +454,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -453,8 +466,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时16分 ~ 21时34分]"
+          "appearance_count": 21,
+          "time_info": "[06时16分 ~ 22时19分]"
         },
         {
           "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
@@ -477,8 +490,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时17分 ~ 21时34分]"
+          "appearance_count": 17,
+          "time_info": "[11时17分 ~ 22时19分]"
         },
         {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
@@ -534,6 +547,17 @@
           "time_info": "[07时16分 ~ 13时19分]"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3023190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "甲骨文带崩美股大盘",
           "url": "https://www.toutiao.com/trending/7584969089827737139/",
           "source": "今日头条",
@@ -543,6 +567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "美股科技股盘前走高，英伟达美股盘前涨超2%，AMD涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3023184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -682,6 +717,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-18）",
+          "url": "https://flash.jin10.com/detail/20251218220135518800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251218013152524800",
           "source": "金十数据",
@@ -717,6 +763,183 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "今年全球最大IPO亮相 白银再创历史新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2232661",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时12分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX白银投机者将净多头头寸增加1,127手，至21,254手。",
+          "url": "https://flash.jin10.com/detail/20251218043047902800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月18日（周四）早盘盘初上涨0.26%报975.6元/克；<br/>上海黄金交易所白银T+D 12月18日（周四）早盘盘初上涨1.49%报15517.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251218090351805800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "月内第十次！白银LOF再发溢价公告，业内警示：慎对LOF套利行为",
+          "url": "https://wallstreetcn.com/livenews/3023080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）上海金早盘价为975.26元/克，较国际金价(980.03元/克)，低4.77元/克",
+          "url": "https://flash.jin10.com/detail/20251218110237653800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）上海金午盘价为974.99元/克，较国际金价(980.21元/克)，低5.22元/克",
+          "url": "https://flash.jin10.com/detail/20251218150153844800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月17日（周三）晚盘收盘上涨0.42%报977.2元/克；<br/>上海黄金交易所白银T+D 12月17日（周三）晚盘收盘上涨1.9%报15580.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251218023038231800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时19分]"
+        },
+        {
+          "title": "白银“逼空大戏”继续？",
+          "url": "https://flash.jin10.com/detail/20251218120735696800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时19分]"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251218081200509800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 13时19分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时19分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时19分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月18日（周四）晚盘盘初下跌0.12%报973.5元/克；<br/>上海黄金交易所白银T+D 12月18日（周四）晚盘盘初下跌0.14%报15442.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251218200434392800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "现货白银日内暴涨3.00美元，现报66.73美元/盎司，涨幅4.71%。纽约期银突破67美元/盎司，日内涨5.81%。",
+          "url": "https://flash.jin10.com/detail/20251218014200498800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC），截至12月2日当周，COMEX白银投机者将净多头头寸增加1,127手至21,254手。",
+          "url": "https://wallstreetcn.com/livenews/3022604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "白银续创新高后，多头情绪有所消退，黄金继续震荡，今晚的CPI或给市场指明方向，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251218103516493800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 14,
       "titles": [
@@ -742,8 +965,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 20时34分]"
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 22时19分]"
         },
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -882,171 +1105,6 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "今年全球最大IPO亮相 白银再创历史新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2232661",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时12分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX白银投机者将净多头头寸增加1,127手，至21,254手。",
-          "url": "https://flash.jin10.com/detail/20251218043047902800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月18日（周四）早盘盘初上涨0.26%报975.6元/克；<br/>上海黄金交易所白银T+D 12月18日（周四）早盘盘初上涨1.49%报15517.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251218090351805800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "月内第十次！白银LOF再发溢价公告，业内警示：慎对LOF套利行为",
-          "url": "https://wallstreetcn.com/livenews/3023080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "金十图示：2025年12月18日（周四）上海金早盘价为975.26元/克，较国际金价(980.03元/克)，低4.77元/克",
-          "url": "https://flash.jin10.com/detail/20251218110237653800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "金十图示：2025年12月18日（周四）上海金午盘价为974.99元/克，较国际金价(980.21元/克)，低5.22元/克",
-          "url": "https://flash.jin10.com/detail/20251218150153844800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月17日（周三）晚盘收盘上涨0.42%报977.2元/克；<br/>上海黄金交易所白银T+D 12月17日（周三）晚盘收盘上涨1.9%报15580.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251218023038231800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时19分]"
-        },
-        {
-          "title": "白银“逼空大戏”继续？",
-          "url": "https://flash.jin10.com/detail/20251218120735696800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时19分]"
-        },
-        {
-          "title": "金十图示：2025年12月18日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251218081200509800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时19分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月18日（周四）晚盘盘初下跌0.12%报973.5元/克；<br/>上海黄金交易所白银T+D 12月18日（周四）晚盘盘初下跌0.14%报15442.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251218200434392800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "现货白银日内暴涨3.00美元，现报66.73美元/盎司，涨幅4.71%。纽约期银突破67美元/盎司，日内涨5.81%。",
-          "url": "https://flash.jin10.com/detail/20251218014200498800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC），截至12月2日当周，COMEX白银投机者将净多头头寸增加1,127手至21,254手。",
-          "url": "https://wallstreetcn.com/livenews/3022604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "白银续创新高后，多头情绪有所消退，黄金继续震荡，今晚的CPI或给市场指明方向，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251218103516493800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 9,
       "titles": [
@@ -1060,8 +1118,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时26分 ~ 21时34分]"
+          "appearance_count": 13,
+          "time_info": "[14时26分 ~ 22时19分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -1171,8 +1229,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时17分 ~ 21时34分]"
+          "appearance_count": 17,
+          "time_info": "[11时17分 ~ 22时19分]"
         },
         {
           "title": "第一次知道微信支付还有这功能",
@@ -1275,6 +1333,18 @@
           "time_info": "[00时22分 ~ 07时16分]"
         },
         {
+          "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
+          "url": "https://www.cls.cn/detail/2233723",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 22时19分]"
+        },
+        {
           "title": "人形机器人量产路线清晰 机构建议关注产业链投资布局机会",
           "url": "https://www.cls.cn/detail/2232856",
           "source": "财联社热门",
@@ -1286,18 +1356,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时31分 ~ 15时20分]"
-        },
-        {
-          "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
-          "url": "https://www.cls.cn/detail/2233723",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时34分 ~ 21时34分]"
         },
         {
           "title": "商汤科技、大晓机器人与中科曙光正式达成战略合作，将共建国产化“算力基础设施+世界模型+具身智能 ”生态",
