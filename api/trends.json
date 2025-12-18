@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T15:20:05.574480+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2025-12-18T16:23:42.218225+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "日本H3火箭发射紧急停止，网上直播满屏问号",
@@ -77,9 +77,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "外交部回应日本拟在冲绳部署雷达监视中方航母",
+          "url": "https://news.ifeng.com/c/8pBb5wCNA1W",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "日本政府：规模达5500亿美元的对美投资方案咨询委员会于周四举行了会议。",
@@ -121,7 +132,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -194,6 +205,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "中方回应日本拟用雷达监视中国航母",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%8B%9F%E7%94%A8%E9%9B%B7%E8%BE%BE%E7%9B%91%E8%A7%86%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "日经225指数早盘收跌1%，日本东证指数早盘跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/3022779",
           "source": "华尔街见闻-快讯",
@@ -244,9 +266,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "日本计划在冲绳部署雷达 外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3022953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "日本12月12日当周外资净买进日本债券 14075亿日元，前值 -4426亿日元。",
@@ -286,8 +319,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时16分 ~ 15时20分]"
+          "appearance_count": 12,
+          "time_info": "[06时16分 ~ 16时23分]"
         },
         {
           "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
@@ -309,8 +342,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 15时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 16时23分]"
+        },
+        {
+          "title": "芯片需求旺盛，美光业绩与指引双双“爆表”、提高资本支出，股价盘后大涨逾9% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761597",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 16时23分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -323,19 +369,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时20分 ~ 05时16分]"
-        },
-        {
-          "title": "芯片需求旺盛，美光业绩与指引双双“爆表”、提高资本支出，股价盘后大涨逾9% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761597",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 15时20分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -357,11 +390,12 @@
             12,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 16时23分]"
         },
         {
           "title": "甲骨文带崩美股大盘",
@@ -392,7 +426,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -535,6 +569,138 @@
       ]
     },
     {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 15时20分]"
+        },
+        {
+          "title": "谷歌发布效率更高的Gemini 3 AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3022526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
+          "url": "https://wallstreetcn.com/livenews/3022530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时26分]"
+        },
+        {
+          "title": "谷歌DeepMind公司Gemini产品管理高级总监Tulsee Doshi：几周前我们发布了Gemini的Pro版本，其市场反馈令我们感到兴奋。 通过Gemini 3 Flash，我们将把这一模型带给每一个人。",
+          "url": "https://wallstreetcn.com/livenews/3022529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时26分]"
+        },
+        {
+          "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
+          "url": "https://www.cls.cn/detail/2232789",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 12时31分]"
+        },
+        {
+          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
+          "url": "https://www.zhihu.com/question/1984788546771517931",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 15时20分]"
+        },
+        {
+          "title": "击败AI“当红炸子鸡”！白银市值超越谷歌 跻身全球第四大资产",
+          "url": "https://www.cls.cn/detail/2232986",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
+          "url": "https://wallstreetcn.com/livenews/3022526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "白银成全球第四大资产 市值超越谷歌",
+          "url": "https://flash.jin10.com/detail/20251218105307391800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
+          "url": "https://flash.jin10.com/detail/20251218000152068800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "OpenAI、Anthropic、谷歌公司与其他公司（含生物科技公司）讨论数据交易。 这三家公司一直在寻找专门的数据来训练他们的AI模型，并讨论与初创企业和上市公司合作，授权基因组学等主题的数据集。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3022492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 铜价 白银",
       "match_count": 11,
       "titles": [
@@ -590,7 +756,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -667,129 +833,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
-          "url": "https://www.cls.cn/detail/2232894",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时12分 ~ 15时20分]"
-        },
-        {
-          "title": "谷歌发布效率更高的Gemini 3 AI模型。",
-          "url": "https://wallstreetcn.com/livenews/3022526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
-          "url": "https://wallstreetcn.com/livenews/3022530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时26分]"
-        },
-        {
-          "title": "谷歌DeepMind公司Gemini产品管理高级总监Tulsee Doshi：几周前我们发布了Gemini的Pro版本，其市场反馈令我们感到兴奋。 通过Gemini 3 Flash，我们将把这一模型带给每一个人。",
-          "url": "https://wallstreetcn.com/livenews/3022529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时26分]"
-        },
-        {
-          "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
-          "url": "https://www.cls.cn/detail/2232789",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 12时31分]"
-        },
-        {
-          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
-          "url": "https://www.zhihu.com/question/1984788546771517931",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 15时20分]"
-        },
-        {
-          "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
-          "url": "https://wallstreetcn.com/livenews/3022526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "白银成全球第四大资产 市值超越谷歌",
-          "url": "https://flash.jin10.com/detail/20251218105307391800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
-          "url": "https://flash.jin10.com/detail/20251218000152068800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "OpenAI、Anthropic、谷歌公司与其他公司（含生物科技公司）讨论数据交易。 这三家公司一直在寻找专门的数据来训练他们的AI模型，并讨论与初创企业和上市公司合作，授权基因组学等主题的数据集。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3022492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -800,8 +845,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 16时23分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -811,8 +856,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时23分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
@@ -848,6 +893,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "据悉OpenAI和Anthropic寻求扩大欧洲办公空间",
+          "url": "https://flash.jin10.com/detail/20251218160350981800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "据The Information：OpenAI已讨论以约7500亿美元的估值筹集数百亿美元。",
           "url": "https://flash.jin10.com/detail/20251218081810553800",
           "source": "金十数据",
@@ -868,12 +924,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "市场消息：Anthropic和OpenAI寻求更多办公空间以拓展欧洲业务。",
+          "url": "https://flash.jin10.com/detail/20251218155200520800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "所有 App 都有开屏广告，微信为什么不做？",
@@ -902,8 +969,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 16时23分]"
         },
         {
           "title": "第一次知道微信支付还有这功能",
@@ -914,8 +981,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 16时23分]"
         },
         {
           "title": "抖音小红书贝壳等平台被约谈",
@@ -942,6 +1009,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "曾艳芬让丝芭传票发她微信上",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%89%B3%E8%8A%AC%E8%AE%A9%E4%B8%9D%E8%8A%AD%E4%BC%A0%E7%A5%A8%E5%8F%91%E5%A5%B9%E5%BE%AE%E4%BF%A1%E4%B8%8A%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "脑瘫女孩抖音30日涨粉12万",
@@ -1058,7 +1136,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
