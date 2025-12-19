@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T06:16:56.880163+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2025-12-20T07:16:33.844690+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -28,30 +28,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
-          "url": "https://wallstreetcn.com/livenews/3024176",
-          "source": "华尔街见闻-快讯",
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3024174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时16分]"
         },
         {
           "title": "本周，标普大致持平整体V形走势，道指累跌0.6%，纳指累涨0.4%，半导体指数累涨0.4%，银行指数涨0.4%，科技股七巨头指数涨0.8%。 周五当天，标普500指数初步收涨0.8%，科技板块涨1.9%，工业板块涨0.8%，公用事业板块跌1.3%。 纳斯达克100指数初步收涨1.2%，成分股中，美光科技涨6.7%，AMD涨6.2%，Axon涨5.5%，拉姆研究涨4.7%，Strategy涨4.4%，康卡斯特跌2.4%，Atlassian跌2.5%，露露柠檬跌2.6%。 英伟达初步收涨3.8%，领跑道指成分股，波音涨3.1%，思科、高盛、卡特彼勒涨1.8%，麦当劳、VZ、SHW跌超1%，家得宝跌2.6%，耐克跌10.7%。",
@@ -65,15 +54,16 @@
           "time_info": "05时15分"
         },
         {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
-          "source": "华尔街见闻",
+          "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
+          "url": "https://wallstreetcn.com/livenews/3024176",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时16分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -88,15 +78,28 @@
           "time_info": "[00时21分 ~ 01时16分]"
         },
         {
+          "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3024174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
           "url": "https://wallstreetcn.com/livenews/3024168",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时16分]"
         },
         {
           "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股盘中）",
@@ -124,7 +127,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "9:0全票通过！日本央行如期加息25基点：若经济和物价前景实现将继续加息",
@@ -134,8 +137,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "日媒：日本请求派代表团访华",
@@ -146,8 +149,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "今日焦点：日本加息“已被市场消化”，央行表态决定日元走向",
@@ -158,8 +161,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "俄罗斯将对日本采取反制措施",
@@ -169,11 +172,12 @@
             9,
             14,
             30,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "中国游客跑光,日本政客还在赢",
@@ -184,8 +188,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "太罕见!国产剧被曝洗白日本侵略",
@@ -196,8 +200,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
@@ -208,8 +212,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "日本央行加息25个基点",
@@ -221,8 +225,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 06时16分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 07时16分]"
+        },
+        {
+          "title": "日本官员发出拥核狂言被要求辞职",
+          "url": "https://news.ifeng.com/c/8pDtj9kdFzT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "日元在日本央行决议日跌1.3%",
@@ -254,8 +269,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时16分]"
         },
         {
           "title": "现货白银历史首次突破67美元/盎司",
@@ -339,7 +354,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "王力宏演唱会机器人伴舞",
@@ -368,6 +383,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 03时14分]"
+        },
+        {
+          "title": "以太坊期货周五涨超7%，本周加密货币关联指数跌超6.3%",
+          "url": "https://wallstreetcn.com/livenews/3024184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
@@ -416,11 +442,12 @@
           "url": "https://wallstreetcn.com/livenews/3024182",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时16分]"
         },
         {
           "title": "字节跳动有望在2025年实现500亿美元利润 紧追Meta",
@@ -443,6 +470,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "标普500指数收涨59.74点，涨幅0.88%，报6834.50点。 道琼斯工业平均指数收涨183.04点，涨幅0.38%，报48134.89点。 纳斯达克综合指数（纳指）收涨301.26点，涨幅1.31%，报23307.62点。 纳斯达克100指数收涨326.81点，涨幅1.31%，报25346.177点。 纳斯达克生物科技指数收涨2.41%，报5738.03点。 费城半导体指数收涨2.98%，报7067.865点。 费城证交所KBW银行指数收涨1.15%，报165.36点。 道琼斯KBW地区银行指数收跌0.25%，报128.17点。",
+          "url": "https://wallstreetcn.com/livenews/3024157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "纳指科技指数收涨约1.8%，半导体指数涨约3%，标普本周V形反转",
+          "url": "https://wallstreetcn.com/livenews/3024157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
@@ -476,23 +531,6 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "标普500指数收涨59.74点，涨幅0.88%，报6834.50点。 道琼斯工业平均指数收涨183.04点，涨幅0.38%，报48134.89点。 纳斯达克综合指数（纳指）收涨301.26点，涨幅1.31%，报23307.62点。 纳斯达克100指数收涨326.81点，涨幅1.31%，报25346.177点。 纳斯达克生物科技指数收涨2.41%，报5738.03点。 费城半导体指数收涨2.98%，报7067.865点。 费城证交所KBW银行指数收涨1.15%，报165.36点。 道琼斯KBW地区银行指数收跌0.25%，报128.17点。",
-          "url": "https://wallstreetcn.com/livenews/3024157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 INTEL",
       "match_count": 1,
       "titles": [
@@ -501,11 +539,12 @@
           "url": "https://wallstreetcn.com/livenews/3024173",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时16分]"
         }
       ]
     },
@@ -523,8 +562,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时16分]"
         }
       ]
     }
