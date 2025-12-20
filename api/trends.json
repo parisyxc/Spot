@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T20:31:05.117232+08:00",
-  "total_titles_processed": 1427,
+  "generated_at": "2025-12-20T21:24:38.547160+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "9:0全票通过！日本央行如期加息25基点：若经济和物价前景实现将继续加息",
@@ -44,6 +44,17 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
+          "title": "日本一列车与汽车发生碰撞，汽车起火",
+          "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时16分 ~ 21时24分]"
+        },
+        {
           "title": "今日焦点：日本加息“已被市场消化”，央行表态决定日元走向",
           "url": "https://wallstreetcn.com/articles/3761683",
           "source": "华尔街见闻",
@@ -54,17 +65,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "日本一列车与汽车发生碰撞，汽车起火",
-          "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时16分 ~ 20时31分]"
         },
         {
           "title": "中国游客跑光,日本政客还在赢",
@@ -102,6 +102,20 @@
           "time_info": "[00时21分 ~ 19时13分]"
         },
         {
+          "title": "苹果降低日本「苹果税」，支持第三方应用商店和支付，中国面临双重垄断且税率最高，区别对待策略还能走多远？",
+          "url": "https://www.zhihu.com/question/1985109237156815522",
+          "source": "知乎",
+          "ranks": [
+            13,
+            19,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 21时24分]"
+        },
+        {
           "title": "俄罗斯将对日本采取反制措施",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%B0%86%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%87%87%E5%8F%96%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD",
           "source": "百度热搜",
@@ -128,20 +142,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时16分 ~ 09时12分]"
-        },
-        {
-          "title": "苹果降低日本「苹果税」，支持第三方应用商店和支付，中国面临双重垄断且税率最高，区别对待策略还能走多远？",
-          "url": "https://www.zhihu.com/question/1985109237156815522",
-          "source": "知乎",
-          "ranks": [
-            13,
-            19,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时14分 ~ 20时31分]"
         },
         {
           "title": "日本官员发出拥核狂言被要求辞职",
@@ -180,6 +180,21 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
+          "title": "日本鸣门海峡附近一船只倾覆",
+          "url": "https://flash.jin10.com/detail/20251220160354214800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            6,
+            9,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时16分 ~ 21时24分]"
+        },
+        {
           "title": "美军士兵在日本冲绳街头全裸被逮捕",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%A3%AB%E5%85%B5%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%86%B2%E7%BB%B3%E8%A1%97%E5%A4%B4%E5%85%A8%E8%A3%B8%E8%A2%AB%E9%80%AE%E6%8D%95",
           "source": "百度热搜",
@@ -195,41 +210,51 @@
           "time_info": "[11时12分 ~ 16时20分]"
         },
         {
-          "title": "日本鸣门海峡附近一船只倾覆",
-          "url": "https://flash.jin10.com/detail/20251220160354214800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 20时31分]"
-        },
-        {
           "title": "美国务院称日本主导核不扩散 或制衡首相官邸人士拥核论",
           "url": "https://flash.jin10.com/detail/20251220181439511800",
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时24分]"
+        },
+        {
+          "title": "日本根室半岛近海海域发生5.2级地震",
+          "url": "https://wallstreetcn.com/livenews/3024293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "招商银行：日本重启加息 或对全球金融条件形成压制",
           "url": "https://flash.jin10.com/detail/20251220191557631800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时24分]"
+        },
+        {
+          "title": "日本根室半岛近海海域发生5.2级地震",
+          "url": "https://flash.jin10.com/detail/20251220204845696800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "21时24分"
         },
         {
           "title": "日本民众再集会要求高市撤回错误言论",
@@ -395,8 +420,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时11分 ~ 20时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时11分 ~ 21时24分]"
         },
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -423,8 +448,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时11分 ~ 20时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时11分 ~ 21时24分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -460,8 +485,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时22分 ~ 20时31分]"
+          "appearance_count": 11,
+          "time_info": "[12时22分 ~ 21时24分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -480,6 +505,20 @@
           "time_info": "[11时12分 ~ 16时20分]"
         },
         {
+          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
+          "url": "https://wallstreetcn.com/livenews/3024266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 21时24分]"
+        },
+        {
           "title": "本周，标普大致持平整体V形走势，道指累跌0.6%，纳指累涨0.4%，半导体指数累涨0.4%，银行指数涨0.4%，科技股七巨头指数涨0.8%。 周五当天，标普500指数初步收涨0.8%，科技板块涨1.9%，工业板块涨0.8%，公用事业板块跌1.3%。 纳斯达克100指数初步收涨1.2%，成分股中，美光科技涨6.7%，AMD涨6.2%，Axon涨5.5%，拉姆研究涨4.7%，Strategy涨4.4%，康卡斯特跌2.4%，Atlassian跌2.5%，露露柠檬跌2.6%。 英伟达初步收涨3.8%，领跑道指成分股，波音涨3.1%，思科、高盛、卡特彼勒涨1.8%，麦当劳、VZ、SHW跌超1%，家得宝跌2.6%，耐克跌10.7%。",
           "url": "https://wallstreetcn.com/livenews/3024157",
           "source": "华尔街见闻-快讯",
@@ -489,19 +528,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
-          "url": "https://wallstreetcn.com/livenews/3024266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 20时31分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -727,6 +753,18 @@
           "time_info": "[00时21分 ~ 03时14分]"
         },
         {
+          "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
+          "url": "https://www.cls.cn/detail/2235476",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 21时24分]"
+        },
+        {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
           "url": "https://wallstreetcn.com/livenews/3024093",
           "source": "华尔街见闻-快讯",
@@ -763,17 +801,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时14分 ~ 17时16分]"
-        },
-        {
-          "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
-          "url": "https://www.cls.cn/detail/2235476",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
         },
         {
           "title": "王力宏演唱会机器人伴舞",
@@ -842,8 +869,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时16分 ~ 20时31分]"
+          "appearance_count": 18,
+          "time_info": "[01时16分 ~ 21时24分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
@@ -886,6 +913,20 @@
           "time_info": "01时16分"
         },
         {
+          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
+          "url": "https://wallstreetcn.com/livenews/3024264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 21时24分]"
+        },
+        {
           "title": "Clocktower首席策略师王凯文：黄金牛市基础未变，白银潜在空间更为可观",
           "url": "https://wallstreetcn.com/livenews/3024216",
           "source": "华尔街见闻-快讯",
@@ -922,19 +963,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时14分]"
-        },
-        {
-          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
-          "url": "https://wallstreetcn.com/livenews/3024264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 20时31分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加47.95吨，当前持仓量为16066.24吨。欢迎点击查看数据中心",
@@ -1022,11 +1050,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时24分]"
         },
         {
           "title": "字节跳动有望在2025年实现500亿美元利润 紧追Meta",
@@ -1054,7 +1083,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -1071,26 +1100,28 @@
           "time_info": "[01时16分 ~ 11时12分]"
         },
         {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时13分]"
-        },
-        {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
           "url": "https://wallstreetcn.com/articles/3761763",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 21时24分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 21时24分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -1104,6 +1135,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时12分 ~ 12时22分]"
+        },
+        {
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         }
       ]
     },
@@ -1124,8 +1166,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时22分 ~ 20时31分]"
+          "appearance_count": 11,
+          "time_info": "[12时22分 ~ 21时24分]"
         },
         {
           "title": "抖音网友原创短片太会拍了",
@@ -1138,11 +1180,12 @@
             7,
             8,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时12分 ~ 20时31分]"
+          "appearance_count": 12,
+          "time_info": "[11时12分 ~ 21时24分]"
         },
         {
           "title": "上抖音看樊振东欧冠首秀",
@@ -1210,8 +1253,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时12分 ~ 20时31分]"
+          "appearance_count": 12,
+          "time_info": "[11时12分 ~ 21时24分]"
         },
         {
           "title": "特拉华州高级法院判定：马斯克2018年特斯拉薪酬计划必须被恢复",
