@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T11:12:33.320755+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2025-12-20T12:22:37.382383+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -37,44 +37,36 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时16分 ~ 11时12分]"
+          "appearance_count": 6,
+          "time_info": "[06时16分 ~ 12时22分]"
         },
         {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
           "url": "https://wallstreetcn.com/articles/3761704",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 12时22分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
           "url": "https://www.cls.cn/detail/2235346",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 11时12分]"
-        },
-        {
-          "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
-          "url": "https://wallstreetcn.com/livenews/3024223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时12分"
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 12时22分]"
         },
         {
           "title": "本周，标普大致持平整体V形走势，道指累跌0.6%，纳指累涨0.4%，半导体指数累涨0.4%，银行指数涨0.4%，科技股七巨头指数涨0.8%。 周五当天，标普500指数初步收涨0.8%，科技板块涨1.9%，工业板块涨0.8%，公用事业板块跌1.3%。 纳斯达克100指数初步收涨1.2%，成分股中，美光科技涨6.7%，AMD涨6.2%，Axon涨5.5%，拉姆研究涨4.7%，Strategy涨4.4%，康卡斯特跌2.4%，Atlassian跌2.5%，露露柠檬跌2.6%。 英伟达初步收涨3.8%，领跑道指成分股，波音涨3.1%，思科、高盛、卡特彼勒涨1.8%，麦当劳、VZ、SHW跌超1%，家得宝跌2.6%，耐克跌10.7%。",
@@ -126,6 +118,18 @@
           "time_info": "[00时21分 ~ 01时16分]"
         },
         {
+          "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
+          "url": "https://wallstreetcn.com/livenews/3024223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 12时22分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
           "url": "https://wallstreetcn.com/livenews/3024168",
           "source": "华尔街见闻-快讯",
@@ -136,6 +140,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
+          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
+          "url": "https://www.cls.cn/detail/2235373",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨近4%",
@@ -240,11 +255,12 @@
           "ranks": [
             18,
             20,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时22分]"
         },
         {
           "title": "太罕见!国产剧被曝洗白日本侵略",
@@ -253,11 +269,12 @@
           "ranks": [
             19,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时22分]"
         },
         {
           "title": "俄罗斯将对日本采取反制措施",
@@ -296,8 +313,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 12时22分]"
+        },
+        {
+          "title": "日本与中亚五国首次举办峰会",
+          "url": "https://news.ifeng.com/c/8pEKIEvKAj0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时16分 ~ 11时12分]"
+          "time_info": "[09时11分 ~ 12时22分]"
         },
         {
           "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
@@ -312,17 +340,6 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "日本与中亚五国首次举办峰会",
-          "url": "https://news.ifeng.com/c/8pEKIEvKAj0",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 11时12分]"
-        },
-        {
           "title": "日元在日本央行决议日跌1.3%",
           "url": "https://wallstreetcn.com/livenews/3024152",
           "source": "华尔街见闻-快讯",
@@ -333,6 +350,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "美军士兵在日本冲绳街头全裸被逮捕",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%A3%AB%E5%85%B5%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%86%B2%E7%BB%B3%E8%A1%97%E5%A4%B4%E5%85%A8%E8%A3%B8%E8%A2%AB%E9%80%AE%E6%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 12时22分]"
         },
         {
           "title": "日本加息有何影响",
@@ -368,24 +397,13 @@
           "time_info": "[09时11分 ~ 09时12分]"
         },
         {
-          "title": "美军士兵在日本冲绳街头全裸被逮捕",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%A3%AB%E5%85%B5%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%86%B2%E7%BB%B3%E8%A1%97%E5%A4%B4%E5%85%A8%E8%A3%B8%E8%A2%AB%E9%80%AE%E6%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
           "title": "日本风俗店女子分解婴儿遗体被捕",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A3%8E%E4%BF%97%E5%BA%97%E5%A5%B3%E5%AD%90%E5%88%86%E8%A7%A3%E5%A9%B4%E5%84%BF%E9%81%97%E4%BD%93%E8%A2%AB%E6%8D%95%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         }
@@ -393,7 +411,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "白银之城实机演示",
@@ -404,11 +422,12 @@
             22,
             15,
             29,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 12时22分]"
         },
         {
           "title": "现货白银历史首次突破67美元/盎司",
@@ -444,6 +463,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
+          "url": "https://flash.jin10.com/detail/20251220113809000800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "现货白银日内暴涨2.00美元，现报67.44美元/盎司，续刷历史新高，涨幅3.06%。",
           "url": "https://flash.jin10.com/detail/20251220020832172800",
           "source": "金十数据",
@@ -472,11 +502,12 @@
           "url": "https://wallstreetcn.com/livenews/3024216",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 12时22分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月19日（周五）晚盘收盘上涨0.49%报978.9元/克；<br/>上海黄金交易所白银T+D 12月19日（周五）晚盘收盘上涨3.17%报15700.0元/千克。",
@@ -515,7 +546,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "王力宏演唱会机器人伴舞",
@@ -530,8 +561,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 11时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 12时22分]"
+        },
+        {
+          "title": "马斯克点赞王力宏伴舞机器人",
+          "url": "https://www.toutiao.com/trending/7585536096348553235/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "王力宏演唱会上机器人伴舞秀空翻",
@@ -560,6 +602,17 @@
           "time_info": "[01时16分 ~ 03时14分]"
         },
         {
+          "title": "宇树科技首发人形机器人 AppStore，用户可自行下载各项动作和预设，此举有哪些意义？",
+          "url": "https://www.zhihu.com/question/1983175858765128621",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 12时22分]"
+        },
+        {
           "title": "以太坊期货周五涨超7%，本周加密货币关联指数跌超6.3%",
           "url": "https://wallstreetcn.com/livenews/3024184",
           "source": "华尔街见闻-快讯",
@@ -572,17 +625,6 @@
           "time_info": "[07时16分 ~ 09时12分]"
         },
         {
-          "title": "宇树科技首发人形机器人 AppStore，用户可自行下载各项动作和预设，此举有哪些意义？",
-          "url": "https://www.zhihu.com/question/1983175858765128621",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 11时12分]"
-        },
-        {
           "title": "王力宏演唱会机器人伴舞",
           "url": "https://www.douyin.com/hot/2340808",
           "source": "抖音",
@@ -593,6 +635,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时18分]"
+        },
+        {
+          "title": "马斯克点赞王力宏伴舞机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "比特币涨超3%，刷新日高至88467美元上方。",
@@ -612,17 +665,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
-          "url": "https://flash.jin10.com/detail/20251220105539232800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
           "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3024182",
           "source": "华尔街见闻-快讯",
@@ -634,6 +676,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时16分 ~ 09时12分]"
+        },
+        {
+          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
+          "url": "https://flash.jin10.com/detail/20251220105539232800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 12时22分]"
         },
         {
           "title": "字节跳动有望在2025年实现500亿美元利润 紧追Meta",
@@ -661,7 +715,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "上抖音看樊振东欧冠首秀",
@@ -673,6 +727,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时18分]"
+        },
+        {
+          "title": "抖音网友原创短片太会拍了",
+          "url": "https://www.douyin.com/hot/2341835",
+          "source": "抖音",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 12时22分]"
         },
         {
           "title": "尤长靖入驻抖音",
@@ -687,15 +753,15 @@
           "time_info": "[01时16分 ~ 02时24分]"
         },
         {
-          "title": "抖音网友原创短片太会拍了",
-          "url": "https://www.douyin.com/hot/2341835",
-          "source": "抖音",
+          "title": "原来微信长按2秒钟这么好用",
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%BE%AE%E4%BF%A1%E9%95%BF%E6%8C%892%E7%A7%92%E9%92%9F%E8%BF%99%E4%B9%88%E5%A5%BD%E7%94%A8&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时12分"
+          "time_info": "12时22分"
         }
       ]
     },
@@ -738,9 +804,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 12时22分]"
         },
         {
           "title": "特拉华州高级法院判定：马斯克2018年特斯拉薪酬计划必须被恢复",
@@ -781,11 +847,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 11时12分]"
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 12时22分]"
         }
       ]
     }
