@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T12:36:51.007159+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2025-12-22T13:21:50.672668+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "日本官员叫嚣“拥核”，石破茂表态",
@@ -85,8 +85,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时21分]"
+        },
+        {
+          "title": "日本H3火箭搭载的卫星可能无法进入预定轨道",
+          "url": "https://news.ifeng.com/c/8pHuv0VVxe0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时21分]"
         },
         {
           "title": "解放军报刊文：日本历史修正主义肆意践踏正义与良知",
@@ -111,26 +122,37 @@
           "time_info": "09时19分"
         },
         {
-          "title": "日本H3火箭搭载的卫星可能无法进入预定轨道",
-          "url": "https://news.ifeng.com/c/8pHuv0VVxe0",
-          "source": "凤凰网",
+          "title": "日本最大核电站将重启",
+          "url": "https://flash.jin10.com/detail/20251222131141345800",
+          "source": "金十数据",
           "ranks": [
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
-          "title": "日本火箭发射再失败",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%86%8D%E5%A4%B1%E8%B4%A5",
-          "source": "百度热搜",
+          "title": "日本最大核电站将重启。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3024709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "日本H3火箭8号机发射失败",
+          "url": "https://flash.jin10.com/detail/20251222130119579800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "13时21分"
         },
         {
           "title": "日本最高外汇事务官：若汇率出现过度波动 当局将采取“适当”行动",
@@ -144,15 +166,62 @@
           "time_info": "09时19分"
         },
         {
+          "title": "日本11月粗钢产量为677万吨，较10月下降1.2%；日本11月粗钢产量同比下降1.6%。",
+          "url": "https://flash.jin10.com/detail/20251222130039237800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "日本男足2026世界杯有希望夺冠吗",
+          "url": "https://www.toutiao.com/trending/7586106592509247551/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            18,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 13时21分]"
+        },
+        {
+          "title": "日本H3火箭发射失败。",
+          "url": "https://flash.jin10.com/detail/20251222125517395800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "日本20年期国债收益率上涨5.5个基点，至3.025%。",
           "url": "https://flash.jin10.com/detail/20251222115057107800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "日本火箭发射失败 卫星未入轨",
+          "url": "https://wallstreetcn.com/livenews/3024702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "现货金银周一双双再创新高，目前多头情绪占主导；受市场对日本当局干预的担忧推动，日元周一走强，野村证券认为日本当局的大胆行动可能已为时不远。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -172,7 +241,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -188,17 +257,16 @@
           "time_info": "11时29分"
         },
         {
-          "title": "日本男足2026世界杯有希望夺冠吗",
-          "url": "https://www.toutiao.com/trending/7586106592509247551/",
-          "source": "今日头条",
+          "title": "日本火箭发射再失败",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%86%8D%E5%A4%B1%E8%B4%A5",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            18,
-            15
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时36分]"
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时21分]"
         },
         {
           "title": "日本大阪河道现大量鱼群居民担忧地震",
@@ -271,6 +339,18 @@
           "time_info": "[00时19分 ~ 02时22分]"
         },
         {
+          "title": "日本制造为何批量撤出中国",
+          "url": "https://www.toutiao.com/trending/7586495219864964658/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时21分]"
+        },
+        {
           "title": "日本货币政策重大转向",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E9%87%8D%E5%A4%A7%E8%BD%AC%E5%90%91",
           "source": "百度热搜",
@@ -316,17 +396,6 @@
           "time_info": "09时19分"
         },
         {
-          "title": "日本制造为何批量撤出中国",
-          "url": "https://www.toutiao.com/trending/7586495219864964658/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "日本芯片相关股票大幅上涨，软银集团股价上涨7.9%，铠侠股价上涨6.2%，雷泰光电涨5.2%。",
           "url": "https://flash.jin10.com/detail/20251222082406585800",
           "source": "金十数据",
@@ -369,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "市场消息：日本新潟县议会批准了关于重启柏崎刈羽核电站的追加预算。（媒体更正，并非实际投票赞成重启核电站）",
+          "url": "https://flash.jin10.com/detail/20251222124028463800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "日本H3火箭在飞行途中第二级发动机燃烧提前停止。",
@@ -484,7 +564,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价又涨了",
@@ -497,6 +577,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "“降息预期+地缘冲突”推动，黄金、白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时21分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）上海金早盘价为984.6元/克，较国际金价(991.93元/克)低7.33元/克",
@@ -521,17 +613,6 @@
           "time_info": "09时19分"
         },
         {
-          "title": "“降息预期+地缘冲突”推动，黄金、白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "LME铜价升至纪录高位，接近每吨12,000美元。",
           "url": "https://wallstreetcn.com/livenews/3024648",
           "source": "华尔街见闻-快讯",
@@ -544,26 +625,38 @@
           "time_info": "[11时29分 ~ 12时36分]"
         },
         {
+          "title": "现货白银日内涨超3%，再创新高",
+          "url": "https://wallstreetcn.com/livenews/3024673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时21分]"
+        },
+        {
           "title": "现货白银站上69美元关口",
           "url": "https://flash.jin10.com/detail/20251222113503491800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
         {
-          "title": "现货白银日内涨超3%，再创新高",
-          "url": "https://wallstreetcn.com/livenews/3024673",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2025年12月22日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251222122217563800",
+          "source": "金十数据",
           "ranks": [
-            13
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "13时21分"
         },
         {
           "title": "现货白银周一早盘升至67.5美元/盎司，再创历史新高。",
@@ -591,7 +684,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -629,8 +722,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 12时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 13时21分]"
         },
         {
           "title": "王力宏火力全开伴舞是机器人",
@@ -638,11 +731,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 12时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 13时21分]"
+        },
+        {
+          "title": "A股机器人概念股异动拉升，首开股份直线涨停，景兴纸业、襄阳轴承、长盛轴承等冲高。",
+          "url": "https://wallstreetcn.com/livenews/3024712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "中国机器人在格斗机器人大赛中夺冠",
@@ -675,6 +780,18 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
+          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
+          "url": "https://www.cls.cn/detail/2235916",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时21分]"
+        },
+        {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
           "url": "https://wallstreetcn.com/livenews/3024485",
           "source": "华尔街见闻-快讯",
@@ -686,24 +803,13 @@
           "time_info": "07时15分"
         },
         {
-          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
-          "url": "https://www.cls.cn/detail/2235916",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "印度Sensex指数开盘上涨0.3%，报85145.90点，科技股领涨。",
           "url": "https://flash.jin10.com/detail/20251222114113291800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -754,11 +860,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时21分]"
         }
       ]
     },
@@ -771,11 +878,12 @@
           "url": "https://wallstreetcn.com/livenews/3024678",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时21分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）富时中国A50指数成分股午盘收盘行情一览：成分股涨跌互现，半导体、光伏设备等板块飘红",
@@ -784,7 +892,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -801,22 +909,24 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 12时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 13时21分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
           "url": "https://wallstreetcn.com/articles/3761792",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时21分]"
         }
       ]
     },
@@ -880,11 +990,12 @@
             17,
             20,
             26,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 12时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 13时21分]"
         }
       ]
     }
