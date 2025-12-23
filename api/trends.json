@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-23T17:21:53.046103+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2025-12-23T18:19:19.462894+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "迄今最严厉警告！日本财务大臣：针对汇市投机拥有“自由裁量权”，将采取大胆行动",
+          "url": "https://wallstreetcn.com/articles/3761858",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时15分 ~ 18时19分]"
+        },
         {
           "title": "专家：日本若敢拥核美国第一个翻脸",
           "url": "https://www.toutiao.com/trending/7586600464628583987/",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 09时15分]"
-        },
-        {
-          "title": "迄今最严厉警告！日本财务大臣：针对汇市投机拥有“自由裁量权”，将采取大胆行动",
-          "url": "https://wallstreetcn.com/articles/3761858",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 17时21分]"
         },
         {
           "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
@@ -89,6 +89,24 @@
           "time_info": "[00时20分 ~ 16时24分]"
         },
         {
+          "title": "人民日报钟声：日本的“军费账”算丢了历史责任与公道人心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32234610",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16,
+            14,
+            12,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时23分 ~ 18时19分]"
+        },
+        {
           "title": "日本航天为何陷入困局",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%88%AA%E5%A4%A9%E4%B8%BA%E4%BD%95%E9%99%B7%E5%85%A5%E5%9B%B0%E5%B1%80",
           "source": "bilibili 热搜",
@@ -101,23 +119,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 06时17分]"
-        },
-        {
-          "title": "人民日报钟声：日本的“军费账”算丢了历史责任与公道人心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32234610",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            16,
-            14,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时23分 ~ 17时21分]"
         },
         {
           "title": "特朗普提出中美G2概念 日本不安",
@@ -134,6 +135,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时34分 ~ 17时21分]"
+        },
+        {
+          "title": "欧洲地中海地震中心：日本滨松市以南167公里处发生5.2级地震。",
+          "url": "https://flash.jin10.com/detail/20251223175232134800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "日本为何突然“抱紧”中亚",
@@ -231,6 +243,18 @@
           "time_info": "[05时15分 ~ 06时17分]"
         },
         {
+          "title": "日本第17次核污染水排海结束，共排放7833立方米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32234703",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 18时19分]"
+        },
+        {
           "title": "日本遗孤在中国当助产士",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%81%97%E5%AD%A4%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%8A%A9%E4%BA%A7%E5%A3%AB",
           "source": "百度热搜",
@@ -277,18 +301,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "日本第17次核污染水排海结束，共排放7833立方米",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32234703",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 17时21分]"
         },
         {
           "title": "台方预计将有近30名日本国会议员窜访",
@@ -476,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "日本今年已捕杀近万头熊",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%8D%95%E6%9D%80%E8%BF%91%E4%B8%87%E5%A4%B4%E7%86%8A%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "日本40年期国债收益率下跌2个基点，至3.695%。",
@@ -699,17 +722,6 @@
           "time_info": "06时17分"
         },
         {
-          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
-          "url": "https://wallstreetcn.com/livenews/3025508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
           "title": "周一（12月22日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨0.58%，报88575美元。 CME以太币期货DCR主力合约跌0.03%，报2997.50美元。 美股加密货币与加密货币关联指数涨1.41%，报63.84点，高开之后在北京时间23:10刷新日高至66.30点，随后逐步回吐涨幅。 最近24小时，MarketVector数字资产100小盘指数涨2.30%，暂报3579.08点。 MarketVector数字资产100指数涨0.12%，暂报18093.84点。",
           "url": "https://wallstreetcn.com/livenews/3025144",
           "source": "华尔街见闻-快讯",
@@ -731,6 +743,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
+          "url": "https://wallstreetcn.com/livenews/3025508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时19分]"
         },
         {
           "title": "科技股走强带动指数反弹 ，大消费、商业航天仍有望于分化中反复活跃",
@@ -827,7 +851,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -907,6 +931,17 @@
           "time_info": "[02时24分 ~ 04时18分]"
         },
         {
+          "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
+          "url": "https://flash.jin10.com/detail/20251223175214274800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "现货白银涨2.8%，守在历史高位附近，铂金涨约7.5%",
           "url": "https://wallstreetcn.com/livenews/3025140",
           "source": "华尔街见闻-快讯",
@@ -976,6 +1011,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 12时34分]"
+        },
+        {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "金价大涨的背后原因是什么",
@@ -1123,6 +1169,18 @@
           "time_info": "[02时24分 ~ 04时18分]"
         },
         {
+          "title": "宁波华翔：子公司与国内某头部机器人关节厂商签订机器人关节订单",
+          "url": "https://wallstreetcn.com/livenews/3025499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时19分]"
+        },
+        {
           "title": "中国机器人靠什么走进海外高校",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E8%B5%B0%E8%BF%9B%E6%B5%B7%E5%A4%96%E9%AB%98%E6%A0%A1",
           "source": "百度热搜",
@@ -1155,17 +1213,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
-        },
-        {
-          "title": "宁波华翔：子公司与国内某头部机器人关节厂商签订机器人关节订单",
-          "url": "https://wallstreetcn.com/livenews/3025499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         }
       ]
     },
@@ -1178,11 +1225,12 @@
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 17时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时15分 ~ 18时19分]"
         },
         {
           "title": "特斯拉股价逼近500美元创新高 马斯克薪酬案翻盘+FSD稳跑",
@@ -1308,11 +1356,12 @@
             24,
             17,
             14,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 17时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 18时19分]"
         },
         {
           "title": "2026 年起微信转发淫秽信息给好友也违法，有哪些值得关注的信息？法律执行过程中可能面临哪些难点？",
@@ -1330,11 +1379,12 @@
           "url": "https://www.douyin.com/hot/2345308",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时19分]"
         }
       ]
     },
@@ -1355,8 +1405,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时15分 ~ 17时21分]"
+          "appearance_count": 18,
+          "time_info": "[01时15分 ~ 18时19分]"
         },
         {
           "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
@@ -1421,11 +1471,12 @@
             4,
             11,
             8,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时23分 ~ 17时21分]"
+          "appearance_count": 8,
+          "time_info": "[11时23分 ~ 18时19分]"
         },
         {
           "title": "商务部新闻发言人就安世半导体问题答记者问",
