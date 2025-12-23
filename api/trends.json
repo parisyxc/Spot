@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T07:16:22.808499+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2025-12-23T09:16:15.163291+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             12,
             10,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时16分]"
         },
         {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
@@ -41,6 +42,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 09时16分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览（美股收盘）",
@@ -82,7 +95,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -108,17 +121,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
         },
         {
           "title": "航空业ETF收涨1.6%，和生物科技ETF领跑美股行业ETF",
@@ -215,7 +217,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 8,
+      "match_count": 16,
       "titles": [
         {
           "title": "专家：日本若敢拥核美国第一个翻脸",
@@ -223,11 +225,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时15分]"
         },
         {
           "title": "日本自民党议员窜访台湾，外交部：坚决反对，已提出严正交涉",
@@ -251,8 +254,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时16分]"
         },
         {
           "title": "日本火箭发射再失败",
@@ -274,11 +277,12 @@
           "ranks": [
             17,
             18,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时16分]"
         },
         {
           "title": "日本航天为何陷入困局",
@@ -293,6 +297,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 06时17分]"
+        },
+        {
+          "title": "迄今最严厉警告！日本财务大臣：针对汇市投机拥有“自由裁量权”，将采取大胆行动",
+          "url": "https://wallstreetcn.com/articles/3761858",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "日本为何突然“抱紧”中亚",
+          "url": "https://www.toutiao.com/trending/7586609184569822762/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
         },
         {
           "title": "日本宣扬拥核窜访台湾释放何种信号",
@@ -318,12 +344,78 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时17分]"
+        },
+        {
+          "title": "日本企业为何对海南封关喜忧参半",
+          "url": "https://www.toutiao.com/trending/7586496630862384682/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "台方预计将有近30名日本国会议员窜访",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%96%B9%E9%A2%84%E8%AE%A1%E5%B0%86%E6%9C%89%E8%BF%9130%E5%90%8D%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A%E8%AE%AE%E5%91%98%E7%AA%9C%E8%AE%BF%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "日本5年期国债收益率下跌2.5个基点，至1.510%。",
+          "url": "https://flash.jin10.com/detail/20251223090115806800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "10年期日本国债收益率下行3.5BP至2.045%。",
+          "url": "https://wallstreetcn.com/livenews/3025211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "10年期日本国债收益率下行3BP至2.050%。 20年期日本国债收益率下行1.5BP至2.985%。",
+          "url": "https://wallstreetcn.com/livenews/3025202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "40年期日本国债收益率下行1BP至3.705%。",
+          "url": "https://wallstreetcn.com/livenews/3025194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -341,6 +433,52 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "一图看懂 | 左手黄金，右手白银 今年10万投资贵金属有多能赚？",
+          "url": "https://www.cls.cn/detail/2236697",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时18分 ~ 09时16分]"
+        },
+        {
+          "title": "降息预期+地缘冲突推动资金涌向贵金属 黄金白银同日改写历史",
+          "url": "https://www.cls.cn/detail/2237020",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "现货白银触及每盎司69.56美元的历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3025229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "现货白银触及每盎司69.56美元的历史新高。",
+          "url": "https://flash.jin10.com/detail/20251223090735358800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         },
         {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
@@ -380,16 +518,93 @@
           "time_info": "[03时15分 ~ 05时15分]"
         },
         {
-          "title": "一图看懂 | 左手黄金，右手白银 今年10万投资贵金属有多能赚？",
-          "url": "https://www.cls.cn/detail/2236697",
-          "source": "财联社热门",
+          "title": "上海黄金交易所黄金T+D 12月23日（周二）早盘盘初上涨1.96%报1004.87元/克；<br/>上海黄金交易所白银T+D 12月23日（周二）早盘盘初上涨1.18%报16259.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251223090023834800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            12
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "中国机器人获机器人格斗冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%8E%B7%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7,
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时18分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时16分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，咱博爱89627.99美元；以太坊涨1.80%，报3043.51美元。",
+          "url": "https://wallstreetcn.com/livenews/3025071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "美国总统特朗普：你能拥有机器人，但你往往需要人类。",
+          "url": "https://wallstreetcn.com/livenews/3025168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
+          "url": "https://wallstreetcn.com/livenews/3025071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 04时18分]"
+        },
+        {
+          "title": "中国机器人靠什么走进海外高校",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E8%B5%B0%E8%BF%9B%E6%B5%B7%E5%A4%96%E9%AB%98%E6%A0%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时15分]"
+        },
+        {
+          "title": "北京：加快战略性新兴产业发展 办好机器人“两会一赛”",
+          "url": "https://wallstreetcn.com/livenews/3025212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         }
       ]
     },
@@ -407,8 +622,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时16分]"
         },
         {
           "title": "抖音年度哈哈大会更新了",
@@ -418,11 +633,12 @@
             6,
             7,
             10,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时16分]"
         },
         {
           "title": "原来微信长按好用一万倍",
@@ -433,11 +649,13 @@
             2,
             4,
             9,
-            8
+            8,
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时24分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[02时24分 ~ 09时16分]"
         },
         {
           "title": "2026 年起微信转发淫秽信息给好友也违法，有哪些值得关注的信息？法律执行过程中可能面临哪些难点？",
@@ -467,69 +685,41 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 5,
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 3,
       "titles": [
         {
-          "title": "中国机器人获机器人格斗冠军",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%8E%B7%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            7,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，咱博爱89627.99美元；以太坊涨1.80%，报3043.51美元。",
-          "url": "https://wallstreetcn.com/livenews/3025071",
-          "source": "华尔街见闻-快讯",
+          "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
         },
         {
-          "title": "美国总统特朗普：你能拥有机器人，但你往往需要人类。",
-          "url": "https://wallstreetcn.com/livenews/3025168",
-          "source": "华尔街见闻-快讯",
+          "title": "特斯拉股价逼近500美元创新高 马斯克薪酬案翻盘+FSD稳跑",
+          "url": "https://www.cls.cn/detail/2237015",
+          "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
-          "url": "https://wallstreetcn.com/livenews/3025071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时18分]"
-        },
-        {
-          "title": "中国机器人靠什么走进海外高校",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E8%B5%B0%E8%BF%9B%E6%B5%B7%E5%A4%96%E9%AB%98%E6%A0%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时15分]"
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3025030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         }
       ]
     },
@@ -544,11 +734,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 09时16分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -580,23 +771,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3025030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
         }
       ]
     }
