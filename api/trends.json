@@ -1,8 +1,306 @@
 {
-  "generated_at": "2025-12-23T09:16:15.163291+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2025-12-23T11:23:56.102930+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "专家：日本若敢拥核美国第一个翻脸",
+          "url": "https://www.toutiao.com/trending/7586600464628583987/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时15分]"
+        },
+        {
+          "title": "日本自民党议员窜访台湾，外交部：坚决反对，已提出严正交涉",
+          "url": "https://www.cls.cn/detail/2236404",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时15分]"
+        },
+        {
+          "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32228304",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时23分]"
+        },
+        {
+          "title": "日本火箭发射再失败",
+          "url": "https://www.douyin.com/hot/2343976",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "中方对日本高官拥核言论感到震惊",
+          "url": "https://www.toutiao.com/trending/7586274245890657834/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            18,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时16分]"
+        },
+        {
+          "title": "日本航天为何陷入困局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%88%AA%E5%A4%A9%E4%B8%BA%E4%BD%95%E9%99%B7%E5%85%A5%E5%9B%B0%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            24,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
+        },
+        {
+          "title": "迄今最严厉警告！日本财务大臣：针对汇市投机拥有“自由裁量权”，将采取大胆行动",
+          "url": "https://wallstreetcn.com/articles/3761858",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时23分]"
+        },
+        {
+          "title": "日本为何突然“抱紧”中亚",
+          "url": "https://www.toutiao.com/trending/7586609184569822762/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "日本宣扬拥核窜访台湾释放何种信号",
+          "url": "https://www.toutiao.com/trending/7585875548750020651/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 04时18分]"
+        },
+        {
+          "title": "日本经济产业省预计，日本1月至3月粗钢产量将同比下降1.7%。",
+          "url": "https://flash.jin10.com/detail/20251223110136878800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "日本经济产业省预计，日本1月至3月季度的钢产量将较上一季度下降0.8%，至2005万吨。",
+          "url": "https://flash.jin10.com/detail/20251223110128613800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "日元涨0.5%突破157，日本政府官员口头提振汇率",
+          "url": "https://wallstreetcn.com/livenews/3025117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时17分]"
+        },
+        {
+          "title": "日本企业为何对海南封关喜忧参半",
+          "url": "https://www.toutiao.com/trending/7586496630862384682/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "台方预计将有近30名日本国会议员窜访",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%96%B9%E9%A2%84%E8%AE%A1%E5%B0%86%E6%9C%89%E8%BF%9130%E5%90%8D%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A%E8%AE%AE%E5%91%98%E7%AA%9C%E8%AE%BF%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "日本5年期国债收益率下跌2.5个基点，至1.510%。",
+          "url": "https://flash.jin10.com/detail/20251223090115806800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "日本经济产业省预测，日本1月至3月季度包括出口在内的钢铁产品需求将同比下降1.6%，至1827万吨。",
+          "url": "https://flash.jin10.com/detail/20251223110051451800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "日本经济产业省预计，日本1月至3月季度钢铁产品出口量将同比下降0.5%，至626万吨。",
+          "url": "https://flash.jin10.com/detail/20251223110036244800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "10年期日本国债收益率下行3.5BP至2.045%。",
+          "url": "https://wallstreetcn.com/livenews/3025211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "人民日报钟声：日本的“军费账”算丢了历史责任与公道人心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32234610",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "10年期日本国债收益率下行3BP至2.050%。 20年期日本国债收益率下行1.5BP至2.985%。",
+          "url": "https://wallstreetcn.com/livenews/3025202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "日经225指数早盘收涨0.1%，日本东证指数早盘收盘涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3025290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "40年期日本国债收益率下行1BP至3.705%。",
+          "url": "https://wallstreetcn.com/livenews/3025194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "高盛将加大对日本中型公司的投资。",
+          "url": "https://wallstreetcn.com/livenews/3025281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：外汇走势与基本面不符。 影响汇率和收益率变动的因素很多。 拒绝就当前汇率和收益率水平发表评论。 **将针对过度的外汇波动采取适宜行动。 在市场干预上，我们有自由行动的权利。** 政府正专注于经济增长。 G7中无一国家对日本财政状况提出质疑。 收益率变动并非立即与国家财政状况挂钩。",
+          "url": "https://wallstreetcn.com/livenews/3025279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "日本第17次核污染水排海结束",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AC%AC17%E6%AC%A1%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E7%BB%93%E6%9D%9F%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 18,
@@ -26,11 +324,25 @@
             12,
             10,
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 09时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时23分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 11时23分]"
         },
         {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
@@ -42,18 +354,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 09时16分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览（美股收盘）",
@@ -216,206 +516,8 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "专家：日本若敢拥核美国第一个翻脸",
-          "url": "https://www.toutiao.com/trending/7586600464628583987/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时15分]"
-        },
-        {
-          "title": "日本自民党议员窜访台湾，外交部：坚决反对，已提出严正交涉",
-          "url": "https://www.cls.cn/detail/2236404",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时15分]"
-        },
-        {
-          "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32228304",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 09时16分]"
-        },
-        {
-          "title": "日本火箭发射再失败",
-          "url": "https://www.douyin.com/hot/2343976",
-          "source": "抖音",
-          "ranks": [
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "中方对日本高官拥核言论感到震惊",
-          "url": "https://www.toutiao.com/trending/7586274245890657834/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            18,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 09时16分]"
-        },
-        {
-          "title": "日本航天为何陷入困局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%88%AA%E5%A4%A9%E4%B8%BA%E4%BD%95%E9%99%B7%E5%85%A5%E5%9B%B0%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            24,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时17分]"
-        },
-        {
-          "title": "迄今最严厉警告！日本财务大臣：针对汇市投机拥有“自由裁量权”，将采取大胆行动",
-          "url": "https://wallstreetcn.com/articles/3761858",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "日本为何突然“抱紧”中亚",
-          "url": "https://www.toutiao.com/trending/7586609184569822762/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "日本宣扬拥核窜访台湾释放何种信号",
-          "url": "https://www.toutiao.com/trending/7585875548750020651/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 04时18分]"
-        },
-        {
-          "title": "日元涨0.5%突破157，日本政府官员口头提振汇率",
-          "url": "https://wallstreetcn.com/livenews/3025117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时17分]"
-        },
-        {
-          "title": "日本企业为何对海南封关喜忧参半",
-          "url": "https://www.toutiao.com/trending/7586496630862384682/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "台方预计将有近30名日本国会议员窜访",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%96%B9%E9%A2%84%E8%AE%A1%E5%B0%86%E6%9C%89%E8%BF%9130%E5%90%8D%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A%E8%AE%AE%E5%91%98%E7%AA%9C%E8%AE%BF%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "日本5年期国债收益率下跌2.5个基点，至1.510%。",
-          "url": "https://flash.jin10.com/detail/20251223090115806800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "10年期日本国债收益率下行3.5BP至2.045%。",
-          "url": "https://wallstreetcn.com/livenews/3025211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "10年期日本国债收益率下行3BP至2.050%。 20年期日本国债收益率下行1.5BP至2.985%。",
-          "url": "https://wallstreetcn.com/livenews/3025202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "40年期日本国债收益率下行1BP至3.705%。",
-          "url": "https://wallstreetcn.com/livenews/3025194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -435,6 +537,18 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
+          "title": "降息预期+地缘冲突推动资金涌向贵金属 黄金白银同日改写历史",
+          "url": "https://www.cls.cn/detail/2237020",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时23分]"
+        },
+        {
           "title": "一图看懂 | 左手黄金，右手白银 今年10万投资贵金属有多能赚？",
           "url": "https://www.cls.cn/detail/2236697",
           "source": "财联社热门",
@@ -448,24 +562,13 @@
           "time_info": "[04时18分 ~ 09时16分]"
         },
         {
-          "title": "降息预期+地缘冲突推动资金涌向贵金属 黄金白银同日改写历史",
-          "url": "https://www.cls.cn/detail/2237020",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
           "title": "现货白银触及每盎司69.56美元的历史新高。",
           "url": "https://wallstreetcn.com/livenews/3025229",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -476,7 +579,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -505,6 +608,28 @@
           "time_info": "06时17分"
         },
         {
+          "title": "现货白银首破70美元大关",
+          "url": "https://flash.jin10.com/detail/20251223110553948800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "现货白银首次站上70美元关口，日内涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 12月22日（周一）晚盘收盘上涨1.12%报996.62元/克；<br/>上海黄金交易所白银T+D 12月22日（周一）晚盘收盘上涨0.47%报16145.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251223023151598800",
           "source": "金十数据",
@@ -524,15 +649,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报69.71美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251223104212580800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国机器人获机器人格斗冠军",
@@ -558,6 +694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "银河通用机器人牵手百达精工，计划部署超1000台具身智能机器人",
+          "url": "https://wallstreetcn.com/livenews/3025317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "美国总统特朗普：你能拥有机器人，但你往往需要人类。",
@@ -602,7 +749,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         }
@@ -679,8 +826,93 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 11时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
+          "url": "https://www.cls.cn/detail/2236551",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "三星推出全球首款 2nm 手机芯片 Exynos 2600，性能有多强？对半导体和手机行业有哪些影响？",
+          "url": "https://www.zhihu.com/question/1986356290876827296",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "商务部新闻发言人就安世半导体问题答记者问",
+          "url": "https://www.cls.cn/detail/2236926",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时15分 ~ 11时23分]"
+        },
+        {
+          "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
+          "url": "https://wallstreetcn.com/livenews/3025122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时17分]"
+        },
+        {
+          "title": "谷歌老兵挂帅 乐天集团以“极致性价比”深耕AI领域",
+          "url": "https://flash.jin10.com/detail/20251223105452549800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     },
@@ -696,19 +928,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时23分]"
         },
         {
           "title": "特斯拉股价逼近500美元创新高 马斯克薪酬案翻盘+FSD稳跑",
           "url": "https://www.cls.cn/detail/2237015",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时23分]"
         },
         {
           "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
@@ -720,57 +953,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
-          "url": "https://wallstreetcn.com/articles/3761857",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 09时16分]"
-        },
-        {
-          "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
-          "url": "https://wallstreetcn.com/livenews/3025122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
-          "url": "https://www.cls.cn/detail/2236551",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
         }
       ]
     }
