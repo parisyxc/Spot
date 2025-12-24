@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T14:27:27.802189+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2025-12-24T15:21:17.651678+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "日本核反应堆泄漏水量约为20毫升，浓度被认为“较高”",
@@ -36,20 +36,6 @@
           "time_info": "[01时16分 ~ 09时15分]"
         },
         {
-          "title": "日本核反应堆含放射性水泄漏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%90%AB%E6%94%BE%E5%B0%84%E6%80%A7%E6%B0%B4%E6%B3%84%E6%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 14时27分]"
-        },
-        {
           "title": "日本一报废核反应堆发生含放射性水泄漏事件，数人或遭辐射",
           "url": "https://m.thepaper.cn/newsDetail_forward_32237641",
           "source": "澎湃新闻",
@@ -61,8 +47,23 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 15时21分]"
+        },
+        {
+          "title": "日本核反应堆含放射性水泄漏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%90%AB%E6%94%BE%E5%B0%84%E6%80%A7%E6%B0%B4%E6%B3%84%E6%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            7,
+            12,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 18,
-          "time_info": "[00时21分 ~ 14时27分]"
+          "time_info": "[00时21分 ~ 15时21分]"
         },
         {
           "title": "人民日报钟声：日本的“军费账”算丢了历史责任与公道人心",
@@ -98,11 +99,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 15时21分]"
         },
         {
           "title": "日本靖国神社被起诉",
@@ -110,11 +112,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时27分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 15时21分]"
         },
         {
           "title": "国台办回应日本盯上在台湾的大熊猫",
@@ -123,11 +126,23 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时27分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 15时21分]"
+        },
+        {
+          "title": "日本民间组织激烈抗议官员拥核言论，要求罢免涉事人员",
+          "url": "https://news.ifeng.com/c/8pLSg94hcdN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本东电将于1月20日部分重启全球最大核电站",
@@ -136,7 +151,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -161,17 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
-        },
-        {
-          "title": "日本Eneos公司牵头竞购雪佛龙新加坡炼油厂股份。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3026009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
         },
         {
           "title": "花旗看好日本交易热潮，拟扩建投资银行团队",
@@ -244,6 +248,18 @@
           "time_info": "[13时20分 ~ 14时27分]"
         },
         {
+          "title": "日本Eneos公司牵头竞购雪佛龙新加坡炼油厂股份。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3026009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时21分]"
+        },
+        {
           "title": "日本10月同步指标月率终值 1%，前值0.5%。",
           "url": "https://flash.jin10.com/detail/20251224130205317800",
           "source": "金十数据",
@@ -279,6 +295,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 04时18分]"
+        },
+        {
+          "title": "国台办回应日本政客觊觎赠台大熊猫",
+          "url": "https://www.toutiao.com/trending/7587266464193875494/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时21分]"
         },
         {
           "title": "日本一核反应堆泄漏 数人疑遭辐射",
@@ -369,6 +397,28 @@
           "time_info": "11时21分"
         },
         {
+          "title": "日经225指数收盘收跌0.1%，报50,344.10点。 日本东证指数收跌0.5%，报3,407.37点。 韩国首尔综指收盘跌0.2%，报4,108.62点。",
+          "url": "https://wallstreetcn.com/livenews/3026038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "日本最大核电站将于明年1月20日重启",
+          "url": "https://wallstreetcn.com/livenews/3026037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "日本央行会议纪要：少数委员表示，日元下跌可能通过进口价格上涨导致通胀超调。",
           "url": "https://flash.jin10.com/detail/20251224081113555800",
           "source": "金十数据",
@@ -400,17 +450,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
-        },
-        {
-          "title": "国台办回应日本政客觊觎赠台大熊猫",
-          "url": "https://www.toutiao.com/trending/7587266464193875494/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
         },
         {
           "title": "日本10年期国债收益率下跌2BP至2.02%。",
@@ -452,7 +491,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -518,7 +557,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -537,7 +576,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "白银LOF的套利游戏",
@@ -550,8 +589,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时17分 ~ 14时27分]"
+          "appearance_count": 13,
+          "time_info": "[04时17分 ~ 15时21分]"
         },
         {
           "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
@@ -628,6 +667,20 @@
           "time_info": "07时16分"
         },
         {
+          "title": "为什么 11 月以来白银涨的比黄金疯那么多? 大家会考虑囤白银吗？",
+          "url": "https://www.zhihu.com/question/1980280147111323031",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 15时21分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至12月16日当周，COMEX黄金投机者将净多头头寸增加9,493份合约，至134,130份合约；COMEX白银投机者将净多头头寸削减3,681份合约，至24,297份合约；COMEX铜投机者将净多头头寸增加4,904份合约，至75,987份合约。",
           "url": "https://flash.jin10.com/detail/20251224043300072800",
           "source": "金十数据",
@@ -685,6 +738,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "金十图示：2025年12月24日（周三）上海金午盘价为1008.94元/克，较国际金价(1012.11元/克)，低3.17元/克",
+          "url": "https://flash.jin10.com/detail/20251224150502225800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "数据分析公司Crisil Coalition Greenwich的数据显示，在黄金和白银价格飙升的背景下，今年前九个月，主要银行贵金属交易部门的收入比2024年同期增长了50%。",
           "url": "https://flash.jin10.com/detail/20251224130812700800",
           "source": "金十数据",
@@ -719,20 +783,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时18分]"
-        },
-        {
-          "title": "为什么 11 月以来白银涨的比黄金疯那么多? 大家会考虑囤白银吗？",
-          "url": "https://www.zhihu.com/question/1980280147111323031",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 14时27分]"
         },
         {
           "title": "现货白银日内涨幅达3.0%，报71.14美元/盎司。",
@@ -782,6 +832,17 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
+          "title": "伦敦铜价创历史新高，突破每吨12159.50美元。 伦锡日内涨超2.00%，现报43460.00美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3026035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "纽约银日内涨幅达3.5%，报71.06美元/盎司。 现货白银日内涨幅达2.5%，报70.85美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3025725",
           "source": "华尔街见闻-快讯",
@@ -811,6 +872,17 @@
           "time_info": "[00时21分 ~ 06时16分]"
         },
         {
+          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
+          "url": "https://wallstreetcn.com/articles/3761906",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 15时21分]"
+        },
+        {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
           "url": "https://www.cls.cn/detail/2238248",
           "source": "财联社热门",
@@ -822,17 +894,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时15分 ~ 14时27分]"
-        },
-        {
-          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
-          "url": "https://wallstreetcn.com/articles/3761906",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 14时27分]"
         },
         {
           "title": "强劲GDP提振科技股，标普四连涨收创新高，金银铜再新高，人民币强势逼近7.01",
@@ -989,7 +1050,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "丽江公开发函喊话小红书",
@@ -1040,11 +1101,12 @@
             18,
             20,
             21,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 15时21分]"
         },
         {
           "title": "抖音舞蹈年终盘点",
@@ -1065,9 +1127,20 @@
           "ranks": [
             22
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时21分]"
+        },
+        {
+          "title": "抖音搜索年度报告",
+          "url": "https://www.douyin.com/hot/2346135",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "15时21分"
         }
       ]
     },
@@ -1122,6 +1195,58 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "北京市机器人产业协会将成立",
+          "url": "https://wallstreetcn.com/livenews/3026032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时21分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌2.70%，暂报3523.87点，期间持续走低，北京时间22:55刷新日低至3453.45点。 Solana目前涨0.18%，狗狗币跌0.46%，XRP跌0.34%。 MarketVector数字资产100指数跌1.95%，暂报18018.00点，22:57也曾刷新日低至17723.29点。 比特币目前跌0.16%，暂报88022美元；以太坊跌0.49%，暂报2959.77美元。",
+          "url": "https://wallstreetcn.com/livenews/3025706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时15分]"
+        },
+        {
+          "title": "“杭州六小龙”云深处启动IPO 四足机器人紧追宇树科技",
+          "url": "https://www.cls.cn/detail/2238530",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "国家发改委：加力实施农机装备补短板行动 拓展大数据、农业机器人、人工智能等在农业农村领域应用场景",
+          "url": "https://wallstreetcn.com/livenews/3025901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 INTEL",
       "match_count": 3,
       "titles": [
@@ -1159,46 +1284,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "北京市机器人产业协会将成立",
-          "url": "https://wallstreetcn.com/livenews/3026032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌2.70%，暂报3523.87点，期间持续走低，北京时间22:55刷新日低至3453.45点。 Solana目前涨0.18%，狗狗币跌0.46%，XRP跌0.34%。 MarketVector数字资产100指数跌1.95%，暂报18018.00点，22:57也曾刷新日低至17723.29点。 比特币目前跌0.16%，暂报88022美元；以太坊跌0.49%，暂报2959.77美元。",
-          "url": "https://wallstreetcn.com/livenews/3025706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时15分]"
-        },
-        {
-          "title": "国家发改委：加力实施农机装备补短板行动 拓展大数据、农业机器人、人工智能等在农业农村领域应用场景",
-          "url": "https://wallstreetcn.com/livenews/3025901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
         }
       ]
     },
