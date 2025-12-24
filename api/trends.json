@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T04:18:23.266883+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2025-12-25T05:14:59.667638+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "涉黄金、白银，3只LOF明日开盘起停牌1小时",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "白银LOF斩获3连板！溢价率跃升至68%，场内基金扎堆涨停，这些溢价率同步飙涨",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "LOF盘中再涨停！白银套利“刷屏”，“乌龙指”、“异常交易”提醒都来了！",
@@ -53,8 +53,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
+        },
+        {
+          "title": "白银、纽约铜、铂族贵金属冲高回落",
+          "url": "https://wallstreetcn.com/livenews/3026335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月24日（周三）晚盘收盘下跌0.41%报1005.5元/克；<br/>上海黄金交易所白银T+D 12月24日（周三）晚盘收盘下跌0.64%报17210.0元/千克。",
@@ -62,11 +73,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时14分]"
         },
         {
           "title": "现货钯金跌穿1700美元/盎司关口，日内跌超8.6%，北京时间14:47涨至1962.42美元之后持续回撤。 现货铂金跌向2202美元，目前跌3.8%。 现货黄金跌超0.4%，逼近4460美元，09:25还曾涨至4525.77美元创历史新高。 现货白银跌穿71美元，跌幅0.6%，脱离09:53所创历史最高位72.70美元。",
@@ -129,7 +141,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
@@ -140,20 +152,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
-        },
-        {
-          "title": "美股行业ETF普遍收涨",
-          "url": "https://wallstreetcn.com/livenews/3026322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览（美股收盘）",
@@ -162,11 +162,12 @@
           "ranks": [
             3,
             9,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 05时14分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）热门中概股行情一览（美股收盘）",
@@ -175,11 +176,36 @@
           "ranks": [
             4,
             10,
-            24
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 05时14分]"
+        },
+        {
+          "title": "美股行业ETF普遍收涨",
+          "url": "https://wallstreetcn.com/livenews/3026322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时18分]"
+          "time_info": "[03时14分 ~ 05时14分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
+          "url": "https://wallstreetcn.com/livenews/3026332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "美股收盘：三大股指齐涨 标普500续创新高",
@@ -188,11 +214,12 @@
           "ranks": [
             5,
             11,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 05时14分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
@@ -200,11 +227,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时14分]"
         },
         {
           "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
@@ -255,8 +283,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "日本发放过期救济粮，要求领取者签免责书",
@@ -266,8 +294,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "态度强硬 日本官员再惹风波",
@@ -281,8 +309,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "日本民间组织激烈抗议官员拥核言论，要求罢免涉事人员",
@@ -292,8 +320,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "精日实锤?原神套用日本军衔",
@@ -303,8 +331,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "日本靖国神社被起诉",
@@ -325,11 +353,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时14分]"
+        },
+        {
+          "title": "日本核反应堆含放射性水泄漏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%90%AB%E6%94%BE%E5%B0%84%E6%80%A7%E6%B0%B4%E6%B3%84%E6%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时13分 ~ 05时14分]"
         },
         {
           "title": "专家：日本试图在地理上围堵中国",
@@ -342,18 +384,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 01时14分]"
-        },
-        {
-          "title": "日本核反应堆含放射性水泄漏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%90%AB%E6%94%BE%E5%B0%84%E6%80%A7%E6%B0%B4%E6%B3%84%E6%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 04时18分]"
         }
       ]
     },
@@ -361,6 +391,18 @@
       "keyword_group": "特斯拉 INTEL",
       "match_count": 6,
       "titles": [
+        {
+          "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
+          "url": "https://flash.jin10.com/detail/20251225030848051800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时14分]"
+        },
         {
           "title": "特斯拉在欧洲为何卖不动了",
           "url": "https://www.toutiao.com/trending/7587334108544503302/",
@@ -373,17 +415,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 03时14分]"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
-          "url": "https://flash.jin10.com/detail/20251225030848051800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
         },
         {
           "title": "特斯拉胜诉，自动驾驶技术专利案成功移交至美国加州审理",
@@ -449,8 +480,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "没人能笑着走出抖音白描文学",
@@ -461,8 +492,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "丽江旅拍协会：将起诉小红书",
@@ -472,11 +503,12 @@
             10,
             14,
             16,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         }
       ]
     },
@@ -493,8 +525,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
@@ -522,8 +554,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
