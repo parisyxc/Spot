@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-24T11:21:19.126120+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2025-12-24T12:33:25.952417+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "日本核反应堆含放射性水泄漏",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%90%AB%E6%94%BE%E5%B0%84%E6%80%A7%E6%B0%B4%E6%B3%84%E6%BC%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 09时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 12时33分]"
         },
         {
           "title": "日本核反应堆泄漏水量约为20毫升，浓度被认为“较高”",
@@ -58,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 11时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 12时33分]"
         },
         {
           "title": "人民日报钟声：日本的“军费账”算丢了历史责任与公道人心",
@@ -96,9 +97,20 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时33分]"
+        },
+        {
+          "title": "日本靖国神社被起诉",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E8%A2%AB%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时21分"
+          "time_info": "12时33分"
         },
         {
           "title": "日本在2026财年预算中假设债券开支的利率（成本）为3%。（日本读卖新闻Yomiuri）",
@@ -142,9 +154,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "国台办回应日本盯上在台湾的大熊猫",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%9B%AF%E4%B8%8A%E5%9C%A8%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "日本和美国同意加快推进5500亿美元对美投资项目",
@@ -153,7 +176,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -168,6 +191,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 04时18分]"
+        },
+        {
+          "title": "周锡玮：大陆要将日本极右势力打趴",
+          "url": "https://www.toutiao.com/trending/7586593619982123050/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时33分]"
         },
         {
           "title": "日本一核反应堆泄漏 数人疑遭辐射",
@@ -209,7 +244,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -231,7 +266,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -269,17 +304,6 @@
           "time_info": "09时15分"
         },
         {
-          "title": "周锡玮：大陆要将日本极右势力打趴",
-          "url": "https://www.toutiao.com/trending/7586593619982123050/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
           "title": "日本10年期国债收益率下跌2BP至2.02%。",
           "url": "https://wallstreetcn.com/livenews/3025843",
           "source": "华尔街见闻-快讯",
@@ -308,7 +332,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -371,8 +395,22 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "白银LOF的套利游戏",
+          "url": "https://wallstreetcn.com/articles/3761920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时17分 ~ 12时33分]"
+        },
         {
           "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
           "url": "https://www.cls.cn/detail/2237629",
@@ -384,19 +422,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "白银LOF的套利游戏",
-          "url": "https://wallstreetcn.com/articles/3761920",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时17分 ~ 11时21分]"
         },
         {
           "title": "国投白银LOF高溢价风波内情调查：“小白套利指南”煽风，不对称限购引争议",
@@ -437,15 +462,16 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "机构：12月的大涨料将推动铜价录得2009年以来最佳表现",
-          "url": "https://flash.jin10.com/detail/20251224111604855800",
-          "source": "金十数据",
+          "title": "白银首破70美元关口、黄金逼近4500 贵金属牛市继续扩散",
+          "url": "https://www.cls.cn/detail/2238199",
+          "source": "财联社热门",
           "ranks": [
-            1
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 12时33分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少95.88吨，当前持仓量为16503.37吨。欢迎点击查看数据中心...",
@@ -459,16 +485,15 @@
           "time_info": "07时16分"
         },
         {
-          "title": "白银首破70美元关口、黄金逼近4500 贵金属牛市继续扩散",
-          "url": "https://www.cls.cn/detail/2238199",
-          "source": "财联社热门",
+          "title": "金十图示：2025年12月24日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251224120637658800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 11时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月16日当周，COMEX黄金投机者将净多头头寸增加9,493份合约，至134,130份合约；COMEX白银投机者将净多头头寸削减3,681份合约，至24,297份合约；COMEX铜投机者将净多头头寸增加4,904份合约，至75,987份合约。",
@@ -480,6 +505,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "机构：12月的大涨料将推动铜价录得2009年以来最佳表现",
+          "url": "https://flash.jin10.com/detail/20251224111604855800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时33分]"
         },
         {
           "title": "分析师：白银延续创纪录涨势 需警惕年底获利了结",
@@ -552,6 +589,18 @@
           "time_info": "[04时18分 ~ 05时16分]"
         },
         {
+          "title": "为什么 11 月以来白银涨的比黄金疯那么多? 大家会考虑囤白银吗？",
+          "url": "https://www.zhihu.com/question/1980280147111323031",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时33分]"
+        },
+        {
           "title": "金价癫了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%99%AB%E4%BA%86%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -573,17 +622,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "为什么 11 月以来白银涨的比黄金疯那么多? 大家会考虑囤白银吗？",
-          "url": "https://www.zhihu.com/question/1980280147111323031",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
         },
         {
           "title": "纽约银日内涨幅达3.5%，报71.06美元/盎司。 现货白银日内涨幅达2.5%，报70.85美元/盎司。",
@@ -624,8 +662,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时15分 ~ 11时21分]"
+          "appearance_count": 5,
+          "time_info": "[07时15分 ~ 12时33分]"
         },
         {
           "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
@@ -635,8 +673,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 11时21分]"
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 12时33分]"
         },
         {
           "title": "强劲GDP提振科技股，标普四连涨收创新高，金银铜再新高，人民币强势逼近7.01",
@@ -853,11 +891,12 @@
           "url": "https://www.douyin.com/hot/2345308",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时33分]"
         }
       ]
     },
@@ -883,7 +922,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -894,7 +933,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -905,7 +944,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
@@ -975,7 +1014,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
