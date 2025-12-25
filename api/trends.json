@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T06:16:24.837460+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2025-12-26T07:16:50.458391+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "年终巨献：机器人述职报告",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "比特币短线从87800美元附近拉升至接近88600美元的水平，刷新日高，日内当前涨约1%。",
@@ -55,11 +55,12 @@
             26,
             28,
             19,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 06时16分]"
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 07时16分]"
         },
         {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
@@ -90,6 +91,17 @@
           "time_info": "[00时20分 ~ 04时18分]"
         },
         {
+          "title": "卡位产业爆发前夜，机器人企业竞相“备壳”",
+          "url": "https://wallstreetcn.com/livenews/3026848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "联手金马游乐，星尘智能开启“机器人MART”千台级批量交付",
           "url": "https://wallstreetcn.com/livenews/3026773",
           "source": "华尔街见闻-快讯",
@@ -105,18 +117,19 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
           "url": "https://wallstreetcn.com/articles/3762049",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -127,11 +140,12 @@
             11,
             10,
             7,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月25日（周四）晚盘收盘上涨1.06%报1013.11元/克；<br/>上海黄金交易所白银T+D 12月25日（周四）晚盘收盘上涨5.09%报18118.0元/千克。",
@@ -141,11 +155,34 @@
             5,
             8,
             13,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时16分]"
+        },
+        {
+          "title": "现货白银突破73美元/盎司，再创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3026859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "现货白银周五开盘大涨 再创新高",
+          "url": "https://flash.jin10.com/detail/20251226070114048800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -160,71 +197,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 04时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "监视员工的软件被公开叫卖，员工微信聊天像「裸奔」，使用这种软件违反了哪些法律？公司要承担怎样的责任？",
-          "url": "https://www.zhihu.com/question/1987465963923330361",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
-          "title": "老板监视员工微信只需300元",
-          "url": "https://www.toutiao.com/trending/7587367011898916915/",
-          "source": "今日头条",
+          "title": "金十图示：2025年12月26日（周五）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251226064654653800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            12
+            10
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "丽江市古城区旅拍协会回应“文旅局喊话小红书”：此前曾与平台沟通现已放弃，计划起诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32248307",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "抖音搜索年度报告",
-          "url": "https://www.douyin.com/hot/2346135",
-          "source": "抖音",
-          "ranks": [
-            17,
-            15,
-            18,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "日本前所未有的熊尸危机",
@@ -235,11 +224,12 @@
             15,
             8,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "中方回应日本系统性介入南海行为",
@@ -272,6 +262,17 @@
           "time_info": "[00时20分 ~ 05时15分]"
         },
         {
+          "title": "俄外交部：建议日方修建“日本军国主义受害者纪念堂”",
+          "url": "https://news.ifeng.com/c/8pLTxPrVhDN",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "俄外交部发言人：建议日本修建“日本军国主义受害者纪念堂”",
           "url": "https://flash.jin10.com/detail/20251226001701729800",
           "source": "金十数据",
@@ -284,6 +285,79 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 04时18分]"
+        },
+        {
+          "title": "日元看空声音渐响：受日本央行审慎政策影响，贬值趋势或延续至2026年",
+          "url": "https://wallstreetcn.com/livenews/3026847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "监视员工的软件被公开叫卖，员工微信聊天像「裸奔」，使用这种软件违反了哪些法律？公司要承担怎样的责任？",
+          "url": "https://www.zhihu.com/question/1987465963923330361",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            7,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "老板监视员工微信只需300元",
+          "url": "https://www.toutiao.com/trending/7587367011898916915/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "丽江市古城区旅拍协会回应“文旅局喊话小红书”：此前曾与平台沟通现已放弃，计划起诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32248307",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "抖音搜索年度报告",
+          "url": "https://www.douyin.com/hot/2346135",
+          "source": "抖音",
+          "ranks": [
+            17,
+            15,
+            18,
+            26,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         }
       ]
     },
@@ -299,8 +373,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "事关TikTok、美对华半导体产品加征301关税，商务部回应",
@@ -320,11 +394,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         }
       ]
     },
@@ -341,8 +416,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         }
       ]
     },
@@ -358,8 +433,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         }
       ]
     },
@@ -375,8 +450,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         }
       ]
     }
