@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T19:15:25.940616+08:00",
-  "total_titles_processed": 1587,
+  "generated_at": "2025-12-25T20:32:46.984863+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 102,
+      "match_count": 103,
       "titles": [
         {
           "title": "日本一无人岛密密麻麻都是北海狮",
@@ -524,6 +524,19 @@
           "time_info": "[12时35分 ~ 13时21分]"
         },
         {
+          "title": "日本宣布发射失败的导航卫星已损失",
+          "url": "https://wallstreetcn.com/livenews/3026681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 20时32分]"
+        },
+        {
           "title": "日本59处专用水道有机氟化物污染超标",
           "url": "https://wallstreetcn.com/livenews/3026522",
           "source": "华尔街见闻-快讯",
@@ -594,18 +607,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时21分]"
-        },
-        {
-          "title": "日本宣布发射失败的导航卫星已损失",
-          "url": "https://wallstreetcn.com/livenews/3026681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "专家：日本试图在地理上围堵中国",
@@ -914,6 +915,17 @@
           "time_info": "11时24分"
         },
         {
+          "title": "高市早苗亲信鼓吹“日本应拥核”",
+          "url": "https://www.toutiao.com/trending/7587712017306927131/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "丰田：11月份日本本土汽车产量（仅限丰田品牌）同比下降9.7%，至258,177辆。",
           "url": "https://flash.jin10.com/detail/20251225123104033800",
           "source": "金十数据",
@@ -1192,7 +1204,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "国投白银LOF复牌后快速跌停，成交金额超5亿",
@@ -1293,6 +1305,19 @@
           "time_info": "[12时34分 ~ 18时18分]"
         },
         {
+          "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
+          "url": "https://wallstreetcn.com/articles/3762049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 20时32分]"
+        },
+        {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2239423",
           "source": "财联社热门",
@@ -1319,18 +1344,6 @@
           "time_info": "[15时19分 ~ 19时15分]"
         },
         {
-          "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
-          "url": "https://wallstreetcn.com/articles/3762049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 19时15分]"
-        },
-        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少56.4吨，当前持仓量为16446.97吨。欢迎点击查看数据中心...",
           "url": "https://flash.jin10.com/detail/20251225061108006800",
           "source": "金十数据",
@@ -1352,6 +1365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "国投白银LOF：限制本基金A类基金份额定期定额投资金额为100.00元。调整本基金A类基金份额大额定期定额投资业务的起始日为2025年12月29日。",
+          "url": "https://wallstreetcn.com/livenews/3026745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
@@ -1379,6 +1403,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 12月25日（周四）晚盘盘初暂无成交；<br/>上海黄金交易所白银T+D 12月25日（周四）晚盘盘初上涨1.28%报17460.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251225200602101800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "白银LOF盘中再涨停！有投资者收到“异常交易”提醒，将被重点监控",
           "url": "https://wallstreetcn.com/articles/3761982",
           "source": "华尔街见闻",
@@ -1399,6 +1434,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
+        },
+        {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时32分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月24日（周三）晚盘收盘下跌0.41%报1005.5元/克；<br/>上海黄金交易所白银T+D 12月24日（周三）晚盘收盘下跌0.64%报17210.0元/千克。",
@@ -1460,17 +1507,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时21分]"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "金价又创历史新高",
@@ -1599,8 +1635,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时15分 ~ 19时15分]"
+          "appearance_count": 16,
+          "time_info": "[09时15分 ~ 20时32分]"
         },
         {
           "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
@@ -1623,11 +1659,12 @@
             10,
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[11时24分 ~ 20时32分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -1785,7 +1822,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
@@ -1800,6 +1837,18 @@
           "time_info": "[00时20分 ~ 09时16分]"
         },
         {
+          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
+          "url": "https://www.cls.cn/detail/2240066",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 20时32分]"
+        },
+        {
           "title": "哥大博士预言人会爱上机器人",
           "url": "https://www.douyin.com/hot/2346977",
           "source": "抖音",
@@ -1810,29 +1859,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时19分 ~ 18时18分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
-          "url": "https://www.cls.cn/detail/2240066",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 19时15分]"
-        },
-        {
-          "title": "超捷股份：截至2025年9月30日，公司航空航天零部件业务和人形机器人业务营收占公司营收比重较小。",
-          "url": "https://wallstreetcn.com/livenews/3026719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
         },
         {
           "title": "【午报】三大指数震荡分化涨跌不一，商业航天板块延续强势，机器人概念股再度活跃",
@@ -1863,11 +1889,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时15分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 20时32分]"
+        },
+        {
+          "title": "年终巨献：机器人述职报告",
+          "url": "https://www.cls.cn/detail/2240212",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
@@ -1881,6 +1919,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 03时14分]"
+        },
+        {
+          "title": "超捷股份：截至2025年9月30日，公司航空航天零部件业务和人形机器人业务营收占公司营收比重较小。",
+          "url": "https://wallstreetcn.com/livenews/3026719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时32分]"
         },
         {
           "title": "A股收盘：沪指涨0.47%录得7连阳，商业航天、机器人概念集体爆发",
@@ -1955,8 +2005,21 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "事关TikTok、美对华半导体产品加征301关税，商务部回应",
+          "url": "https://www.cls.cn/detail/2239877",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 20时32分]"
+        },
         {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
           "url": "https://m.thepaper.cn/newsDetail_forward_32244733",
@@ -1971,18 +2034,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时20分 ~ 15时19分]"
-        },
-        {
-          "title": "事关TikTok、美对华半导体产品加征301关税，商务部回应",
-          "url": "https://www.cls.cn/detail/2239877",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 19时15分]"
         },
         {
           "title": "美银筛出2026年六大芯片股 看好半导体行业销售额突破1万亿美元",
@@ -2033,6 +2084,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "兮璞材料“抢跑”上市 向日葵跨界半导体“暗礁”隐现",
+          "url": "https://www.cls.cn/detail/2240231",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "商务部：坚决反对美对华半导体产品加征301关税 已提出严正交涉",
           "url": "https://wallstreetcn.com/livenews/3026620",
           "source": "华尔街见闻-快讯",
@@ -2045,6 +2107,18 @@
           "time_info": "[15时19分 ~ 16时23分]"
         },
         {
+          "title": "商务部：坚决反对美对华半导体产品加征301关税，已提出严正交涉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32253416",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时32分]"
+        },
+        {
           "title": "中欧基金罗佳明：AI产业中，明年更看好国产半导体与制造领域",
           "url": "https://wallstreetcn.com/livenews/3026572",
           "source": "华尔街见闻-快讯",
@@ -2055,17 +2129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时26分 ~ 15时19分]"
-        },
-        {
-          "title": "商务部：坚决反对美对华半导体产品加征301关税，已提出严正交涉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32253416",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "金十图示：2025年12月25日（周四）富时中国A50指数成分股午盘收盘行情一览：保险、煤炭、酿酒板块全线飘红，半导体板块走低",
@@ -2117,8 +2180,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时24分 ~ 19时15分]"
+          "appearance_count": 14,
+          "time_info": "[11时24分 ~ 20时32分]"
         },
         {
           "title": "没人能笑着走出抖音白描文学",
@@ -2182,11 +2245,25 @@
             14,
             25,
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时20分 ~ 19时15分]"
+          "appearance_count": 28,
+          "time_info": "[00时20分 ~ 20时32分]"
+        },
+        {
+          "title": "老板监视员工微信只需300元",
+          "url": "https://www.toutiao.com/trending/7587367011898916915/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时19分 ~ 20时32分]"
         },
         {
           "title": "丽江市古城区旅拍协会回应“文旅局喊话小红书”：此前曾与平台沟通现已放弃，计划起诉",
@@ -2199,8 +2276,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时24分 ~ 19时15分]"
+          "appearance_count": 14,
+          "time_info": "[11时24分 ~ 20时32分]"
         },
         {
           "title": "老板监视员工微信只需300元",
@@ -2217,30 +2294,18 @@
           "time_info": "[12时34分 ~ 16时23分]"
         },
         {
-          "title": "老板监视员工微信只需300元",
-          "url": "https://www.toutiao.com/trending/7587367011898916915/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时19分 ~ 19时15分]"
-        },
-        {
           "title": "监视员工的软件被公开叫卖，员工微信聊天像「裸奔」，使用这种软件违反了哪些法律？公司要承担怎样的责任？",
           "url": "https://www.zhihu.com/question/1987465963923330361",
           "source": "知乎",
           "ranks": [
             13,
             10,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 20时32分]"
         },
         {
           "title": "盘点2025年抖音手搓大神",
@@ -2275,8 +2340,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时32分]"
         }
       ]
     },
@@ -2362,6 +2427,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI的“广告模式”已初具雏形",
+          "url": "https://wallstreetcn.com/articles/3762036",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 1,
       "titles": [
@@ -2375,23 +2468,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3026250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
         }
       ]
     }
