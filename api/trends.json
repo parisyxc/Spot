@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T20:32:46.984863+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2025-12-25T21:29:53.580621+08:00",
+  "total_titles_processed": 1758,
   "failed_sources": [],
   "trends": [
     {
@@ -921,7 +921,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1204,7 +1204,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "国投白银LOF复牌后快速跌停，成交金额超5亿",
@@ -1314,8 +1314,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 20时32分]"
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 21时29分]"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
@@ -1342,6 +1342,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时19分 ~ 19时15分]"
+        },
+        {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时29分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少56.4吨，当前持仓量为16446.97吨。欢迎点击查看数据中心...",
@@ -1373,7 +1386,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1409,7 +1422,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1434,18 +1447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时32分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月24日（周三）晚盘收盘下跌0.41%报1005.5元/克；<br/>上海黄金交易所白银T+D 12月24日（周三）晚盘收盘下跌0.64%报17210.0元/千克。",
@@ -1555,6 +1556,17 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
+          "title": "国投白银LOF：限制A类基金份额定期定额投资金额为100元",
+          "url": "https://wallstreetcn.com/livenews/3026745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "现货黄金跌破4460美元/盎司，日内跌0.58%。现货白银日内跌超1美元，现报70.42美元/盎司，跌幅1.45%。纽约期银日内下跌1.00%，现报70.42美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251224233737172800",
           "source": "金十数据",
@@ -1623,6 +1635,204 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
+          "url": "https://www.cls.cn/detail/2239208",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 09时16分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
+          "url": "https://www.cls.cn/detail/2240066",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 21时29分]"
+        },
+        {
+          "title": "哥大博士预言人会爱上机器人",
+          "url": "https://www.douyin.com/hot/2346977",
+          "source": "抖音",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时19分 ~ 18时18分]"
+        },
+        {
+          "title": "年终巨献：机器人述职报告",
+          "url": "https://www.cls.cn/detail/2240212",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时29分]"
+        },
+        {
+          "title": "“2026人形机器人半马”敲定明年4月半：取消人员跟随，机器人将配备智能计时穿戴设备",
+          "url": "https://wallstreetcn.com/livenews/3026697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 21时29分]"
+        },
+        {
+          "title": "【午报】三大指数震荡分化涨跌不一，商业航天板块延续强势，机器人概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2239726",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 18时18分]"
+        },
+        {
+          "title": "优必选拟16.65亿元入主锋龙股份 机器人产业链迎全新强催化",
+          "url": "https://www.cls.cn/detail/2239437",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时19分]"
+        },
+        {
+          "title": "超捷股份：截至2025年9月30日，公司航空航天零部件业务和人形机器人业务营收占公司营收比重较小。",
+          "url": "https://wallstreetcn.com/livenews/3026719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时29分]"
+        },
+        {
+          "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
+          "url": "https://wallstreetcn.com/livenews/3026294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 03时14分]"
+        },
+        {
+          "title": "A股收盘：沪指涨0.47%录得7连阳，商业航天、机器人概念集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3026615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时23分]"
+        },
+        {
+          "title": "王力宏演唱会机器人彩排纯享",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%A9%E6%8E%92%E7%BA%AF%E4%BA%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时26分]"
+        },
+        {
+          "title": "A股机器人概念股涨势扩大，香山股份、浙江荣泰午后涨停，昊志机电、锋龙股份、方正电机、万向钱潮、巨轮智能等十余股此前封板，力星股份、埃夫特、三协电机、拓斯达涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3026564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时19分]"
+        },
+        {
+          "title": "A股机器人概念股集体走强，巨轮智能直线涨停，泰尔股份、锋龙股份、天奇股份、万向钱潮此前封板，拓斯达大涨超18%，昊志机电涨超12%。",
+          "url": "https://wallstreetcn.com/livenews/3026457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "A股三大指数午后集体翻红，商业航天、机器人、造纸、保险等方向领涨，沪深京三市上涨个股超3800只。",
+          "url": "https://wallstreetcn.com/livenews/3026553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "据韩国经济日报：三星电子计划将其自研图形架构的应用范围从智能手机扩展至智能眼镜、自动驾驶软件和人形机器人。",
+          "url": "https://flash.jin10.com/detail/20251225201722099800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "为什么说机器人的“手”超难做",
+          "url": "https://www.toutiao.com/trending/7587683515966164534/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 15,
       "titles": [
@@ -1635,8 +1845,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时15分 ~ 20时32分]"
+          "appearance_count": 17,
+          "time_info": "[09时15分 ~ 21时29分]"
         },
         {
           "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
@@ -1663,8 +1873,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时24分 ~ 20时32分]"
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 21时29分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -1821,189 +2031,6 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
-          "url": "https://www.cls.cn/detail/2239208",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 09时16分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
-          "url": "https://www.cls.cn/detail/2240066",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 20时32分]"
-        },
-        {
-          "title": "哥大博士预言人会爱上机器人",
-          "url": "https://www.douyin.com/hot/2346977",
-          "source": "抖音",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 18时18分]"
-        },
-        {
-          "title": "【午报】三大指数震荡分化涨跌不一，商业航天板块延续强势，机器人概念股再度活跃",
-          "url": "https://www.cls.cn/detail/2239726",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 18时18分]"
-        },
-        {
-          "title": "优必选拟16.65亿元入主锋龙股份 机器人产业链迎全新强催化",
-          "url": "https://www.cls.cn/detail/2239437",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 15时19分]"
-        },
-        {
-          "title": "“2026人形机器人半马”敲定明年4月半：取消人员跟随，机器人将配备智能计时穿戴设备",
-          "url": "https://wallstreetcn.com/livenews/3026697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 20时32分]"
-        },
-        {
-          "title": "年终巨献：机器人述职报告",
-          "url": "https://www.cls.cn/detail/2240212",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
-          "url": "https://wallstreetcn.com/livenews/3026294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
-        },
-        {
-          "title": "超捷股份：截至2025年9月30日，公司航空航天零部件业务和人形机器人业务营收占公司营收比重较小。",
-          "url": "https://wallstreetcn.com/livenews/3026719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时32分]"
-        },
-        {
-          "title": "A股收盘：沪指涨0.47%录得7连阳，商业航天、机器人概念集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3026615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时23分]"
-        },
-        {
-          "title": "王力宏演唱会机器人彩排纯享",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%A9%E6%8E%92%E7%BA%AF%E4%BA%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时26分]"
-        },
-        {
-          "title": "A股机器人概念股涨势扩大，香山股份、浙江荣泰午后涨停，昊志机电、锋龙股份、方正电机、万向钱潮、巨轮智能等十余股此前封板，力星股份、埃夫特、三协电机、拓斯达涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3026564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时19分]"
-        },
-        {
-          "title": "A股机器人概念股集体走强，巨轮智能直线涨停，泰尔股份、锋龙股份、天奇股份、万向钱潮此前封板，拓斯达大涨超18%，昊志机电涨超12%。",
-          "url": "https://wallstreetcn.com/livenews/3026457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "A股三大指数午后集体翻红，商业航天、机器人、造纸、保险等方向领涨，沪深京三市上涨个股超3800只。",
-          "url": "https://wallstreetcn.com/livenews/3026553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "为什么说机器人的“手”超难做",
-          "url": "https://www.toutiao.com/trending/7587683515966164534/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 13,
       "titles": [
@@ -2017,8 +2044,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时22分 ~ 20时32分]"
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 21时29分]"
         },
         {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
@@ -2073,6 +2100,18 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
+          "title": "兮璞材料“抢跑”上市 向日葵跨界半导体“暗礁”隐现",
+          "url": "https://www.cls.cn/detail/2240231",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时29分]"
+        },
+        {
           "title": "金十图示：2025年12月25日（周四）富时中国A50指数成分股今日收盘行情一览：保险、酿酒行业全天飘红，半导体板块午后走势分化",
           "url": "https://flash.jin10.com/detail/20251225150323067800",
           "source": "金十数据",
@@ -2082,17 +2121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
-        },
-        {
-          "title": "兮璞材料“抢跑”上市 向日葵跨界半导体“暗礁”隐现",
-          "url": "https://www.cls.cn/detail/2240231",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "商务部：坚决反对美对华半导体产品加征301关税 已提出严正交涉",
@@ -2115,8 +2143,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时29分]"
         },
         {
           "title": "中欧基金罗佳明：AI产业中，明年更看好国产半导体与制造领域",
@@ -2232,6 +2260,19 @@
           "time_info": "[00时20分 ~ 11时24分]"
         },
         {
+          "title": "老板监视员工微信只需300元",
+          "url": "https://www.toutiao.com/trending/7587367011898916915/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 21时29分]"
+        },
+        {
           "title": "抖音搜索年度报告",
           "url": "https://www.douyin.com/hot/2346135",
           "source": "抖音",
@@ -2246,24 +2287,26 @@
             25,
             21,
             22,
-            26
+            26,
+            17
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时20分 ~ 20时32分]"
+          "appearance_count": 29,
+          "time_info": "[00时20分 ~ 21时29分]"
         },
         {
-          "title": "老板监视员工微信只需300元",
-          "url": "https://www.toutiao.com/trending/7587367011898916915/",
-          "source": "今日头条",
+          "title": "监视员工的软件被公开叫卖，员工微信聊天像「裸奔」，使用这种软件违反了哪些法律？公司要承担怎样的责任？",
+          "url": "https://www.zhihu.com/question/1987465963923330361",
+          "source": "知乎",
           "ranks": [
-            7,
-            12,
-            11
+            13,
+            10,
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 20时32分]"
+          "appearance_count": 7,
+          "time_info": "[17时19分 ~ 21时29分]"
         },
         {
           "title": "丽江市古城区旅拍协会回应“文旅局喊话小红书”：此前曾与平台沟通现已放弃，计划起诉",
@@ -2276,8 +2319,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时24分 ~ 20时32分]"
+          "appearance_count": 15,
+          "time_info": "[11时24分 ~ 21时29分]"
         },
         {
           "title": "老板监视员工微信只需300元",
@@ -2292,20 +2335,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时34分 ~ 16时23分]"
-        },
-        {
-          "title": "监视员工的软件被公开叫卖，员工微信聊天像「裸奔」，使用这种软件违反了哪些法律？公司要承担怎样的责任？",
-          "url": "https://www.zhihu.com/question/1987465963923330361",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时19分 ~ 20时32分]"
         },
         {
           "title": "盘点2025年抖音手搓大神",
@@ -2437,9 +2466,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时29分]"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
