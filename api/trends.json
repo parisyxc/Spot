@@ -1,8 +1,59 @@
 {
-  "generated_at": "2025-12-28T02:22:51.395290+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-12-28T03:13:05.357111+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
+        },
+        {
+          "title": "日本防卫预算再创新高引发舆论担忧",
+          "url": "https://flash.jin10.com/detail/20251227204105564800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时13分]"
+        },
+        {
+          "title": "日本米蛋价高不下 鸡蛋拌饭水涨船高",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%B1%B3%E8%9B%8B%E4%BB%B7%E9%AB%98%E4%B8%8D%E4%B8%8B+%E9%B8%A1%E8%9B%8B%E6%8B%8C%E9%A5%AD%E6%B0%B4%E6%B6%A8%E8%88%B9%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 03时13分]"
+        },
+        {
+          "title": "侠客岛：日本政府有明确改变国策意图",
+          "url": "https://www.baidu.com/s?wd=%E4%BE%A0%E5%AE%A2%E5%B2%9B%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E6%9C%89%E6%98%8E%E7%A1%AE%E6%94%B9%E5%8F%98%E5%9B%BD%E7%AD%96%E6%84%8F%E5%9B%BE",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 03时13分]"
+        }
+      ]
+    },
     {
       "keyword_group": "金价 铜价 白银",
       "match_count": 3,
@@ -12,22 +63,24 @@
           "url": "https://wallstreetcn.com/articles/3762156",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "谁会阻止疯狂的白银？当年亨特兄弟是栽在谁手里？",
           "url": "https://wallstreetcn.com/articles/3762169",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "全线爆发！黄金、白银、铂金齐创历史新高，贵金属走势为何这么牛？",
@@ -39,45 +92,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 02时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
-          "url": "https://wallstreetcn.com/articles/3762159",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
-        },
-        {
-          "title": "日本防卫预算再创新高引发舆论担忧",
-          "url": "https://flash.jin10.com/detail/20251227204105564800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
-        },
-        {
-          "title": "日本米蛋价高不下 鸡蛋拌饭水涨船高",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%B1%B3%E8%9B%8B%E4%BB%B7%E9%AB%98%E4%B8%8D%E4%B8%8B+%E9%B8%A1%E8%9B%8B%E6%8B%8C%E9%A5%AD%E6%B0%B4%E6%B6%A8%E8%88%B9%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
         }
       ]
     },
@@ -94,8 +108,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -105,8 +119,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         }
       ]
     },
@@ -122,8 +136,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         }
       ]
     },
