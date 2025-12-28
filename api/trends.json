@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T18:16:52.507114+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2025-12-28T19:14:30.332912+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时44分 ~ 18时16分]"
+          "appearance_count": 10,
+          "time_info": "[11时44分 ~ 19时14分]"
         },
         {
           "title": "日本向多国免费提供武器装备",
@@ -28,11 +28,12 @@
             9,
             8,
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时44分 ~ 18时16分]"
+          "appearance_count": 10,
+          "time_info": "[11时44分 ~ 19时14分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -102,6 +103,29 @@
           "time_info": "[12时41分 ~ 15时17分]"
         },
         {
+          "title": "真人扮熊猫关笼,日本为吸客拼了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时14分]"
+        },
+        {
+          "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
+          "url": "https://news.ifeng.com/c/8pSJvd1oz2e",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时14分]"
+        },
+        {
           "title": "日本鸡蛋批发价创历史新高",
           "url": "https://flash.jin10.com/detail/20251228154954941800",
           "source": "金十数据",
@@ -113,28 +137,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时21分 ~ 18时16分]"
-        },
-        {
-          "title": "真人扮熊猫关笼,日本为吸客拼了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
-          "url": "https://news.ifeng.com/c/8pSJvd1oz2e",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         },
         {
           "title": "日本东京西部一家动物园发生狼只逃出围栏事件，游客纷纷逃离。",
@@ -212,6 +214,18 @@
           "time_info": "[11时44分 ~ 13时20分]"
         },
         {
+          "title": "日本老年人称已经没希望了",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E8%80%81%E5%B9%B4%E4%BA%BA%E7%A7%B0%E5%B7%B2%E7%BB%8F%E6%B2%A1%E5%B8%8C%E6%9C%9B%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时14分]"
+        },
+        {
           "title": "俄罗斯外长拉夫罗夫表示，俄罗斯敦促日本慎重考虑其向军事化转变的举动。",
           "url": "https://flash.jin10.com/detail/20251228095708258800",
           "source": "金十数据",
@@ -246,17 +260,6 @@
           "time_info": "13时20分"
         },
         {
-          "title": "日本老年人称已经没希望了",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E8%80%81%E5%B9%B4%E4%BA%BA%E7%A7%B0%E5%B7%B2%E7%BB%8F%E6%B2%A1%E5%B8%8C%E6%9C%9B%E4%BA%86&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
           "title": "日本觊觎核武公然挑衅战后国际秩序",
           "url": "https://www.toutiao.com/trending/7588707424735858227/",
           "source": "今日头条",
@@ -273,6 +276,18 @@
       "keyword_group": "金价 铜价 白银",
       "match_count": 11,
       "titles": [
+        {
+          "title": "白银狂飙，马斯克直言：这不好！",
+          "url": "https://wallstreetcn.com/articles/3762194",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时44分 ~ 19时14分]"
+        },
         {
           "title": "谁会阻止疯狂的白银？当年亨特兄弟是栽在谁手里？",
           "url": "https://wallstreetcn.com/articles/3762169",
@@ -297,18 +312,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 06时16分]"
-        },
-        {
-          "title": "白银狂飙，马斯克直言：这不好！",
-          "url": "https://wallstreetcn.com/articles/3762194",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时44分 ~ 18时16分]"
         },
         {
           "title": "银比油贵时隔 45 年再现，现货白银涨超 10%，钯金涨超 14%，为何贵金属还在暴涨，历史信号怎么看？",
@@ -336,8 +339,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时44分 ~ 18时16分]"
+          "appearance_count": 10,
+          "time_info": "[11时44分 ~ 19时14分]"
         },
         {
           "title": "白银价格狂飙，马斯克直言：这不好",
@@ -366,8 +369,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 18时16分]"
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 19时14分]"
         },
         {
           "title": "全线爆发！黄金、白银、铂金齐创历史新高，贵金属走势为何这么牛？",
@@ -451,8 +454,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时44分 ~ 18时16分]"
+          "appearance_count": 10,
+          "time_info": "[11时44分 ~ 19时14分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -465,8 +468,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 18时16分]"
+          "appearance_count": 22,
+          "time_info": "[00时19分 ~ 19时14分]"
         },
         {
           "title": "机器人测试时突然踹工程师一脚",
@@ -553,11 +556,24 @@
           "ranks": [
             10,
             9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 19时14分]"
+        },
+        {
+          "title": "抖音美好惊喜夜",
+          "url": "https://www.douyin.com/hot/2350145",
+          "source": "抖音",
+          "ranks": [
+            29,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 18时16分]"
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "抖音美好跨年季",
@@ -569,17 +585,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        },
-        {
-          "title": "抖音美好惊喜夜",
-          "url": "https://www.douyin.com/hot/2350145",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         }
       ]
     },
