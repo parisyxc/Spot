@@ -1,8 +1,96 @@
 {
-  "generated_at": "2025-12-29T06:16:38.194532+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-12-29T07:15:44.924094+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "白银狂飙，马斯克直言：这不好！",
+          "url": "https://wallstreetcn.com/articles/3762194",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "白银飙至80美元 马斯克急了",
+          "url": "https://www.toutiao.com/trending/7588867240255032842/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            10,
+            22,
+            14,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时14分 ~ 07时15分]"
+        },
+        {
+          "title": "现货白银开盘暴力拉升 突破82美元",
+          "url": "https://flash.jin10.com/detail/20251229070200752800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "80美元！现货白银价格创下新记录",
+          "url": "https://flash.jin10.com/detail/20251229070052122800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "现货白银亚市开盘一度大涨超4%",
+          "url": "https://wallstreetcn.com/livenews/3027712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "金十图示：2025年12月29日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251229064820293800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        }
+      ]
+    },
     {
       "keyword_group": "稳定币 日本",
       "match_count": 4,
@@ -16,19 +104,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
           "url": "https://news.ifeng.com/c/8pSJvd1oz2e",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯敦促日本认真考虑其军事化进程。",
@@ -60,49 +149,6 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "白银狂飙，马斯克直言：这不好！",
-          "url": "https://wallstreetcn.com/articles/3762194",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
-        },
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
-        },
-        {
-          "title": "白银飙至80美元 马斯克急了",
-          "url": "https://www.toutiao.com/trending/7588867240255032842/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            10,
-            22,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 06时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 3,
       "titles": [
@@ -113,11 +159,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "宋威龙赵今麦第93条抖音",
@@ -131,8 +178,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "抖音美好惊喜夜",
@@ -144,11 +191,12 @@
             23,
             29,
             28,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         }
       ]
     },
@@ -164,8 +212,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
@@ -178,8 +226,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -190,14 +238,14 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -211,6 +259,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时15分]"
+        },
+        {
+          "title": "美股股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20251229070023196800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
@@ -227,11 +286,12 @@
             13,
             9,
             18,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         }
       ]
     }
