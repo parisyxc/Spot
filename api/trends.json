@@ -1,348 +1,33 @@
 {
-  "generated_at": "2025-12-29T23:18:47.926396+08:00",
-  "total_titles_processed": 1873,
+  "generated_at": "2025-12-30T00:21:13.624915+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 61,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "白银狂飙，马斯克直言：这不好！",
-          "url": "https://wallstreetcn.com/articles/3762194",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
         {
           "title": "金属全线回落，黄金跌破4500，白银跌超3.7%，现货钯金跌超11%，内盘碳酸锂、铂主力合约跌停",
           "url": "https://wallstreetcn.com/articles/3762216",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时25分 ~ 23时18分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "白银跳水，猜疑四起，有华尔街大行扛不住了？",
           "url": "https://wallstreetcn.com/articles/3762232",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            4,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时25分 ~ 23时18分]"
-        },
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 11时45分]"
-        },
-        {
-          "title": "Lyn Alden：白银2026年可能冲击100美元，但不再是“低风险高回报”机会",
-          "url": "https://wallstreetcn.com/articles/3762221",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时15分 ~ 23时18分]"
-        },
-        {
-          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
-          "url": "https://wallstreetcn.com/articles/3762226",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时15分 ~ 23时18分]"
-        },
-        {
-          "title": "白银史诗级暴涨！市值超越苹果 晋升全球第三大资产",
-          "url": "https://www.cls.cn/detail/2242570",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时25分 ~ 19时15分]"
-        },
-        {
-          "title": "黄金白银直线暴跌",
-          "url": "https://www.douyin.com/hot/2350527",
-          "source": "抖音",
-          "ranks": [
-            2,
-            1,
-            26,
-            25,
-            27,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时45分 ~ 22时18分]"
-        },
-        {
-          "title": "白银飙至80美元 马斯克急了",
-          "url": "https://www.toutiao.com/trending/7588867240255032842/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            10,
-            22,
-            14,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 07时15分]"
-        },
-        {
-          "title": "白银价格又双叒叕创新高！马斯克疾呼：这可不是什么好事",
-          "url": "https://www.cls.cn/detail/2242324",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 17时26分]"
-        },
-        {
-          "title": "金银跳水，白银从涨6%到跌2%，黄金跌破4500美元关口，伦铜飙升逾5%",
-          "url": "https://wallstreetcn.com/articles/3762216",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时25分]"
-        },
-        {
-          "title": "金十图示：2025年12月29日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251229064820293800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 13时25分]"
-        },
-        {
-          "title": "白银狂飙后跳水 交易所出手",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E7%8B%82%E9%A3%99%E5%90%8E%E8%B7%B3%E6%B0%B4+%E4%BA%A4%E6%98%93%E6%89%80%E5%87%BA%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时34分 ~ 23时18分]"
-        },
-        {
-          "title": "白银黄金直线暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E9%BB%84%E9%87%91%E7%9B%B4%E7%BA%BF%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            4,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 16时25分]"
-        },
-        {
-          "title": "黄金白银暴涨后暴跌",
-          "url": "https://www.toutiao.com/trending/7589219657953840666/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时18分]"
-        },
-        {
-          "title": "现货白银开盘暴力拉升 突破82美元",
-          "url": "https://flash.jin10.com/detail/20251229070200752800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月29日（周一）晚盘盘初下跌0.84%报1000.8元/克；<br/>上海黄金交易所白银T+D 12月29日（周一）晚盘盘初下跌5.04%报18400.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251229200151867800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "全球资产榜再刷新：白银跃居第三 剑指英伟达",
-          "url": "https://flash.jin10.com/detail/20251229115033382800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时25分]"
-        },
-        {
-          "title": "金属全线回落，黄金跌破4500，白银跌超2%，现货钯金跌超11%，内盘碳酸锂、铂主力合约跌停",
-          "url": "https://wallstreetcn.com/articles/3762216",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "80美元！现货白银价格创下新记录",
-          "url": "https://flash.jin10.com/detail/20251229070052122800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "机构：金价在投资者锁定利润的背景下回落",
-          "url": "https://flash.jin10.com/detail/20251229170742878800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "金银跳水，白银从涨6%到跌2%，黄金跌破4500美元关口，现货钯金跌近7%，铂主力合约触及跌停",
-          "url": "https://wallstreetcn.com/articles/3762216",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "金十图示：2025年12月29日（周一）上海金午盘价为1001.63元/克，较国际金价(1004.09元/克)，低2.46元/克",
-          "url": "https://flash.jin10.com/detail/20251229150239734800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "“完美风暴”导致铜价暴涨 市场仍为铜短缺感到担忧",
-          "url": "https://flash.jin10.com/detail/20251229160518234800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "现货白银亚市开盘一度大涨超4%",
-          "url": "https://wallstreetcn.com/livenews/3027712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "170亿美元追保、纽约联储救场？白银“逼仓传言”全拆解丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20251229185826218800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "现货白银回落至74美元/盎司下方，日内跌6.54%。",
-          "url": "https://flash.jin10.com/detail/20251229195721487800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "白银为何突然跳水？对冲基金老将提前警示了五大短期风险",
@@ -351,499 +36,143 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
+        },
+        {
+          "title": "分析师：金价从历史高位回落 流动性稀薄正放大回调走势",
+          "url": "https://flash.jin10.com/detail/20251229235334539800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "00时21分"
         },
         {
-          "title": "现货白银跌破73美元",
-          "url": "https://wallstreetcn.com/livenews/3028190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "“铜博士”创历史新高！多因素驱动下 2026铜价还将继续“狂飙”？",
-          "url": "https://www.cls.cn/detail/2242427",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 19时15分]"
-        },
-        {
-          "title": "伦敦铜价飙升逾5%，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3027770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "现货白银日内跌幅达7%，现货黄金日内重挫超100美元",
-          "url": "https://wallstreetcn.com/livenews/3028189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "金十图示：2025年12月29日（周一）上海金早盘价为1010.41元/克，较国际金价(1016.45元/克)，低6.04元/克",
-          "url": "https://flash.jin10.com/detail/20251229105826518800",
-          "source": "金十数据",
+          "title": "Lyn Alden：白银2026年可能冲击100美元，但不再是“低风险高回报”机会",
+          "url": "https://wallstreetcn.com/articles/3762221",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "金十整理：从“口头博弈”到“真金白银” 2025全球各国汇率“保卫战”回顾",
-          "url": "https://flash.jin10.com/detail/20251229160028301800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月29日（周一）早盘盘初下跌0.73%报1003.21元/克；<br/>上海黄金交易所白银T+D 12月29日（周一）早盘盘初上涨2.0%报18736.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251229090122525800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "现货白银跌破73美元/盎司，日内跌7.76%。",
-          "url": "https://flash.jin10.com/detail/20251229214415794800",
-          "source": "金十数据",
+          "title": "现货白银日内跌幅达11.0%，报70.57美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028246",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "国投白银LOF：将于2025年12月30日开市起至当日10:30停牌",
-          "url": "https://wallstreetcn.com/livenews/3028048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时20分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时22分]"
+          "time_info": "00时21分"
         },
         {
           "title": "铜价飙涨背后的“冰与火”：冶炼与矿端极限博弈“0加工费”",
           "url": "https://www.cls.cn/detail/2242970",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时17分 ~ 23时18分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "现货白银日内跌幅达6%，报74.58美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3028035",
+          "title": "白银狂飙后跳水 交易所出手",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E7%8B%82%E9%A3%99%E5%90%8E%E8%B7%B3%E6%B0%B4+%E4%BA%A4%E6%98%93%E6%89%80%E5%87%BA%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
+        },
+        {
+          "title": "现货白银日内跌幅达10.0%，报71.26美元/盎司。 现货黄金日内跌幅达5.0%，报4302美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028239",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时20分]"
-        },
-        {
-          "title": "瑞银：2026年前三个季度黄金目标价为每盎司5,000美元（此前预计为每盎司4500美元）。 预计到2026年底，黄金价格将小幅下跌至每盎司4,800美元。",
-          "url": "https://wallstreetcn.com/livenews/3028031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时20分]"
-        },
-        {
-          "title": "国投白银LOF直线拉升，最高涨超9%，开盘一度跌停。",
-          "url": "https://wallstreetcn.com/livenews/3027846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时45分]"
-        },
-        {
-          "title": "白银跳水 传闻称有华尔街银行爆仓",
-          "url": "https://www.toutiao.com/trending/7589173616684568107/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        },
-        {
-          "title": "现货白银周一开盘暴力拉升至83.8美元/盎司后迅速回吐涨幅，日内宽幅震荡；现货黄金亚盘走低，但价格得以维持在4500美元上方，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251229104659948800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "白银“逼空大戏”继续？",
-          "url": "https://flash.jin10.com/detail/20251229084846835800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "白银创历史新高后回落，市场警惕泡沫迹象",
-          "url": "https://flash.jin10.com/detail/20251229104105953800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "现货白银日内暴跌6.00%，现报74.37美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251229165231299800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "现货白银日内重挫7.00%，现报73.57美元/盎司；纽约期银失守73美元/盎司，日内跌幅5.44%。",
-          "url": "https://flash.jin10.com/detail/20251229214137080800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "休市两日后伦铜价格飙升至近1.3万美元 创历史新高",
-          "url": "https://flash.jin10.com/detail/20251229103817809800",
-          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月29日（周一）收盘下跌0.55%报1005.0元/克；<br/>上海黄金交易所白银T+D 12月29日（周一）收盘上涨2.34%报18797.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251229153037605800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "现货白银日内振幅达9美元",
-          "url": "https://flash.jin10.com/detail/20251229083619190800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "iShares白银信托下跌7.3%，Global X白银矿业ETF下跌5%。",
-          "url": "https://flash.jin10.com/detail/20251229223441427800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "00时21分"
         },
         {
-          "title": "现货白银盘中一度跌破75美元/盎司关口，日内跌超5%。 现货黄金盘中一度跌破4480美元/盎司，日内跌超1%。 现货铂金跌超7%，现货钯金跌近7%。",
-          "url": "https://wallstreetcn.com/livenews/3027754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "国投白银LOF复盘跌停，随后快速打开跌停，目前转为涨跌基本持平。",
-          "url": "https://wallstreetcn.com/livenews/3027834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "今年铜价已暴涨超40%",
-          "url": "https://wallstreetcn.com/livenews/3028209",
-          "source": "华尔街见闻-快讯",
+          "title": "现货白银日内暴跌10%",
+          "url": "https://flash.jin10.com/detail/20251229232117894800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
-        },
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "现货白银跳水！从涨6%到跌2%，短线走低超5美元",
-          "url": "https://wallstreetcn.com/livenews/3027750",
-          "source": "华尔街见闻-快讯",
+          "title": "作家余华入驻抖音",
+          "url": "https://www.douyin.com/hot/2350618",
+          "source": "抖音",
           "ranks": [
-            22
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "现货白银短线跌幅扩大，日跌幅至5%，现报74.98美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251229083041742800",
-          "source": "金十数据",
+          "title": "微信回应存储空间占用变多：占用空间40GB以上的用户，聊天记录平均占比达70%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272920",
+          "source": "澎湃新闻",
           "ranks": [
-            23
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "瑞银集团：我们仍持多头立场，并将我们对2026年3月、6月和9月的黄金价格目标上调至每盎司5000美元（此前为每盎司4500美元）。预计到2026年底，黄金价格将小幅下跌至每盎司4800美元。",
-          "url": "https://flash.jin10.com/detail/20251229164025888800",
-          "source": "金十数据",
+          "title": "罚罪2抖音追剧团",
+          "url": "https://www.douyin.com/hot/2351082",
+          "source": "抖音",
           "ranks": [
-            25
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "现货白银跌破72美元/盎司，日内跌9.06%。",
-          "url": "https://flash.jin10.com/detail/20251229223101363800",
-          "source": "金十数据",
+          "title": "2025抖音ACG年度作者揭晓",
+          "url": "https://www.douyin.com/hot/2350685",
+          "source": "抖音",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "现货白银大幅回调 巨震6.5美元",
-          "url": "https://flash.jin10.com/detail/20251229082224640800",
-          "source": "金十数据",
-          "ranks": [
-            26
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "现货白银跌破81美元，较纪录高位83.8美元/盎司回落近3美元，日内涨幅收窄至2.6%。",
-          "url": "https://flash.jin10.com/detail/20251229081120787800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 23,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "石破茂：我们没有充分认识到，日本在二战中做了什么",
-          "url": "https://v.ifeng.com/c/8pTtuF3FVUf",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时19分 ~ 23时18分]"
-        },
-        {
-          "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
-          "url": "https://news.ifeng.com/c/8pSJvd1oz2e",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "日本知名巨头川崎重工承认造假，涉及数百台船舶和潜水艇，如何评价？暴露了哪些问题？",
-          "url": "https://www.zhihu.com/question/1988580073356354187",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时21分 ~ 20时36分]"
-        },
-        {
-          "title": "真人扮熊猫关笼,日本为吸客拼了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            9,
-            12,
-            13,
-            14,
-            17,
-            18,
-            19,
-            20,
-            22,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时19分 ~ 23时18分]"
-        },
-        {
-          "title": "日本夫妇惨死桑拿房",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A4%AB%E5%A6%87%E6%83%A8%E6%AD%BB%E6%A1%91%E6%8B%BF%E6%88%BF&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时35分 ~ 22时18分]"
-        },
-        {
-          "title": "台退将：解放军一块演习区域针对日本",
-          "url": "https://www.toutiao.com/trending/7588407652862967871/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 17时26分]"
-        },
-        {
-          "title": "俄罗斯外长拉夫罗夫：俄罗斯敦促日本认真考虑其军事化进程。",
-          "url": "https://flash.jin10.com/detail/20251228211654895800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时15分]"
-        },
-        {
-          "title": "如何看待日本军费冲到全球第三",
-          "url": "https://www.toutiao.com/trending/7588886063397998122/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            27,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时15分]"
-        },
         {
           "title": "日本学者：高市错误言论无视法律，应撤回",
           "url": "https://news.ifeng.com/c/8pU57xiYUsz",
@@ -851,435 +180,49 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "日本40年期国债收益率上升6个基点至3.65%。",
-          "url": "https://flash.jin10.com/detail/20251229141043604800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "日本千叶县发生多车连环相撞事故，多人被紧急送医",
-          "url": "https://news.ifeng.com/c/8pTjfcjth3m",
+          "title": "石破茂：我们没有充分认识到，日本在二战中做了什么",
+          "url": "https://v.ifeng.com/c/8pTtuF3FVUf",
           "source": "凤凰网",
           "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 17时26分]"
-        },
-        {
-          "title": "日本20年期国债收益率上升3个基点至2.99%。",
-          "url": "https://flash.jin10.com/detail/20251229130223177800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时28分]"
-        },
-        {
-          "title": "日本40年期国债收益率上升6个基点至3.65%。",
-          "url": "https://wallstreetcn.com/livenews/3027944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时22分]"
-        },
-        {
-          "title": "日本20年期国债收益率上行3BP至2.99%。",
-          "url": "https://wallstreetcn.com/livenews/3027901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时28分]"
-        },
-        {
-          "title": "日本外国人口比例提前数年逼近10%",
-          "url": "https://flash.jin10.com/detail/20251229114101895800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时25分]"
-        },
-        {
-          "title": "日本央行会议意见摘要暗示将进一步加息",
-          "url": "https://flash.jin10.com/detail/20251229084126567800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "尹正演日本侵略者：下班后觉得恶心",
           "url": "https://www.baidu.com/s?wd=%E5%B0%B9%E6%AD%A3%E6%BC%94%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5%E8%80%85%EF%BC%9A%E4%B8%8B%E7%8F%AD%E5%90%8E%E8%A7%89%E5%BE%97%E6%81%B6%E5%BF%83",
           "source": "百度热搜",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "日经225指数收涨0.4%，报50526.92点。 日本东证指数收涨0.1%，报3426.52点。 韩国首尔综指收涨2.2%，报4220.56点。",
-          "url": "https://wallstreetcn.com/livenews/3027950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "学者：中方一记琉球牌打乱日本节奏",
-          "url": "https://www.toutiao.com/trending/7589172678309711366/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "高市早苗上台后日本加速右倾",
-          "url": "https://www.toutiao.com/trending/7588923372114149395/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "日经225指数早盘收跌0.4%，日本东证指数收涨0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3027833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "日本央行会议意见摘要：一位委员表示称日本实质政策利率全球最低，因此从外汇市场对通胀的影响来看，加息是合适的。",
-          "url": "https://flash.jin10.com/detail/20251229081015848800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "日本央行12月会议意见摘要：一位委员表示，日元疲软和长期利率上升在一定程度上可能是由于政策利率相较于通胀率过低所致。 一位委员表示，及时加息将抑制未来的通胀压力和债券收益率上升。 即使政策利率上调至0.75%，但日本的实际利率仍将深度为负。 一位委员表示，尽管政策利率将维持深度负值水平，但日本央行必须密切监测加息对经济和市场的影响。 一位委员表示，日本央行必须稳步提高利率以免落后于形势。 一位委员表示，日本央行在调整货币政策力度时应密切关注经济、物价和金融状况，而不是预设具体的加息节奏。 一位委员表示，日本实质政策利率全球最低，因此从外汇市场对通胀的影响来看，加息是合适的。 一位委员表示，将实际利率维持在偏离均衡水准的水平可能会导致资源分配扭曲，并对可持续增长产生影响。",
-          "url": "https://wallstreetcn.com/livenews/3027740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2241788",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 09时22分]"
-        },
-        {
-          "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/1988539129605091831",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 09时22分]"
-        },
-        {
-          "title": "【焦点复盘】沪指创年内连阳纪录剑指4000点，机器人概念持续火热，锂电池产业链现深幅回调",
-          "url": "https://www.cls.cn/detail/2242927",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时19分 ~ 23时18分]"
-        },
-        {
-          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
-          "url": "https://www.cls.cn/detail/2241816",
-          "source": "财联社热门",
-          "ranks": [
-            12,
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "扫地机器人巨头宣布：给全员发黄金",
-          "url": "https://www.baidu.com/s?wd=%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A8%E5%A4%B4%E5%AE%A3%E5%B8%83%EF%BC%9A%E7%BB%99%E5%85%A8%E5%91%98%E5%8F%91%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
+          "title": "真人扮熊猫关笼,日本为吸客拼了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            20,
-            17,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时35分 ~ 23时18分]"
-        },
-        {
-          "title": "比亚迪入股机器人减速器生产商智同科技",
-          "url": "https://www.cls.cn/detail/2242576",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 19时15分]"
-        },
-        {
-          "title": "英伟达Jim Fan：机器人领域还处于混乱状态，连发展方向都有可能是错的",
-          "url": "https://wallstreetcn.com/articles/3762227",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 21时35分]"
-        },
-        {
-          "title": "12月29日午间收评：沪指半日涨0.31%，机器人、商业航天概念延续强势",
-          "url": "https://wallstreetcn.com/livenews/3027871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 13时25分]"
-        },
-        {
-          "title": "比特币持仓大户Strategy宣布，于2025年12月22日至12月28日期间购买1,229枚比特币，总购入价格1.088亿美元，平均购入价格为88,568美元。",
-          "url": "https://wallstreetcn.com/livenews/3028196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            29
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时18分 ~ 23时18分]"
-        },
-        {
-          "title": "华为增资人形机器人赛道",
-          "url": "https://wallstreetcn.com/livenews/3028148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时35分]"
-        },
-        {
-          "title": "A股收盘：沪指冲高回落录得9连阳，机器人、商业航天概念持续爆发",
-          "url": "https://wallstreetcn.com/livenews/3027971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时25分]"
-        },
-        {
-          "title": "上纬新材：公司具身智能机器人业务仍处产品开发阶段 未实现量产及规模化销售",
-          "url": "https://wallstreetcn.com/livenews/3028131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时35分]"
-        },
-        {
-          "title": "比特币涨幅扩大至近3%，重返9万美元上方。",
-          "url": "https://wallstreetcn.com/livenews/3027879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时25分]"
-        },
-        {
-          "title": "天奇股份：拟定增募资不超过9.77亿元，用于汽车装备智能制造基地建设项目、面向汽车行业应用的机器人具身智能系统研发中心建设项目、补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3028087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时36分]"
-        },
-        {
-          "title": "豆神教育推出学伴机器人 首批500台1小时内售罄",
-          "url": "https://wallstreetcn.com/livenews/3027762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "A股机器人概念涨势扩大，上纬新材、步科股份20cm涨停，双双创历史新高，天奇股份、五洲新春、征和工业等多股此前涨停，斯菱智驱、大鹏工业涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3027920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 15,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
-          "url": "https://flash.jin10.com/detail/20251228222030090800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时15分]"
-        },
-        {
-          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2243270",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时17分 ~ 23时18分]"
-        },
-        {
-          "title": "受科技股拖累，美股指期货走低，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
-          "url": "https://wallstreetcn.com/articles/3762238",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
-        },
-        {
-          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
-          "url": "https://wallstreetcn.com/articles/3762238",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
-        },
-        {
-          "title": "受科技股拖累，美股指期货走低，贵金属全线回落，现货白银新高后跳水日内大跌6%，WTI原油涨逾2%",
-          "url": "https://wallstreetcn.com/articles/3762238",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
-        },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
           "url": "https://wallstreetcn.com/articles/3762238",
@@ -1287,444 +230,54 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "美股股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20251229070023196800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "国电电力：控股子公司与宁德时代新能源科技股份有限公司等共同投建大渡河丹巴水电站项目，项目动态总投资152.73亿元",
-          "url": "https://wallstreetcn.com/livenews/3028107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
-          "url": "https://flash.jin10.com/detail/20251229170123670800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "据港交所文件：上海合合信息科技股份有限公司向港交所提交上市申请书。",
-          "url": "https://wallstreetcn.com/livenews/3028180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时18分]"
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
-          "url": "https://wallstreetcn.com/livenews/3028100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时36分]"
-        },
-        {
-          "title": "据港交所文件：用友网络科技股份有限公司向港交所提交上市申请书。",
-          "url": "https://wallstreetcn.com/livenews/3028163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时18分]"
-        },
-        {
-          "title": "金十图示：2025年12月29日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251229224031885800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异",
-          "url": "https://wallstreetcn.com/livenews/3028215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "美股开盘，道指跌0.19%，标普500指数跌0.43%，纳指跌0.75%。贵金属价格日内重挫，矿业股普遍低开，泛美白银(PAAS.O)、科尔黛伦矿业(CDE.N)、哈莫尼黄金(HMY.N)、纽蒙特矿业(NEM.N)跌约5%。",
-          "url": "https://flash.jin10.com/detail/20251229223023088800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "作家余华入驻抖音",
-          "url": "https://www.douyin.com/hot/2350618",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6,
-            7,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时28分 ~ 23时18分]"
-        },
-        {
-          "title": "欧亨利赛道也让抖音闯进去了",
-          "url": "https://www.douyin.com/hot/2349884",
-          "source": "抖音",
-          "ranks": [
-            8,
-            7,
-            6,
-            10,
-            4,
-            9,
-            30,
-            29,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 21时35分]"
-        },
-        {
-          "title": "微信回应“占内存”",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E2%80%9C%E5%8D%A0%E5%86%85%E5%AD%98%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            18,
-            10,
-            8,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时22分 ~ 22时18分]"
-        },
-        {
-          "title": "抖音美好惊喜夜",
-          "url": "https://www.douyin.com/hot/2350145",
-          "source": "抖音",
-          "ranks": [
-            22,
-            21,
-            23,
-            29,
-            28,
-            27,
-            25,
-            24,
-            13,
-            20,
-            19,
-            18,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 20时36分]"
-        },
-        {
-          "title": "微信回应存储空间占用变多：占用空间40GB以上的用户，聊天记录平均占比达70%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272920",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时26分 ~ 23时18分]"
-        },
-        {
-          "title": "宋威龙赵今麦第93条抖音",
-          "url": "https://www.douyin.com/hot/2350225",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18,
-            20,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 09时22分]"
-        },
-        {
-          "title": "安装包10多年膨胀几百倍，微信回应：是客观情况，但不会无限增长",
-          "url": "https://wallstreetcn.com/livenews/3028013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时26分]"
-        },
-        {
-          "title": "关于“微信占内存”，官方最新回应",
-          "url": "https://www.cls.cn/detail/2242644",
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 20时36分]"
-        },
-        {
-          "title": "万名青年创作者在抖音月入上万 内容创业成新职业选择",
-          "url": "https://wallstreetcn.com/livenews/3027897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时28分]"
-        },
-        {
-          "title": "我的诺贝尔人脉在抖音",
-          "url": "https://www.douyin.com/hot/2350755",
-          "source": "抖音",
-          "ranks": [
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 19时15分]"
-        },
-        {
-          "title": "罚罪2抖音追剧团",
-          "url": "https://www.douyin.com/hot/2351082",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "2025抖音ACG年度作者揭晓",
-          "url": "https://www.douyin.com/hot/2350685",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "宝马销冠试行特斯拉「一口价」8 天卖出 11 台，这对传统车企销售模式有何借鉴意义？",
           "url": "https://www.zhihu.com/question/1988052599975466209",
           "source": "知乎",
           "ranks": [
-            19,
-            15,
-            13,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时22分 ~ 23时18分]"
-        },
-        {
-          "title": "特斯拉回应女子30多万买到老款车",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%9030%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%88%B0%E8%80%81%E6%AC%BE%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            13,
-            9,
-            18,
-            6,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 09时22分]"
-        },
-        {
-          "title": "特斯拉在Cybertruck上遇挫令韩国供应商损失惨重",
-          "url": "https://flash.jin10.com/detail/20251229193006215800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡与特斯拉CEO埃隆·马斯克讨论与特斯拉(TSLA.O)的合作。",
-          "url": "https://flash.jin10.com/detail/20251229224502300800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "西安半导体产业链发展基金成立，出资额10亿",
-          "url": "https://wallstreetcn.com/livenews/3027977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时25分]"
-        },
+          "time_info": "[00时20分 ~ 00时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "宏微科技：与某公司签署了《战略合作协议》，未来将聚焦电控系统、液压控制系统、伺服系统、机器人核心零部件（执行器、电动缸、控制器）中所用到的功率半导体器件，并重点围绕氮化镓（GaN）功率半导体器件开展联合共研。",
-          "url": "https://wallstreetcn.com/livenews/3028089",
-          "source": "华尔街见闻-快讯",
+          "title": "【焦点复盘】沪指创年内连阳纪录剑指4000点，机器人概念持续火热，锂电池产业链现深幅回调",
+          "url": "https://www.cls.cn/detail/2242927",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            29
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时36分]"
-        },
-        {
-          "title": "费城半导体指数下跌1%，即将终结连续六个交易日的上涨势头。",
-          "url": "https://flash.jin10.com/detail/20251229223447380800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI基础设施 算力基建 AI Agent",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "千亿私募景林最新发声：2026年或成AI Agent真正普及的元年",
-          "url": "https://wallstreetcn.com/livenews/3027976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴菲特谢幕、OpenAI搅动万亿市值、谷歌强势崛起......2025全球十大商业事件盘点",
-          "url": "https://wallstreetcn.com/articles/3762142",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 14时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "ChatGPT帮他杀死83岁母亲？",
-          "url": "https://news.ifeng.com/c/8pTGEplZnSO",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时25分]"
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     }
