@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T01:16:04.883330+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-12-30T02:25:00.711466+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "金属全线回落，黄金跌破4500，白银跌超3.7%，现货钯金跌超11%，内盘碳酸锂、铂主力合约跌停",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "白银跳水，猜疑四起，有华尔街大行扛不住了？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "白银为何突然跳水？对冲基金老将提前警示了五大短期风险",
@@ -37,19 +37,46 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "Lyn Alden：白银2026年可能冲击100美元，但不再是“低风险高回报”机会",
           "url": "https://wallstreetcn.com/articles/3762221",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
+        },
+        {
+          "title": "铜价飙涨背后的“冰与火”：冶炼与矿端极限博弈“0加工费”",
+          "url": "https://www.cls.cn/detail/2242970",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
+        },
+        {
+          "title": "白银狂飙后跳水 交易所出手",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E7%8B%82%E9%A3%99%E5%90%8E%E8%B7%B3%E6%B0%B4+%E4%BA%A4%E6%98%93%E6%89%80%E5%87%BA%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "分析师：金价从历史高位回落 流动性稀薄正放大回调走势",
@@ -63,28 +90,15 @@
           "time_info": "00时21分"
         },
         {
-          "title": "铜价飙涨背后的“冰与火”：冶炼与矿端极限博弈“0加工费”",
-          "url": "https://www.cls.cn/detail/2242970",
-          "source": "财联社热门",
+          "title": "全球最大规模白银ETF或将创五年来最差单日表现",
+          "url": "https://flash.jin10.com/detail/20251230011909275800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            10
+            8
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
-        },
-        {
-          "title": "白银狂飙后跳水 交易所出手",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E7%8B%82%E9%A3%99%E5%90%8E%E8%B7%B3%E6%B0%B4+%E4%BA%A4%E6%98%93%E6%89%80%E5%87%BA%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
           "title": "现货白银日内跌幅达11.0%，报70.57美元/盎司。",
@@ -123,6 +137,122 @@
       ]
     },
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "日本学者：高市错误言论无视法律，应撤回",
+          "url": "https://news.ifeng.com/c/8pU57xiYUsz",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
+        },
+        {
+          "title": "石破茂：我们没有充分认识到，日本在二战中做了什么",
+          "url": "https://v.ifeng.com/c/8pTtuF3FVUf",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
+        },
+        {
+          "title": "尹正演日本侵略者：下班后觉得恶心",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%B9%E6%AD%A3%E6%BC%94%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5%E8%80%85%EF%BC%9A%E4%B8%8B%E7%8F%AD%E5%90%8E%E8%A7%89%E5%BE%97%E6%81%B6%E5%BF%83",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
+        },
+        {
+          "title": "真人扮熊猫关笼,日本为吸客拼了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
+        },
+        {
+          "title": "日本夫妇惨死桑拿房",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A4%AB%E5%A6%87%E6%83%A8%E6%AD%BB%E6%A1%91%E6%8B%BF%E6%88%BF&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 02时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
+        },
+        {
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
+        },
+        {
+          "title": "金十图示：2025年12月29日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251230013239462800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "金十图示：2025年12月29日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251230013105062800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 4,
       "titles": [
@@ -132,11 +262,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "罚罪2抖音追剧团",
@@ -144,11 +275,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "微信回应存储空间占用变多：占用空间40GB以上的用户，聊天记录平均占比达70%",
@@ -159,8 +291,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "2025抖音ACG年度作者揭晓",
@@ -168,90 +300,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "日本学者：高市错误言论无视法律，应撤回",
-          "url": "https://news.ifeng.com/c/8pU57xiYUsz",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
-        },
-        {
-          "title": "石破茂：我们没有充分认识到，日本在二战中做了什么",
-          "url": "https://v.ifeng.com/c/8pTtuF3FVUf",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
-        },
-        {
-          "title": "尹正演日本侵略者：下班后觉得恶心",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%B9%E6%AD%A3%E6%BC%94%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5%E8%80%85%EF%BC%9A%E4%B8%8B%E7%8F%AD%E5%90%8E%E8%A7%89%E5%BE%97%E6%81%B6%E5%BF%83",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
-        },
-        {
-          "title": "真人扮熊猫关笼,日本为吸客拼了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
-          "url": "https://wallstreetcn.com/articles/3762238",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
-        },
-        {
-          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2243270",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
         }
       ]
     },
@@ -264,11 +318,12 @@
           "url": "https://www.zhihu.com/question/1988052599975466209",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 02时25分]"
         }
       ]
     },
