@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T18:18:40.298809+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2025-12-31T19:16:14.019606+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时17分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 19时16分]"
         },
         {
           "title": "芝商所再次提高交易保证金，贵金属集体重挫，白银跌超5%",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[14时27分 ~ 19时16分]"
         },
         {
           "title": "金价",
@@ -46,6 +46,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时22分 ~ 07时15分]"
+        },
+        {
+          "title": "谁会阻止疯狂的白银？当年亨特兄弟是栽在谁手里？",
+          "url": "https://wallstreetcn.com/articles/3762169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时16分]"
         },
         {
           "title": "现货白银日内涨幅达8.0%，报77.91美元/盎司。 纽约银日内涨幅达10.5%，报77.86美元/盎司。",
@@ -216,17 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 12时35分]"
-        },
-        {
-          "title": "谁会阻止疯狂的白银？当年亨特兄弟是栽在谁手里？",
-          "url": "https://wallstreetcn.com/articles/3762169",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "现货白银日内暴跌6.00%，现报71.56美元/盎司。纽约期银日内暴跌8.00%，现报71.68美元/盎司。",
@@ -484,8 +484,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时15分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[07时15分 ~ 19时16分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -539,7 +539,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -704,11 +704,12 @@
             3,
             1,
             7,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时23分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[11时23分 ~ 19时16分]"
         },
         {
           "title": "印度宣布：超日本成世界第四大经济体",
@@ -742,26 +743,54 @@
           "time_info": "[00时22分 ~ 15时21分]"
         },
         {
-          "title": "高市闯大祸,日本经济被印度反超",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348598&amp;topic_name=%E9%AB%98%E5%B8%82%E9%97%AF%E5%A4%A7%E7%A5%B8%2C%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E8%A2%AB%E5%8D%B0%E5%BA%A6%E5%8F%8D%E8%B6%85",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时18分]"
-        },
-        {
           "title": "外交部回应日本商业领导人暂停访华",
           "url": "https://news.ifeng.com/c/8pXBVSUicWE",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时16分]"
+        },
+        {
+          "title": "高市闯大祸,日本经济被印度反超",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348598&amp;topic_name=%E9%AB%98%E5%B8%82%E9%97%AF%E5%A4%A7%E7%A5%B8%2C%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E8%A2%AB%E5%8D%B0%E5%BA%A6%E5%8F%8D%E8%B6%85",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 19时16分]"
+        },
+        {
+          "title": "印度官宣GDP超过日本",
+          "url": "https://www.douyin.com/hot/2352682",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18,
+            28,
+            30,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 19时16分]"
+        },
+        {
+          "title": "外交部回应日本参议员石平涉台言论",
+          "url": "https://www.toutiao.com/trending/7589865223264878611/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 19时16分]"
         },
         {
           "title": "印度称已超日本成世界第四大经济体",
@@ -790,32 +819,6 @@
           "time_info": "[12时35分 ~ 16时23分]"
         },
         {
-          "title": "印度官宣GDP超过日本",
-          "url": "https://www.douyin.com/hot/2352682",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时18分]"
-        },
-        {
-          "title": "外交部回应日本参议员石平涉台言论",
-          "url": "https://www.toutiao.com/trending/7589865223264878611/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时18分]"
-        },
-        {
           "title": "印度称其GDP已超日本，跃居世界第四，有望三年内赶超德国",
           "url": "https://wallstreetcn.com/livenews/3028854",
           "source": "华尔街见闻-快讯",
@@ -827,6 +830,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 02时25分]"
+        },
+        {
+          "title": "中方回应日本商业领导人暂停访华",
+          "url": "https://www.toutiao.com/trending/7589490204730441774/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时16分]"
         },
         {
           "title": "提醒：日本、韩国股市因假期休市。",
@@ -860,17 +874,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        },
-        {
-          "title": "中方回应日本商业领导人暂停访华",
-          "url": "https://www.toutiao.com/trending/7589490204730441774/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         }
       ]
     },
@@ -908,11 +911,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时18分]"
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 19时16分]"
         },
         {
           "title": "商业航天高位回调，机器人概念强势崛起，能否接棒领涨？",
@@ -928,6 +932,17 @@
           "time_info": "[14时27分 ~ 17时21分]"
         },
         {
+          "title": "全球首个个人机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时16分]"
+        },
+        {
           "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
           "url": "https://www.cls.cn/detail/2244180",
           "source": "财联社热门",
@@ -938,17 +953,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时14分 ~ 07时15分]"
-        },
-        {
-          "title": "全球首个个人机器人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "稚晖君发布首款个人机器人启元Q1，上纬新材正式进军个人机器人新赛道",
@@ -969,7 +973,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
