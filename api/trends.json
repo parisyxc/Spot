@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T04:19:25.784189+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-01-02T05:16:05.427327+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "来论｜台湾问题是中国内政，岂容日本说三道四",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "高市闯大祸,日本经济被印度反超",
@@ -38,8 +38,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "日本加快“再军事化”脚步",
@@ -50,8 +50,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 05时16分]"
         }
       ]
     },
@@ -71,8 +71,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -116,8 +116,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -127,8 +127,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         }
       ]
     },
@@ -136,6 +136,21 @@
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 2,
       "titles": [
+        {
+          "title": "2026的第一条抖音",
+          "url": "https://www.douyin.com/hot/2354369",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12,
+            28,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
+        },
         {
           "title": "老小区用「旧手机 + 微信」当无线对讲门铃，成本仅百元，平替几十万呼叫系统，这种方法能推广吗？",
           "url": "https://www.zhihu.com/question/1986851292803531534",
@@ -147,20 +162,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 01时17分]"
-        },
-        {
-          "title": "2026的第一条抖音",
-          "url": "https://www.douyin.com/hot/2354369",
-          "source": "抖音",
-          "ranks": [
-            11,
-            12,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
         }
       ]
     },
@@ -176,8 +177,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         }
       ]
     },
@@ -193,8 +194,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "稚晖君发布个人机器人启元Q1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A8%9A%E6%99%96%E5%90%9B%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%AF%E5%85%83Q1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 05时16分]"
         }
       ]
     }
