@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T07:16:29.692378+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-01-01T09:24:58.401815+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -69,6 +80,18 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "（美股）费城金银指数收跌1.36%，报342.28点，12月份累计上涨5.45%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌1.07%，报2442.86点，12月份累涨5.40%。 （美股）原材料指数跌1.00%，报226.15点，12月份累涨2.65%。 （美股）金属与矿业指数跌0.96%，报215.32点，12月份累涨5.10%。",
+          "url": "https://wallstreetcn.com/livenews/3029494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时24分]"
+        },
+        {
           "title": "金十图示：2025年12月31日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260101050540160800",
           "source": "金十数据",
@@ -91,17 +114,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌1.36%，报342.28点，12月份累计上涨5.45%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌1.07%，报2442.86点，12月份累涨5.40%。 （美股）原材料指数跌1.00%，报226.15点，12月份累涨2.65%。 （美股）金属与矿业指数跌0.96%，报215.32点，12月份累涨5.10%。",
-          "url": "https://wallstreetcn.com/livenews/3029494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
@@ -149,11 +161,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时24分]"
         },
         {
           "title": "谁会阻止疯狂的白银？当年亨特兄弟是栽在谁手里？",
@@ -166,17 +179,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少11.28吨，当前持仓量为16444.14吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20260101070229574800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，COMEX黄金投机者将净多头头寸增加3,411手，至137,541手。COMEX白银投机者将净多头头寸减少432手，至23,864手。",
@@ -227,6 +229,18 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少11.28吨，当前持仓量为16444.14吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260101070229574800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时24分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：12月23日当周，投机者所持COMEX黄金净多头头寸增加3,411手合约，至137,541手合约。 COMEX白银净多头头寸减少432手合约，至23,864手合约。",
           "url": "https://wallstreetcn.com/livenews/3029472",
           "source": "华尔街见闻-快讯",
@@ -244,11 +258,12 @@
           "url": "https://wallstreetcn.com/livenews/3029495",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时24分]"
         }
       ]
     },
@@ -273,11 +288,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时24分]"
         },
         {
           "title": "日本本州东部附近海域发生6.0级地震",
@@ -340,7 +356,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         }
@@ -348,7 +364,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克没造出的机器人 稚晖君搞定了",
@@ -356,11 +372,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时24分]"
         },
         {
           "title": "周三（12月31日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.10%，报88175美元，12月份累计下跌3.81%。 CME以太币期货DCR主力合约涨0.86%，报2997.50美元，12月份累跌2.36%。",
@@ -397,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "机器人登上各大跨年晚会舞台",
+          "url": "https://www.toutiao.com/trending/7589671472719265855/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
@@ -423,7 +451,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         }
@@ -460,6 +488,34 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "行业机构：法国12月新车注册量下降5.84%。 特斯拉12月在法国的新车注册量下降66.04%。 法国2025年新车注册量下降5.02%。",
+          "url": "https://wallstreetcn.com/livenews/3029518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "2025年12月法国新车注册量下降5.84%，特斯拉注册量下降66.04%。",
+          "url": "https://flash.jin10.com/detail/20260101085127541800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI基础设施 算力基建 AI Agent",
       "match_count": 1,
       "titles": [
@@ -473,6 +529,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
