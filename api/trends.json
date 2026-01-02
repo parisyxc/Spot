@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T04:18:50.557272+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-01-03T05:13:30.458972+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 05时13分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -36,11 +36,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -50,8 +51,34 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 05时13分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260103013328832800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时23分 ~ 04时18分]"
+          "time_info": "[02时24分 ~ 05时13分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260103013319071800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 05时13分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消减，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -70,37 +97,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时18分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260103013328832800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时18分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260103013319071800",
-          "source": "金十数据",
-          "ranks": [
-            5,
             9,
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时18分]"
+          "time_info": "[03时11分 ~ 05时13分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -175,7 +177,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "高志凯：我们应立法制裁参拜靖国神社的日本政客",
@@ -185,8 +187,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "日本动漫屡次出现旭日旗731部队",
@@ -197,8 +199,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "男子在日本皇居前突然怪叫脱衣服，被当场逮捕",
@@ -208,8 +210,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "《学习时报》刊文：警惕日本军国主义在文体领域的渗透",
@@ -222,19 +224,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "日媒：日本三大经济团体推迟访华",
           "url": "https://www.toutiao.com/trending/7590167418018775090/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "日本重金投高铁,遭越南变卦坑惨",
@@ -244,8 +247,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "日本为何对李在明访华如此敏感",
@@ -255,11 +258,23 @@
             30,
             26,
             25,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 05时13分]"
+        },
+        {
+          "title": "印度称其GDP已超日本",
+          "url": "https://www.douyin.com/hot/2354961",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
@@ -276,8 +291,21 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
+        },
+        {
+          "title": "金价过山车有人变现近9斤黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%9C%89%E4%BA%BA%E5%8F%98%E7%8E%B0%E8%BF%919%E6%96%A4%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            25,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "铜价创新高推升诉求，Capstone智利矿工发起罢工",
@@ -292,19 +320,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 04时18分]"
-        },
-        {
-          "title": "金价过山车有人变现近9斤黄金",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%9C%89%E4%BA%BA%E5%8F%98%E7%8E%B0%E8%BF%919%E6%96%A4%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时11分]"
         },
         {
           "title": "元旦购金热爆棚 金价还能涨到哪",
@@ -336,7 +351,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         }
@@ -355,8 +370,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "Strategy公司因比特币下跌将录得数十亿美元亏损",
@@ -365,11 +380,12 @@
           "ranks": [
             4,
             9,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 05时13分]"
         },
         {
           "title": "全球首款基于视觉的AI网球机器人，重新定义AI驱动的网球伙伴",
@@ -410,8 +426,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "费城半导体指数涨近4%，阿斯麦涨超8%，美光科技涨超6%，Arm涨近6%，英特尔涨超4%。",
@@ -443,6 +459,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "意大利交通部：2025年12月特斯拉(TSLA.O)新车注册量同比增长85.22%，而全年新车注册量较2024年下降17.91%。",
+          "url": "https://flash.jin10.com/detail/20260103010214219800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时13分]"
+        },
+        {
           "title": "2025年交付460万辆！比亚迪增长7.7% vs 特斯拉预计下滑，坐稳“全球电车老大”",
           "url": "https://wallstreetcn.com/articles/3762446",
           "source": "华尔街见闻",
@@ -454,20 +484,6 @@
           "time_info": "[00时20分 ~ 01时15分]"
         },
         {
-          "title": "意大利交通部：2025年12月特斯拉(TSLA.O)新车注册量同比增长85.22%，而全年新车注册量较2024年下降17.91%。",
-          "url": "https://flash.jin10.com/detail/20260103010214219800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时18分]"
-        },
-        {
           "title": "特斯拉(TSLA.O)股价走势逆转，现跌1.7%。",
           "url": "https://flash.jin10.com/detail/20260103012329296800",
           "source": "金十数据",
@@ -477,8 +493,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 05时13分]"
         }
       ]
     },
@@ -494,8 +510,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -505,8 +521,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
@@ -516,8 +532,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         }
       ]
     },
@@ -533,22 +549,24 @@
             1,
             2,
             3,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时13分]"
         },
         {
           "title": "2026的第一条抖音",
           "url": "https://www.douyin.com/hot/2354369",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时13分]"
         },
         {
           "title": "元旦抖音酒旅团购走俏 海南封关、跨年烟花秀等带动高客流",
