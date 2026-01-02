@@ -1,44 +1,46 @@
 {
-  "generated_at": "2026-01-02T11:27:34.824449+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-01-02T12:37:34.533164+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "现货黄金涨1.18%，报4361美元/盎司。现货白银涨2.6%报72.87美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
         {
           "title": "金价下跌 专家提醒假期投资风险",
           "url": "https://www.toutiao.com/trending/7589803875436118022/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时37分]"
         },
         {
-          "title": "供应趋紧预期下 铜价在2026年首个交易日继续上涨",
-          "url": "https://flash.jin10.com/detail/20260102111301953800",
+          "title": "现货白银日内大涨2美元，现报73.63美元/盎司，涨幅2.83%。",
+          "url": "https://flash.jin10.com/detail/20260102120726176800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "12时37分"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260102064913686800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 12时37分]"
         },
         {
           "title": "黄金白银还能重新回到C位吗",
@@ -64,16 +66,40 @@
           "time_info": "[07时16分 ~ 09时18分]"
         },
         {
-          "title": "金十图示：2026年01月02日（周五）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260102064913686800",
-          "source": "金十数据",
+          "title": "现货黄金涨1.18%，报4361美元/盎司。现货白银涨2.6%报72.87美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3029713",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            29
+            1,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时18分]"
+          "time_info": "[11时27分 ~ 12时37分]"
+        },
+        {
+          "title": "供应趋紧预期下 铜价在2026年首个交易日继续上涨",
+          "url": "https://flash.jin10.com/detail/20260102111301953800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时37分]"
+        },
+        {
+          "title": "CME“重拳”后白银完成技术性“冷却”，多头情绪再次反弹，现货黄金多头占比维持稳定，元旦周即将结束，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260102104930373800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时37分]"
         },
         {
           "title": "中国为何对白银实施稀土级别出口管制",
@@ -88,15 +114,26 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
-          "title": "CME“重拳”后白银完成技术性“冷却”，多头情绪再次反弹，现货黄金多头占比维持稳定，元旦周即将结束，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260102104930373800",
+          "title": "现货白银上涨2.8%报73美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3029717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "现货白银日内涨超2%，现报73.10美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260102112509147800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "12时37分"
         },
         {
           "title": "现货白银站上73美元/盎司，日内涨1.96%。",
@@ -138,7 +175,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }
@@ -146,7 +183,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "日本重金投高铁,遭越南变卦坑惨",
@@ -154,11 +191,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时37分]"
         },
         {
           "title": "来论｜台湾问题是中国内政，岂容日本说三道四",
@@ -186,13 +224,24 @@
           "time_info": "[00时21分 ~ 11时27分]"
         },
         {
+          "title": "日媒：中国汽车全球销量将超日本",
+          "url": "https://www.toutiao.com/trending/7589511310690353158/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "日本东京全球人口排名下跌",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%85%A8%E7%90%83%E4%BA%BA%E5%8F%A3%E6%8E%92%E5%90%8D%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -215,7 +264,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -303,22 +352,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时27分]"
-        },
-        {
-          "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
-          "url": "https://wallstreetcn.com/livenews/3029712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时37分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -331,6 +370,58 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 09时18分]"
+        },
+        {
+          "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
+          "url": "https://wallstreetcn.com/livenews/3029712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "展望半导体2026三大关键词：存储、AI、国产化",
+          "url": "https://www.cls.cn/detail/2245258",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时37分]"
+        },
+        {
+          "title": "恒生指数早盘涨2.18%，恒生科技指数涨3.38%。壁仞科技上市首日涨超72%；华虹半导体涨超9%，百度集团涨超7%，三花智控涨超6%，网易涨超5%，理想汽车涨超4%，中芯国际涨超4%，金风科技涨超17%，德林控股涨超14%。",
+          "url": "https://wallstreetcn.com/livenews/3029726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "港股芯片股集体走强，华虹半导体涨超7%，芯智控股涨近5%，中电华大科技、ASMPT、中芯国际涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3029702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时37分]"
         }
       ]
     },
@@ -350,11 +441,12 @@
             29,
             30,
             25,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时37分]"
         },
         {
           "title": "老小区用「旧手机 + 微信」当无线对讲门铃，成本仅百元，平替几十万呼叫系统，这种方法能推广吗？",
@@ -375,39 +467,12 @@
           "url": "https://www.douyin.com/hot/2353932",
           "source": "抖音",
           "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "展望半导体2026三大关键词：存储、AI、国产化",
-          "url": "https://www.cls.cn/detail/2245258",
-          "source": "财联社热门",
-          "ranks": [
-            8
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时27分]"
-        },
-        {
-          "title": "港股芯片股集体走强，华虹半导体涨超7%，芯智控股涨近5%，中电华大科技、ASMPT、中芯国际涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3029702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时37分]"
         }
       ]
     },
@@ -446,6 +511,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "2026人形机器人能迎来“奇点时刻”吗",
+          "url": "https://www.toutiao.com/trending/7590546795705404954/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时37分]"
+        },
+        {
           "title": "稚晖君发布个人机器人启元Q1",
           "url": "https://search.bilibili.com/all?keyword=%E7%A8%9A%E6%99%96%E5%90%9B%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%AF%E5%85%83Q1",
           "source": "bilibili 热搜",
@@ -455,17 +532,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 05时16分]"
-        },
-        {
-          "title": "2026人形机器人能迎来“奇点时刻”吗",
-          "url": "https://www.toutiao.com/trending/7590546795705404954/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
         }
       ]
     }
