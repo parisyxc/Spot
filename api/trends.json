@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T21:27:36.590891+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-01-04T22:15:15.822051+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "两名中国公民在日本被汽车严重撞伤",
@@ -48,8 +48,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时47分 ~ 21时27分]"
+          "appearance_count": 17,
+          "time_info": "[11时47分 ~ 22时15分]"
         },
         {
           "title": "日本重金投高铁,遭越南变卦坑惨",
@@ -136,6 +136,17 @@
           "time_info": "[09时25分 ~ 14时25分]"
         },
         {
+          "title": "3比1！樊振东逆转日本名将晋级决赛",
+          "url": "https://www.baidu.com/s?wd=3%E6%AF%941%EF%BC%81%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC%E5%90%8D%E5%B0%86%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时15分]"
+        },
+        {
           "title": "日本栃木县10余辆汽车相撞致1死3伤",
           "url": "https://www.toutiao.com/trending/7591369777101471795/",
           "source": "今日头条",
@@ -153,11 +164,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时27分]"
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时15分]"
+        },
+        {
+          "title": "驻日本大使馆再次提醒在日中国公民注意人身安全",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307768",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时15分]"
+        },
+        {
+          "title": "两名中国公民在日本被严重撞伤",
+          "url": "https://www.douyin.com/hot/2356553",
+          "source": "抖音",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时15分]"
         },
         {
           "title": "日本民众举行集会反对高市错误言论",
@@ -170,34 +206,12 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时47分 ~ 13时23分]"
-        },
-        {
-          "title": "两名中国公民在日本被严重撞伤",
-          "url": "https://www.douyin.com/hot/2356553",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "驻日本大使馆再次提醒在日中国公民注意人身安全",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32307768",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "马杜罗被美国“闪击”，委内瑞拉“传说中的600亿美元比特币”会流向何方？",
@@ -212,8 +226,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时47分 ~ 21时27分]"
+          "appearance_count": 17,
+          "time_info": "[11时47分 ~ 22时15分]"
         },
         {
           "title": "机器人表演武术 将同伴踹飞二里地",
@@ -244,27 +258,16 @@
           "time_info": "[09时25分 ~ 15时18分]"
         },
         {
-          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
-          "url": "https://wallstreetcn.com/livenews/3030322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时27分]"
-        },
-        {
           "title": "宇树机器人空翻踢爆西瓜",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时27分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 22时15分]"
         },
         {
           "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
@@ -272,11 +275,25 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时27分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 22时15分]"
+        },
+        {
+          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
+          "url": "https://wallstreetcn.com/livenews/3030322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时15分]"
         },
         {
           "title": "宇树发布人形机器人H2日常训练视频",
@@ -284,11 +301,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时27分]"
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时15分]"
         },
         {
           "title": "全国首张具身机器人“保险+租赁”保单落地",
@@ -301,6 +319,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时31分 ~ 21时27分]"
+        },
+        {
+          "title": "宇树机器人这一年：钱很多 心很急",
+          "url": "https://www.toutiao.com/trending/7591443851877813766/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时15分]"
         }
       ]
     },
@@ -320,8 +349,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时16分 ~ 21时27分]"
+          "appearance_count": 9,
+          "time_info": "[17时16分 ~ 22时15分]"
         },
         {
           "title": "国投白银LOF：本基金二级市场价格的高溢价率不具备可持续性",
@@ -563,11 +592,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%A0%B7%E6%93%8D%E4%BD%9C+%E5%BE%AE%E4%BF%A1%E5%AD%98%E5%82%A8%E4%B8%80%E4%B8%8B%E8%83%BD%E5%B0%9110G",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时15分]"
         }
       ]
     },
