@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T12:45:29.552245+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-01-04T13:23:09.028618+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,21 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 12时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 13时23分]"
+        },
+        {
+          "title": "两名中国公民在日本被严重撞伤",
+          "url": "https://www.toutiao.com/trending/7591147976015003694/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 13时23分]"
         },
         {
           "title": "两名中国公民在日本被严重撞伤",
@@ -50,19 +63,6 @@
           "time_info": "09时25分"
         },
         {
-          "title": "两名中国公民在日本被严重撞伤",
-          "url": "https://www.toutiao.com/trending/7591147976015003694/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时45分]"
-        },
-        {
           "title": "两名中国公民在日本被汽车严重撞伤",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%B1%BD%E8%BD%A6%E4%B8%A5%E9%87%8D%E6%92%9E%E4%BC%A4",
           "source": "百度热搜",
@@ -72,8 +72,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 13时23分]"
         },
         {
           "title": "中国驻日本大使馆：在日公民注意安全",
@@ -81,11 +81,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 13时23分]"
         },
         {
           "title": "高市早苗准备到美国求特朗普撑腰，但日本可能被移出发达国家行列",
@@ -95,19 +96,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 13时23分]"
         },
         {
           "title": "日本民众举行集会反对高市错误言论",
           "url": "https://www.toutiao.com/trending/7590225036787679282/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时47分"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时23分]"
         }
       ]
     },
@@ -206,8 +208,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 12时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 13时23分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -261,11 +263,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时23分]"
         },
         {
           "title": "爸爸微信有两千个置顶",
@@ -274,9 +277,37 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 13时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "博主：白银已成高科技金属",
+          "url": "https://www.toutiao.com/trending/7591302113641123382/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时45分"
+          "time_info": "11时47分"
         }
       ]
     },
@@ -294,8 +325,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 13时23分]"
         },
         {
           "title": "马杜罗被美国“闪击”，委内瑞拉“传说中的600亿美元比特币”会流向何方？",
@@ -303,11 +334,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 13时23分]"
         }
       ]
     },
@@ -325,23 +357,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时47分"
         }
       ]
     }
