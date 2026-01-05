@@ -1,89 +1,11 @@
 {
-  "generated_at": "2026-01-05T07:16:47.841189+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-01-05T09:24:15.025089+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "马杜罗被美国“闪击”，委内瑞拉“传说中的600亿美元比特币”会流向何方？",
-          "url": "https://wallstreetcn.com/articles/3762490",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "宇树机器人空翻踢爆西瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "宇树机器人H2腾空侧踢吓退王兴兴",
-          "url": "https://www.toutiao.com/trending/7591130254992261139/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            28,
-            30,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
-          "url": "https://www.cls.cn/detail/2246888",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
-          "url": "https://wallstreetcn.com/articles/3762500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 07时16分]"
-        },
-        {
-          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
-          "url": "https://wallstreetcn.com/livenews/3030322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "稳定币 日本",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "两名中国公民在日本被严重撞伤",
@@ -138,12 +60,56 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时23分 ~ 07时16分]"
+        },
+        {
+          "title": "为什么我国音乐生和音乐学院超多，但亚洲的经典旋律，绝大多数都是坂本龙一、久石让等日本人写的？",
+          "url": "https://www.zhihu.com/question/1989254218339614806",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "长泽雅美宣布结婚，日本「四大台柱」女演员全部成家，这宣告着一个时代的落幕吗？",
+          "url": "https://www.zhihu.com/question/1990116916128412469",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "日本两年期国债收益率上行2.5个基点至1.195%。",
+          "url": "https://wallstreetcn.com/livenews/3030414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "日本12月制造业PMI终值 50，初值 49.7。",
+          "url": "https://wallstreetcn.com/livenews/3030408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 1,
+      "match_count": 6,
       "titles": [
         {
           "title": "就在周四！黄金白银将迎新年“第一劫”：数十亿美元抛单已在路上",
@@ -155,6 +121,156 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时16分]"
+        },
+        {
+          "title": "现货白银涨近5%，报76.16美元/盎司。现货黄金涨1.8%报4408美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3030427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月5日（周一）早盘盘初上涨1.45%报988.5元/克；<br/>上海黄金交易所白银T+D 1月5日（周一）早盘盘初上涨2.35%报18200.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260105090407105800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "现货白银突破76美元/盎司，日内涨4.47%。",
+          "url": "https://flash.jin10.com/detail/20260105090230081800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "现货白银日内大涨4.00%，现报75.72美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260105090015741800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "现货白银涨3%报74.81美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3030405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "马杜罗被美国“闪击”，委内瑞拉“传说中的600亿美元比特币”会流向何方？",
+          "url": "https://wallstreetcn.com/articles/3762490",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时24分]"
+        },
+        {
+          "title": "宇树机器人空翻踢爆西瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时24分]"
+        },
+        {
+          "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
+          "url": "https://wallstreetcn.com/articles/3762500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时13分 ~ 09时24分]"
+        },
+        {
+          "title": "宇树机器人H2腾空侧踢吓退王兴兴",
+          "url": "https://www.toutiao.com/trending/7591130254992261139/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            28,
+            30,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
+        },
+        {
+          "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
+          "url": "https://www.cls.cn/detail/2246888",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时16分]"
+        },
+        {
+          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
+          "url": "https://wallstreetcn.com/livenews/3030322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉Cybercab今年量产",
+          "url": "https://www.toutiao.com/trending/7590332775297138742/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
         }
       ]
     },
@@ -168,11 +284,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时24分]"
         }
       ]
     }
