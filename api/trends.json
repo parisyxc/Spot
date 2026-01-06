@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T15:23:05.187356+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2026-01-06T16:25:02.350297+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "日本梅毒扩散",
@@ -14,11 +14,36 @@
           "ranks": [
             23,
             4,
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 16时25分]"
+        },
+        {
+          "title": "日本梅毒感染扩散",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%84%9F%E6%9F%93%E6%89%A9%E6%95%A3",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            13,
+            14
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时26分 ~ 15时23分]"
+          "time_info": "[13时21分 ~ 16时25分]"
+        },
+        {
+          "title": "加强两用物项对日本出口管制",
+          "url": "https://www.douyin.com/hot/2359002",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "30年期日本国债收益率涨2个基点，至3.475%。",
@@ -76,19 +101,6 @@
           "time_info": "14时28分"
         },
         {
-          "title": "日本梅毒感染扩散",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%84%9F%E6%9F%93%E6%89%A9%E6%95%A3",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 15时23分]"
-        },
-        {
           "title": "日本10年期国债拍卖投标倍数为3.3，上一次拍卖为3.59。",
           "url": "https://flash.jin10.com/detail/20260106113731984800",
           "source": "金十数据",
@@ -131,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "商务部新闻发言人就加强两用物项对日本出口管制答记者问",
+          "url": "https://wallstreetcn.com/livenews/3031506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "20年期日本国债收益率涨1.0个基点至3.055%。",
@@ -191,6 +214,17 @@
           "time_info": "[13时21分 ~ 14时28分]"
         },
         {
+          "title": "日本年轻人聚众晒梅毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
           "title": "长泽雅美宣布结婚，日本「四大台柱」女演员全部成家，这宣告着一个时代的落幕吗？",
           "url": "https://www.zhihu.com/question/1990116916128412469",
           "source": "知乎",
@@ -201,6 +235,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "禁止所有两用物项对日本军事用途出口",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AD%A2%E6%89%80%E6%9C%89%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E7%94%A8%E9%80%94%E5%87%BA%E5%8F%A3%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "评论员：日本军事扩张野心太大",
@@ -231,9 +276,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "商务部：加强两用物项对日本出口管制",
+          "url": "https://wallstreetcn.com/livenews/3031502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "日本债市抛售潮在新年继续延续",
@@ -242,7 +298,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -253,7 +309,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -330,7 +386,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -352,7 +408,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -440,9 +496,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "外交部回应日本议员石平窜访中国台湾：宵小狂言不值一评",
+          "url": "https://wallstreetcn.com/livenews/3031482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "两年期日本国债收益率下行1.5BP至1.175%。",
@@ -459,7 +526,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "【早报】猛涨超7%！COMEX白银期货单日暴力拉升；证监会发声，打击财务造假",
@@ -469,8 +536,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 15时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时17分 ~ 16时25分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
@@ -479,7 +546,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -504,6 +571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "白银火爆 水贝市场溢价出货",
+          "url": "https://www.toutiao.com/trending/7592124593347759657/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "瑞银上调金价目标至5000美元",
@@ -576,6 +654,18 @@
           "time_info": "[12时36分 ~ 13时21分]"
         },
         {
+          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
+          "url": "https://www.cls.cn/detail/2248953",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 16时25分]"
+        },
+        {
           "title": "纽约银日内涨幅达9.0%，报77.42美元/盎司。 现货白银日内涨幅达6.5%，报77.43美元/盎司。 沪银主力合约日内大涨4.00%，现报18920.00元/千克。",
           "url": "https://wallstreetcn.com/livenews/3031017",
           "source": "华尔街见闻-快讯",
@@ -600,15 +690,15 @@
           "time_info": "[02时27分 ~ 03时18分]"
         },
         {
-          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
-          "url": "https://www.cls.cn/detail/2248953",
-          "source": "财联社热门",
+          "title": "铜价升破13000关口后续创新高",
+          "url": "https://www.toutiao.com/trending/7592125722534088233/",
+          "source": "今日头条",
           "ranks": [
-            13
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "白银涨势不停 突破79美元关口",
@@ -672,7 +762,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -735,8 +825,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时16分 ~ 15时23分]"
+          "appearance_count": 12,
+          "time_info": "[07时16分 ~ 16时25分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -760,8 +850,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时16分 ~ 15时23分]"
+          "appearance_count": 12,
+          "time_info": "[07时16分 ~ 16时25分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -936,19 +1026,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 15时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 16时25分]"
         },
         {
           "title": "波士顿动力机器人进厂打工了",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E5%A3%AB%E9%A1%BF%E5%8A%A8%E5%8A%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82%E6%89%93%E5%B7%A5%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 16时25分]"
         },
         {
           "title": "现代汽车2028年将在美国佐治亚州Savannah工厂部署人形机器人。",
@@ -1049,7 +1140,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         }
@@ -1065,11 +1156,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 15时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 16时25分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
