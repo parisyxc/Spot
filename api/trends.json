@@ -1,11 +1,277 @@
 {
-  "generated_at": "2026-01-07T07:17:03.135512+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-01-07T09:18:31.552528+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "中方禁止两用物项对日本军事用户出口",
+          "url": "https://www.toutiao.com/trending/7591722452749684230/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "商务部表示为维护国家安全和利益，决定加强两用物项对日本出口管制，什么是两用物项？此举会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1991903382730989599",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时18分]"
+        },
+        {
+          "title": "加强两用物项对日本出口管制",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A0%E5%BC%BA%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时18分]"
+        },
+        {
+          "title": "商务部：加强两用物项对日本出口管制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32326591",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时18分]"
+        },
+        {
+          "title": "加强两用物项对日本出口管制",
+          "url": "https://www.douyin.com/hot/2359002",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时18分]"
+        },
+        {
+          "title": "梅事变疣事,日本梅毒扩散加剧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348761&amp;topic_name=%E6%A2%85%E4%BA%8B%E5%8F%98%E7%96%A3%E4%BA%8B%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E5%8A%A0%E5%89%A7",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时18分]"
+        },
+        {
+          "title": "禁止两用物项对日本军事用户出口",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%81%E6%AD%A2%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E7%94%A8%E6%88%B7%E5%87%BA%E5%8F%A3",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            13,
+            14,
+            18,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "日本年轻人聚众晒梅毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时18分]"
+        },
+        {
+          "title": "日本梅毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            22,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "日本流行梅毒妆",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E6%A2%85%E6%AF%92%E5%A6%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时18分]"
+        },
+        {
+          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
+          "url": "https://www.cls.cn/detail/2249909",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本30年期国债收益率上升1.5个基点至3.505%的纪录高点。",
+          "url": "https://wallstreetcn.com/livenews/3032004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本20年期国债收益率上升1个基点至3.09%纪录高点。",
+          "url": "https://wallstreetcn.com/livenews/3032001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "高市早苗暗示或武力介入台海，中方：禁止向日本军事用户出口两用物项",
+          "url": "https://wallstreetcn.com/articles/3762652",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡今晚会见了日本国会议员代表团。",
+          "url": "https://flash.jin10.com/detail/20260107015539799800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "日本本州岛5.9级地震",
+          "url": "https://www.douyin.com/hot/2358606",
+          "source": "抖音",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "日本网民如何看中方两用物项出口管制",
+          "url": "https://www.toutiao.com/trending/7592392963955625499/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本年轻人聚众晒梅毒",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本12月服务业PMI终值 51.6，前值52.5。",
+          "url": "https://flash.jin10.com/detail/20260107083002575800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本12月综合PMI终值 51.1，前值51.5。",
+          "url": "https://flash.jin10.com/detail/20260107083002550800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本12月服务业PMI终值 51.6，初值 52.5。",
+          "url": "https://wallstreetcn.com/livenews/3031976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本12月综合PMI终值 51.1，初值 51.5。",
+          "url": "https://wallstreetcn.com/livenews/3031975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -26,11 +292,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时18分]"
         },
         {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
@@ -46,6 +313,18 @@
           "time_info": "[00时22分 ~ 06时18分]"
         },
         {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 09时18分]"
+        },
+        {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
           "url": "https://wallstreetcn.com/articles/3762631",
           "source": "华尔街见闻",
@@ -57,15 +336,15 @@
           "time_info": "[07时16分 ~ 07时17分]"
         },
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览（美股收盘）",
@@ -208,173 +487,9 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
+      "keyword_group": "金价 铜价 白银",
       "match_count": 12,
       "titles": [
-        {
-          "title": "中方禁止两用物项对日本军事用户出口",
-          "url": "https://www.toutiao.com/trending/7591722452749684230/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "商务部表示为维护国家安全和利益，决定加强两用物项对日本出口管制，什么是两用物项？此举会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1991903382730989599",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "加强两用物项对日本出口管制",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A0%E5%BC%BA%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "商务部：加强两用物项对日本出口管制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32326591",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "加强两用物项对日本出口管制",
-          "url": "https://www.douyin.com/hot/2359002",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "梅事变疣事,日本梅毒扩散加剧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348761&amp;topic_name=%E6%A2%85%E4%BA%8B%E5%8F%98%E7%96%A3%E4%BA%8B%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E5%8A%A0%E5%89%A7",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "禁止两用物项对日本军事用户出口",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%81%E6%AD%A2%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E7%94%A8%E6%88%B7%E5%87%BA%E5%8F%A3",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            13,
-            14,
-            18,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "日本年轻人聚众晒梅毒",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "日本梅毒",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            22,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "日本流行梅毒妆",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E6%A2%85%E6%AF%92%E5%A6%86%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "以色列总理办公室：以色列总理内塔尼亚胡今晚会见了日本国会议员代表团。",
-          "url": "https://flash.jin10.com/detail/20260107015539799800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "日本本州岛5.9级地震",
-          "url": "https://www.douyin.com/hot/2358606",
-          "source": "抖音",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时18分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "我国将白银列为战略物资释放何信号",
-          "url": "https://www.toutiao.com/trending/7592193907086069257/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
         {
           "title": "国投白银LOF1月7日将停牌1小时",
           "url": "https://www.douyin.com/hot/2359164",
@@ -386,6 +501,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "我国将白银列为战略物资释放何信号",
+          "url": "https://www.toutiao.com/trending/7592193907086069257/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时18分]"
         },
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -403,6 +531,17 @@
           "time_info": "[00时22分 ~ 06时18分]"
         },
         {
+          "title": "现货白银跳水转跌，从82.5美元/盎司走低约2美元至80.4美元/盎司，目前跌0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3032003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "金价涨超1%，上探4500美元关口",
           "url": "https://wallstreetcn.com/livenews/3031908",
           "source": "华尔街见闻-快讯",
@@ -412,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "瑞银：波动性大幅走高，警惕黄金短期回调，近期是搭了“铂金、白银、钯金”的便车",
+          "url": "https://wallstreetcn.com/articles/3762620",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "现货白银涨超6%，纽约铜一度涨穿6.11美元，铂金涨超7%",
@@ -523,7 +673,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -628,8 +778,19 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "智能眼镜需求远超预期！Meta被迫宣布暂停国际扩张计划",
+          "url": "https://www.cls.cn/detail/2249849",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
         {
           "title": "Meta聘请微软Mahoney为首席法务官。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3031822",
@@ -656,6 +817,45 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特斯拉市值一夜蒸发超4300亿元",
+          "url": "https://www.toutiao.com/trending/7592391355918192191/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "特斯拉市值一夜蒸发超4300亿元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%854300%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "特斯拉为何甩出购车“王炸”",
+          "url": "https://www.toutiao.com/trending/7592123343231258158/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI基础设施 算力基建 AI Agent",
       "match_count": 1,
       "titles": [
@@ -669,23 +869,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉为何甩出购车“王炸”",
-          "url": "https://www.toutiao.com/trending/7592123343231258158/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
         }
       ]
     },
@@ -722,8 +905,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时18分]"
         }
       ]
     }
