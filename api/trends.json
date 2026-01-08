@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T02:22:45.406166+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-01-09T03:17:12.955231+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时17分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时17分]"
         },
         {
           "title": "Saxo Markets首席投资策略师Charu Chanana：2026年开局强劲后，市场正喘息调整，在周五美国就业报告公布前，无人愿意增添新的风险。 美联储政策争论尚未落幕，地区安全事件持续令市场保持谨慎布局。",
@@ -60,7 +60,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -71,7 +71,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         }
@@ -89,8 +89,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时17分]"
         },
         {
           "title": "商务部回应审查 Meta 收购 Manus，企业从事对外投资等活动须符合中国法律法规，有何警示？",
@@ -100,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时17分]"
         },
         {
           "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
@@ -111,8 +111,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 03时17分]"
         },
         {
           "title": "商务部回应审查Meta收购Manus",
@@ -129,6 +129,58 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时17分]"
+        },
+        {
+          "title": "重要商品指数再平衡今日开启，两大投行预言“白银两周内调整”，高盛“关键还是伦敦”",
+          "url": "https://wallstreetcn.com/articles/3762801",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时17分]"
+        },
+        {
+          "title": "白银锡铜集体下挫，上期所限手数调费率最快今晚生效，有色回调序幕开启？",
+          "url": "https://www.cls.cn/detail/2252151",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时17分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月8日（周四）晚盘收盘上涨0.34%报999.53元/克；<br/>上海黄金交易所白银T+D 1月8日（周四）晚盘收盘下跌3.49%报18415.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260109023114424800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "稳定币 日本",
       "match_count": 4,
       "titles": [
@@ -140,8 +192,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时17分]"
         },
         {
           "title": "日本若被断稀土，3个月或损失数百亿",
@@ -151,8 +203,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时17分]"
         },
         {
           "title": "出口被卡,日本忙搞稀土自救",
@@ -163,60 +215,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时17分]"
         },
         {
           "title": "中国出口管制对日本影响有多大",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时22分]"
-        },
-        {
-          "title": "重要商品指数再平衡今日开启，两大投行预言“白银两周内调整”，高盛“关键还是伦敦”",
-          "url": "https://wallstreetcn.com/articles/3762801",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时22分]"
-        },
-        {
-          "title": "白银锡铜集体下挫，上期所限手数调费率最快今晚生效，有色回调序幕开启？",
-          "url": "https://www.cls.cn/detail/2252151",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 03时17分]"
         }
       ]
     },
@@ -232,8 +244,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时17分]"
         },
         {
           "title": "欧盟责令X平台保存聊天机器人数据至年底",
@@ -286,11 +298,29 @@
           "url": "https://www.zhihu.com/question/1990475866191464200",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
+          "url": "https://flash.jin10.com/detail/20260109024531943800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         }
       ]
     },
@@ -306,8 +336,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时17分]"
         }
       ]
     }
