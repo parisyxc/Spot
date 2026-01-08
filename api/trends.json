@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T04:20:35.358804+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-01-09T05:17:45.834785+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -29,8 +29,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 阿里巴巴涨超5%",
+          "url": "https://flash.jin10.com/detail/20260109050055276800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "癌症药品生产商Revolution Medicines（RVMD）美股尾盘暂停交易，临时停牌前涨幅5.2%。 Erasca Inc.（ERAS）临时停牌，暂停交易前涨幅扩大至22%。 据英国金融时报，Merck洽谈收购该公司，但双方还没有敲定最终协议。",
+          "url": "https://wallstreetcn.com/livenews/3033545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "Saxo Markets首席投资策略师Charu Chanana：2026年开局强劲后，市场正喘息调整，在周五美国就业报告公布前，无人愿意增添新的风险。 美联储政策争论尚未落幕，地区安全事件持续令市场保持谨慎布局。",
@@ -83,17 +105,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "消息人士称，中方正研究收紧对日稀土出口许可审查，可能会怎样收紧？会对日本哪些行业带来影响？",
-          "url": "https://www.zhihu.com/question/1991992752011964451",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
           "title": "日本若被断稀土，3个月或损失数百亿",
           "url": "https://news.ifeng.com/c/8pkFTuFIPeG",
           "source": "凤凰网",
@@ -101,8 +112,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
+        },
+        {
+          "title": "消息人士称，中方正研究收紧对日稀土出口许可审查，可能会怎样收紧？会对日本哪些行业带来影响？",
+          "url": "https://www.zhihu.com/question/1991992752011964451",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "出口被卡,日本忙搞稀土自救",
@@ -113,8 +136,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "中国出口管制对日本影响有多大",
@@ -122,11 +145,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[02时22分 ~ 05时17分]"
         },
         {
           "title": "俄继续揭露日本战争罪行 外交部回应",
@@ -135,7 +159,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         }
@@ -153,19 +177,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "商务部回应审查 Meta 收购 Manus，企业从事对外投资等活动须符合中国法律法规，有何警示？",
           "url": "https://www.zhihu.com/question/1992618601656639872",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
@@ -176,8 +201,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 05时17分]"
         },
         {
           "title": "商务部回应审查Meta收购Manus",
@@ -185,11 +210,62 @@
           "source": "抖音",
           "ranks": [
             19,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
+          "url": "https://flash.jin10.com/detail/20260109024531943800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
+          "url": "https://www.cls.cn/detail/2252286",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
+        },
+        {
+          "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3033538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "OpenAI推出OpenAI for Healthcare。",
+          "url": "https://wallstreetcn.com/livenews/3033531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     },
@@ -206,8 +282,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "重要商品指数再平衡今日开启，两大投行预言“白银两周内调整”，高盛“关键还是伦敦”",
@@ -218,8 +294,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "白银锡铜集体下挫，上期所限手数调费率最快今晚生效，有色回调序幕开启？",
@@ -230,8 +306,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月8日（周四）晚盘收盘上涨0.34%报999.53元/克；<br/>上海黄金交易所白银T+D 1月8日（周四）晚盘收盘下跌3.49%报18415.0元/千克。",
@@ -259,8 +335,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "欧盟责令X平台保存聊天机器人数据至年底",
@@ -284,34 +360,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
-          "url": "https://flash.jin10.com/detail/20260109024531943800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
-          "url": "https://www.cls.cn/detail/2252286",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
         }
       ]
     },
@@ -343,11 +391,12 @@
           "ranks": [
             14,
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
         }
       ]
     },
@@ -361,11 +410,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
         }
       ]
     }
