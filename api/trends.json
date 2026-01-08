@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T16:25:23.606570+08:00",
-  "total_titles_processed": 1456,
+  "generated_at": "2026-01-08T17:25:09.554008+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "中方回应日本就出口管制提出抗议",
@@ -160,11 +160,36 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 17时25分]"
+        },
+        {
+          "title": "出口被卡,日本忙搞稀土自救",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348861&amp;topic_name=%E5%87%BA%E5%8F%A3%E8%A2%AB%E5%8D%A1%2C%E6%97%A5%E6%9C%AC%E5%BF%99%E6%90%9E%E7%A8%80%E5%9C%9F%E8%87%AA%E6%95%91",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时25分]"
+          "time_info": "[16时25分 ~ 17时25分]"
+        },
+        {
+          "title": "消息人士称，中方正研究收紧对日稀土出口许可审查，可能会怎样收紧？会对日本哪些行业带来影响？",
+          "url": "https://www.zhihu.com/question/1991992752011964451",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时25分]"
         },
         {
           "title": "中国出口管制戳中日本软肋了吗",
@@ -181,6 +206,17 @@
           "time_info": "[09时18分 ~ 15时22分]"
         },
         {
+          "title": "日本距离核武器只差一把螺丝刀",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%B7%9D%E7%A6%BB%E6%A0%B8%E6%AD%A6%E5%99%A8%E5%8F%AA%E5%B7%AE%E4%B8%80%E6%8A%8A%E8%9E%BA%E4%B8%9D%E5%88%80%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
           "title": "10年期日本国债收益率跌3.5个基点，至2.085%。",
           "url": "https://flash.jin10.com/detail/20260108120833021800",
           "source": "金十数据",
@@ -193,26 +229,15 @@
           "time_info": "[12时36分 ~ 13时21分]"
         },
         {
-          "title": "出口被卡,日本忙搞稀土自救",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348861&amp;topic_name=%E5%87%BA%E5%8F%A3%E8%A2%AB%E5%8D%A1%2C%E6%97%A5%E6%9C%AC%E5%BF%99%E6%90%9E%E7%A8%80%E5%9C%9F%E8%87%AA%E6%95%91",
-          "source": "贴吧",
+          "title": "中国出口管制对日本影响有多大",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "消息人士称，中方正研究收紧对日稀土出口许可审查，可能会怎样收紧？会对日本哪些行业带来影响？",
-          "url": "https://www.zhihu.com/question/1991992752011964451",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时28分 ~ 17时25分]"
         },
         {
           "title": "日本、美国周三就投资倡议举行会议。",
@@ -266,7 +291,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -288,7 +313,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -324,7 +349,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -363,17 +388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 14时28分]"
-        },
-        {
-          "title": "中国出口管制对日本影响有多大",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 16时25分]"
         },
         {
           "title": "日本12月家庭消费者信心指数 37.2，预期 37.8，前值 37.5。",
@@ -442,7 +456,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -475,7 +489,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -637,8 +651,20 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "白银提前大跳水？彭博商品指数再平衡“倒计时” 一文了解将发生什么",
+          "url": "https://www.cls.cn/detail/2251693",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时25分]"
+        },
         {
           "title": "现货白银十五分钟下跌近1美元，报77.56美元/盎司，日跌幅0.8%。",
           "url": "https://flash.jin10.com/detail/20260108084733211800",
@@ -720,6 +746,28 @@
           "time_info": "[04时20分 ~ 05时16分]"
         },
         {
+          "title": "汇丰银行：受地缘政治风险和财政债务上升影响，黄金价格或在2026年上半年触及5000美元/盎司；交易波动性水平可能较高。",
+          "url": "https://flash.jin10.com/detail/20260108171213389800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "国投白银LOF：本基金二级市场价格的高溢价率不具备可持续性",
+          "url": "https://wallstreetcn.com/livenews/3033167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "现货白银跌1.3%，报77.17美元/盎司。现货黄金跌0.64%，报4428美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3032953",
           "source": "华尔街见闻-快讯",
@@ -730,17 +778,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 14时28分]"
-        },
-        {
-          "title": "白银提前大跳水？彭博商品指数再平衡“倒计时” 一文了解将发生什么",
-          "url": "https://www.cls.cn/detail/2251693",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         },
         {
           "title": "金十图示：2026年01月08日（周四）白银ETF持仓报告",
@@ -765,6 +802,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "金价暴涨年轻人改买“道具黄金”",
+          "url": "https://www.toutiao.com/trending/7592498286850998299/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时25分]"
         },
         {
           "title": "高盛：极端的白银价格波动将持续存在，既可能上涨，也可能下跌，并建议厌恶波动性的客户保持谨慎。我们仍认为美国对白银征贸易税的可能性不大。",
@@ -812,17 +861,6 @@
           "time_info": "14时28分"
         },
         {
-          "title": "金价暴涨年轻人改买“道具黄金”",
-          "url": "https://www.toutiao.com/trending/7592498286850998299/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
           "title": "现货白银跌势不止 下破76美元关口",
           "url": "https://flash.jin10.com/detail/20260108133910610800",
           "source": "金十数据",
@@ -832,6 +870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "数字人民币App上线“碳普惠”服务 “碳积分”兑换“真金白银”",
+          "url": "https://wallstreetcn.com/livenews/3033133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "现货白银日内跌幅扩大至2.00%，现报76.5美元/盎司。",
@@ -848,7 +897,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -859,8 +908,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时18分 ~ 16时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时18分 ~ 17时25分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -898,6 +947,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "美股军工股盘前普涨，雷神技术盘前涨超5%，洛克希德马丁涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3033169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
@@ -1036,18 +1096,19 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
           "url": "https://wallstreetcn.com/articles/3762755",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 17时25分]"
         },
         {
           "title": "商务部回应审查Meta收购Manus",
@@ -1056,9 +1117,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时25分]"
         },
         {
           "title": "商务部回应审查Meta收购Manus：企业从事对外投资等活动须符合中国法律法规",
@@ -1072,26 +1133,40 @@
           "time_info": "15时22分"
         },
         {
+          "title": "商务部回应审查Meta收购Manus：企业从事对外投资等活动须符合中国法律法规",
+          "url": "https://www.cls.cn/detail/2251725",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时25分]"
+        },
+        {
           "title": "商务部将对Meta收购Manus开展调查",
           "url": "https://www.toutiao.com/trending/7592886681217273353/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时25分]"
         },
         {
           "title": "商务部回应审查Meta收购Manus",
           "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E5%AE%A1%E6%9F%A5Meta%E6%94%B6%E8%B4%ADManus",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时25分]"
         },
         {
           "title": "时隔七年 谷歌市值重新超越苹果",
@@ -1130,15 +1205,15 @@
           "time_info": "[14时28分 ~ 15时22分]"
         },
         {
-          "title": "商务部回应审查Meta收购Manus：企业从事对外投资等活动须符合中国法律法规",
-          "url": "https://www.cls.cn/detail/2251725",
-          "source": "财联社热门",
+          "title": "商务部回应审查Meta收购Manus",
+          "url": "https://www.douyin.com/hot/2361030",
+          "source": "抖音",
           "ranks": [
-            13
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "商务部回应审查Meta收购Manus",
@@ -1147,7 +1222,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -1166,7 +1241,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -1227,11 +1302,23 @@
           "ranks": [
             17,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 16时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 17时25分]"
+        },
+        {
+          "title": "广州：到2035年引育一批智能装备与机器人骨干企业，产业规模达到3000亿级",
+          "url": "https://wallstreetcn.com/livenews/3033164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "Arm成立物理AI部门 机器人市场再迎“新玩家”",
@@ -1299,7 +1386,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         }
@@ -1386,6 +1473,19 @@
           "time_info": "[00时24分 ~ 09时19分]"
         },
         {
+          "title": "为什么大家偏爱微信支付，而不是支付宝？",
+          "url": "https://www.zhihu.com/question/5556788861",
+          "source": "知乎",
+          "ranks": [
+            19,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 17时25分]"
+        },
+        {
           "title": "微信辟谣“好友太多会被封”",
           "url": "https://www.toutiao.com/trending/7592147684362862611/",
           "source": "今日头条",
@@ -1395,18 +1495,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时22分 ~ 06时17分]"
-        },
-        {
-          "title": "为什么大家偏爱微信支付，而不是支付宝？",
-          "url": "https://www.zhihu.com/question/5556788861",
-          "source": "知乎",
-          "ranks": [
-            19,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时25分]"
         },
         {
           "title": "微信辟谣网传新规则",
