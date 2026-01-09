@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T15:22:53.790849+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-01-09T16:24:50.717977+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "日本若被断稀土，3个月或损失数百亿",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 15时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 16时24分]"
         },
         {
           "title": "出口被卡,日本忙搞稀土自救",
@@ -51,11 +51,12 @@
             3,
             7,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 16时24分]"
         },
         {
           "title": "中国出口管制对日本影响有多大",
@@ -117,6 +118,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "俄精准断供材料,日本产业被反杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348910&amp;topic_name=%E4%BF%84%E7%B2%BE%E5%87%86%E6%96%AD%E4%BE%9B%E6%9D%90%E6%96%99%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E8%A2%AB%E5%8F%8D%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "30年期日本国债收益率跌4个基点，至3.405%。",
           "url": "https://flash.jin10.com/detail/20260109140301715800",
           "source": "金十数据",
@@ -126,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "日本交涉被拒,中方驳回不惯着",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348923&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%A4%E6%B6%89%E8%A2%AB%E6%8B%92%2C%E4%B8%AD%E6%96%B9%E9%A9%B3%E5%9B%9E%E4%B8%8D%E6%83%AF%E7%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "日本内阁官房长官木原稔：意大利总理梅洛尼将于1月15日至17日访问日本。",
@@ -420,7 +443,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -453,7 +476,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -499,6 +522,17 @@
           "time_info": "[00时23分 ~ 06时17分]"
         },
         {
+          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时18分 ~ 16时24分]"
+        },
+        {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2252232",
           "source": "财联社热门",
@@ -524,17 +558,6 @@
           "time_info": "[07时15分 ~ 15时22分]"
         },
         {
-          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时18分 ~ 15时22分]"
-        },
-        {
           "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
           "url": "https://wallstreetcn.com/articles/3762888",
           "source": "华尔街见闻",
@@ -543,8 +566,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 16时24分]"
         },
         {
           "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -708,7 +731,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -757,8 +780,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 16时24分]"
         },
         {
           "title": "贵金属继续调整！白银跌超3%，重要商品指数再平衡今日开启",
@@ -796,6 +819,17 @@
           "time_info": "14时27分"
         },
         {
+          "title": "现货白银、纽约期银短线走高",
+          "url": "https://flash.jin10.com/detail/20260109160859086800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加115.6吨，当前持仓量为16215.43吨。欢迎点击查看数据中心...",
           "url": "https://flash.jin10.com/detail/20260109064954225800",
           "source": "金十数据",
@@ -825,7 +859,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -947,7 +981,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1115,7 +1149,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1240,11 +1274,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 16时24分]"
         },
         {
           "title": "我的宝藏美妆被抖音pick了",
@@ -1252,11 +1287,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 16时24分]"
         },
         {
           "title": "朋友圈长按微信头像可以设置权限",
