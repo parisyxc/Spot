@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T07:15:40.287058+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-01-09T09:18:59.721020+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -26,11 +26,35 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
+          "url": "https://www.cls.cn/detail/2252454",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时18分]"
+        },
+        {
+          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -39,18 +63,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
-          "url": "https://www.cls.cn/detail/2252454",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -193,8 +206,184 @@
       ]
     },
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "日本若被断稀土，3个月或损失数百亿",
+          "url": "https://news.ifeng.com/c/8pkFTuFIPeG",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
+        },
+        {
+          "title": "出口被卡,日本忙搞稀土自救",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348861&amp;topic_name=%E5%87%BA%E5%8F%A3%E8%A2%AB%E5%8D%A1%2C%E6%97%A5%E6%9C%AC%E5%BF%99%E6%90%9E%E7%A8%80%E5%9C%9F%E8%87%AA%E6%95%91",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
+        },
+        {
+          "title": "消息人士称，中方正研究收紧对日稀土出口许可审查，可能会怎样收紧？会对日本哪些行业带来影响？",
+          "url": "https://www.zhihu.com/question/1991992752011964451",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
+        },
+        {
+          "title": "中国出口管制对日本影响有多大",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时22分 ~ 09时18分]"
+        },
+        {
+          "title": "中国掐住日本军事扩张的“命门”",
+          "url": "https://www.toutiao.com/trending/7591694385467228203/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：意大利总理梅洛尼将于1月15日至17日访问日本。",
+          "url": "https://flash.jin10.com/detail/20260109085447332800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：意大利总理梅洛尼1月15日至17日将访问日本。日本食品出口保持顺畅很重要。",
+          "url": "https://wallstreetcn.com/livenews/3033643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本变得越来越危险",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%98%E5%BE%97%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%8D%B1%E9%99%A9%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "韩国总统李在明将于1月13日至14日访问日本。",
+          "url": "https://wallstreetcn.com/livenews/3033637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "市场消息：韩国总统李在明将于1月13日至14日访问日本。",
+          "url": "https://flash.jin10.com/detail/20260109082205612800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本10年期国债收益率上行0.5BP至2.08%。",
+          "url": "https://wallstreetcn.com/livenews/3033626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "俄继续揭露日本战争罪行 外交部回应",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BB%A7%E7%BB%AD%E6%8F%AD%E9%9C%B2%E6%97%A5%E6%9C%AC%E6%88%98%E4%BA%89%E7%BD%AA%E8%A1%8C+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "中国稀土断供或致日本GDP下降",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E6%96%AD%E4%BE%9B%E6%88%96%E8%87%B4%E6%97%A5%E6%9C%ACGDP%E4%B8%8B%E9%99%8D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本12月外汇储备 13698亿美元，前值13594亿美元。",
+          "url": "https://flash.jin10.com/detail/20260109075002469800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "花旗计划在日本进行“重大”投资和招聘。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3033617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -215,11 +404,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
         },
         {
           "title": "白银锡铜集体下挫，上期所限手数调费率最快今晚生效，有色回调序幕开启？",
@@ -239,11 +429,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时15分]"
+          "appearance_count": 3,
+          "time_info": "[06时17分 ~ 09时18分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月9日（周五）早盘盘初上涨0.58%报1002.0元/克；<br/>上海黄金交易所白银T+D 1月9日（周五）早盘盘初下跌3.12%报18486.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260109090055213800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加115.6吨，当前持仓量为16215.43吨。欢迎点击查看数据中心...",
@@ -252,7 +454,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -269,6 +471,17 @@
           "time_info": "[06时17分 ~ 07时15分]"
         },
         {
+          "title": "现货白银跌破76美元/盎司，日内跌1.26%。",
+          "url": "https://flash.jin10.com/detail/20260109082616547800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 1月8日（周四）晚盘收盘上涨0.34%报999.53元/克；<br/>上海黄金交易所白银T+D 1月8日（周四）晚盘收盘下跌3.49%报18415.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260109023114424800",
           "source": "金十数据",
@@ -283,7 +496,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "商务部回应审查Meta收购Manus",
@@ -329,22 +542,46 @@
             19,
             27,
             26,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 07时15分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 09时18分]"
         },
         {
           "title": "商务部回应审查Meta收购Manus",
           "url": "https://search.bilibili.com/all?keyword=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E5%AE%A1%E6%9F%A5Meta%E6%94%B6%E8%B4%ADManus",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时18分]"
+        },
+        {
+          "title": "英伟达聘请谷歌资深员工Alison Wagonfeld担任首任首席营销官。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3033635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "09时18分"
+        },
+        {
+          "title": "据华尔街日报：英伟达(NVDA.O)聘请谷歌资深人士Alison Wagonfeld担任其首位首席营销官。",
+          "url": "https://flash.jin10.com/detail/20260109082131770800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
@@ -359,7 +596,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -410,73 +647,8 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "日本若被断稀土，3个月或损失数百亿",
-          "url": "https://news.ifeng.com/c/8pkFTuFIPeG",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时15分]"
-        },
-        {
-          "title": "出口被卡,日本忙搞稀土自救",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348861&amp;topic_name=%E5%87%BA%E5%8F%A3%E8%A2%AB%E5%8D%A1%2C%E6%97%A5%E6%9C%AC%E5%BF%99%E6%90%9E%E7%A8%80%E5%9C%9F%E8%87%AA%E6%95%91",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时15分]"
-        },
-        {
-          "title": "消息人士称，中方正研究收紧对日稀土出口许可审查，可能会怎样收紧？会对日本哪些行业带来影响？",
-          "url": "https://www.zhihu.com/question/1991992752011964451",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时17分]"
-        },
-        {
-          "title": "中国出口管制对日本影响有多大",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时22分 ~ 07时15分]"
-        },
-        {
-          "title": "俄继续揭露日本战争罪行 外交部回应",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BB%A7%E7%BB%AD%E6%8F%AD%E9%9C%B2%E6%97%A5%E6%9C%AC%E6%88%98%E4%BA%89%E7%BD%AA%E8%A1%8C+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
@@ -514,6 +686,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时24分]"
+        },
+        {
+          "title": "研究机构Omdia：中国企业在2025年全球人形机器人出货量中占据主导，远超美国企业",
+          "url": "https://wallstreetcn.com/livenews/3033618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "欧盟责令X平台保存聊天机器人数据至年底",
@@ -569,11 +752,12 @@
             13,
             12,
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
         }
       ]
     },
