@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T04:19:00.296132+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-01-12T05:15:38.337625+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时15分]"
         },
         {
           "title": "日本朝野各党加速选举准备，高市早苗避谈解散众议院",
@@ -28,8 +28,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时15分]"
         },
         {
           "title": "俄精准断供材料,日本产业被反杀",
@@ -39,8 +39,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时15分]"
         },
         {
           "title": "日本交涉被拒,中方驳回不惯着",
@@ -50,8 +50,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时15分]"
         }
       ]
     },
@@ -65,11 +65,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时15分]"
         },
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
@@ -77,11 +78,43 @@
           "source": "金十数据",
           "ranks": [
             2,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "专题片剖析唐仁健案：组建“周末愉快”微信群，每到周末就召老板们吃喝",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32364047",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时15分]"
+        },
+        {
+          "title": "贪官建周末愉快微信群聚会吃喝",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%AA%E5%AE%98%E5%BB%BA%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%E5%BE%AE%E4%BF%A1%E7%BE%A4%E8%81%9A%E4%BC%9A%E5%90%83%E5%96%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     },
@@ -97,8 +130,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时15分]"
         }
       ]
     },
@@ -121,26 +154,6 @@
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "专题片剖析唐仁健案：组建“周末愉快”微信群，每到周末就召老板们吃喝",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32364047",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时19分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "太空经济",
       "match_count": 1,
       "titles": [
@@ -150,11 +163,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 05时15分]"
         }
       ]
     }
