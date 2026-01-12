@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T06:16:06.226616+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-01-13T07:14:33.948653+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -177,7 +178,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -188,7 +189,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -218,7 +219,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -236,11 +237,12 @@
           "url": "https://wallstreetcn.com/articles/3762924",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
@@ -248,22 +250,34 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
-          "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
-          "url": "https://wallstreetcn.com/livenews/3035583",
-          "source": "华尔街见闻-快讯",
+          "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "07时14分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
+          "url": "https://www.cls.cn/detail/2255541",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "美股集体低开 中概股逆势走强",
@@ -283,7 +297,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -300,15 +314,38 @@
           "time_info": "[05时17分 ~ 06时16分]"
         },
         {
+          "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
+          "url": "https://wallstreetcn.com/livenews/3035583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时14分]"
+        },
+        {
           "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260113050522045800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "周一（1月12日，非农次日），降息赢家指数跌0.52%，报106.72点，鲍威尔被美国总统特朗普的司法部刑事调查之后跳空低开，美股早盘跌幅收窄，大部分时间“高位”震荡。 “特朗普关税输家”指数跳空低开之后收涨0.26%，报119.72点，盘后特朗普宣布与伊朗相关的关税。 “特朗普金融指数”跌1.83%，报175.98点，特朗普信用卡利率消息造成跳空低开，全天呈现出宽底U形走势。 散户抱团概念股指数/迷因股（meme stock）指数涨0.14%，报16.69点。",
+          "url": "https://wallstreetcn.com/livenews/3035592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "金十图示：2026年01月12日（周一）热门中概股行情一览（美股收盘）",
@@ -317,9 +354,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨3.73%，报388.50点，继续创历史新高，盘初迅速拉升，剩余时间持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.52%，报2711.76点，北京时间22:30美股开盘之前维持微幅上涨状态——持稳于2630点附近、随后“跳空”至2700点上方。 （美股）原材料指数涨1.57%，报249.00点。 （美股）金属与矿业指数涨1.79%，报235.72点。",
+          "url": "https://wallstreetcn.com/livenews/3035591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股盘中）",
@@ -342,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "美股小盘股创七年来对大盘股最长连胜记录",
+          "url": "https://flash.jin10.com/detail/20260113060720442800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "行业ETF美股盘初普跌",
@@ -368,8 +427,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "微信通知显示头像",
@@ -382,8 +441,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "2025抖音年度爆款剧综公布",
@@ -395,8 +454,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "轧戏抖音追剧团",
@@ -407,11 +466,12 @@
             16,
             14,
             17,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "全抖音帮你春节不被骗",
@@ -421,11 +481,12 @@
             30,
             23,
             20,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "微信通知能显示好友头像了",
@@ -449,11 +510,12 @@
           "url": "https://news.ifeng.com/c/8pqzcww1ile",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "日媒称高市早苗或解散众议院提前大选，原因有哪些？她会成为日本最短命的首相之一吗？",
@@ -464,8 +526,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "日本第一代“不婚族”开始后悔了",
@@ -475,11 +537,12 @@
             10,
             8,
             17,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "郭正亮：日本敢强来中国大陆就硬干",
@@ -491,8 +554,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "据日经新闻：三井物产将推出日本首批飞机及船舶数字证券。",
@@ -500,6 +563,58 @@
           "source": "金十数据",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "白银期货涨超6.9%，一度刷新历史高位，接近85美元",
+          "url": "https://wallstreetcn.com/livenews/3035588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时14分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月12日（周一）晚盘收盘上涨0.77%报1026.8元/克；<br/>上海黄金交易所白银T+D 1月12日（周一）晚盘收盘上涨4.68%报21260.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260113023029501800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时20分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加39.47吨，当前持仓量为16347.95吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260113064901139800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "纽约银日内涨幅达8.5%，报86.11美元/盎司。 现货白银日内涨幅达7.5%，报85.91美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3035460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -548,46 +663,6 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "白银期货涨超6.9%，一度刷新历史高位，接近85美元",
-          "url": "https://wallstreetcn.com/livenews/3035588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 1月12日（周一）晚盘收盘上涨0.77%报1026.8元/克；<br/>上海黄金交易所白银T+D 1月12日（周一）晚盘收盘上涨4.68%报21260.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260113023029501800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时20分]"
-        },
-        {
-          "title": "纽约银日内涨幅达8.5%，报86.11美元/盎司。 现货白银日内涨幅达7.5%，报85.91美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3035460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 1,
       "titles": [
@@ -598,7 +673,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         }
