@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T17:28:50.019908+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-01-12T18:21:53.315566+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时46分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[12时46分 ~ 18时21分]"
         },
         {
           "title": "现货黄金、现货白银小幅高开，分别上涨0.2%和0.7%。WTI原油上涨0.03%。",
@@ -41,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时21分 ~ 09时22分]"
-        },
-        {
-          "title": "【国投白银LOF：1月13日开市起至当日10:30停牌】国投瑞银基金管理有限公司公告，公司旗下国投瑞银白银期货证券投资基金（LOF）A类基金份额（场内简称：国投白银LOF；交易代码：161226）二级市场交易价格波动较大，请投资者密切关注基金份额净值。为保护投资者利益，本基金将于2026年1月13日开市起至当日10:30停牌，自2026年1月13日10:30复牌。",
-          "url": "https://wallstreetcn.com/livenews/3035154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "现货白银上涨5%至83.93美元/盎司，创历史新高。",
@@ -126,20 +115,33 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "【国投白银LOF：1月13日开市起至当日10:30停牌】国投瑞银基金管理有限公司公告，公司旗下国投瑞银白银期货证券投资基金（LOF）A类基金份额（场内简称：国投白银LOF；交易代码：161226）二级市场交易价格波动较大，请投资者密切关注基金份额净值。为保护投资者利益，本基金将于2026年1月13日开市起至当日10:30停牌，自2026年1月13日10:30复牌。",
+          "url": "https://wallstreetcn.com/livenews/3035154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
         },
         {
           "title": "国投白银LOF：后续本基金管理人将调整A类基金份额申购限额",
           "url": "https://wallstreetcn.com/livenews/3035136",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
         },
         {
           "title": "现货白银突破84美元/盎司，日内涨约5.5%，现报84.30美元/盎司，续创历史新高。",
@@ -205,7 +207,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -267,142 +269,8 @@
       ]
     },
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 17时28分]"
-        },
-        {
-          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时45分 ~ 16时26分]"
-        },
-        {
-          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
-          "url": "https://wallstreetcn.com/livenews/3035153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "特朗普呼吁将信用卡利率上限设定为10%，美股银行股盘前下跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%。",
-          "url": "https://flash.jin10.com/detail/20260112170610560800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "美股期货走低，标普500指数期货跌0.6%，纳指期货跌0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3035046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "美股盘前，热门中概股走强，金山云(KC.O)涨13%、阿里巴巴(BABA.N)涨4.4%、百度(BIDU.O)涨3%。",
-          "url": "https://flash.jin10.com/detail/20260112170224589800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "美股盘前，明星科技股普跌，英伟达(NVDA.O)跌1.2%、谷歌C(GOOG.O)跌0.95%、甲骨文(ORCL.N)跌1.7%、英特尔(INTC.O)跌2%。",
-          "url": "https://flash.jin10.com/detail/20260112170114771800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "A股券商、金融科技股异动拉升，太平洋触及涨停，同花顺涨超7%，指南针、华林证券、天风证券、哈投股份等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3034937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时46分]"
-        },
-        {
-          "title": "港股收盘：恒生科技收涨3.10%，科技股、AI应用概念股表现强势",
-          "url": "https://wallstreetcn.com/livenews/3035115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "稳定币 日本",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "日本造船巨头并购，能追赶中韩吗",
@@ -477,6 +345,17 @@
           "time_info": "[12时46分 ~ 14时31分]"
         },
         {
+          "title": "为摆脱对华稀土依赖，日本派船出海探查海底稀土",
+          "url": "https://news.ifeng.com/c/8pqzcww1ile",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
           "title": "机构：日本首相考虑提前大选，市场担忧宽松政策延续",
           "url": "https://flash.jin10.com/detail/20260112161507040800",
           "source": "金十数据",
@@ -486,17 +365,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
-        },
-        {
-          "title": "为摆脱对华稀土依赖，日本派船出海探查海底稀土",
-          "url": "https://news.ifeng.com/c/8pqzcww1ile",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "日本“第一代不婚族”死后无人收尸",
@@ -530,6 +398,152 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "日本第一代“不婚族”开始后悔了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E2%80%9C%E4%B8%8D%E5%A9%9A%E6%97%8F%E2%80%9D%E5%BC%80%E5%A7%8B%E5%90%8E%E6%82%94%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时21分 ~ 18时21分]"
+        },
+        {
+          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时16分]"
+        },
+        {
+          "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时45分 ~ 16时26分]"
+        },
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
+          "title": "特朗普呼吁将信用卡利率上限设定为10%，美股银行股盘前下跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260112170610560800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "美股期货走低，标普500指数期货跌0.6%，纳指期货跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3035046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "美股盘前，热门中概股走强，金山云(KC.O)涨13%、阿里巴巴(BABA.N)涨4.4%、百度(BIDU.O)涨3%。",
+          "url": "https://flash.jin10.com/detail/20260112170224589800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "美股盘前，明星科技股普跌，英伟达(NVDA.O)跌1.2%、谷歌C(GOOG.O)跌0.95%、甲骨文(ORCL.N)跌1.7%、英特尔(INTC.O)跌2%。",
+          "url": "https://flash.jin10.com/detail/20260112170114771800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
+          "url": "https://wallstreetcn.com/livenews/3035153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
+          "title": "A股券商、金融科技股异动拉升，太平洋触及涨停，同花顺涨超7%，指南针、华林证券、天风证券、哈投股份等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3034937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时46分]"
+        },
+        {
+          "title": "港股收盘：恒生科技收涨3.10%，科技股、AI应用概念股表现强势",
+          "url": "https://wallstreetcn.com/livenews/3035115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     },
@@ -571,11 +585,12 @@
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时28分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 18时21分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
@@ -604,7 +619,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "专题片剖析唐仁健案：组建“周末愉快”微信群，每到周末就召老板们吃喝",
@@ -619,8 +634,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 17时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时19分 ~ 18时21分]"
         },
         {
           "title": "微信通知显示头像",
@@ -629,9 +644,20 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
+          "title": "全抖音帮你春节不被骗",
+          "url": "https://www.douyin.com/hot/2365276",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "18时21分"
         },
         {
           "title": "贪官建周末愉快微信群聚会吃喝",
@@ -651,11 +677,12 @@
           "url": "https://www.douyin.com/hot/2365426",
           "source": "抖音",
           "ranks": [
-            30
+            30,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
         }
       ]
     },
@@ -697,11 +724,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时21分]"
         },
         {
           "title": "能量奇点研制出20特斯拉纯导冷结构高温超导磁体",
@@ -713,6 +741,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“木头姐”预言：特朗普政府将很快开始采购比特币，建立国家储备！",
+          "url": "https://www.cls.cn/detail/2254447",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "人形机器人供应商新剑传动冲刺IPO 丝杠产业化提速？",
+          "url": "https://www.cls.cn/detail/2254812",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
