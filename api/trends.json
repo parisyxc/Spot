@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T14:28:04.571690+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-01-13T15:22:34.100143+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "为摆脱对华稀土依赖，日本派船出海探查海底稀土",
@@ -97,6 +97,20 @@
           "time_info": "[12时37分 ~ 13时22分]"
         },
         {
+          "title": "日本餐厅墙壁内藏尸 店铺正常经营",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%A2%99%E5%A3%81%E5%86%85%E8%97%8F%E5%B0%B8+%E5%BA%97%E9%93%BA%E6%AD%A3%E5%B8%B8%E7%BB%8F%E8%90%A5",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 15时22分]"
+        },
+        {
           "title": "据日经新闻：三井物产将推出日本首批飞机及船舶数字证券。",
           "url": "https://flash.jin10.com/detail/20260113005631248800",
           "source": "金十数据",
@@ -119,17 +133,6 @@
           "time_info": "13时22分"
         },
         {
-          "title": "日本10年期国债收益率上行7BP至2.16%。",
-          "url": "https://wallstreetcn.com/livenews/3035856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
           "title": "日本12月经济观察家现况指数 48.6，预期48.7，前值48.7。",
           "url": "https://flash.jin10.com/detail/20260113130010691800",
           "source": "金十数据",
@@ -147,7 +150,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -169,22 +172,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
-        },
-        {
-          "title": "日本餐厅墙壁内藏尸 店铺正常经营",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%A2%99%E5%A3%81%E5%86%85%E8%97%8F%E5%B0%B8+%E5%BA%97%E9%93%BA%E6%AD%A3%E5%B8%B8%E7%BB%8F%E8%90%A5",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 14时28分]"
         },
         {
           "title": "日本经济财政大臣城内实：目前日本经济尚未达到可以宣布摆脱通缩状态的程度。",
@@ -193,7 +183,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -204,7 +194,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -215,7 +205,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -230,6 +220,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时37分 ~ 13时22分]"
+        },
+        {
+          "title": "日本10年期国债收益率上行7BP至2.16%。",
+          "url": "https://wallstreetcn.com/livenews/3035856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时22分]"
         },
         {
           "title": "日本12月经济观察家现况指数 48.6，预期 48.7，前值 48.7。",
@@ -298,7 +300,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -331,7 +333,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -342,9 +344,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "日本经济团体联合会筒井义信：日元的疲软程度有些过度。 日本股市的上涨反映了全球趋势。",
+          "url": "https://wallstreetcn.com/livenews/3035877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "日本20年期、30年期国债收益率大涨，受日本或提前举行大选的报道影响",
@@ -356,6 +369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "10年期日本国债收益率继续走高，上涨7个基点至2.160%。",
+          "url": "https://flash.jin10.com/detail/20260113140548693800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "瑞银集团CEO：日本市场重现乐观情绪。扩大在日本的核心业务。",
@@ -426,6 +450,294 @@
       ]
     },
     {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 15时22分]"
+        },
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时15分]"
+        },
+        {
+          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2255551",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 14时28分]"
+        },
+        {
+          "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
+          "url": "https://www.cls.cn/detail/2255512",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 14时28分]"
+        },
+        {
+          "title": "苹果联姻谷歌意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E8%81%94%E5%A7%BB%E8%B0%B7%E6%AD%8C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "苹果接入Gemini模型想做啥",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
+          "url": "https://flash.jin10.com/detail/20260113001246569800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司：与苹果进入一份多年合作协议。 新款苹果基础模型将建立在谷歌Gemini基础之上。 模型将有助于支持未来的苹果智能功能。",
+          "url": "https://wallstreetcn.com/livenews/3035456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "扎克伯格宣布成立Meta Compute，将由Santosh Janardhan和Daniel Gross主导",
+          "url": "https://wallstreetcn.com/livenews/3035511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时18分]"
+        },
+        {
+          "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
+          "url": "https://flash.jin10.com/detail/20260113001151493800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
+          "url": "https://flash.jin10.com/detail/20260113024637591800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时20分]"
+        },
+        {
+          "title": "iPhone官宣接入Gemini",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5Gemini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时28分]"
+        },
+        {
+          "title": "据彭博BloombergNEF估算：根据与Meta Platforms达成的协议，下一代核能公司Oklo和TerraPower需要在（众多）新核反应堆投资超过140亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3035526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时20分]"
+        },
+        {
+          "title": "Meta下跌1%，消息面上Meta公司拟成立“Meta Compute”计划，以构建千兆瓦级算力。",
+          "url": "https://flash.jin10.com/detail/20260113024247215800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时20分]"
+        },
+        {
+          "title": "Meta拟削减元宇宙团队投入 节省资金转向VR眼镜业务",
+          "url": "https://flash.jin10.com/detail/20260113044634106800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时16分]"
+        },
+        {
+          "title": "Meta Platforms计划在Reality Labs业务裁员大约10%。 该公司料将在本周宣布裁员计划。 Meta打算将部分VR产品资金调拨到可穿戴设备。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3035560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时16分]"
+        },
+        {
+          "title": "据《纽约时报》：Meta Platforms(META.O)计划在Reality Labs裁员约10%。",
+          "url": "https://flash.jin10.com/detail/20260113043224846800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
+          "url": "https://wallstreetcn.com/livenews/3035441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "马斯克：（谈及苹果与谷歌的合作）鉴于谷歌还拥有安卓和Chrome，这似乎是对谷歌权力的不合理集中。",
+          "url": "https://flash.jin10.com/detail/20260113030706645800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "投资公司Wedbush表示，2026年将成为苹果的关键之年。届时苹果将推出全新的Siri、达成与谷歌Gemini的新交易，并发布全新的iPhone 18系列。",
+          "url": "https://wallstreetcn.com/livenews/3035440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "声明显示，巴西反垄断机构CADE就Meta旗下WhatsApp商业解决方案的相关条款对其展开调查。",
+          "url": "https://flash.jin10.com/detail/20260113051006831800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "美国在线家居零售商Wayfair与谷歌合作，推动以人工智能驱动的家居购物。",
+          "url": "https://flash.jin10.com/detail/20260113050153642800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
+          "url": "https://wallstreetcn.com/livenews/3035425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "谷歌C(GOOG.O)短线上扬，现涨0.5%，苹果(AAPL.O)选择谷歌(GOOG.O)的Gemini来驱动今年推出的人工智能Siri。",
+          "url": "https://flash.jin10.com/detail/20260112232350979800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 23,
       "titles": [
@@ -448,8 +760,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时14分 ~ 14时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 15时22分]"
         },
         {
           "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
@@ -692,273 +1004,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 09时15分]"
-        },
-        {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时14分 ~ 14时28分]"
-        },
-        {
-          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2255551",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时14分 ~ 14时28分]"
-        },
-        {
-          "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
-          "url": "https://www.cls.cn/detail/2255512",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 14时28分]"
-        },
-        {
-          "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
-          "url": "https://flash.jin10.com/detail/20260113001246569800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
-        },
-        {
-          "title": "Alphabet旗下谷歌公司：与苹果进入一份多年合作协议。 新款苹果基础模型将建立在谷歌Gemini基础之上。 模型将有助于支持未来的苹果智能功能。",
-          "url": "https://wallstreetcn.com/livenews/3035456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
-        },
-        {
-          "title": "扎克伯格宣布成立Meta Compute，将由Santosh Janardhan和Daniel Gross主导",
-          "url": "https://wallstreetcn.com/livenews/3035511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时18分]"
-        },
-        {
-          "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
-          "url": "https://flash.jin10.com/detail/20260113001151493800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
-        },
-        {
-          "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
-          "url": "https://flash.jin10.com/detail/20260113024637591800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时20分]"
-        },
-        {
-          "title": "iPhone官宣接入Gemini",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 14时28分]"
-        },
-        {
-          "title": "据彭博BloombergNEF估算：根据与Meta Platforms达成的协议，下一代核能公司Oklo和TerraPower需要在（众多）新核反应堆投资超过140亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3035526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时20分]"
-        },
-        {
-          "title": "Meta下跌1%，消息面上Meta公司拟成立“Meta Compute”计划，以构建千兆瓦级算力。",
-          "url": "https://flash.jin10.com/detail/20260113024247215800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时20分]"
-        },
-        {
-          "title": "Meta拟削减元宇宙团队投入 节省资金转向VR眼镜业务",
-          "url": "https://flash.jin10.com/detail/20260113044634106800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
-          "title": "Meta Platforms计划在Reality Labs业务裁员大约10%。 该公司料将在本周宣布裁员计划。 Meta打算将部分VR产品资金调拨到可穿戴设备。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3035560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
-          "title": "据《纽约时报》：Meta Platforms(META.O)计划在Reality Labs裁员约10%。",
-          "url": "https://flash.jin10.com/detail/20260113043224846800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
-          "url": "https://wallstreetcn.com/livenews/3035441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "马斯克：（谈及苹果与谷歌的合作）鉴于谷歌还拥有安卓和Chrome，这似乎是对谷歌权力的不合理集中。",
-          "url": "https://flash.jin10.com/detail/20260113030706645800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "投资公司Wedbush表示，2026年将成为苹果的关键之年。届时苹果将推出全新的Siri、达成与谷歌Gemini的新交易，并发布全新的iPhone 18系列。",
-          "url": "https://wallstreetcn.com/livenews/3035440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "声明显示，巴西反垄断机构CADE就Meta旗下WhatsApp商业解决方案的相关条款对其展开调查。",
-          "url": "https://flash.jin10.com/detail/20260113051006831800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "美国在线家居零售商Wayfair与谷歌合作，推动以人工智能驱动的家居购物。",
-          "url": "https://flash.jin10.com/detail/20260113050153642800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
-          "url": "https://wallstreetcn.com/livenews/3035425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "谷歌C(GOOG.O)短线上扬，现涨0.5%，苹果(AAPL.O)选择谷歌(GOOG.O)的Gemini来驱动今年推出的人工智能Siri。",
-          "url": "https://flash.jin10.com/detail/20260112232350979800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 1月13日（周二）早盘盘初上涨0.47%报1023.83元/克；<br/>上海黄金交易所白银T+D 1月13日（周二）早盘盘初上涨3.5%报21021.0元/千克。",
@@ -970,6 +1017,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "黄金白银直线跳水",
+          "url": "https://www.douyin.com/hot/2366141",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "白银期货涨超6.9%，一度刷新历史高位，接近85美元",
@@ -1047,8 +1105,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 14时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 15时22分]"
         },
         {
           "title": "微信通知显示头像",
@@ -1076,8 +1134,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 14时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 15时22分]"
         },
         {
           "title": "轧戏抖音追剧团",
@@ -1092,8 +1150,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 14时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 15时22分]"
         },
         {
           "title": "全抖音帮你春节不被骗",
@@ -1108,8 +1166,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 14时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 15时22分]"
         },
         {
           "title": "微信通知能显示好友头像了",
@@ -1167,11 +1225,12 @@
           "url": "https://www.cls.cn/detail/2255695",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 15时22分]"
         },
         {
           "title": "OpenAI收购医疗保健初创公司Torch",
