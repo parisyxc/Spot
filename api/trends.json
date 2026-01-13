@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T13:22:51.769345+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-01-13T14:28:04.571690+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 27,
+      "match_count": 36,
       "titles": [
         {
           "title": "为摆脱对华稀土依赖，日本派船出海探查海底稀土",
@@ -114,9 +114,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "日本10年期国债收益率上行7BP至2.16%。",
+          "url": "https://wallstreetcn.com/livenews/3035856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "日本12月经济观察家现况指数 48.6，预期48.7，前值48.7。",
@@ -125,9 +136,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：外汇汇率由多种因素决定，长期利率也由市场上的各种因素决定，不能说财政政策单独决定市场走势。",
+          "url": "https://flash.jin10.com/detail/20260113135056591800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "前日本央行委员：日元疲软或促使央行最早4月加息",
@@ -141,26 +163,61 @@
           "time_info": "11时25分"
         },
         {
-          "title": "日本12月经济观察家现况指数 48.6，预期 48.7，前值 48.7。",
-          "url": "https://wallstreetcn.com/livenews/3035813",
-          "source": "华尔街见闻-快讯",
+          "title": "日本经济财政大臣城内实：我们需要仔细考量包括工资增长可持续性在内的各种因素，以确保日本不会重回通货紧缩。",
+          "url": "https://flash.jin10.com/detail/20260113135038427800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "日本餐厅墙壁内藏尸 店铺正常经营",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%A2%99%E5%A3%81%E5%86%85%E8%97%8F%E5%B0%B8+%E5%BA%97%E9%93%BA%E6%AD%A3%E5%B8%B8%E7%BB%8F%E8%90%A5",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 14时28分]"
+        },
+        {
+          "title": "日本经济财政大臣城内实：目前日本经济尚未达到可以宣布摆脱通缩状态的程度。",
+          "url": "https://flash.jin10.com/detail/20260113134902719800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "14时28分"
         },
         {
-          "title": "日本12月经济观察家前景指数 50.5，预期 50.2，前值 50.3。",
-          "url": "https://wallstreetcn.com/livenews/3035812",
+          "title": "日本经济财政大臣城内实：目前日本经济尚未达到可以宣布摆脱通缩状态的程度。 我们需要仔细观察包括工资增长可持续性等各种因素，以确保日本不会再次陷入通缩。",
+          "url": "https://wallstreetcn.com/livenews/3035848",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "14时28分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：日本首相高市早苗政府的负责任、积极的政策兼顾了财政纪律，绝不意味着肆意支出。",
+          "url": "https://flash.jin10.com/detail/20260113134143446800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "日本首相高市早苗有意宣布提前大选",
@@ -175,6 +232,30 @@
           "time_info": "[12时37分 ~ 13时22分]"
         },
         {
+          "title": "日本12月经济观察家现况指数 48.6，预期 48.7，前值 48.7。",
+          "url": "https://wallstreetcn.com/livenews/3035813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时28分]"
+        },
+        {
+          "title": "日本12月经济观察家前景指数 50.5，预期 50.2，前值 50.3。",
+          "url": "https://wallstreetcn.com/livenews/3035812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时28分]"
+        },
+        {
           "title": "日本央行前委员：日元疲软或促使央行在4月加息",
           "url": "https://wallstreetcn.com/livenews/3035783",
           "source": "华尔街见闻-快讯",
@@ -185,18 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时37分 ~ 13时22分]"
-        },
-        {
-          "title": "日本餐厅墙壁内藏尸 店铺正常经营",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%A2%99%E5%A3%81%E5%86%85%E8%97%8F%E5%B0%B8+%E5%BA%97%E9%93%BA%E6%AD%A3%E5%B8%B8%E7%BB%8F%E8%90%A5",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 13时22分]"
         },
         {
           "title": "日本急寻稀土替代难在哪儿",
@@ -223,6 +292,17 @@
           "time_info": "[12时37分 ~ 13时22分]"
         },
         {
+          "title": "日本首相高市早苗：希望在2026年将日韩关系提升到新高度。",
+          "url": "https://wallstreetcn.com/livenews/3035841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "日本10年期国债收益率上升4.5个基点至2.135%，创1999年2月以来新高。",
           "url": "https://flash.jin10.com/detail/20260113085211132800",
           "source": "金十数据",
@@ -243,6 +323,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "韩国总统李在明在与日本首相高市早苗的会谈中评论，韩日合作比以往任何时候都更加重要。",
+          "url": "https://wallstreetcn.com/livenews/3035839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：需争取在议会中尽早通过2026年财政预算案。",
+          "url": "https://flash.jin10.com/detail/20260113131640750800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "日本20年期、30年期国债收益率大涨，受日本或提前举行大选的报道影响",
@@ -339,6 +441,30 @@
           "time_info": "[00时22分 ~ 06时16分]"
         },
         {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 14时28分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
+          "url": "https://www.cls.cn/detail/2255541",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时14分 ~ 14时28分]"
+        },
+        {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
           "url": "https://wallstreetcn.com/articles/3762924",
           "source": "华尔街见闻",
@@ -362,30 +488,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时22分 ~ 09时15分]"
-        },
-        {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 13时22分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
-          "url": "https://www.cls.cn/detail/2255541",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时14分 ~ 13时22分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
@@ -615,8 +717,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 13时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 14时28分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -628,8 +730,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 13时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 14时28分]"
         },
         {
           "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
@@ -641,8 +743,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 14时28分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -705,6 +807,18 @@
           "time_info": "[03时18分 ~ 04时20分]"
         },
         {
+          "title": "iPhone官宣接入Gemini",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5Gemini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时28分]"
+        },
+        {
           "title": "据彭博BloombergNEF估算：根据与Meta Platforms达成的协议，下一代核能公司Oklo和TerraPower需要在（众多）新核反应堆投资超过140亿美元。",
           "url": "https://wallstreetcn.com/livenews/3035526",
           "source": "华尔街见闻-快讯",
@@ -751,17 +865,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
-          "title": "iPhone官宣接入Gemini",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "据《纽约时报》：Meta Platforms(META.O)计划在Reality Labs裁员约10%。",
@@ -940,11 +1043,12 @@
             1,
             5,
             6,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 13时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 14时28分]"
         },
         {
           "title": "微信通知显示头像",
@@ -972,8 +1076,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 13时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 14时28分]"
         },
         {
           "title": "轧戏抖音追剧团",
@@ -988,8 +1092,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 13时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 14时28分]"
         },
         {
           "title": "全抖音帮你春节不被骗",
@@ -1004,8 +1108,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 13时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 14时28分]"
         },
         {
           "title": "微信通知能显示好友头像了",
@@ -1022,7 +1126,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
@@ -1057,6 +1161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时16分]"
+        },
+        {
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
         },
         {
           "title": "OpenAI收购医疗保健初创公司Torch",
