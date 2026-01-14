@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T14:28:11.951704+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-01-14T15:22:37.499837+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时20分 ~ 14时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时20分 ~ 15时22分]"
         },
         {
           "title": "李在明访问日本！高市早苗尖声喊“您好”，又行90度鞠躬礼迎接",
@@ -41,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 14时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 15时22分]"
         },
         {
           "title": "日本女市长与下属开房辞职后再当选",
@@ -278,7 +278,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "花旗预测三个月内金价达5000美元",
@@ -414,6 +414,17 @@
           "time_info": "[12时43分 ~ 13时21分]"
         },
         {
+          "title": "金价暴涨下谁在赚钱",
+          "url": "https://www.toutiao.com/trending/7595070385364667930/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少26.79吨，当前持仓量为16321.16吨。欢迎点击查看数据中心",
           "url": "https://flash.jin10.com/detail/20260114064942677800",
           "source": "金十数据",
@@ -475,7 +486,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -532,6 +543,17 @@
           "time_info": "[07时16分 ~ 14时28分]"
         },
         {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时20分 ~ 15时22分]"
+        },
+        {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
           "url": "https://wallstreetcn.com/articles/3763167",
           "source": "华尔街见闻",
@@ -544,17 +566,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 06时18分]"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时20分 ~ 14时28分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -671,93 +682,8 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "重要突破！我国首台海底地层空间钻探与监测机器人研发成功",
-          "url": "https://www.cls.cn/detail/2256891",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时20分 ~ 14时28分]"
-        },
-        {
-          "title": "美通胀降温未改降息预期，摩根大通领跌金融股，日元跌至159，比特币年内新高",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
-        },
-        {
-          "title": "重要突破！我国首台海底地层空间钻探与监测机器人研发成功",
-          "url": "https://wallstreetcn.com/livenews/3036449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨4.6%，刷新期内高位至4259点上方，北京时间12:00以来平滑地持续走高。 MarketVectorTM数字资产100中盘指数涨3.69%，刷新期内高位至3892点上方。 MarketVector数字资产100指数涨1.8%，报19415.75点。 目前，Solana涨2.31%，狗狗币涨4.25%，XRP涨2.23%。 此外，比特币涨3%，刷新日高至93720美元上方，以太坊涨超3.1%，持稳于日高3194.160美元附近。",
-          "url": "https://wallstreetcn.com/livenews/3036317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时26分]"
-        },
-        {
-          "title": "智元机器人“机械手”专利获授权 人形机器人产业发展加速",
-          "url": "https://www.cls.cn/detail/2256908",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时28分]"
-        },
-        {
-          "title": "海关总署：2025年我国成为工业机器人的净出口国",
-          "url": "https://wallstreetcn.com/livenews/3036598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "机器人大脑60年进化史",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%84%9160%E5%B9%B4%E8%BF%9B%E5%8C%96%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -766,11 +692,12 @@
           "ranks": [
             8,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 14时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 15时22分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -822,6 +749,17 @@
           "time_info": "[14时27分 ~ 14时28分]"
         },
         {
+          "title": "Meta将裁员超1000人",
+          "url": "https://www.douyin.com/hot/2366971",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "报道：Meta启动裁员，战略中心从元宇宙转向AI设备",
           "url": "https://wallstreetcn.com/livenews/3036272",
           "source": "华尔街见闻-快讯",
@@ -835,8 +773,94 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "重要突破！我国首台海底地层空间钻探与监测机器人研发成功",
+          "url": "https://www.cls.cn/detail/2256891",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时20分 ~ 15时22分]"
+        },
+        {
+          "title": "美通胀降温未改降息预期，摩根大通领跌金融股，日元跌至159，比特币年内新高",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "重要突破！我国首台海底地层空间钻探与监测机器人研发成功",
+          "url": "https://wallstreetcn.com/livenews/3036449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨4.6%，刷新期内高位至4259点上方，北京时间12:00以来平滑地持续走高。 MarketVectorTM数字资产100中盘指数涨3.69%，刷新期内高位至3892点上方。 MarketVector数字资产100指数涨1.8%，报19415.75点。 目前，Solana涨2.31%，狗狗币涨4.25%，XRP涨2.23%。 此外，比特币涨3%，刷新日高至93720美元上方，以太坊涨超3.1%，持稳于日高3194.160美元附近。",
+          "url": "https://wallstreetcn.com/livenews/3036317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时26分]"
+        },
+        {
+          "title": "智元机器人“机械手”专利获授权 人形机器人产业发展加速",
+          "url": "https://www.cls.cn/detail/2256908",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时22分]"
+        },
+        {
+          "title": "海关总署：2025年我国成为工业机器人的净出口国",
+          "url": "https://wallstreetcn.com/livenews/3036598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "机器人大脑60年进化史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%84%9160%E5%B9%B4%E8%BF%9B%E5%8C%96%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。 纳斯达克生物科技指数收涨0.02%，报5775.48点。 费城半导体指数收涨0.95%，报7747.993点。 费城证交所KBW银行指数收跌1.26%，报166.87点，1月6日涨至172.98点创盘中历史新高以来逐步回撤。 道琼斯KBW地区银行指数收跌0.59%，报126.85点。",
@@ -848,6 +872,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "韩国2025年半导体出口额达1735亿美元 创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3036746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "恒生科技指数涨超1%。阿里健康涨超10%，华虹半导体、快手涨超5%。",
@@ -864,7 +899,7 @@
     },
     {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特斯拉高管朱晓彤获超52万股期权",
@@ -876,6 +911,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 11时44分]"
+        },
+        {
+          "title": "马斯克：特斯拉将于2月14日之后停止销售FSD一次性买断方案，此后，FSD将仅以月度订阅方式提供。",
+          "url": "https://flash.jin10.com/detail/20260114143258552800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "特斯拉计划就加州工厂种族骚扰案与监管机构进行和解谈判",
@@ -892,7 +938,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2025抖音十大人气男女角色",
@@ -905,11 +951,23 @@
             14,
             18,
             19,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 14时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 15时22分]"
+        },
+        {
+          "title": "抖音首播KPL",
+          "url": "https://www.douyin.com/hot/2367317",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         }
       ]
     }
