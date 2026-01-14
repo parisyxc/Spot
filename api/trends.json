@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T16:24:36.867181+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-01-14T17:25:33.795825+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "又玩老把戏？日本防卫相见美印太司令，图谋“以美制华”",
@@ -42,8 +42,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 16时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 17时25分]"
         },
         {
           "title": "日本女市长与下属开房辞职后再当选",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "日元逼近政府上次出手干预汇市的水平 日本财务大臣再度发出警告",
+          "url": "https://flash.jin10.com/detail/20260114170712801800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "30年期日本国债收益率上升3.5个基点，至3.515%。",
@@ -249,7 +260,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -276,13 +287,24 @@
           "time_info": "11时44分"
         },
         {
+          "title": "日本财务大臣片山皋月：与美国财长贝森特就外汇问题进行了深入交流。 外汇应当反映基本面。 9日出现的外汇突然波动并未反映基本面。 不会排除任何外汇应对手段。 将对外汇采取适当应对措施。",
+          "url": "https://wallstreetcn.com/livenews/3036829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "日本租客死后2个月房内又现腐尸",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A7%9F%E5%AE%A2%E6%AD%BB%E5%90%8E2%E4%B8%AA%E6%9C%88%E6%88%BF%E5%86%85%E5%8F%88%E7%8E%B0%E8%85%90%E5%B0%B8%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -301,7 +323,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "花旗预测三个月内金价达5000美元",
@@ -430,11 +452,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时25分]"
         },
         {
           "title": "现货白银站上91美元/盎司，日内涨4.7%。",
@@ -447,6 +470,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时21分]"
+        },
+        {
+          "title": "国投白银LOF：1月15日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3036849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少26.79吨，当前持仓量为16321.16吨。欢迎点击查看数据中心",
@@ -540,7 +574,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -550,8 +584,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 16时24分]"
+          "appearance_count": 11,
+          "time_info": "[09时20分 ~ 17时25分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -636,6 +670,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "携程(TCOM.O)美股盘前下跌7.3%。",
+          "url": "https://flash.jin10.com/detail/20260114170230347800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美国总统特朗普赞赏美股的表现。",
           "url": "https://wallstreetcn.com/livenews/3036366",
           "source": "华尔街见闻-快讯",
@@ -658,6 +703,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时20分]"
+        },
+        {
+          "title": "携程美股盘前下跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3036845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美国CPI发布日+华尔街大行拉开季度财报序幕之际，标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。",
@@ -763,6 +819,17 @@
           "time_info": "[02时26分 ~ 06时18分]"
         },
         {
+          "title": "Meta将裁员超1000人",
+          "url": "https://www.douyin.com/hot/2366971",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 17时25分]"
+        },
+        {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
           "url": "https://www.zhihu.com/question/1994310970621859099",
           "source": "知乎",
@@ -774,26 +841,16 @@
           "time_info": "[14时27分 ~ 14时28分]"
         },
         {
-          "title": "Meta将裁员超1000人",
-          "url": "https://www.douyin.com/hot/2366971",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
           "url": "https://www.zhihu.com/question/1994425649616671736",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时25分]"
         },
         {
           "title": "报道：Meta启动裁员，战略中心从元宇宙转向AI设备",
@@ -837,6 +894,18 @@
           "time_info": "[07时16分 ~ 07时17分]"
         },
         {
+          "title": "智元机器人“机械手”专利获授权 人形机器人产业发展加速",
+          "url": "https://www.cls.cn/detail/2256908",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时43分 ~ 17时25分]"
+        },
+        {
           "title": "重要突破！我国首台海底地层空间钻探与监测机器人研发成功",
           "url": "https://wallstreetcn.com/livenews/3036449",
           "source": "华尔街见闻-快讯",
@@ -846,17 +915,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "智元机器人“机械手”专利获授权 人形机器人产业发展加速",
-          "url": "https://www.cls.cn/detail/2256908",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 16时24分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨4.6%，刷新期内高位至4259点上方，北京时间12:00以来平滑地持续走高。 MarketVectorTM数字资产100中盘指数涨3.69%，刷新期内高位至3892点上方。 MarketVector数字资产100指数涨1.8%，报19415.75点。 目前，Solana涨2.31%，狗狗币涨4.25%，XRP涨2.23%。 此外，比特币涨3%，刷新日高至93720美元上方，以太坊涨超3.1%，持稳于日高3194.160美元附近。",
@@ -877,7 +935,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -949,7 +1007,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         }
@@ -996,7 +1054,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "2025抖音十大人气男女角色",
@@ -1010,22 +1068,35 @@
             18,
             19,
             20,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 15时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 17时25分]"
         },
         {
           "title": "抖音首播KPL",
           "url": "https://www.douyin.com/hot/2367317",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 17时25分]"
+        },
+        {
+          "title": "建议关闭微信的支付后摇一摇功能",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%85%B3%E9%97%AD%E5%BE%AE%E4%BF%A1%E7%9A%84%E6%94%AF%E4%BB%98%E5%90%8E%E6%91%87%E4%B8%80%E6%91%87%E5%8A%9F%E8%83%BD&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "17时25分"
         }
       ]
     }
