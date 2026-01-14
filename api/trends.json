@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T20:36:21.072497+08:00",
-  "total_titles_processed": 1898,
+  "generated_at": "2026-01-14T21:38:13.545269+08:00",
+  "total_titles_processed": 2021,
   "failed_sources": [],
   "trends": [
     {
@@ -70,17 +70,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
-        },
-        {
-          "title": "日本公明党与立宪民主党将商讨组建新政党。（朝日新闻）",
-          "url": "https://wallstreetcn.com/livenews/3037022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "日元逼近政府上次出手干预汇市的水平 日本财务大臣再度发出警告",
@@ -159,6 +148,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "日本公明党与立宪民主党将商讨组建新政党。（朝日新闻）",
+          "url": "https://wallstreetcn.com/livenews/3037022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时38分]"
         },
         {
           "title": "日本1月路透短观非制造业景气判断指数 32，前值33。",
@@ -351,7 +352,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -425,7 +426,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "花旗预测三个月内金价达5000美元",
@@ -455,6 +456,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时17分 ~ 20时36分]"
+        },
+        {
+          "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
+          "url": "https://wallstreetcn.com/articles/3763245",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "现货白银日内涨幅达2.00%，现报88.68美元/盎司。",
@@ -503,13 +515,24 @@
           "time_info": "[00时25分 ~ 06时18分]"
         },
         {
+          "title": "现货白银站上92美元/盎司，日内涨近6%。",
+          "url": "https://wallstreetcn.com/livenews/3037061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 1月14日（周三）晚盘盘初上涨0.34%报1037.0元/克；<br/>上海黄金交易所白银T+D 1月14日（周三）晚盘盘初上涨2.44%报22888.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260114200730347800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -686,6 +709,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "现货白银日内涨幅达5.5%，报91.73美元/盎司；纽约银日内涨幅达6.0%，报91.57美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3037041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "白银首次站上90美元",
           "url": "https://www.toutiao.com/trending/7595046202534530586/",
           "source": "今日头条",
@@ -711,7 +745,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -721,8 +755,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时20分 ~ 20时36分]"
+          "appearance_count": 17,
+          "time_info": "[09时20分 ~ 21时38分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -796,6 +830,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "花旗集团：第四季度FICC销售与交易收入为34.6亿美元，市场预期为32.9亿美元。 第四季度股票销售与交易收入为10.8亿美元，市场预期为11.6亿美元。 第四季度银行业务收入为22.1亿美元，市场预期为20亿美元。 第四季度投行业务收入为12.7亿美元。 第四季度总收入为198.7亿美元；每股收益为1.19美元。 花旗美股盘前一度涨0.5%，现跌超1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3037064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "金融业ETF收跌超1.9%，领跌美股行业ETF，标普能源板块涨超1.5%",
           "url": "https://wallstreetcn.com/livenews/3036413",
           "source": "华尔街见闻-快讯",
@@ -860,7 +905,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1171,7 +1216,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         }
@@ -1191,8 +1236,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时36分]"
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 21时38分]"
         },
         {
           "title": "标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。 纳斯达克生物科技指数收涨0.02%，报5775.48点。 费城半导体指数收涨0.95%，报7747.993点。 费城证交所KBW银行指数收跌1.26%，报166.87点，1月6日涨至172.98点创盘中历史新高以来逐步回撤。 道琼斯KBW地区银行指数收跌0.59%，报126.85点。",
