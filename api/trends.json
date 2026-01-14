@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T03:17:37.382450+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-01-15T04:18:11.893398+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时18分]"
+        },
+        {
+          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时27分 ~ 04时18分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -32,18 +44,6 @@
           "time_info": "[00时24分 ~ 01时24分]"
         },
         {
-          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时17分]"
-        },
-        {
           "title": "美股集体低开 携程跌近17%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
           "source": "百度热搜",
@@ -51,8 +51,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "据知情人士透露，摩根大通考虑从美国高评级债券市场融资大约50亿美元，这将是本轮财报季以来华尔街大行第一单美元债融资。（彭博）",
@@ -102,6 +102,130 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
+          "url": "https://flash.jin10.com/detail/20260115041052630800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
+          "url": "https://wallstreetcn.com/livenews/3037274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3037234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时17分]"
+        },
+        {
+          "title": "据华尔街日报：OpenAI将在三年内从初创公司Cerebras购买多达750兆瓦的算力。",
+          "url": "https://flash.jin10.com/detail/20260115040115164800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI与初创公司Cerebras达成计算合作，OpenAI将使用Cerebras设计的芯片为ChatGPT提供动力。OpenAI与Cerebras的交易价值超过100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115040037235800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
+          "url": "https://wallstreetcn.com/articles/3763245",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时18分]"
+        },
+        {
+          "title": "现货白银日内涨幅达7.0%，报93.1美元/盎司。 纽约银日内涨幅达8.0%，报93.38美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3037277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "现货白银日内暴涨7.00%，突破93美元/盎司，再创新高。",
+          "url": "https://flash.jin10.com/detail/20260115040930692800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "现货白银日内涨幅达6.5%，报92.58美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3037264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时18分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月14日（周三）晚盘收盘上涨0.34%报1037.0元/克；<br/>上海黄金交易所白银T+D 1月14日（周三）晚盘收盘上涨4.01%报23240.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260115023141701800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 3,
       "titles": [
@@ -114,8 +238,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，科技板块跌超1.8%，可选消费板块跌1.7%，电信板块跌1.2%，能源板块涨1.8%。 道指跌267点跌超0.5%，纳指跌348点跌幅1.5%，半导体指数跌1.5%，银行指数跌1.2%。",
@@ -152,11 +276,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -176,46 +301,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
-          "url": "https://wallstreetcn.com/articles/3763245",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时17分]"
-        },
-        {
-          "title": "现货白银日内涨幅达6.5%，报92.58美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3037264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 1月14日（周三）晚盘收盘上涨0.34%报1037.0元/克；<br/>上海黄金交易所白银T+D 1月14日（周三）晚盘收盘上涨4.01%报23240.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260115023141701800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "03时17分"
         }
@@ -231,11 +317,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "英国央行副行长：或将像银行存款一样保护稳定币",
@@ -280,24 +367,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3037234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 1,
       "titles": [
@@ -309,8 +378,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时27分 ~ 04时18分]"
         }
       ]
     },
