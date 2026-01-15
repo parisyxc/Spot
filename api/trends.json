@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T06:18:47.973832+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-01-16T07:17:35.355606+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -38,11 +38,23 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
+        },
+        {
+          "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，美元站上99关口，金银微跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -68,15 +80,15 @@
           "time_info": "05时18分"
         },
         {
-          "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
-          "url": "https://wallstreetcn.com/livenews/3038227",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2259656",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "07时17分"
         },
         {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
@@ -97,7 +109,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -114,15 +126,28 @@
           "time_info": "[05时18分 ~ 06时18分]"
         },
         {
+          "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
+          "url": "https://wallstreetcn.com/livenews/3038227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
           "title": "航空业ETF收涨约2.3%，和半导体ETF领跑美股行业ETF，标普能源板块跌0.9%",
           "url": "https://wallstreetcn.com/livenews/3038225",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "房利美和房地美股价下跌9%，跌至盘中低点。",
@@ -147,6 +172,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "（美股）费城金银指数收涨0.36%，报394.75点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.18%，报2762.08点，也继续创收盘历史新高，北京时间22:30美股开盘之前主要维持微跌状态、持稳于2750点上方，之后跳水至2718.19点，03:24刷新日高至2775点上方。 （美股）原材料指数涨0.13%，报252.76点。 （美股）金属与矿业指数涨0.65%，报244.57点。",
+          "url": "https://wallstreetcn.com/livenews/3038238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "金十图示：2026年01月15日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260116013016089800",
           "source": "金十数据",
@@ -167,12 +203,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "英伟达收涨超2.1%，领跑美国科技股七巨头，台积电涨超4.4%创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3038226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "媒体：日本两大在野党联手对抗高市",
@@ -198,19 +245,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时18分]"
-        },
-        {
-          "title": "日本与意大利将围绕太空开发合作问题达成共识。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3038236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "appearance_count": 4,
+          "time_info": "[04时20分 ~ 07时17分]"
         },
         {
           "title": "据The Kobeissi Letter：2025年，日本的黄金储备达到了创纪录的1200亿美元，较上年增长了60%。目前，黄金储备占日本总储备资产的比例为9%，自2022年以来已增长了一倍多。",
@@ -272,6 +308,18 @@
           "time_info": "[05时18分 ~ 06时18分]"
         },
         {
+          "title": "日本与意大利将围绕太空开发合作问题达成共识。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3038236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
           "title": "人民日报钟声：三问日本，撕开其所谓“和平国家”的假面",
           "url": "https://m.thepaper.cn/newsDetail_forward_32388410",
           "source": "澎湃新闻",
@@ -281,6 +329,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时30分]"
+        },
+        {
+          "title": "日媒：日本央行回避声援鲍威尔 或因担心激怒特朗普",
+          "url": "https://flash.jin10.com/detail/20260116062339252800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
@@ -296,8 +355,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "【焦点复盘】创业板指低开高走涨0.56%，两市成交额跌破3万亿，半导体、算力硬件股卷土重来",
@@ -342,7 +401,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -361,7 +420,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -371,8 +430,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少180.44吨，当前持仓量为16061.78吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260116070322371800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "金价",
@@ -391,11 +461,12 @@
           "url": "https://wallstreetcn.com/livenews/3038234",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "水贝有白银商家爆雷，多名商户损失数万到数十万元，警方已介入",
@@ -436,8 +507,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -488,11 +559,12 @@
             8,
             9,
             12,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "全球人形机器人市场将迎爆发式增长 投资者如何抢先布局？一文剖析",
@@ -534,7 +606,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -545,11 +617,12 @@
             22,
             21,
             14,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
@@ -562,6 +635,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 02时31分]"
+        },
+        {
+          "title": "谷歌母公司 Alphabet 的市值正式突破 4 万亿美元，其在这波 AI 浪潮中做对了什么？",
+          "url": "https://www.zhihu.com/question/1994345893202191645",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     }
