@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T04:20:49.380008+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-01-16T05:18:49.436891+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时18分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时18分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -41,8 +41,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时18分]"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260116050523142800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260116050517374800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
+          "url": "https://flash.jin10.com/detail/20260116050146912800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -53,8 +86,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 05时18分]"
         },
         {
           "title": "房利美和房地美股价下跌9%，跌至盘中低点。",
@@ -104,7 +137,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "媒体：日本两大在野党联手对抗高市",
@@ -117,8 +150,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时18分]"
+        },
+        {
+          "title": "日本11月所持美国国债增至1.203万亿美元，之前为1.2万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3038219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "据The Kobeissi Letter：2025年，日本的黄金储备达到了创纪录的1200亿美元，较上年增长了60%。目前，黄金储备占日本总储备资产的比例为9%，自2022年以来已增长了一倍多。",
@@ -132,6 +176,29 @@
           "time_info": "00时30分"
         },
         {
+          "title": "人民日报钟声三问日本",
+          "url": "https://www.douyin.com/hot/2368142",
+          "source": "抖音",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时18分]"
+        },
+        {
+          "title": "中国11月减持美债 日本增持",
+          "url": "https://flash.jin10.com/detail/20260116050328025800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
           "title": "日本首相高市早苗与意大利总理梅洛尼就太空垃圾清除达成协议。",
           "url": "https://flash.jin10.com/detail/20260115234211901800",
           "source": "金十数据",
@@ -141,17 +208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "人民日报钟声三问日本",
-          "url": "https://www.douyin.com/hot/2368142",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
         },
         {
           "title": "聂卫平曾连胜多位日本超一流棋手",
@@ -191,8 +247,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时18分]"
         },
         {
           "title": "【焦点复盘】创业板指低开高走涨0.56%，两市成交额跌破3万亿，半导体、算力硬件股卷土重来",
@@ -203,8 +259,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时18分]"
         },
         {
           "title": "报告：AI推动半导体行业营收在2026年首次突破1万亿美元",
@@ -237,7 +293,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         }
@@ -257,8 +313,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时18分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -308,8 +364,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时18分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时31分 ~ 05时18分]"
         },
         {
           "title": "水贝有白银商家爆雷，多名商户损失数万到数十万元，警方已介入",
@@ -322,17 +390,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 02时31分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 04时20分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月15日（周四）晚盘收盘上涨0.18%报1032.78元/克；<br/>上海黄金交易所白银T+D 1月15日（周四）晚盘收盘上涨1.99%报23054.0元/千克。",
@@ -349,7 +406,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
@@ -359,11 +416,12 @@
             7,
             8,
             9,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时18分]"
         },
         {
           "title": "全球人形机器人市场将迎爆发式增长 投资者如何抢先布局？一文剖析",
@@ -389,6 +447,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 02时31分]"
+        },
+        {
+          "title": "据华尔街日报：与马斯克生子的网红Ashley St. Clair因Grok聊天机器人照片起诉xAI，寻求禁令防止Grok利用人工智能创造深度伪像。",
+          "url": "https://flash.jin10.com/detail/20260116044537613800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     },
@@ -407,8 +476,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时18分]"
         },
         {
           "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
