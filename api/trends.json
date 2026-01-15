@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T05:18:49.436891+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-01-16T06:18:47.973832+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -41,41 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时18分]"
-        },
-        {
-          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260116050523142800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "金十图示：2026年01月15日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260116050517374800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
-          "url": "https://flash.jin10.com/detail/20260116050146912800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -86,8 +53,76 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时21分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[03时21分 ~ 06时18分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
+          "url": "https://flash.jin10.com/detail/20260116050146912800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
+          "url": "https://wallstreetcn.com/livenews/3038227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260116050523142800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时18分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周四（1月15日），美国科技股七巨头（Magnificent 7）指数涨0.21%，报205.20点，跳空高开之后，至北京时间03:00高位震荡、之后持续回落并四度转跌。 “超大”市值科技股指数涨0.20%，报392.34点，跳空高开之后高位持稳，03:00开始逐步回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3038226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260116050517374800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时18分]"
+        },
+        {
+          "title": "航空业ETF收涨约2.3%，和半导体ETF领跑美股行业ETF，标普能源板块跌0.9%",
+          "url": "https://wallstreetcn.com/livenews/3038225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "房利美和房地美股价下跌9%，跌至盘中低点。",
@@ -137,7 +172,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "媒体：日本两大在野党联手对抗高市",
@@ -147,22 +182,35 @@
             14,
             19,
             25,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
-          "title": "日本11月所持美国国债增至1.203万亿美元，之前为1.2万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3038219",
+          "title": "人民日报钟声三问日本",
+          "url": "https://www.douyin.com/hot/2368142",
+          "source": "抖音",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时18分]"
+        },
+        {
+          "title": "日本与意大利将围绕太空开发合作问题达成共识。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3038236",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "06时18分"
         },
         {
           "title": "据The Kobeissi Letter：2025年，日本的黄金储备达到了创纪录的1200亿美元，较上年增长了60%。目前，黄金储备占日本总储备资产的比例为9%，自2022年以来已增长了一倍多。",
@@ -176,16 +224,18 @@
           "time_info": "00时30分"
         },
         {
-          "title": "人民日报钟声三问日本",
-          "url": "https://www.douyin.com/hot/2368142",
-          "source": "抖音",
+          "title": "聂卫平曾连胜多位日本超一流棋手",
+          "url": "https://search.bilibili.com/all?keyword=%E8%81%82%E5%8D%AB%E5%B9%B3%E6%9B%BE%E8%BF%9E%E8%83%9C%E5%A4%9A%E4%BD%8D%E6%97%A5%E6%9C%AC%E8%B6%85%E4%B8%80%E6%B5%81%E6%A3%8B%E6%89%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            8
+            23,
+            27,
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "中国11月减持美债 日本增持",
@@ -194,7 +244,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -210,17 +260,16 @@
           "time_info": "00时30分"
         },
         {
-          "title": "聂卫平曾连胜多位日本超一流棋手",
-          "url": "https://search.bilibili.com/all?keyword=%E8%81%82%E5%8D%AB%E5%B9%B3%E6%9B%BE%E8%BF%9E%E8%83%9C%E5%A4%9A%E4%BD%8D%E6%97%A5%E6%9C%AC%E8%B6%85%E4%B8%80%E6%B5%81%E6%A3%8B%E6%89%8B",
-          "source": "bilibili 热搜",
+          "title": "日本11月所持美国国债增至1.203万亿美元，之前为1.2万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3038219",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23,
-            27,
-            26
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时18分]"
         },
         {
           "title": "人民日报钟声：三问日本，撕开其所谓“和平国家”的假面",
@@ -237,7 +286,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国白宫宣布对特定半导体等加征25%关税",
@@ -247,8 +296,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "【焦点复盘】创业板指低开高走涨0.56%，两市成交额跌破3万亿，半导体、算力硬件股卷土重来",
@@ -259,8 +308,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "报告：AI推动半导体行业营收在2026年首次突破1万亿美元",
@@ -287,6 +336,17 @@
           "time_info": "[02时31分 ~ 04时20分]"
         },
         {
+          "title": "标普500指数收涨17.87点，涨幅0.26%，报6944.47点。 道琼斯工业平均指数收涨292.81点，涨幅0.60%，报49442.44点。 纳斯达克综合指数（纳指）收涨58.272点，涨幅0.25%，报23530.022点。 纳斯达克100指数收涨81.131点，涨幅0.32%，报25547.075点。 纳斯达克生物科技指数收跌1.40%，报5759.67点。 费城半导体指数收涨1.76%，报7837.298点，时隔一个交易日再创收盘历史新高。 费城证交所KBW银行指数收涨1.66%，报168.47点。 道琼斯KBW地区银行指数收涨1.91%，报130.94点，持稳于2022年1月18日所创盘中历史最高位140.11点附近。",
+          "url": "https://wallstreetcn.com/livenews/3038212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "美国商务部长卢特尼克：台积电(TSM.N)在建设美国产能的同时，可以进口更多半导体和晶圆。",
           "url": "https://flash.jin10.com/detail/20260116032329554800",
           "source": "金十数据",
@@ -296,6 +356,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价彻底杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时18分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时31分 ~ 06时18分]"
+        },
+        {
+          "title": "现货白银跌0.8%，亚太盘初曾刷新历史高位至93.75美元上方",
+          "url": "https://wallstreetcn.com/livenews/3038234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "水贝有白银商家爆雷，多名商户损失数万到数十万元，警方已介入",
+          "url": "https://wallstreetcn.com/livenews/3038138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时31分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月15日（周四）晚盘收盘上涨0.18%报1032.78元/克；<br/>上海黄金交易所白银T+D 1月15日（周四）晚盘收盘上涨1.99%报23054.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260116023106081800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     },
@@ -313,8 +436,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -349,58 +472,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价彻底杀疯了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时18分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时31分 ~ 05时18分]"
-        },
-        {
-          "title": "水贝有白银商家爆雷，多名商户损失数万到数十万元，警方已介入",
-          "url": "https://wallstreetcn.com/livenews/3038138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时31分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 1月15日（周四）晚盘收盘上涨0.18%报1032.78元/克；<br/>上海黄金交易所白银T+D 1月15日（周四）晚盘收盘上涨1.99%报23054.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260116023106081800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
         }
       ]
     },
@@ -455,7 +526,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
@@ -473,11 +544,12 @@
             10,
             22,
             21,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
