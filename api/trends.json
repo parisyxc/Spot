@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T09:15:47.002581+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-01-17T11:20:02.867958+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,35 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 11时20分]"
+        },
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 11时20分]"
+        },
+        {
+          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时20分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -68,29 +92,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时17分 ~ 09时15分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 09时15分]"
-        },
-        {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
         },
         {
           "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
@@ -178,7 +179,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -193,6 +194,18 @@
           "time_info": "[00时23分 ~ 07时18分]"
         },
         {
+          "title": "白银逐步奔向 100 美元，供需矛盾无解，会像华尔街说的那样，奔向 200 美元，300 美元吗？",
+          "url": "https://www.zhihu.com/question/1994669414923129914",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时20分]"
+        },
+        {
           "title": "水贝有白银商家爆雷，多名商户损失数万到数十万元，警方已介入",
           "url": "https://wallstreetcn.com/articles/3763410",
           "source": "华尔街见闻",
@@ -204,37 +217,27 @@
           "time_info": "[00时23分 ~ 01时21分]"
         },
         {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加11.28吨，当前持仓量为16073.06吨。欢迎点击查看数据中心",
-          "url": "https://flash.jin10.com/detail/20260117090003780800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "白银逐步奔向 100 美元，供需矛盾无解，会像华尔街说的那样，奔向 200 美元，300 美元吗？",
-          "url": "https://www.zhihu.com/question/1994669414923129914",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
           "title": "白银暴涨，光伏流泪",
           "url": "https://wallstreetcn.com/articles/3763442",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时20分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加11.28吨，当前持仓量为16073.06吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260117090003780800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 11时20分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，COMEX黄金投机客将净多头头寸增加了12,292手，达到136,548手，COMEX白银投机客将净多头头寸减少了2,613手，至15,045手。",
@@ -261,6 +264,17 @@
           "time_info": "[03时18分 ~ 04时18分]"
         },
         {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：1月13日当周，投机者所持COMEX黄金净多头头寸增加12,292手合约，至136,548手合约，创三周新高。 所持COMEX白银净多头头寸降低至15,045手合约，创逾22个月新低。 所持COMEX铜净多头头寸减少至62,175手合约，创七周新低。 所持NYMEX铂金净多头头寸增至7,536手合约，所持NYMEX钯金净多头头寸降低至198手合约。",
           "url": "https://wallstreetcn.com/livenews/3038996",
           "source": "华尔街见闻-快讯",
@@ -275,7 +289,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "与美国战争部长练体能，日本防卫大臣出现脱水症状",
@@ -314,6 +328,28 @@
           "time_info": "[05时17分 ~ 07时18分]"
         },
         {
+          "title": "日本网帖煽动对高考考生性骚扰",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%B8%96%E7%85%BD%E5%8A%A8%E5%AF%B9%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E6%80%A7%E9%AA%9A%E6%89%B0",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时20分]"
+        },
+        {
+          "title": "美军一架 F-35A 战斗机在日本近海消失，曾发出紧急情况 7700 代码，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/1995580476212082609",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
           "title": "中方批日本加速推进再军事化",
           "url": "https://www.toutiao.com/trending/7595854571856216100/",
           "source": "今日头条",
@@ -325,26 +361,16 @@
           "time_info": "00时23分"
         },
         {
-          "title": "日本网帖煽动对高考考生性骚扰",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%B8%96%E7%85%BD%E5%8A%A8%E5%AF%B9%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E6%80%A7%E9%AA%9A%E6%89%B0",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
           "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
           "url": "https://wallstreetcn.com/livenews/3039057",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 11时20分]"
         },
         {
           "title": "巴西总统卢拉：我们将继续努力为南方共同市场开拓更多市场，特别是与加拿大、墨西哥、越南、日本。",
@@ -365,7 +391,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         }
@@ -373,7 +399,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -386,6 +412,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
+          "url": "https://wallstreetcn.com/livenews/3039069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -455,7 +492,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "沪指险守4100点，两市ETF成交再创历史天量，电网设备走强，半导体产业链爆发，碳酸锂跌停",
@@ -467,8 +504,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 11时20分]"
         },
         {
           "title": "中国攻克半导体材料世界难题",
@@ -495,6 +532,28 @@
           "time_info": "[00时23分 ~ 05时17分]"
         },
         {
+          "title": "中信证券：看好半导体设备的投资机遇，建议关注高弹性细分龙头",
+          "url": "https://wallstreetcn.com/livenews/3039074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "性能突破性提升！我国攻克半导体材料世界难题",
+          "url": "https://www.cls.cn/detail/2261067",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
           "title": "现货黄金日内跌幅达1.5%，报4546.43美元/盎司。 纽约银日内跌幅达6.0%，报86.81美元/盎司。 纽蒙特矿业跌2.3%。 标普跌0.18%，纳指跌0.2%，半导体指数涨幅收窄至0.8%。 两年期美债收益率涨幅扩大至2.6个基点，刷新日高至3.59%上方。 美元指数短线从99.20点下方反弹，重返99.33一线。 特朗普称，希望哈塞特继续担任白宫顾问。",
           "url": "https://wallstreetcn.com/livenews/3038910",
           "source": "华尔街见闻-快讯",
@@ -517,11 +576,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时17分 ~ 09时15分]"
+          "appearance_count": 5,
+          "time_info": "[05时17分 ~ 11时20分]"
         },
         {
           "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
@@ -541,11 +601,12 @@
           "url": "https://wallstreetcn.com/livenews/3039053",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 11时20分]"
         }
       ]
     },
@@ -609,11 +670,12 @@
             23,
             18,
             24,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 09时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 11时20分]"
         }
       ]
     }
