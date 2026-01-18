@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-19T01:14:47.410166+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2026-01-19T02:22:29.820045+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
+        },
+        {
+          "title": "翁家翌谈OpenAI模型跃迁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        }
+      ]
+    },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 2,
@@ -15,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "宋亚轩找鼠标拍抖音也得求",
@@ -27,8 +55,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     },
@@ -45,19 +73,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "国际观察｜日本开年密集外交，搞了哪些小动作",
           "url": "https://m.thepaper.cn/newsDetail_forward_32412494",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 02时22分]"
         }
       ]
     },
@@ -73,8 +102,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     },
@@ -87,28 +116,12 @@
           "url": "https://www.cls.cn/detail/2261163",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     }
