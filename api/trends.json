@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T07:16:09.170965+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-01-18T09:24:04.199486+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时24分]"
         },
         {
           "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时24分]"
         },
         {
           "title": "中国攻克半导体材料世界难题",
@@ -60,7 +60,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "日本病急乱投医,烧马达炼稀土",
@@ -70,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时24分]"
         },
         {
           "title": "日本急了：若中国开始管控抗生素和药品原料，麻烦可大了",
@@ -99,6 +99,58 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时22分 ~ 07时16分]"
+        },
+        {
+          "title": "U23韩国2-1澳大利亚将战日本",
+          "url": "https://www.toutiao.com/trending/7595297232594157631/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时24分]"
+        },
+        {
+          "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
+          "url": "https://www.zhihu.com/question/1995898061478651512",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "翁家翌谈OpenAI模型跃迁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
         }
       ]
     },
@@ -113,11 +165,12 @@
           "ranks": [
             6,
             9,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 09时24分]"
         },
         {
           "title": "2026年春晚今日完成首次彩排 机器人将再度登上春晚舞台",
@@ -141,30 +194,29 @@
           "url": "https://www.cls.cn/detail/2260993",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时24分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "特斯拉 INTEL",
       "match_count": 1,
       "titles": [
         {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
+          "title": "特斯拉与小米 YU7 均推出 7 年低息购车政策，对车企自身和竞争对手有何影响？消费者应如何「算账」？",
+          "url": "https://www.zhihu.com/question/1995538757940707758",
+          "source": "知乎",
           "ranks": [
-            7,
-            5,
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时16分]"
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
         }
       ]
     },
@@ -181,8 +233,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时24分]"
         }
       ]
     },
@@ -201,8 +253,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时24分]"
         }
       ]
     }
