@@ -1,392 +1,12 @@
 {
-  "generated_at": "2026-01-18T23:16:05.776213+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2026-01-19T00:19:48.211464+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "日本最大核电站机组重启可能推迟",
-          "url": "https://news.ifeng.com/c/8q0hm08yRlY",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时42分 ~ 22时15分]"
-        },
-        {
-          "title": "日本急了：若中国开始管控抗生素和药品原料，麻烦可大了",
-          "url": "https://news.ifeng.com/c/8pzNiKJXJOn",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时16分]"
-        },
-        {
-          "title": "日本病急乱投医,烧马达炼稀土",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349289&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%97%85%E6%80%A5%E4%B9%B1%E6%8A%95%E5%8C%BB%2C%E7%83%A7%E9%A9%AC%E8%BE%BE%E7%82%BC%E7%A8%80%E5%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10,
-            8,
-            9,
-            11,
-            14,
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时18分 ~ 23时16分]"
-        },
-        {
-          "title": "日本最大核电站机组重启可能推迟",
-          "url": "https://wallstreetcn.com/livenews/3039174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            5,
-            6,
-            12,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时43分 ~ 18时17分]"
-        },
-        {
-          "title": "美军一架 F-35A 战斗机在日本近海消失，曾发出紧急情况 7700 代码，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/1995580476212082609",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            14,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时22分 ~ 07时16分]"
-        },
-        {
-          "title": "日本最大核电站机组重启可能推迟",
-          "url": "https://flash.jin10.com/detail/20260118101820361800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            6,
-            15,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时43分 ~ 15时17分]"
-        },
-        {
-          "title": "警惕！美媒：卫星图像揭露日本“出云”级舰艇“航母化”改造最新进展",
-          "url": "https://wallstreetcn.com/livenews/3039238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时15分]"
-        },
-        {
-          "title": "日本首相计划3月20日左右首次访美。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3039224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时31分]"
-        },
-        {
-          "title": "日本静冈县山林火灾持续蔓延 过火面积约3.5公顷",
-          "url": "https://flash.jin10.com/detail/20260118171133113800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时31分]"
-        },
-        {
-          "title": "日本政界人士：政府官员“日本拥核”言论完全不可接受",
-          "url": "https://wallstreetcn.com/livenews/3039243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时15分]"
-        },
-        {
-          "title": "U23韩国2-1澳大利亚将战日本",
-          "url": "https://www.toutiao.com/trending/7595297232594157631/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "日本开年密集外交搞了哪些小动作",
-          "url": "https://www.toutiao.com/trending/7596583589584945195/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时25分 ~ 23时16分]"
-        },
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 09时24分]"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时39分 ~ 22时15分]"
-        },
-        {
-          "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
-          "url": "https://wallstreetcn.com/articles/3763519",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时20分]"
-        },
-        {
-          "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
-          "url": "https://www.zhihu.com/question/1995898061478651512",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "翁家翌谈OpenAI模型跃迁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 11时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "性能突破性提升！我国攻克半导体材料世界难题",
-          "url": "https://www.cls.cn/detail/2261067",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时18分 ~ 19时14分]"
-        },
-        {
-          "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2261163",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时18分 ~ 23时16分]"
-        },
-        {
-          "title": "中国攻克半导体材料世界难题",
-          "url": "https://www.toutiao.com/trending/7595717085641539620/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            23,
-            8,
-            26,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 06时16分]"
-        },
-        {
-          "title": "韩媒集体关注：美商务部长威胁征收最高100%半导体关税",
-          "url": "https://news.ifeng.com/c/8pzXACf2PI9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国暂不征收“关键矿产”关税，摩根大通：白银暂时扛住了，但回调风险巨大，这对黄金是机会",
-          "url": "https://wallstreetcn.com/articles/3763515",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时43分]"
-        },
-        {
-          "title": "黄金白银迭创新高 投资者该怎么办",
-          "url": "https://www.toutiao.com/trending/7596516933449551386/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时20分]"
-        },
-        {
-          "title": "国投白银LOF：19日开市起至当日10:30停牌",
-          "url": "https://flash.jin10.com/detail/20260118170607509800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时31分]"
-        },
-        {
-          "title": "国投白银LOF：19日开市起至当日10:30停牌",
-          "url": "https://wallstreetcn.com/livenews/3039217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时14分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "U23国脚们发抖音称计划有变",
-          "url": "https://www.douyin.com/hot/2371252",
-          "source": "抖音",
-          "ranks": [
-            14,
-            15,
-            16,
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时43分]"
-        },
         {
           "title": "梁小龙抖音账号发告别信",
           "url": "https://www.toutiao.com/trending/7596671053452135963/",
@@ -395,19 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时26分 ~ 23时16分]"
-        },
-        {
-          "title": "梁小龙最后一条抖音",
-          "url": "https://www.douyin.com/hot/2371899",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时17分"
+          "time_info": "00时19分"
         },
         {
           "title": "宋亚轩找鼠标拍抖音也得求",
@@ -417,119 +26,76 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时15分 ~ 23时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "匈牙利政府及企业家代表团到访天奇股份，考察具身智能机器人工业应用",
-          "url": "https://wallstreetcn.com/livenews/3039142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            18,
-            25,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 13时20分]"
-        },
-        {
-          "title": "2026年春晚今日完成首次彩排 机器人将再度登上春晚舞台",
-          "url": "https://flash.jin10.com/detail/20260117214942857800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "优必选与空中客车达成人形机器人在航空制造领域的合作",
-          "url": "https://wallstreetcn.com/livenews/3039181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 18时17分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 09时24分]"
-        },
         {
           "title": "美股明日休市 金银油交易提前结束",
           "url": "https://flash.jin10.com/detail/20260118225633271800",
           "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时16分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 2,
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 1,
       "titles": [
         {
-          "title": "特斯拉与小米 YU7 均推出 7 年低息购车政策，对车企自身和竞争对手有何影响？消费者应如何「算账」？",
-          "url": "https://www.zhihu.com/question/1995538757940707758",
-          "source": "知乎",
+          "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2261163",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            10,
-            8,
-            5,
-            12,
-            13
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时23分 ~ 17时17分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
-          "url": "https://wallstreetcn.com/livenews/3039234",
-          "source": "华尔街见闻-快讯",
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            19,
-            27
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时26分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本病急乱投医,烧马达炼稀土",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349289&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%97%85%E6%80%A5%E4%B9%B1%E6%8A%95%E5%8C%BB%2C%E7%83%A7%E9%A9%AC%E8%BE%BE%E7%82%BC%E7%A8%80%E5%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     }
