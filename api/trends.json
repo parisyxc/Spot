@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:15:30.449906+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-01-18T23:16:05.776213+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
             11,
             14,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时18分 ~ 22时15分]"
+          "appearance_count": 31,
+          "time_info": "[00时18分 ~ 23时16分]"
         },
         {
           "title": "日本最大核电站机组重启可能推迟",
@@ -187,8 +188,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时25分 ~ 22时15分]"
+          "appearance_count": 14,
+          "time_info": "[14时25分 ~ 23时16分]"
         },
         {
           "title": "解读ChatGPT加入广告背后",
@@ -280,8 +281,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时18分 ~ 22时15分]"
+          "appearance_count": 31,
+          "time_info": "[00时18分 ~ 23时16分]"
         },
         {
           "title": "中国攻克半导体材料世界难题",
@@ -369,7 +370,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "U23国脚们发抖音称计划有变",
@@ -394,8 +395,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 22时15分]"
+          "appearance_count": 4,
+          "time_info": "[21时26分 ~ 23时16分]"
         },
         {
           "title": "梁小龙最后一条抖音",
@@ -407,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "宋亚轩找鼠标拍抖音也得求",
+          "url": "https://www.douyin.com/hot/2372262",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
         }
       ]
     },
@@ -458,6 +470,35 @@
       ]
     },
     {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时24分]"
+        },
+        {
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 INTEL",
       "match_count": 2,
       "titles": [
@@ -489,24 +530,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时14分 ~ 21时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 09时24分]"
         }
       ]
     }
