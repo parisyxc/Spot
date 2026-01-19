@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T12:48:19.948489+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-01-19T13:29:32.122215+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 26,
+      "match_count": 36,
       "titles": [
         {
           "title": "国际观察｜日本开年密集外交，搞了哪些小动作",
@@ -19,8 +19,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 12时48分]"
+          "appearance_count": 12,
+          "time_info": "[01时14分 ~ 13时29分]"
         },
         {
           "title": "日本病急乱投医,烧马达炼稀土",
@@ -34,30 +34,42 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 13时29分]"
         },
         {
-          "title": "日本11月工业产出月率终值 -2.7%，前值-2.60%。",
-          "url": "https://flash.jin10.com/detail/20260119123110432800",
+          "title": "日本2年期国债收益率升至1.215%。",
+          "url": "https://flash.jin10.com/detail/20260119131202940800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "13时29分"
         },
         {
-          "title": "日本11月设备利用指数月率 -5.3%，前值3.30%。",
-          "url": "https://flash.jin10.com/detail/20260119123057834800",
+          "title": "日本央行调查：日本家庭平均预期未来一年通胀率为11.6%，预估中值为10.0%。 日本家庭平均预期未来五年通胀率10.0%，预估中值为5.0%。",
+          "url": "https://wallstreetcn.com/livenews/3039525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时29分]"
+        },
+        {
+          "title": "日本5年期国债收益率升至1.690%。",
+          "url": "https://flash.jin10.com/detail/20260119131116795800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "13时29分"
         },
         {
           "title": "日本立宪民主党与公明党合并后的新政党“中道改革联合”政策纲领：将致力于实现持续的工资增长，以及经济成长成果的公平分配。",
@@ -71,17 +83,6 @@
           "time_info": "09时22分"
         },
         {
-          "title": "日本央行调查：日本家庭平均预期未来一年通胀率为11.6%，预估中值为10.0%。 日本家庭平均预期未来五年通胀率10.0%，预估中值为5.0%。",
-          "url": "https://wallstreetcn.com/livenews/3039525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
           "title": "日本中间派改革联盟政策纲领：将致力于实现工资持续增长，并实现经济增长成果的公平分配。",
           "url": "https://flash.jin10.com/detail/20260119090856340800",
           "source": "金十数据",
@@ -93,26 +94,15 @@
           "time_info": "09时22分"
         },
         {
-          "title": "日本11月工业产出年率终值 -2.2%，前值-2.10%。",
-          "url": "https://flash.jin10.com/detail/20260119123047545800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "日本11月第三产业活动指数月率 -0.2%，前值0.90%。",
-          "url": "https://flash.jin10.com/detail/20260119123034842800",
+          "title": "日本10年期国债收益率升至2.270%。",
+          "url": "https://flash.jin10.com/detail/20260119130244714800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "13时29分"
         },
         {
           "title": "日本10年期国债收益率上行4BP至2.22%。",
@@ -124,39 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        },
-        {
-          "title": "日本11月第三产业活动指数环比 -0.2%，预期 0%，前值 0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3039522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "日本11月设备利用指数环比 -5.3%，前值 3.3%。",
-          "url": "https://wallstreetcn.com/livenews/3039519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "日本11月工业产出环比终值 -2.7%，初值 -2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3039521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
         },
         {
           "title": "日本撕裂？6位在日中国人的社会观察",
@@ -181,37 +138,201 @@
           "time_info": "09时22分"
         },
         {
-          "title": "日本40年期国债收益率升至3.895%，创历史新高。",
-          "url": "https://flash.jin10.com/detail/20260119121302543800",
-          "source": "金十数据",
+          "title": "日本反对党中道改革联合(CRA)有关基本政策的立场声明：将致力于纠正日元过度贬值，降低食品、燃料等日常必需品的价格。 对已获得当地社区同意并具备有效疏散方案的核电站，将允许重启；同时目标是在未来转向不依赖核能的社会。 将促进对灾害救援和基础设施的定向投资。 将利用设立日本主权财富基金所产生的收入，废除食品消费税。",
+          "url": "https://wallstreetcn.com/livenews/3039527",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "13时29分"
+        },
+        {
+          "title": "日本11月工业产出月率终值 -2.7%，前值-2.60%。",
+          "url": "https://flash.jin10.com/detail/20260119123110432800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时29分]"
+        },
+        {
+          "title": "日本在野党联盟中道改革联合：对于获得当地社区同意、并已制定有效疏散方案的核电站，将允许其重启；同时，目标是在未来推动社会逐步转向不再依赖核能。",
+          "url": "https://flash.jin10.com/detail/20260119124234066800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "日本11月设备利用指数月率 -5.3%，前值3.30%。",
+          "url": "https://flash.jin10.com/detail/20260119123057834800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时29分]"
+        },
+        {
+          "title": "日本11月工业产出年率终值 -2.2%，前值-2.10%。",
+          "url": "https://flash.jin10.com/detail/20260119123047545800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时29分]"
+        },
+        {
+          "title": "日本在野党联盟中道改革联合：将推动针对灾害救援和基础设施的定向投资。通过设立日本主权财富基金所创造的收入来取消食品销售的消费税。",
+          "url": "https://flash.jin10.com/detail/20260119124223462800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "日本11月第三产业活动指数月率 -0.2%，前值0.90%。",
+          "url": "https://flash.jin10.com/detail/20260119123034842800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时29分]"
+        },
+        {
+          "title": "日本11月第三产业活动指数环比 -0.2%，预期 0%，前值 0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3039522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时29分]"
+        },
+        {
+          "title": "日本11月设备利用指数环比 -5.3%，前值 3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3039519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时29分]"
+        },
+        {
+          "title": "日本11月工业产出环比终值 -2.7%，初值 -2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3039521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时29分]"
+        },
+        {
+          "title": "日本40年期国债收益率升至3.895%，创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260119121302543800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时29分]"
         },
         {
           "title": "日本11月工业产出同比终值 -2.2%，初值 -2.1%。",
           "url": "https://wallstreetcn.com/livenews/3039520",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时29分]"
         },
         {
           "title": "日本40年期国债收益率上行9.5个基点至3.895%，创纪录新高。",
           "url": "https://wallstreetcn.com/livenews/3039513",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时29分]"
+        },
+        {
+          "title": "日本在野党联盟中道改革联合在其基本政策立场声明中表示，将致力于纠正日元过度贬值，并下调包括食品、燃料在内的日常必需品价格。",
+          "url": "https://flash.jin10.com/detail/20260119124145279800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "日本央行12月季度调查：日本家庭中，86.0%预计一年后物价将上涨，上一次调查为88.0%。83.0%的日本家庭预计五年后物价将上涨，高于上一次调查的84.8%。日本家庭预计从现在起一年后通胀率平均将上升11.6%，中位数为10.0%。日本家庭预计五年后通胀率平均将上升9.8%，中位数为5.0%。",
+          "url": "https://flash.jin10.com/detail/20260119123459727800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "日本11月设备利用指数 100，前值105.6。",
+          "url": "https://flash.jin10.com/detail/20260119123411618800",
+          "source": "金十数据",
+          "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "13时29分"
+        },
+        {
+          "title": "日本11月库存月率终值 -3%，前值-3%。",
+          "url": "https://flash.jin10.com/detail/20260119123327652800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "10年期日本国债收益率升至2.215%，创1999年2月以来新高。",
@@ -231,7 +352,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -275,7 +396,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -313,11 +434,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 13时29分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月19日（周一）早盘盘初上涨1.68%报1048.0元/克；<br/>上海黄金交易所白银T+D 1月19日（周一）早盘盘初上涨3.18%报23429.0元/千克。",
@@ -359,11 +481,12 @@
           "source": "微博",
           "ranks": [
             21,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 13时29分]"
         },
         {
           "title": "金价",
@@ -419,24 +542,25 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
+          "title": "韩国与意大利签署半导体产业合作谅解备忘录，将加强芯片供应链，并共享信息。",
+          "url": "https://wallstreetcn.com/livenews/3039504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时29分]"
+        },
+        {
           "title": "韩国青瓦台：韩国与意大利签署芯片产业合作谅解备忘录，涵盖人工智能领域。",
           "url": "https://flash.jin10.com/detail/20260119114123064800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "韩国与意大利签署半导体产业合作谅解备忘录，将加强芯片供应链，并共享信息。",
-          "url": "https://wallstreetcn.com/livenews/3039504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
@@ -485,11 +609,12 @@
             9,
             10,
             20,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 13时29分]"
         },
         {
           "title": "宋亚轩找鼠标拍抖音也得求",
@@ -500,11 +625,13 @@
             23,
             27,
             26,
-            28
+            28,
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 12时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 13时29分]"
         }
       ]
     },
