@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T15:26:26.417206+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-01-19T16:27:31.101290+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时14分 ~ 15时26分]"
+          "appearance_count": 15,
+          "time_info": "[01时14分 ~ 16时27分]"
         },
         {
           "title": "日本病急乱投医,烧马达炼稀土",
@@ -46,9 +46,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时27分]"
+        },
+        {
+          "title": "日本专家：高市解散众议院缺乏正当性，或严重影响民生",
+          "url": "https://news.ifeng.com/c/8q2Yk0W0b2I",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时27分]"
         },
         {
           "title": "日本立宪民主党与公明党合并后的新政党“中道改革联合”政策纲领：将致力于实现持续的工资增长，以及经济成长成果的公平分配。",
@@ -60,18 +72,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        },
-        {
-          "title": "日本专家：高市解散众议院缺乏正当性，或严重影响民生",
-          "url": "https://news.ifeng.com/c/8q2Yk0W0b2I",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时26分]"
         },
         {
           "title": "日本央行调查：日本家庭平均预期未来一年通胀率为11.6%，预估中值为10.0%。 日本家庭平均预期未来五年通胀率10.0%，预估中值为5.0%。",
@@ -362,7 +362,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -384,7 +384,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -439,7 +439,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -472,7 +472,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -525,7 +525,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -613,6 +613,71 @@
       ]
     },
     {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2261163",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
+        },
+        {
+          "title": "A股三大股指午后均转跌，创业板指日内跌幅达1%，深证成指跌0.19%，沪指跌0.01%。AI应用、保险、银行、半导体等方向跌幅居前，沪深京三市下跌个股近2100只。",
+          "url": "https://wallstreetcn.com/livenews/3039556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时26分]"
+        },
+        {
+          "title": "韩国与意大利签署半导体产业合作谅解备忘录，将加强芯片供应链，并共享信息。",
+          "url": "https://wallstreetcn.com/livenews/3039504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时29分]"
+        },
+        {
+          "title": "意法半导体米兰上市股票下跌3%。",
+          "url": "https://flash.jin10.com/detail/20260119160303014800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "韩国青瓦台：韩国与意大利签署芯片产业合作谅解备忘录，涵盖人工智能领域。",
+          "url": "https://flash.jin10.com/detail/20260119114123064800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 5,
       "titles": [
@@ -663,86 +728,34 @@
           "time_info": "[14时32分 ~ 15时26分]"
         },
         {
-          "title": "轧戏孙哥和胡羞拍上抖音视频了",
-          "url": "https://www.douyin.com/hot/2372767",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
           "title": "居民停用手机号未解绑微信 10万险丢失",
           "url": "https://www.toutiao.com/trending/7596886597921800198/",
           "source": "今日头条",
           "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2261163",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "A股三大股指午后均转跌，创业板指日内跌幅达1%，深证成指跌0.19%，沪指跌0.01%。AI应用、保险、银行、半导体等方向跌幅居前，沪深京三市下跌个股近2100只。",
-          "url": "https://wallstreetcn.com/livenews/3039556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
+            26,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时26分]"
+          "time_info": "[15时26分 ~ 16时27分]"
         },
         {
-          "title": "韩国与意大利签署半导体产业合作谅解备忘录，将加强芯片供应链，并共享信息。",
-          "url": "https://wallstreetcn.com/livenews/3039504",
-          "source": "华尔街见闻-快讯",
+          "title": "轧戏孙哥和胡羞拍上抖音视频了",
+          "url": "https://www.douyin.com/hot/2372767",
+          "source": "抖音",
           "ranks": [
-            19,
-            27
+            18,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时48分 ~ 13时29分]"
-        },
-        {
-          "title": "韩国青瓦台：韩国与意大利签署芯片产业合作谅解备忘录，涵盖人工智能领域。",
-          "url": "https://flash.jin10.com/detail/20260119114123064800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "[15时26分 ~ 16时27分]"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股明日休市 金银油交易提前结束",
@@ -755,6 +768,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时15分]"
+        },
+        {
+          "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "美股今日休市 金银油交易提前结束",
@@ -778,6 +802,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时32分 ~ 15时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：特斯拉将重启Dojo 3项目",
+          "url": "https://www.toutiao.com/trending/7596908680889516051/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "澳大利亚西拉资源公司为特斯拉石墨供应交易争取更多时间",
+          "url": "https://wallstreetcn.com/livenews/3039361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
@@ -812,25 +864,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "澳大利亚西拉资源公司为特斯拉石墨供应交易争取更多时间",
-          "url": "https://wallstreetcn.com/livenews/3039361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "镁价底部反弹+全产业链加速卡位 航天与机器人等新需求能否重塑镁行业格局？|行业观察",
@@ -838,11 +873,23 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时27分]"
+        },
+        {
+          "title": "北京首设机器人专业职称 今年7月启动首次评审",
+          "url": "https://wallstreetcn.com/livenews/3039619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     }
