@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T13:26:12.000435+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-01-20T14:30:34.905936+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "日本政府统计数据：去年12月赴日中国游客同比下降40%",
@@ -21,8 +21,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 13时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 14时30分]"
         },
         {
           "title": "日本迎半世纪来首次零熊猫",
@@ -59,6 +59,19 @@
           "time_info": "[00时23分 ~ 09时17分]"
         },
         {
+          "title": "中方代表：日本从来没真正认罪悔过",
+          "url": "https://www.toutiao.com/trending/7596856393991421971/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 14时30分]"
+        },
+        {
           "title": "日本20年期国债收益率上行7.5个基点至3.33%。 日本5年期国债收益率上行2.5个基点，至1.710%。",
           "url": "https://wallstreetcn.com/livenews/3040005",
           "source": "华尔街见闻-快讯",
@@ -68,17 +81,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        },
-        {
-          "title": "日本20年期国债收益率上行15个基点，至3.405%。",
-          "url": "https://wallstreetcn.com/livenews/3040161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
         },
         {
           "title": "日本首相高市早苗宣布将于23日解散众议院",
@@ -114,16 +116,51 @@
           "time_info": "09时17分"
         },
         {
-          "title": "中方代表：日本从来没真正认罪悔过",
-          "url": "https://www.toutiao.com/trending/7596856393991421971/",
-          "source": "今日头条",
+          "title": "日本30年期国债收益率上升26.5个基点至3.875%；日本40年期国债收益率上升27个基点至4.215%。",
+          "url": "https://wallstreetcn.com/livenews/3040183",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            18
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "日本30年期国债收益率上涨25个基点至3.860%，创历史新高。40年期收益率上涨26个基点，至4.205%。",
+          "url": "https://flash.jin10.com/detail/20260120141255156800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "中方代表在联合国当场质问日本",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%BB%A3%E8%A1%A8%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%BD%93%E5%9C%BA%E8%B4%A8%E9%97%AE%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 13时26分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 14时30分]"
+        },
+        {
+          "title": "日本20年期国债收益率上行15个基点，至3.405%。",
+          "url": "https://wallstreetcn.com/livenews/3040161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时30分]"
         },
         {
           "title": "日本10年期国债收益率上涨8个基点，至2.350%。",
@@ -174,18 +211,6 @@
           "time_info": "[12时41分 ~ 13时26分]"
         },
         {
-          "title": "中方代表在联合国当场质问日本",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%BB%A3%E8%A1%A8%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%BD%93%E5%9C%BA%E8%B4%A8%E9%97%AE%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 13时26分]"
-        },
-        {
           "title": "国际观察｜日本开年密集外交，搞了哪些小动作",
           "url": "https://m.thepaper.cn/newsDetail_forward_32412494",
           "source": "澎湃新闻",
@@ -195,6 +220,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 00时24分]"
+        },
+        {
+          "title": "日本20年期国债收益率上行13.5个基点至3.39%。",
+          "url": "https://wallstreetcn.com/livenews/3040139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时30分]"
         },
         {
           "title": "日本拍卖20年期国债，认购倍数为3.19，过去12个月均值为3.34。",
@@ -207,17 +244,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 13时26分]"
-        },
-        {
-          "title": "日本20年期国债收益率上行13.5个基点至3.39%。",
-          "url": "https://wallstreetcn.com/livenews/3040139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
         },
         {
           "title": "日本5年期国债收益率上行1.5BP至1.7%。",
@@ -237,7 +263,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -410,7 +436,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "财晓得丨金价涨成这样，到什么位置了？",
@@ -424,8 +450,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时20分 ~ 13时26分]"
+          "appearance_count": 17,
+          "time_info": "[01时20分 ~ 14时30分]"
         },
         {
           "title": "场内价格突破前高！白银LOF溢价重返30%，年内高涨基金扫描，这些方向扎堆聚集",
@@ -466,19 +492,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时17分 ~ 14时30分]"
         },
         {
-          "title": "A股贵金属板块午后上扬，湖南白银涨超9%，招金黄金、四川黄金、山金国际、白银有色跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3040160",
-          "source": "华尔街见闻-快讯",
+          "title": "拍卖遇冷！日债抛售潮加剧、收益率迈入“4时代”，日韩股市下跌，黄金再创新高、白银震荡",
+          "url": "https://wallstreetcn.com/articles/3763645",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时30分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）上海金早盘价为1045.19元/克，较国际金价(1043.73元/克)，高1.46元/克",
@@ -501,6 +527,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "A股贵金属板块午后上扬，湖南白银涨超9%，招金黄金、四川黄金、山金国际、白银有色跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3040160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时30分]"
         },
         {
           "title": "纽约期金涨约1.8%，在亚太盘初创历史新高，白银期货也创历史新高",
@@ -622,8 +660,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时17分 ~ 14时30分]"
         },
         {
           "title": "荷兰国际集团（ING）驻布鲁塞尔的首席投资策略师Vincent Juvyns：若仅从加征关税本身看，经济层面尚可承受。 但西方世界可能出现的分裂，其后果之严重超出我的预估范围。",
@@ -666,8 +704,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 14时30分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -678,8 +716,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 14时30分]"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -718,8 +756,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 13时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 14时30分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
@@ -788,6 +826,34 @@
       ]
     },
     {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小红书发通牒:谁搞对立我打谁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349392&amp;topic_name=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%8F%91%E9%80%9A%E7%89%92%3A%E8%B0%81%E6%90%9E%E5%AF%B9%E7%AB%8B%E6%88%91%E6%89%93%E8%B0%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "居民停用手机号未解绑微信 10万险丢失",
+          "url": "https://www.toutiao.com/trending/7596886597921800198/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 1,
       "titles": [
@@ -801,23 +867,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "居民停用手机号未解绑微信 10万险丢失",
-          "url": "https://www.toutiao.com/trending/7596886597921800198/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
         }
       ]
     }
