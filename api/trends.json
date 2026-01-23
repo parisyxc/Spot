@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T04:21:01.879270+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-01-24T05:17:46.484165+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "白银再创历史新高 英特尔上演“高台跳水” | 今夜看点",
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "不再是“穷人的黄金”，白银正在被时代需要",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "现货白银站上102美元/盎司",
@@ -38,9 +38,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时17分]"
         },
         {
           "title": "纽约期银向上触及102美元/盎司，日内涨5.84%。现货白银现报101.7美元/盎司。",
@@ -49,9 +49,43 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时17分]"
+        },
+        {
+          "title": "标普或两周连跌，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "05时17分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月23日（周五）晚盘收盘上涨0.99%报1115.5元/克；<br/>上海黄金交易所白银T+D 1月23日（周五）晚盘收盘上涨3.96%报25651.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260124023214934800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时17分]"
+        },
+        {
+          "title": "纽约银日内涨幅达6.5%，报102.64美元/盎司。 现货白银日内涨幅达6.5%，报102.41美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3043117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "白银价格持续上涨，工厂加班赶制投资银条",
@@ -59,11 +93,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时17分]"
         },
         {
           "title": "见证历史！白银100美元，进入三位数时代丨Hi，今天怎么看？",
@@ -89,18 +124,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 03时22分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 1月23日（周五）晚盘收盘上涨0.99%报1115.5元/克；<br/>上海黄金交易所白银T+D 1月23日（周五）晚盘收盘上涨3.96%报25651.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260124023214934800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时21分]"
         },
         {
           "title": "现货白银站上100美元",
@@ -149,6 +172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时22分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：1月20日当周，投机者所持COMEX黄金净多头头寸增加2,614手合约，至139,162手合约，创16周新高。 所持COMEX白银净多头头寸创23个月新低。 所持COMEX铜净多头头寸创八周新低。 所持NYMEX铂金净多头头寸创三周新低，转而持有NYMEX钯金净空头头寸。",
+          "url": "https://wallstreetcn.com/livenews/3043112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "多家经纪商报价显示现货白银均到达100美元/盎司。",
@@ -208,8 +242,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "引爆日本债市、吓崩全球市场、点燃高市“特拉斯时刻”，只需2.8亿美元！",
@@ -219,8 +253,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "日本首相的反常操作藏着何种算计",
@@ -230,8 +264,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "央视转播U23国足与日本比赛",
@@ -256,8 +290,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时21分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[03时21分 ~ 05时17分]"
         },
         {
           "title": "U23国足战日本队 转播计划来了",
@@ -268,8 +302,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "与日本队争冠 U23国足胜算几何",
@@ -282,8 +316,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "法兴银行：决定将下次日本央行加息的预测提前至4月份，并预计日本央行将在六个月后于10月份将政策利率上调至1.25%。",
@@ -294,8 +328,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时17分]"
         },
         {
           "title": "从解散众议院到投票仅隔16天，日本创战后最短纪录",
@@ -312,8 +346,19 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763967",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时17分]"
+        },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
           "url": "https://wallstreetcn.com/articles/3763993",
@@ -326,15 +371,15 @@
           "time_info": "[00时24分 ~ 04时21分]"
         },
         {
-          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763967",
-          "source": "华尔街见闻",
+          "title": "本周，标普累跌0.4%，道指累跌0.5%，纳指累跌0.1%，纳指科技指数大致持平，科技股七巨头指数涨0.3%，半导体指数涨0.2%，银行指数跌2.1%，生物科技指数涨3.1%。 周五当天，标普500指数初步大致收平，金融板块跌1.3%，工业板块跌0.8%，能源板块涨0.4%，科技板块涨0.5%，原材料板块涨0.8%。 纳斯达克100指数初步收涨0.3%，成分股中，Fortinet涨5%，微软、奈飞涨超3%，西部数据跌2.8%，迈威尔科技跌3.5%，英特尔跌16.9%。 高盛初步收跌3.7%，卡特彼勒跌3.3%，迪士尼、摩根大通等跌超1%，领跌道指成分股，英伟达涨1.5%，可口可乐涨1.5%，亚马逊涨2.1%，微软涨3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3043124",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -345,8 +390,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时17分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览（美股盘中）",
@@ -396,22 +441,12 @@
           "ranks": [
             8,
             5,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
-        },
-        {
-          "title": "美国考虑用海军实施海上封锁，从而阻挠谷歌进口石油。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3043102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -424,6 +459,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时27分]"
+        },
+        {
+          "title": "美国考虑用海军实施海上封锁，从而阻挠谷歌进口石油。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3043102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时17分]"
         },
         {
           "title": "Meta暂停青少年群体访问其AI角色。（TechCrunch）",
@@ -455,17 +502,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "特斯拉在美国和加拿大停用基本驾驶辅助系统Autopilot",
-          "url": "https://wallstreetcn.com/livenews/3043100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
           "title": "在美国和加拿大，新购的特斯拉车辆将继续配备交通感知巡航控制系统。",
           "url": "https://flash.jin10.com/detail/20260124022417840800",
           "source": "金十数据",
@@ -474,8 +510,20 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时17分]"
+        },
+        {
+          "title": "特斯拉在美国和加拿大停用基本驾驶辅助系统Autopilot",
+          "url": "https://wallstreetcn.com/livenews/3043100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时21分]"
+          "time_info": "[04时21分 ~ 05时17分]"
         },
         {
           "title": "在美国和加拿大，新购的特斯拉车辆的自动转向功能将仅面向FSD（需人工监督）版本。",
@@ -486,8 +534,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时17分]"
         }
       ]
     },
@@ -545,8 +593,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "抖音华彩传承晚会直播",
@@ -573,8 +621,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时17分]"
         }
       ]
     }
