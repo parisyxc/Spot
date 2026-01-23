@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T03:22:03.780688+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-01-24T04:21:01.879270+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "白银再创历史新高 英特尔上演“高台跳水” | 今夜看点",
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "不再是“穷人的黄金”，白银正在被时代需要",
@@ -28,30 +28,42 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
+        },
+        {
+          "title": "现货白银站上102美元/盎司",
+          "url": "https://flash.jin10.com/detail/20260124035443352800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "纽约期银向上触及102美元/盎司，日内涨5.84%。现货白银现报101.7美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260124035124129800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "白银价格持续上涨，工厂加班赶制投资银条",
           "url": "https://wallstreetcn.com/livenews/3043095",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 1月23日（周五）晚盘收盘上涨0.99%报1115.5元/克；<br/>上海黄金交易所白银T+D 1月23日（周五）晚盘收盘上涨3.96%报25651.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260124023214934800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时21分]"
         },
         {
           "title": "见证历史！白银100美元，进入三位数时代丨Hi，今天怎么看？",
@@ -77,6 +89,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 03时22分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月23日（周五）晚盘收盘上涨0.99%报1115.5元/克；<br/>上海黄金交易所白银T+D 1月23日（周五）晚盘收盘上涨3.96%报25651.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260124023214934800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时21分]"
         },
         {
           "title": "现货白银站上100美元",
@@ -184,8 +208,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "引爆日本债市、吓崩全球市场、点燃高市“特拉斯时刻”，只需2.8亿美元！",
@@ -195,8 +219,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "日本首相的反常操作藏着何种算计",
@@ -206,8 +230,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "央视转播U23国足与日本比赛",
@@ -216,22 +240,24 @@
           "ranks": [
             7,
             6,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "U23国足vs日本",
           "url": "https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 04时21分]"
         },
         {
           "title": "U23国足战日本队 转播计划来了",
@@ -242,8 +268,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "与日本队争冠 U23国足胜算几何",
@@ -256,19 +282,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "法兴银行：决定将下次日本央行加息的预测提前至4月份，并预计日本央行将在六个月后于10月份将政策利率上调至1.25%。",
           "url": "https://flash.jin10.com/detail/20260124021424985800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时21分]"
         },
         {
           "title": "从解散众议院到投票仅隔16天，日本创战后最短纪录",
@@ -295,8 +322,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -306,19 +333,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
           "url": "https://flash.jin10.com/detail/20260124023319046800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时21分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览（美股盘中）",
@@ -359,7 +387,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -367,11 +395,23 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
+        },
+        {
+          "title": "美国考虑用海军实施海上封锁，从而阻挠谷歌进口石油。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3043102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -407,6 +447,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特斯拉在美国和加拿大停用基本驾驶辅助系统Autopilot",
+          "url": "https://wallstreetcn.com/livenews/3043100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "在美国和加拿大，新购的特斯拉车辆将继续配备交通感知巡航控制系统。",
+          "url": "https://flash.jin10.com/detail/20260124022417840800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时21分]"
+        },
+        {
+          "title": "在美国和加拿大，新购的特斯拉车辆的自动转向功能将仅面向FSD（需人工监督）版本。",
+          "url": "https://flash.jin10.com/detail/20260124022350622800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时21分]"
         }
       ]
     },
@@ -450,34 +531,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "在美国和加拿大，新购的特斯拉车辆将继续配备交通感知巡航控制系统。",
-          "url": "https://flash.jin10.com/detail/20260124022417840800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "在美国和加拿大，新购的特斯拉车辆的自动转向功能将仅面向FSD（需人工监督）版本。",
-          "url": "https://flash.jin10.com/detail/20260124022350622800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 2,
       "titles": [
@@ -488,11 +541,12 @@
           "ranks": [
             24,
             23,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "抖音华彩传承晚会直播",
@@ -519,8 +573,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
         }
       ]
     }
