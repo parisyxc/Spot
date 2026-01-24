@@ -1,27 +1,117 @@
 {
-  "generated_at": "2026-01-25T01:15:10.450455+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-01-25T02:24:09.630328+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
-        {
-          "title": "陪看U23国足VS日本",
-          "url": "https://www.toutiao.com/trending/7598919393132940846/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
         {
           "title": "U23国足vs日本",
           "url": "https://s.weibo.com/weibo?q=U23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC&t=31&band_rank=1&Refer=top",
           "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时24分]"
+        },
+        {
+          "title": "今夜亚洲杯决赛决战日本队！一起为中国U23男足加油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32455284",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时24分]"
+        },
+        {
+          "title": "U23国足不敌日本获得亚军",
+          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E8%8E%B7%E5%BE%97%E4%BA%9A%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时24分]"
+        },
+        {
+          "title": "U23国足不敌日本获亚洲杯亚军",
+          "url": "https://search.bilibili.com/all?keyword=U23%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E8%8E%B7%E4%BA%9A%E6%B4%B2%E6%9D%AF%E4%BA%9A%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时24分]"
+        },
+        {
+          "title": "正视差距!国足0比4日本摘亚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349626&amp;topic_name=%E6%AD%A3%E8%A7%86%E5%B7%AE%E8%B7%9D%21%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC%E6%91%98%E4%BA%9A",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时24分]"
+        },
+        {
+          "title": "专家：日本想打的不是一般的小仗，它想打大战",
+          "url": "https://news.ifeng.com/c/8qB4UDU3L6N",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时24分]"
+        },
+        {
+          "title": "中国0-4不敌日本无缘U23亚洲杯冠军",
+          "url": "https://www.toutiao.com/trending/7598947267541978651/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时24分]"
+        },
+        {
+          "title": "U23国足0比4日本",
+          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时24分]"
+        },
+        {
+          "title": "李昊英语喊话干扰日本队点球",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%8A%E8%8B%B1%E8%AF%AD%E5%96%8A%E8%AF%9D%E5%B9%B2%E6%89%B0%E6%97%A5%E6%9C%AC%E9%98%9F%E7%82%B9%E7%90%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时24分]"
+        },
+        {
+          "title": "陪看U23国足VS日本",
+          "url": "https://www.toutiao.com/trending/7598919393132940846/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
@@ -65,93 +155,48 @@
           "time_info": "[00时19分 ~ 01时15分]"
         },
         {
-          "title": "今夜亚洲杯决赛决战日本队！一起为中国U23男足加油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32455284",
+          "title": "赛场屹线丨中国0比4不敌日本，获U23亚洲杯亚军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448622",
           "source": "澎湃新闻",
           "ranks": [
-            5,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 02时24分]"
         },
         {
-          "title": "U23国足不敌日本获得亚军",
-          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E8%8E%B7%E5%BE%97%E4%BA%9A%E5%86%9B",
-          "source": "百度热搜",
+          "title": "U23国足0:4日本获亚军",
+          "url": "https://www.douyin.com/hot/2377895",
+          "source": "抖音",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "time_info": "[02时23分 ~ 02时24分]"
         },
         {
-          "title": "U23国足不敌日本获亚洲杯亚军",
-          "url": "https://search.bilibili.com/all?keyword=U23%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E8%8E%B7%E4%BA%9A%E6%B4%B2%E6%9D%AF%E4%BA%9A%E5%86%9B",
-          "source": "bilibili 热搜",
+          "title": "U23 男足亚洲杯决赛，国足 0:4 不敌日本获得亚军，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1998499370979522168",
+          "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "time_info": "[02时23分 ~ 02时24分]"
         },
         {
-          "title": "正视差距!国足0比4日本摘亚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349626&amp;topic_name=%E6%AD%A3%E8%A7%86%E5%B7%AE%E8%B7%9D%21%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC%E6%91%98%E4%BA%9A",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
-        },
-        {
-          "title": "专家：日本想打的不是一般的小仗，它想打大战",
-          "url": "https://news.ifeng.com/c/8qB4UDU3L6N",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "中国0-4不敌日本无缘U23亚洲杯冠军",
-          "url": "https://www.toutiao.com/trending/7598947267541978651/",
+          "title": "日本U23为U23国足列队鼓掌",
+          "url": "https://www.toutiao.com/trending/7598977627994721819/",
           "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
-        },
-        {
-          "title": "U23国足0比4日本",
-          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
-        },
-        {
-          "title": "李昊英语喊话干扰日本队点球",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%8A%E8%8B%B1%E8%AF%AD%E5%96%8A%E8%AF%9D%E5%B9%B2%E6%89%B0%E6%97%A5%E6%9C%AC%E9%98%9F%E7%82%B9%E7%90%83",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "time_info": "[02时23分 ~ 02时24分]"
         },
         {
           "title": "U23亚洲杯决赛国足vs日本",
@@ -187,6 +232,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "U23国足0-4日本",
+          "url": "https://search.bilibili.com/all?keyword=U23%E5%9B%BD%E8%B6%B30-4%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 02时24分]"
+        },
+        {
           "title": "U23国足两球落后日本",
           "url": "https://www.toutiao.com/trending/7598947267541978651/",
           "source": "今日头条",
@@ -209,15 +265,27 @@
           "time_info": "00时19分"
         },
         {
+          "title": "U23国足0比4日本队",
+          "url": "https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC%E9%98%9F%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 02时24分]"
+        },
+        {
           "title": "U23日本6号球员被黄牌警告",
           "url": "https://www.baidu.com/s?wd=U23%E6%97%A5%E6%9C%AC6%E5%8F%B7%E7%90%83%E5%91%98%E8%A2%AB%E9%BB%84%E7%89%8C%E8%AD%A6%E5%91%8A",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时24分]"
         },
         {
           "title": "日本队点球破门",
@@ -300,6 +368,29 @@
           "time_info": "00时19分"
         },
         {
+          "title": "日本队6号",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E9%98%9F6%E5%8F%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时24分]"
+        },
+        {
+          "title": "冲击冠军！U23国足决战日本：王钰栋彭啸首发，拜合拉木替补",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32458763",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时24分]"
+        },
+        {
           "title": "日本队是U23亚洲杯历史进球最多球队",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%98%9F%E6%98%AFU23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%8E%86%E5%8F%B2%E8%BF%9B%E7%90%83%E6%9C%80%E5%A4%9A%E7%90%83%E9%98%9F",
           "source": "百度热搜",
@@ -311,15 +402,16 @@
           "time_info": "[00时19分 ~ 01时15分]"
         },
         {
-          "title": "日本队6号",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E9%98%9F6%E5%8F%B7&t=31&band_rank=11&Refer=top",
+          "title": "范志毅谈U23国足对战日本队",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E8%B0%88U23%E5%9B%BD%E8%B6%B3%E5%AF%B9%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时24分]"
         },
         {
           "title": "赛场屹线丨最后一仗！U23亚洲杯决赛中国VS日本，速速集合",
@@ -333,26 +425,37 @@
           "time_info": "[01时14分 ~ 01时15分]"
         },
         {
-          "title": "冲击冠军！U23国足决战日本：王钰栋彭啸首发，拜合拉木替补",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32458763",
+          "title": "日本成U23亚洲杯首支卫冕成功球队",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%88%90U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E9%A6%96%E6%94%AF%E5%8D%AB%E5%86%95%E6%88%90%E5%8A%9F%E7%90%83%E9%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 02时24分]"
+        },
+        {
+          "title": "决赛不敌日本，中国队收获U23亚洲杯亚军，创历史最佳战绩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32459344",
           "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 02时24分]"
+        },
+        {
+          "title": "U23国足下一场大考是日本亚运会",
+          "url": "https://www.toutiao.com/trending/7598979403858775603/",
+          "source": "今日头条",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
-        },
-        {
-          "title": "范志毅谈U23国足对战日本队",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E8%B0%88U23%E5%9B%BD%E8%B6%B3%E5%AF%B9%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "[02时23分 ~ 02时24分]"
         }
       ]
     },
@@ -368,8 +471,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时24分]"
         },
         {
           "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
@@ -380,8 +483,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时24分]"
         },
         {
           "title": "10年前随手买的白银如今赚翻了",
@@ -389,11 +492,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时24分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -431,8 +535,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时24分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -442,8 +546,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时24分]"
         },
         {
           "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
@@ -453,8 +557,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时24分]"
         }
       ]
     },
@@ -470,8 +574,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时24分]"
         }
       ]
     }
