@@ -1,1170 +1,133 @@
 {
-  "generated_at": "2026-01-25T23:16:51.633701+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-01-26T00:20:46.490972+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 60,
-      "titles": [
-        {
-          "title": "U23国足不敌日本获得亚军",
-          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E8%8E%B7%E5%BE%97%E4%BA%9A%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时14分 ~ 11时50分]"
-        },
-        {
-          "title": "U23国足不敌日本获亚洲杯亚军",
-          "url": "https://search.bilibili.com/all?keyword=U23%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E8%8E%B7%E4%BA%9A%E6%B4%B2%E6%9D%AF%E4%BA%9A%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 07时16分]"
-        },
-        {
-          "title": "赛场屹线丨中国0比4不敌日本，获U23亚洲杯亚军",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448622",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时23分 ~ 16时22分]"
-        },
-        {
-          "title": "U23国足0比4日本",
-          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时14分 ~ 09时26分]"
-        },
-        {
-          "title": "李昊英语喊话干扰日本队点球",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%8A%E8%8B%B1%E8%AF%AD%E5%96%8A%E8%AF%9D%E5%B9%B2%E6%89%B0%E6%97%A5%E6%9C%AC%E9%98%9F%E7%82%B9%E7%90%83",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 07时16分]"
-        },
-        {
-          "title": "今夜亚洲杯决赛决战日本队！一起为中国U23男足加油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32455284",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "专家：日本想打的不是一般的小仗，它想打大战",
-          "url": "https://news.ifeng.com/c/8qB4UDU3L6N",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "U23国足vs日本",
-          "url": "https://s.weibo.com/weibo?q=U23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 12时49分]"
-        },
-        {
-          "title": "日本极端催生:不生娃就切子宫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349632&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%9E%81%E7%AB%AF%E5%82%AC%E7%94%9F%3A%E4%B8%8D%E7%94%9F%E5%A8%83%E5%B0%B1%E5%88%87%E5%AD%90%E5%AE%AB",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            6,
-            7,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时50分 ~ 23时16分]"
-        },
-        {
-          "title": "U23国足0比4日本队",
-          "url": "https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC%E9%98%9F%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            17,
-            5,
-            2,
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时23分 ~ 13时25分]"
-        },
-        {
-          "title": "决赛不敌日本，中国队收获U23亚洲杯亚军，创历史最佳战绩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32459344",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12,
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[02时23分 ~ 23时16分]"
-        },
-        {
-          "title": "日本U23为U23国足列队鼓掌",
-          "url": "https://www.toutiao.com/trending/7598977627994721819/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时23分 ~ 07时16分]"
-        },
-        {
-          "title": "正视差距!国足0比4日本摘亚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349626&amp;topic_name=%E6%AD%A3%E8%A7%86%E5%B7%AE%E8%B7%9D%21%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC%E6%91%98%E4%BA%9A",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            5,
-            8,
-            9,
-            10,
-            12,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时14分 ~ 23时16分]"
-        },
-        {
-          "title": "U23 男足亚洲杯决赛，国足 0:4 不敌日本获得亚军，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1998499370979522168",
-          "source": "知乎",
-          "ranks": [
-            1,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时23分 ~ 20时33分]"
-        },
-        {
-          "title": "中国0-4不敌日本无缘U23亚洲杯冠军",
-          "url": "https://www.toutiao.com/trending/7598947267541978651/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            17,
-            22,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时14分 ~ 14时26分]"
-        },
-        {
-          "title": "U23国足0:4日本获亚军",
-          "url": "https://search.bilibili.com/all?keyword=U23%E5%9B%BD%E8%B6%B30%3A4%E6%97%A5%E6%9C%AC%E8%8E%B7%E4%BA%9A%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            11,
-            13,
-            15,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时26分 ~ 19时14分]"
-        },
-        {
-          "title": "U23国足0-4日本",
-          "url": "https://search.bilibili.com/all?keyword=U23%E5%9B%BD%E8%B6%B30-4%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            15,
-            27,
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时23分 ~ 14时26分]"
-        },
-        {
-          "title": "U23国足0:4日本获亚军",
-          "url": "https://www.douyin.com/hot/2377895",
-          "source": "抖音",
-          "ranks": [
-            1,
-            19,
-            21,
-            20,
-            24,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时23分 ~ 18时18分]"
-        },
-        {
-          "title": "日本成U23亚洲杯首支卫冕成功球队",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%88%90U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E9%A6%96%E6%94%AF%E5%8D%AB%E5%86%95%E6%88%90%E5%8A%9F%E7%90%83%E9%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时23分 ~ 07时16分]"
-        },
-        {
-          "title": "日本队6号",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E9%98%9F6%E5%8F%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            15,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 07时16分]"
-        },
-        {
-          "title": "冲击冠军！U23国足决战日本：王钰栋彭啸首发，拜合拉木替补",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32458763",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时14分 ~ 22时15分]"
-        },
-        {
-          "title": "日本首相高市早苗表示，政府将采取一切必要措施应对投机性和高度异常的市场波动。 高市早苗未具体说明其言论是否与日本国债收益率或日元有关。",
-          "url": "https://wallstreetcn.com/livenews/3043336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            20,
-            21,
-            22,
-            24,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时26分 ~ 18时18分]"
-        },
-        {
-          "title": "U23日本6号球员被黄牌警告",
-          "url": "https://www.baidu.com/s?wd=U23%E6%97%A5%E6%9C%AC6%E5%8F%B7%E7%90%83%E5%91%98%E8%A2%AB%E9%BB%84%E7%89%8C%E8%AD%A6%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            13,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 05时15分]"
-        },
-        {
-          "title": "U23国足下一场大考是日本亚运会",
-          "url": "https://www.toutiao.com/trending/7598979403858775603/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            6,
-            14,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时23分 ~ 07时16分]"
-        },
-        {
-          "title": "日本茨城县南部发生4.2级地震",
-          "url": "https://flash.jin10.com/detail/20260125105641176800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4,
-            9,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 16时22分]"
-        },
-        {
-          "title": "日本U23为U23国足列队鼓掌",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%ACU23%E4%B8%BAU23%E5%9B%BD%E8%B6%B3%E5%88%97%E9%98%9F%E9%BC%93%E6%8E%8C",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            13,
-            10,
-            19,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 15时19分]"
-        },
-        {
-          "title": "陪看U23国足VS日本",
-          "url": "https://www.toutiao.com/trending/7598919393132940846/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "范志毅退钱姐陪看U23国足vs日本",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8C%83%E5%BF%97%E6%AF%85%E9%80%80%E9%92%B1%E5%A7%90%E9%99%AA%E7%9C%8BU23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "日本队点球破门",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E9%98%9F%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            24,
-            18,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 07时16分]"
-        },
-        {
-          "title": "这座见证大唐盛世的国宝 日本该还了",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%BA%A7%E8%A7%81%E8%AF%81%E5%A4%A7%E5%94%90%E7%9B%9B%E4%B8%96%E7%9A%84%E5%9B%BD%E5%AE%9D+%E6%97%A5%E6%9C%AC%E8%AF%A5%E8%BF%98%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            9,
-            5,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时26分]"
-        },
-        {
-          "title": "U23亚洲杯决赛，国足能否战胜卫冕冠军日本？",
-          "url": "https://www.zhihu.com/question/1998184123462882847",
-          "source": "知乎",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "U23国足对日本现场看台几乎坐满",
-          "url": "https://www.toutiao.com/trending/7598497817262719003/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "贺炜：U23国足输给日本并非世界末日",
-          "url": "https://www.toutiao.com/trending/7598204256374128682/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 11时50分]"
-        },
-        {
-          "title": "U23亚洲杯决赛国足vs日本",
-          "url": "https://www.baidu.com/s?wd=U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "闪电失球!国足半场2比0日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349626&amp;topic_name=%E9%97%AA%E7%94%B5%E5%A4%B1%E7%90%83%21%E5%9B%BD%E8%B6%B3%E5%8D%8A%E5%9C%BA2%E6%AF%940%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "U23国足vs日本",
-          "url": "https://www.douyin.com/hot/2377895",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "U23国足两球落后日本",
-          "url": "https://www.toutiao.com/trending/7598947267541978651/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "U23国足半场0比2落后日本",
-          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E5%8D%8A%E5%9C%BA0%E6%AF%942%E8%90%BD%E5%90%8E%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "日本首相高市早苗誓言就汇率波动采取行动 应对投机性市场行为",
-          "url": "https://flash.jin10.com/detail/20260125085035422800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 13时25分]"
-        },
-        {
-          "title": "日本首相高市早苗：政府将采取必要措施应对投机性、异常的市场波动。",
-          "url": "https://flash.jin10.com/detail/20260125084817262800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 13时25分]"
-        },
-        {
-          "title": "日本网民热议中国U23",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%83%AD%E8%AE%AE%E4%B8%AD%E5%9B%BDU23",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "U23国足0比4日本U23",
-          "url": "https://s.weibo.com/weibo?q=U23%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%ACU23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
-        },
-        {
-          "title": "日本进球",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E8%BF%9B%E7%90%83&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "不吹不黑，从 U23 决赛的场面看，日本领先亚洲足球多少？",
-          "url": "https://www.zhihu.com/question/1998560213326849864",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时14分]"
-        },
-        {
-          "title": "u23国足半场0比2日本",
-          "url": "https://s.weibo.com/weibo?q=%23u23%E5%9B%BD%E8%B6%B3%E5%8D%8A%E5%9C%BA0%E6%AF%942%E6%97%A5%E6%9C%AC%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "日本队 小动作",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E9%98%9F%20%E5%B0%8F%E5%8A%A8%E4%BD%9C&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "有哪些日本动漫在引进翻译时，人物名字有出入？为什么？",
-          "url": "https://www.zhihu.com/question/24845022",
-          "source": "知乎",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时30分]"
-        },
-        {
-          "title": "U23决赛国足vs日本前瞻",
-          "url": "https://search.bilibili.com/all?keyword=U23%E5%86%B3%E8%B5%9B%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "没奇迹，获亚军，U23国足0-4日本",
-          "url": "https://sports.ifeng.com/c/8qBdHidJTuW",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "U23 国足面对日本队一败涂地，为何邵佳一支持安东尼奥继续留任国字号球队当主教练？",
-          "url": "https://www.zhihu.com/question/1998560556005754136",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时33分 ~ 22时15分]"
-        },
-        {
-          "title": "日本民众送别大熊猫哭了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E9%80%81%E5%88%AB%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%93%AD%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "范志毅谈U23国足对战日本队",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E8%B0%88U23%E5%9B%BD%E8%B6%B3%E5%AF%B9%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "白岩松：唐鸿胪井碑日本该还了",
-          "url": "https://www.toutiao.com/trending/7598836314704265222/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时49分]"
-        },
-        {
-          "title": "日本队是U23亚洲杯历史进球最多球队",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%98%9F%E6%98%AFU23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%8E%86%E5%8F%B2%E8%BF%9B%E7%90%83%E6%9C%80%E5%A4%9A%E7%90%83%E9%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "赛场屹线丨最后一仗！U23亚洲杯决赛中国VS日本，速速集合",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448622",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
-        },
-        {
-          "title": "范志毅谈U23国足不敌日本",
-          "url": "https://www.douyin.com/hot/2378871",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时18分]"
-        },
-        {
-          "title": "松岛辉空获得全日本锦标赛男单冠军",
-          "url": "https://www.toutiao.com/trending/7598681207572676627/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "日本民众想去中国看熊猫：请等着我",
-          "url": "https://www.toutiao.com/trending/7599232969735261747/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "日本民众依依惜别旅日大熊猫",
-          "url": "https://www.toutiao.com/trending/7599102866267115049/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "日本该还唐鸿胪井碑了",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%AF%A5%E8%BF%98%E5%94%90%E9%B8%BF%E8%83%AA%E4%BA%95%E7%A2%91%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 14,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "金属狂欢掀高潮！白银首次破百、黄金逼近5000美元，齐创2020年来最大周涨",
-          "url": "https://wallstreetcn.com/articles/3764056",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 05时15分]"
-        },
-        {
-          "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
-          "url": "https://www.zhihu.com/question/1997605038588129408",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
         {
           "title": "白银还能疯涨多久",
           "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E9%93%B6%E8%BF%98%E8%83%BD%E7%96%AF%E6%B6%A8%E5%A4%9A%E4%B9%85",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时26分 ~ 23时16分]"
-        },
-        {
-          "title": "10亿美元、1269万盎司白银，这个男人提前一年押注贵金属赚翻了！",
-          "url": "https://wallstreetcn.com/articles/3764077",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 15时19分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            15,
-            12,
-            14,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时25分 ~ 22时15分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
           "title": "遗忘十年的白银赚了22万元",
           "url": "https://www.baidu.com/s?wd=%E9%81%97%E5%BF%98%E5%8D%81%E5%B9%B4%E7%9A%84%E7%99%BD%E9%93%B6%E8%B5%9A%E4%BA%8622%E4%B8%87%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            23,
-            20,
-            15,
-            12,
-            13
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时49分 ~ 23时16分]"
-        },
-        {
-          "title": "10年前随手买的白银如今赚翻了",
-          "url": "https://www.baidu.com/s?wd=10%E5%B9%B4%E5%89%8D%E9%9A%8F%E6%89%8B%E4%B9%B0%E7%9A%84%E7%99%BD%E9%93%B6%E5%A6%82%E4%BB%8A%E8%B5%9A%E7%BF%BB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            25,
-            27,
-            30,
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "湖南白银：股票交易严重异常波动，经自查，公司不存在违反信息公平披露的情形。近期国际银价出现较大涨幅，公司白银产品未来市场价格能否继续上涨或维持高位存在不确定性。",
-          "url": "https://wallstreetcn.com/livenews/3043371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            8,
-            13,
-            17,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 23时16分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            7,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 16时22分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
           "title": "国投白银LOF：将于1月26日开市起至当日10:30停牌",
           "url": "https://wallstreetcn.com/livenews/3043375",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            7,
-            12,
-            16,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 23时16分]"
-        },
-        {
-          "title": "金价疯涨的底层逻辑",
-          "url": "https://www.toutiao.com/trending/7598709483937730099/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "专家解读黄金白银疯狂暴涨",
-          "url": "https://www.toutiao.com/trending/7598837992886636086/",
-          "source": "今日头条",
-          "ranks": [
-            16
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "00时20分"
         },
         {
-          "title": "女子10年前随手买的白银如今赚翻了",
-          "url": "https://www.toutiao.com/trending/7597818270804672548/",
-          "source": "今日头条",
+          "title": "湖南白银：股票交易严重异常波动，经自查，公司不存在违反信息公平披露的情形。近期国际银价出现较大涨幅，公司白银产品未来市场价格能否继续上涨或维持高位存在不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3043371",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "白银价格跟随黄金狂飙",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E8%B7%9F%E9%9A%8F%E9%BB%84%E9%87%91%E7%8B%82%E9%A3%99%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "time_info": "00时20分"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
-          "url": "https://www.cls.cn/detail/2268496",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 19时14分]"
-        },
-        {
-          "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
-          "url": "https://flash.jin10.com/detail/20260124222616668800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 11时50分]"
-        },
         {
           "title": "美联储决议+中美数据+科技巨头财报！全球市场进入“风暴眼”",
           "url": "https://wallstreetcn.com/articles/3764002",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            5,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时33分 ~ 23时16分]"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——美联储决议重磅来袭，苹果、微软、特斯拉财报相继发布",
-          "url": "https://flash.jin10.com/detail/20260125214440737800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时16分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
           "url": "https://flash.jin10.com/detail/20260125221344220800",
           "source": "金十数据",
           "ranks": [
-            3
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "全球首条机器人关节自动化产线启动，浦东按下人形机器人量产“加速键”",
-          "url": "https://wallstreetcn.com/livenews/3043351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            6,
-            8,
-            11,
-            12,
-            18,
-            23,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时49分 ~ 22时15分]"
+          "time_info": "00时20分"
         },
         {
-          "title": "银河通用成为2026春晚指定具身大模型机器人",
-          "url": "https://wallstreetcn.com/livenews/3043383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            10,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 23时16分]"
-        },
-        {
-          "title": "银河通用成为2026春晚指定具身大模型机器人",
-          "url": "https://flash.jin10.com/detail/20260125185356776800",
+          "title": "金十整理：下周重要事件与数据预告——美联储决议重磅来袭，苹果、微软、特斯拉财报相继发布",
+          "url": "https://flash.jin10.com/detail/20260125214440737800",
           "source": "金十数据",
           "ranks": [
-            13,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 22时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3043305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时16分]"
-        },
-        {
-          "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
-          "url": "https://www.zhihu.com/question/1996908423174910237",
-          "source": "知乎",
-          "ranks": [
-            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 13时25分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "keyword_group": "稳定币 日本",
+      "match_count": 3,
       "titles": [
         {
-          "title": "U23国足球员集体发抖音",
-          "url": "https://www.douyin.com/hot/2378673",
-          "source": "抖音",
+          "title": "决赛不敌日本，中国队收获U23亚洲杯亚军，创历史最佳战绩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32459344",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "00时20分"
         },
         {
-          "title": "宋亚东发抖音 我搞砸了",
-          "url": "https://www.douyin.com/hot/2379096",
-          "source": "抖音",
+          "title": "日本极端催生:不生娃就切子宫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349632&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%9E%81%E7%AB%AF%E5%82%AC%E7%94%9F%3A%E4%B8%8D%E7%94%9F%E5%A8%83%E5%B0%B1%E5%88%87%E5%AD%90%E5%AE%AB",
+          "source": "贴吧",
           "ranks": [
-            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "正视差距!国足0比4日本摘亚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349626&amp;topic_name=%E6%AD%A3%E8%A7%86%E5%B7%AE%E8%B7%9D%21%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC%E6%91%98%E4%BA%9A",
+          "source": "贴吧",
+          "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时18分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     },
@@ -1177,35 +140,28 @@
           "url": "https://wallstreetcn.com/livenews/3043388",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            5,
-            6,
-            10
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时33分 ~ 23时16分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 1,
       "titles": [
         {
-          "title": "国际团体起诉Meta 指控其就WhatsApp隐私性作出虚假声明",
-          "url": "https://flash.jin10.com/detail/20260125105257820800",
-          "source": "金十数据",
+          "title": "银河通用成为2026春晚指定具身大模型机器人",
+          "url": "https://wallstreetcn.com/livenews/3043383",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            5,
-            10,
-            13,
-            18
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 16时22分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     }
