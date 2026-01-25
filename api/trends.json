@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T05:16:09.585626+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-01-26T06:17:00.393011+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "遗忘十年的白银赚了22万元",
@@ -26,8 +26,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "国投白银LOF：将于1月26日开市起至当日10:30停牌",
@@ -68,8 +68,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "正视差距!国足0比4日本摘亚",
@@ -80,8 +80,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "决赛不敌日本，中国队收获U23亚洲杯亚军，创历史最佳战绩",
@@ -99,11 +99,12 @@
           "url": "https://flash.jin10.com/detail/20260126040717363800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时17分]"
         }
       ]
     },
@@ -119,8 +120,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -128,11 +129,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储决议重磅来袭，苹果、微软、特斯拉财报相继发布",
@@ -150,7 +152,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "爱芯元智半导体股份有限公司通过港交所聆讯",
@@ -158,17 +160,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
+        },
+        {
+          "title": "人工智能引发的内存短缺迫使汽车制造商重新设计半导体",
+          "url": "https://flash.jin10.com/detail/20260126051356994800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "银河通用成为2026春晚指定具身大模型机器人",
@@ -181,6 +195,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 05时16分]"
+        },
+        {
+          "title": "银河通用机器人将亮相春晚",
+          "url": "https://www.toutiao.com/trending/7599281454857863210/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 06时17分]"
         }
       ]
     }
