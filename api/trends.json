@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T00:28:47.808820+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-27T01:26:35.034527+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "国投白银LOF将暂停申购",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "现货白银日内暴涨10.00%，现报113.55美元/盎司。纽约期银日内暴涨12.00%，现报113.57美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260127001619610800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -37,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "一口气了解白银上涨逻辑",
@@ -48,8 +37,42 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
+        },
+        {
+          "title": "如何看待黄金五千，白银破百？",
+          "url": "https://wallstreetcn.com/articles/3764115",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
+        },
+        {
+          "title": "国投白银LOF将暂停申购",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%8A%95%E7%99%BD%E9%93%B6LOF%E5%B0%86%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
+        },
+        {
+          "title": "国投白银LOF：1月28日起暂停申购",
+          "url": "https://www.cls.cn/detail/2270305",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "现货白银突破113美元/盎司 日内暴涨10美元",
@@ -63,15 +86,15 @@
           "time_info": "00时28分"
         },
         {
-          "title": "如何看待黄金五千，白银破百？",
-          "url": "https://wallstreetcn.com/articles/3764115",
-          "source": "华尔街见闻",
+          "title": "现货白银日内涨幅扩大至11.00%，现报114.57美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127010526787800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时26分"
         },
         {
           "title": "现货白银日内暴涨9.00%，现报112.53美元/盎司。纽约期银日内暴涨11.00%，现报112.48美元/盎司。",
@@ -85,26 +108,27 @@
           "time_info": "00时28分"
         },
         {
-          "title": "国投白银LOF将暂停申购",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%8A%95%E7%99%BD%E9%93%B6LOF%E5%B0%86%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "【白银创2021年以来最大涨幅，避险需求推动金属价格走高】现货白银日内涨幅达10.5%，报114.1美元/盎司。 纽约银日内涨幅达12.5%，报114.04美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3044124",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时26分"
         },
         {
-          "title": "国投白银LOF：1月28日起暂停申购",
-          "url": "https://www.cls.cn/detail/2270305",
-          "source": "财联社热门",
+          "title": "现货白银日内暴涨10.00%，现报113.55美元/盎司。纽约期银日内暴涨12.00%，现报113.57美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127001619610800",
+          "source": "金十数据",
           "ranks": [
-            9
+            3,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "现货白银价格5年翻10倍",
@@ -122,22 +146,12 @@
           "url": "https://www.toutiao.com/trending/7599593817109168171/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "现货白银日内涨幅达8.0%，报111.27美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3044084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "金价飙升原因找到了",
@@ -147,15 +161,49 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "白银还能疯涨多久",
           "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E9%93%B6%E8%BF%98%E8%83%BD%E7%96%AF%E6%B6%A8%E5%A4%9A%E4%B9%85",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
+        },
+        {
+          "title": "现货白银涨势不止，突破114美元/盎司，日内涨10.45%。",
+          "url": "https://flash.jin10.com/detail/20260127005024460800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "纽约银日内涨幅达11.5%，报113.02美元/盎司。 现货白银日内涨幅达9.5%，报113.14美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3044114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "现货白银日内涨幅达8.0%，报111.27美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3044084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -197,8 +245,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "外交部提醒春节避免前往日本",
@@ -208,8 +256,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "外交部提醒中国公民春节期间避免前往日本",
@@ -219,8 +267,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
+        },
+        {
+          "title": "日本队门将荒木琉伟当选本届 U23 亚洲杯最佳门将，而国足门将李昊无缘该奖项，如何评价 U23 国足的发挥？",
+          "url": "https://www.zhihu.com/question/1998589357502772599",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
+        },
+        {
+          "title": "外交部提醒：春节期间避免前往日本",
+          "url": "https://www.cls.cn/detail/2269852",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
+        },
+        {
+          "title": "日本列车与卡车相撞，4名中国公民受伤",
+          "url": "https://news.ifeng.com/c/8qEknx01cDS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "6名中国男子日本滑雪被困“死亡谷”",
@@ -234,37 +316,27 @@
           "time_info": "00时28分"
         },
         {
-          "title": "日本队门将荒木琉伟当选本届 U23 亚洲杯最佳门将，而国足门将李昊无缘该奖项，如何评价 U23 国足的发挥？",
-          "url": "https://www.zhihu.com/question/1998589357502772599",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "外交部提醒：春节期间避免前往日本",
-          "url": "https://www.cls.cn/detail/2269852",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "日本列车与卡车相撞，4名中国公民受伤",
-          "url": "https://news.ifeng.com/c/8qEknx01cDS",
+          "title": "导演魏德圣：台湾人绝对不是亲日本的，我们的经历不一样",
+          "url": "https://v.ifeng.com/c/8qEhfOOddr9",
           "source": "凤凰网",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
+        },
+        {
+          "title": "6名中国男子日本滑雪被困死亡谷",
+          "url": "https://s.weibo.com/weibo?q=%236%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%97%A5%E6%9C%AC%E6%BB%91%E9%9B%AA%E8%A2%AB%E5%9B%B0%E6%AD%BB%E4%BA%A1%E8%B0%B7%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "外交部提醒：春节期间避免前往日本",
@@ -278,26 +350,28 @@
           "time_info": "00时28分"
         },
         {
-          "title": "导演魏德圣：台湾人绝对不是亲日本的，我们的经历不一样",
-          "url": "https://v.ifeng.com/c/8qEhfOOddr9",
-          "source": "凤凰网",
+          "title": "日本党首辩论",
+          "url": "https://www.douyin.com/hot/2380126",
+          "source": "抖音",
           "ranks": [
-            9
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
-          "title": "6名中国男子日本滑雪被困死亡谷",
-          "url": "https://s.weibo.com/weibo?q=%236%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%97%A5%E6%9C%AC%E6%BB%91%E9%9B%AA%E8%A2%AB%E5%9B%B0%E6%AD%BB%E4%BA%A1%E8%B0%B7%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "6名中国男子日本滑雪被困“死亡谷”",
+          "url": "https://www.baidu.com/s?wd=6%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%97%A5%E6%9C%AC%E6%BB%91%E9%9B%AA%E8%A2%AB%E5%9B%B0%E2%80%9C%E6%AD%BB%E4%BA%A1%E8%B0%B7%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            9
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "日本首相的继子迫于压力退选",
@@ -305,28 +379,6 @@
           "source": "抖音",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "日本党首辩论",
-          "url": "https://www.douyin.com/hot/2380126",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "6名中国男子日本滑雪被困“死亡谷”",
-          "url": "https://www.baidu.com/s?wd=6%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%97%A5%E6%9C%AC%E6%BB%91%E9%9B%AA%E8%A2%AB%E5%9B%B0%E2%80%9C%E6%AD%BB%E4%BA%A1%E8%B0%B7%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -347,7 +399,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -357,19 +409,31 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
+          "url": "https://wallstreetcn.com/livenews/3044129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时26分"
         },
         {
           "title": "华尔街两大投行：预计美国企业盈利开始走出大型科技股独大",
           "url": "https://wallstreetcn.com/livenews/3044103",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -379,8 +443,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         }
       ]
     },
@@ -396,8 +460,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -407,8 +471,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -418,8 +482,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         }
       ]
     },
@@ -435,8 +499,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "由卡普空开发，与机器人女孩一同冒险的游戏 PRAGMATA 即将发售，但还缺正式中文名，你有什么好提案吗？",
@@ -460,11 +524,12 @@
           "url": "https://wallstreetcn.com/livenews/3044110",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时26分]"
         }
       ]
     },
