@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-01-26T21:41:49.656524+08:00",
-  "total_titles_processed": 1704,
+  "generated_at": "2026-01-26T22:25:04.027612+08:00",
+  "total_titles_processed": 1795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 62,
+      "match_count": 67,
       "titles": [
+        {
+          "title": "中国公民春节期间避免前往日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 22时25分]"
+        },
+        {
+          "title": "外交部提醒春节避免前往日本",
+          "url": "https://www.douyin.com/hot/2380271",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 22时25分]"
+        },
+        {
+          "title": "外交部提醒：春节期间避免前往日本",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%EF%BC%9A%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 22时25分]"
+        },
         {
           "title": "日本极端催生:不生娃就切子宫",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349632&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%9E%81%E7%AB%AF%E5%82%AC%E7%94%9F%3A%E4%B8%8D%E7%94%9F%E5%A8%83%E5%B0%B1%E5%88%87%E5%AD%90%E5%AE%AB",
@@ -25,6 +65,19 @@
           "time_info": "[00时20分 ~ 16时27分]"
         },
         {
+          "title": "日本党首辩论",
+          "url": "https://www.douyin.com/hot/2380126",
+          "source": "抖音",
+          "ranks": [
+            15,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时24分 ~ 22时25分]"
+        },
+        {
           "title": "正视差距!国足0比4日本摘亚",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349626&amp;topic_name=%E6%AD%A3%E8%A7%86%E5%B7%AE%E8%B7%9D%21%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC%E6%91%98%E4%BA%9A",
           "source": "贴吧",
@@ -40,42 +93,16 @@
           "time_info": "[00时20分 ~ 14时31分]"
         },
         {
-          "title": "外交部提醒：春节期间避免前往日本",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%EF%BC%9A%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时22分 ~ 21时41分]"
-        },
-        {
-          "title": "中国公民春节期间避免前往日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时22分 ~ 21时41分]"
-        },
-        {
-          "title": "外交部提醒春节避免前往日本",
-          "url": "https://www.douyin.com/hot/2380271",
-          "source": "抖音",
+          "title": "外交部提醒中国公民春节期间避免前往日本",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32465785",
+          "source": "澎湃新闻",
           "ranks": [
             6,
-            2,
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时22分 ~ 21时41分]"
+          "time_info": "[20时38分 ~ 22时25分]"
         },
         {
           "title": "外交部：中国公民春节期间避免前往日本",
@@ -89,6 +116,17 @@
           "time_info": "[18时22分 ~ 20时38分]"
         },
         {
+          "title": "外交部提醒春节避免前往日本",
+          "url": "https://www.toutiao.com/trending/7599595572160368164/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时25分]"
+        },
+        {
           "title": "决赛不敌日本，中国队收获U23亚洲杯亚军，创历史最佳战绩",
           "url": "https://m.thepaper.cn/newsDetail_forward_32459344",
           "source": "澎湃新闻",
@@ -100,16 +138,18 @@
           "time_info": "[00时20分 ~ 01时15分]"
         },
         {
-          "title": "日本党首辩论",
-          "url": "https://www.douyin.com/hot/2380126",
-          "source": "抖音",
+          "title": "外交部提醒：春节期间避免前往日本",
+          "url": "https://www.cls.cn/detail/2269852",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            25
+            13,
+            12,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时24分 ~ 21时41分]"
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 22时25分]"
         },
         {
           "title": "张本美和在乒乓球全日本锦标赛女单决赛中以 4 比 3 险胜早田希娜并夺冠，如何评价这场比赛？",
@@ -125,27 +165,27 @@
           "time_info": "[14时31分 ~ 16时27分]"
         },
         {
-          "title": "外交部提醒中国公民春节期间避免前往日本",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32465785",
-          "source": "澎湃新闻",
+          "title": "6名中国男子日本滑雪被困“死亡谷”",
+          "url": "https://www.toutiao.com/trending/7599669070933462574/",
+          "source": "今日头条",
           "ranks": [
-            6,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时41分]"
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
-          "title": "外交部提醒春节避免前往日本",
-          "url": "https://www.toutiao.com/trending/7599595572160368164/",
-          "source": "今日头条",
+          "title": "6名中国男子日本滑雪被困死亡谷",
+          "url": "https://s.weibo.com/weibo?q=%236%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%97%A5%E6%9C%AC%E6%BB%91%E9%9B%AA%E8%A2%AB%E5%9B%B0%E6%AD%BB%E4%BA%A1%E8%B0%B7%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            24,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 22时25分]"
         },
         {
           "title": "日本首相高市早苗：如果执政联盟在众议院选举中无法获得多数席位，我将立即辞职。",
@@ -157,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "日本列车与卡车相撞，4名中国公民受伤",
+          "url": "https://news.ifeng.com/c/8qEknx01cDS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "日本11月同步指标月率终值 -1%，前值-0.7%。",
@@ -305,18 +356,6 @@
           "time_info": "[13时31分 ~ 14时31分]"
         },
         {
-          "title": "6名中国男子日本滑雪被困死亡谷",
-          "url": "https://s.weibo.com/weibo?q=%236%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%97%A5%E6%9C%AC%E6%BB%91%E9%9B%AA%E8%A2%AB%E5%9B%B0%E6%AD%BB%E4%BA%A1%E8%B0%B7%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时41分]"
-        },
-        {
           "title": "日本财务大臣片山皋月：不会就外汇市场进行评论。",
           "url": "https://flash.jin10.com/detail/20260126113259313800",
           "source": "金十数据",
@@ -398,19 +437,6 @@
           "time_info": "[11时53分 ~ 12时53分]"
         },
         {
-          "title": "外交部提醒：春节期间避免前往日本",
-          "url": "https://www.cls.cn/detail/2269852",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时41分]"
-        },
-        {
           "title": "日本国民民主党党首玉木雄一郎：如果小企业工资涨幅低于 5%，将考虑下调消费税。",
           "url": "https://wallstreetcn.com/livenews/3043684",
           "source": "华尔街见闻-快讯",
@@ -435,6 +461,19 @@
           "time_info": "[13时31分 ~ 14时31分]"
         },
         {
+          "title": "日本首相的继子迫于压力退选",
+          "url": "https://www.douyin.com/hot/2380198",
+          "source": "抖音",
+          "ranks": [
+            17,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 22时25分]"
+        },
+        {
           "title": "外交部提醒中国公民春节期间避免前往日本",
           "url": "https://wallstreetcn.com/livenews/3043863",
           "source": "华尔街见闻-快讯",
@@ -457,6 +496,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时53分 ~ 12时53分]"
+        },
+        {
+          "title": "4名中国公民在日本受伤",
+          "url": "https://search.bilibili.com/all?keyword=4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%8F%97%E4%BC%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "美国副防长将访日 或要求日本提高防卫费",
@@ -495,16 +545,15 @@
           "time_info": "[17时31分 ~ 18时22分]"
         },
         {
-          "title": "日本首相的继子迫于压力退选",
-          "url": "https://www.douyin.com/hot/2380198",
-          "source": "抖音",
+          "title": "4名我公民在日本一起相撞事故中受伤",
+          "url": "https://s.weibo.com/weibo?q=%234%E5%90%8D%E6%88%91%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%80%E8%B5%B7%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E4%B8%AD%E5%8F%97%E4%BC%A4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时41分]"
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "U23国足不敌日本输在哪",
@@ -650,6 +699,17 @@
           "time_info": "13时31分"
         },
         {
+          "title": "冲绳地方法院判日本政府赔偿美军基地周边居民25亿日元",
+          "url": "https://wallstreetcn.com/livenews/3044040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "日本首相高市早苗：希望在2026财年提交食品税暂缓征收法案。 将继续支持企业实现薪资增长。 个人希望尽快看到食品消费税下调。 目标是在2026财年实施食品消费税下调。",
           "url": "https://wallstreetcn.com/livenews/3043669",
           "source": "华尔街见闻-快讯",
@@ -730,7 +790,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "如何看待黄金五千，白银破百？",
@@ -744,8 +804,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时53分 ~ 21时41分]"
+          "appearance_count": 12,
+          "time_info": "[11时53分 ~ 22时25分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -762,8 +822,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时53分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[11时53分 ~ 22时25分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -788,11 +848,12 @@
           "ranks": [
             21,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时20分 ~ 21时41分]"
+          "appearance_count": 29,
+          "time_info": "[00时20分 ~ 22时25分]"
         },
         {
           "title": "遗忘十年的白银赚了22万元",
@@ -823,6 +884,18 @@
           "time_info": "[14时31分 ~ 20时38分]"
         },
         {
+          "title": "一口气了解白银上涨逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E4%BA%86%E8%A7%A3%E7%99%BD%E9%93%B6%E4%B8%8A%E6%B6%A8%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 22时25分]"
+        },
+        {
           "title": "杨德龙：国际金价下一目标价1万美元",
           "url": "https://www.toutiao.com/trending/7599480136756366899/",
           "source": "今日头条",
@@ -837,16 +910,18 @@
           "time_info": "[12时52分 ~ 15时24分]"
         },
         {
-          "title": "一口气了解白银上涨逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E4%BA%86%E8%A7%A3%E7%99%BD%E9%93%B6%E4%B8%8A%E6%B6%A8%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            3,
-            5
+            27,
+            28,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时41分]"
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 22时25分]"
         },
         {
           "title": "豫光金铅：近期公司产品白银价格出现较大涨幅 未来白银价格能否继续上涨或维持高位存在不确定性",
@@ -892,6 +967,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
+        },
+        {
+          "title": "国投白银LOF将暂停申购",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%8A%95%E7%99%BD%E9%93%B6LOF%E5%B0%86%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "白银",
@@ -954,17 +1040,6 @@
           "time_info": "19时18分"
         },
         {
-          "title": "国投白银LOF：将于1月28日起暂停申购（含定期定额投资）业务。",
-          "url": "https://wallstreetcn.com/livenews/3044033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
           "title": "国际金价突破5000美元关口",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
           "source": "百度热搜",
@@ -1020,17 +1095,16 @@
           "time_info": "18时22分"
         },
         {
-          "title": "金价飙升原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "国投白银LOF：将于1月28日起暂停申购（含定期定额投资）业务。",
+          "url": "https://wallstreetcn.com/livenews/3044033",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            28,
-            6
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时41分]"
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时25分]"
         },
         {
           "title": "金十图示：2026年01月26日（周一）白银ETF持仓报告",
@@ -1043,6 +1117,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 13时31分]"
+        },
+        {
+          "title": "金价破5000美元 短期投资者何去何从",
+          "url": "https://www.toutiao.com/trending/7599554910719315465/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 22时25分]"
         },
         {
           "title": "国投白银LOF：将于1月27日开市起至当日10:30停牌",
@@ -1118,9 +1204,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "法国兴业银行：将年底前黄金价格预期上调1000美元",
+          "url": "https://wallstreetcn.com/livenews/3044041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "现货白银短线下挫1美元，现报109.2美元/盎司。",
@@ -1129,7 +1226,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1222,24 +1319,13 @@
           "time_info": "11时53分"
         },
         {
-          "title": "金价破5000美元 短期投资者何去何从",
-          "url": "https://www.toutiao.com/trending/7599554910719315465/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
           "title": "纽约银日内涨幅达9%，报110.47美元/盎司；现货白银日内涨幅达7%，报110.44美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3044002",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1258,7 +1344,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美联储决议+中美数据+科技巨头财报！全球市场进入“风暴眼”",
@@ -1281,8 +1367,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 21时41分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 22时25分]"
         },
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -1318,6 +1404,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-26）",
+          "url": "https://flash.jin10.com/detail/20260126221652476800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储决议重磅来袭，苹果、微软、特斯拉财报相继发布",
@@ -1365,6 +1462,17 @@
           "time_info": "20时38分"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3044049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "贝克休斯美股盘前涨超3%，此前公司报告第四季度调整后利润高于预期。",
           "url": "https://flash.jin10.com/detail/20260126172109775800",
           "source": "金十数据",
@@ -1389,6 +1497,17 @@
           "time_info": "[17时31分 ~ 18时22分]"
         },
         {
+          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2270324",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
           "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3043852",
           "source": "华尔街见闻-快讯",
@@ -1407,7 +1526,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1418,7 +1537,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1462,7 +1581,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1473,7 +1592,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1484,7 +1603,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -1492,7 +1611,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "银河通用成为2026春晚指定具身大模型机器人",
@@ -1516,6 +1635,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 05时16分]"
+        },
+        {
+          "title": "由卡普空开发，与机器人女孩一同冒险的游戏 PRAGMATA 即将发售，但还缺正式中文名，你有什么好提案吗？",
+          "url": "https://www.zhihu.com/question/1999208523578512141",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "具身智能机器人直连卫星，完成地面无网络环境自主作业",
@@ -1552,6 +1682,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 12时53分]"
+        },
+        {
+          "title": "宇树成为2026年春晚机器人合作伙伴",
+          "url": "https://www.cls.cn/detail/2270217",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "银河通用机器人将亮相春晚",
@@ -1593,7 +1734,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1630,11 +1771,12 @@
           "url": "https://wallstreetcn.com/articles/3764155",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 22时25分]"
         },
         {
           "title": "马化腾希望重现当年微信红包盛况",
@@ -1714,6 +1856,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据The Information：OpenAI在早期广告推广中寻求溢价定价。",
+          "url": "https://flash.jin10.com/detail/20260126220859936800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     }
