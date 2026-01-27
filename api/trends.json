@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T17:29:06.900707+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-01-27T18:23:36.400880+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时23分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时23分 ~ 18时23分]"
         },
         {
           "title": "如何看待黄金五千，白银破百？",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时23分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时23分 ~ 18时23分]"
         },
         {
           "title": "国投白银LOF：1月28日起暂停申购",
@@ -166,6 +166,18 @@
           "time_info": "[00时28分 ~ 07时18分]"
         },
         {
+          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
+          "url": "https://www.zhihu.com/question/1999391504246990744",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 18时23分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -210,18 +222,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
-        },
-        {
-          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
-          "url": "https://www.zhihu.com/question/1999391504246990744",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时29分]"
         },
         {
           "title": "现货白银突破113美元/盎司 日内暴涨10美元",
@@ -422,6 +422,19 @@
           "time_info": "[04时22分 ~ 05时20分]"
         },
         {
+          "title": "上期所出手：收紧白银期货、锡期货交易限额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32467553",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时23分]"
+        },
+        {
           "title": "机构：不认为白银的工业需求会很快出现下滑",
           "url": "https://flash.jin10.com/detail/20260127020316037800",
           "source": "金十数据",
@@ -518,18 +531,6 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
-          "title": "上期所出手：收紧白银期货、锡期货交易限额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32467553",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 17时29分]"
-        },
-        {
           "title": "国投白银LOF再发停牌公告",
           "url": "https://www.toutiao.com/trending/7599593817109168171/",
           "source": "今日头条",
@@ -576,6 +577,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时24分]"
+        },
+        {
+          "title": "国投白银LOF：将于1月28日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3044625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时23分]"
         },
         {
           "title": "分析师：本周可能会再次看到白银保证金水平发生变化",
@@ -671,17 +684,6 @@
           "time_info": "[13时23分 ~ 13时24分]"
         },
         {
-          "title": "国投白银LOF：将于1月28日开市起至当日10:30停牌",
-          "url": "https://wallstreetcn.com/livenews/3044625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "金十图示：2026年01月27日（周二）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260127115136960800",
           "source": "金十数据",
@@ -710,9 +712,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "随着金价持续上涨，美国金矿股盘前走高，纽曼矿业(NEM.N)涨1.1%，Sibanye-Stillwater(SBSW.N)涨1.6%，巴里克黄金(GOLD.N)涨1.7%。SPDR黄金份额ETF涨0.7%。",
+          "url": "https://flash.jin10.com/detail/20260127174707942800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "现货白银突破115美元",
@@ -743,7 +756,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -765,7 +778,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -795,7 +808,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "外交部提醒中国公民春节期间避免前往日本",
@@ -881,6 +894,24 @@
           "time_info": "[09时23分 ~ 17时29分]"
         },
         {
+          "title": "人民日报钟声：必须遏制日本推进“新型军国主义”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32469576",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14,
+            13,
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时44分 ~ 18时23分]"
+        },
+        {
           "title": "日本队门将荒木琉伟当选本届 U23 亚洲杯最佳门将，而国足门将李昊无缘该奖项，如何评价 U23 国足的发挥？",
           "url": "https://www.zhihu.com/question/1998589357502772599",
           "source": "知乎",
@@ -916,21 +947,15 @@
           "time_info": "[00时28分 ~ 16时27分]"
         },
         {
-          "title": "人民日报钟声：必须遏制日本推进“新型军国主义”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32469576",
-          "source": "澎湃新闻",
+          "title": "中国网友称滞留日本：航班大量取消",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%BB%9E%E7%95%99%E6%97%A5%E6%9C%AC%EF%BC%9A%E8%88%AA%E7%8F%AD%E5%A4%A7%E9%87%8F%E5%8F%96%E6%B6%88",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            16,
-            14,
-            13,
-            9,
-            8,
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时44分 ~ 17时29分]"
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 18时23分]"
         },
         {
           "title": "日本党首辩论",
@@ -979,17 +1004,6 @@
           "time_info": "[11时44分 ~ 16时27分]"
         },
         {
-          "title": "中国网友称滞留日本：航班大量取消",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%BB%9E%E7%95%99%E6%97%A5%E6%9C%AC%EF%BC%9A%E8%88%AA%E7%8F%AD%E5%A4%A7%E9%87%8F%E5%8F%96%E6%B6%88",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时29分]"
-        },
-        {
           "title": "4名中国公民在日本受伤",
           "url": "https://search.bilibili.com/all?keyword=4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%8F%97%E4%BC%A4",
           "source": "bilibili 热搜",
@@ -1003,6 +1017,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 11时44分]"
+        },
+        {
+          "title": "“高市下台！”高市早苗选举拉票演讲第一站，遭日本民众抗议(图)",
+          "url": "https://news.ifeng.com/c/8qFyqvPQsmw",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时23分]"
+        },
+        {
+          "title": "日本政府要求渔民避开钓鱼岛",
+          "url": "https://news.ifeng.com/c/8qFvc1m8X70",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时23分]"
         },
         {
           "title": "日本首相的继子迫于压力退选",
@@ -1019,17 +1055,6 @@
           "time_info": "[00时28分 ~ 09时24分]"
         },
         {
-          "title": "“高市下台！”高市早苗选举拉票演讲第一站，遭日本民众抗议(图)",
-          "url": "https://news.ifeng.com/c/8qFyqvPQsmw",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
-        },
-        {
           "title": "中国公民春节期间避免前往日本",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -1042,17 +1067,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时21分 ~ 07时18分]"
-        },
-        {
-          "title": "日本政府要求渔民避开钓鱼岛",
-          "url": "https://news.ifeng.com/c/8qFvc1m8X70",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
         },
         {
           "title": "6名中国男子日本滑雪被困“死亡谷”",
@@ -1122,6 +1136,18 @@
           "time_info": "14时29分"
         },
         {
+          "title": "中国网友称滞留日本：航班大量取消",
+          "url": "https://www.toutiao.com/trending/7599874747593703465/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时23分]"
+        },
+        {
           "title": "日本暴雪为何这么厉害",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%9A%B4%E9%9B%AA%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3",
           "source": "bilibili 热搜",
@@ -1132,6 +1158,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时43分 ~ 13时24分]"
+        },
+        {
+          "title": "第1现场｜“晓晓”“蕾蕾”启程回家，日本大熊猫归零",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471946",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时23分]"
         },
         {
           "title": "外交部提醒：春节期间避免前往日本",
@@ -1214,6 +1252,19 @@
           "time_info": "[11时44分 ~ 13时24分]"
         },
         {
+          "title": "日本熊猫迷坚信熊猫会再来日本",
+          "url": "https://www.toutiao.com/trending/7599931269564075570/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时23分]"
+        },
+        {
           "title": "日本列车与卡车相撞 4名中国公民受伤",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%88%97%E8%BD%A6%E4%B8%8E%E5%8D%A1%E8%BD%A6%E7%9B%B8%E6%92%9E+4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%8F%97%E4%BC%A4",
           "source": "百度热搜",
@@ -1251,29 +1302,6 @@
           "time_info": "[09时23分 ~ 11时44分]"
         },
         {
-          "title": "日本熊猫迷坚信熊猫会再来日本",
-          "url": "https://www.toutiao.com/trending/7599931269564075570/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 17时29分]"
-        },
-        {
-          "title": "第1现场｜“晓晓”“蕾蕾”启程回家，日本大熊猫归零",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471946",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
-        },
-        {
           "title": "日本30年期国债收益率上行3.5个基点，至3.655%。",
           "url": "https://wallstreetcn.com/livenews/3044434",
           "source": "华尔街见闻-快讯",
@@ -1298,17 +1326,6 @@
           "time_info": "[11时44分 ~ 12时43分]"
         },
         {
-          "title": "中国网友称滞留日本：航班大量取消",
-          "url": "https://www.toutiao.com/trending/7599874747593703465/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
-        },
-        {
           "title": "日本最后2只大熊猫今天回国",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%80%E5%90%8E2%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%BB%8A%E5%A4%A9%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1329,6 +1346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
+        },
+        {
+          "title": "日本首相又放厥词",
+          "url": "https://www.douyin.com/hot/2381099",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "日本千叶县确认高致病性禽流感疫情",
@@ -1375,6 +1403,17 @@
           "time_info": "11时44分"
         },
         {
+          "title": "外交部：欢迎日本民众来中国看大熊猫",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%AC%A2%E8%BF%8E%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%9C%8B%E5%A4%A7%E7%86%8A%E7%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "日本经济团体联合会会长：欢迎对日元过度疲软状况的适度调整。",
           "url": "https://flash.jin10.com/detail/20260127143940505800",
           "source": "金十数据",
@@ -1411,8 +1450,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时18分 ~ 17时29分]"
+          "appearance_count": 13,
+          "time_info": "[07时18分 ~ 18时23分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
@@ -1445,7 +1484,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1456,7 +1495,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1613,7 +1652,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "半导体景气蔓延？业内预测：春节后设计环节涨价态势或明朗",
@@ -1626,8 +1665,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 17时29分]"
+          "appearance_count": 8,
+          "time_info": "[13时23分 ~ 18时23分]"
+        },
+        {
+          "title": "诺基亚通过与半导体和软件技术公司Blaize在亚太地区开展战略合作，强化边缘人工智能能力，打造混合推理解决方案。",
+          "url": "https://flash.jin10.com/detail/20260127180105304800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
+          "url": "https://www.cls.cn/detail/2271239",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时23分]"
         },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -1653,17 +1715,6 @@
           "time_info": "15时24分"
         },
         {
-          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
-          "url": "https://www.cls.cn/detail/2271239",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
-        },
-        {
           "title": "时隔6年首次易主！白酒股均价遭半导体反超，3成标的近期回撤超一成",
           "url": "https://www.cls.cn/detail/2271319",
           "source": "财联社热门",
@@ -1671,8 +1722,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时23分]"
         },
         {
           "title": "【午报】三大指数缩量震荡涨跌不一，半导体、算力硬件方向双双走强",
@@ -1728,6 +1779,180 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "欧盟依据数字市场法案对谷歌的在线搜索和数据共享展开调查。",
+          "url": "https://wallstreetcn.com/livenews/3044662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "谷歌法律顾问：然而，我们担心，那些往往由竞争对手投诉驱动而非以消费者利益为导向的进一步规则，将损害用户隐私、安全和创新。",
+          "url": "https://flash.jin10.com/detail/20260127175049223800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "谷歌法律顾问：Android从设计上就是开放的，我们已经在根据《数字市场法》向竞争对手发放搜索数据获取许可。",
+          "url": "https://flash.jin10.com/detail/20260127175037291800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
+          "url": "https://www.cls.cn/detail/2270429",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "欧盟：第二项程序涉及谷歌在《数字市场法案》（DMA）项下的义务，即在公平条件下，向第三方在线搜索引擎提供对Google搜索所持有的匿名化排名及相关数据的访问权限。",
+          "url": "https://flash.jin10.com/detail/20260127175012447800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "欧盟：首项程序涉及谷歌在《数字市场法案》（DMA）项下的义务，即向第三方开发者提供对谷歌 Android 系统所控制的硬件和软件功能的免费且有效的互操作性。",
+          "url": "https://flash.jin10.com/detail/20260127174940980800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "欧盟根据《数字市场法》对谷歌启动规范程序",
+          "url": "https://flash.jin10.com/detail/20260127174618886800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
+          "url": "https://wallstreetcn.com/livenews/3044091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "腾讯元宝春节将发 10 亿元红包，欲复刻 11 年前微信红包盛况，当下这一策略还行得通吗？",
+          "url": "https://www.zhihu.com/question/1999157390327710238",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[03时20分 ~ 14时29分]"
+        },
+        {
+          "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
+          "url": "https://wallstreetcn.com/articles/3764155",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 14时29分]"
+        },
+        {
+          "title": "马化腾：希望重现当年微信红包盛况",
+          "url": "https://www.toutiao.com/trending/7599650144430067263/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 11时44分]"
+        },
+        {
+          "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
+          "url": "https://www.cls.cn/detail/2270223",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 09时24分]"
+        },
+        {
+          "title": "导师一直叫我微信名怎么办",
+          "url": "https://s.weibo.com/weibo?q=%E5%AF%BC%E5%B8%88%E4%B8%80%E7%9B%B4%E5%8F%AB%E6%88%91%E5%BE%AE%E4%BF%A1%E5%90%8D%E6%80%8E%E4%B9%88%E5%8A%9E&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 18时23分]"
+        },
+        {
+          "title": "抖音电商开展跨境膳食补充剂专项治理 公示三大典型违规问题",
+          "url": "https://wallstreetcn.com/livenews/3044657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
@@ -1790,75 +2015,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "腾讯元宝春节将发 10 亿元红包，欲复刻 11 年前微信红包盛况，当下这一策略还行得通吗？",
-          "url": "https://www.zhihu.com/question/1999157390327710238",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时20分 ~ 14时29分]"
-        },
-        {
-          "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
-          "url": "https://wallstreetcn.com/articles/3764155",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 14时29分]"
-        },
-        {
-          "title": "马化腾：希望重现当年微信红包盛况",
-          "url": "https://www.toutiao.com/trending/7599650144430067263/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 11时44分]"
-        },
-        {
-          "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
-          "url": "https://www.cls.cn/detail/2270223",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 09时24分]"
-        },
-        {
-          "title": "导师一直叫我微信名怎么办",
-          "url": "https://s.weibo.com/weibo?q=%E5%AF%BC%E5%B8%88%E4%B8%80%E7%9B%B4%E5%8F%AB%E6%88%91%E5%BE%AE%E4%BF%A1%E5%90%8D%E6%80%8E%E4%B9%88%E5%8A%9E&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时29分]"
         }
       ]
     },
@@ -1931,34 +2087,6 @@
           "title": "由卡普空开发，与机器人女孩一同冒险的游戏 PRAGMATA 即将发售，但还缺正式中文名，你有什么好提案吗？",
           "url": "https://www.zhihu.com/question/1999208523578512141",
           "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
-          "url": "https://www.cls.cn/detail/2270429",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
-          "url": "https://wallstreetcn.com/livenews/3044091",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
