@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T21:45:07.347661+08:00",
-  "total_titles_processed": 2000,
+  "generated_at": "2026-01-28T22:26:15.020412+08:00",
+  "total_titles_processed": 2068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "黄金白银基金宣布暂停申购",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时42分 ~ 21时45分]"
+          "appearance_count": 17,
+          "time_info": "[11时42分 ~ 22时26分]"
         },
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
@@ -98,8 +98,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时31分 ~ 21时45分]"
+          "appearance_count": 13,
+          "time_info": "[14时31分 ~ 22时26分]"
         },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -126,6 +126,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时24分 ~ 07时18分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            1,
+            6,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 22时26分]"
         },
         {
           "title": "白银",
@@ -157,18 +172,29 @@
           "time_info": "[11时42分 ~ 16时26分]"
         },
         {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "title": "金价波动如何影响实体金店",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            1,
             6,
-            29
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[20时39分 ~ 22时26分]"
+        },
+        {
+          "title": "深度解析白银逼空背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%99%BD%E9%93%B6%E9%80%BC%E7%A9%BA%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时44分 ~ 22时26分]"
         },
         {
           "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
@@ -196,29 +222,6 @@
           "time_info": "[12时41分 ~ 17时31分]"
         },
         {
-          "title": "金价波动如何影响实体金店",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时45分]"
-        },
-        {
-          "title": "深度解析白银逼空背后逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%99%BD%E9%93%B6%E9%80%BC%E7%A9%BA%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
           "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
           "url": "https://wallstreetcn.com/articles/3764316",
           "source": "华尔街见闻",
@@ -227,8 +230,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[20时39分 ~ 22时26分]"
         },
         {
           "title": "金价波动",
@@ -236,11 +239,12 @@
           "source": "微博",
           "ranks": [
             10,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[20时39分 ~ 22时26分]"
         },
         {
           "title": "现货白银盘初跌超1.00%，现报111.18美元/盎司。",
@@ -441,6 +445,18 @@
           "time_info": "[17时31分 ~ 18时24分]"
         },
         {
+          "title": "银锡铜价格大涨 电子元器件掀涨价潮",
+          "url": "https://wallstreetcn.com/livenews/3045609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时26分]"
+        },
+        {
           "title": "湖南白银：预计2025年净利润同比增长67.88%-126.78%",
           "url": "https://wallstreetcn.com/livenews/3045463",
           "source": "华尔街见闻-快讯",
@@ -476,6 +492,17 @@
           "time_info": "[18时23分 ~ 18时24分]"
         },
         {
+          "title": "白银有色7连板逻辑何在",
+          "url": "https://www.toutiao.com/trending/7600386087566970422/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 1月28日（周三）晚盘盘初上涨1.48%报1180.2元/克；<br/>上海黄金交易所白银T+D 1月28日（周三）晚盘盘初下跌0.13%报28980.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260128200435650800",
           "source": "金十数据",
@@ -485,17 +512,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
-        },
-        {
-          "title": "银锡铜价格大涨 电子元器件掀涨价潮",
-          "url": "https://wallstreetcn.com/livenews/3045609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月27日（周二）晚盘收盘下跌0.17%报1137.01元/克；<br/>上海黄金交易所白银T+D 1月27日（周二）晚盘收盘下跌1.05%报27900.0元/千克。",
@@ -737,8 +753,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时24分 ~ 21时45分]"
+          "appearance_count": 29,
+          "time_info": "[00时24分 ~ 22时26分]"
         },
         {
           "title": "U23 国足的防守一直做的不错，为何日本队只用了 20 分钟就打穿咱们国足的防线？",
@@ -1195,7 +1211,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
@@ -1206,8 +1222,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时18分 ~ 21时45分]"
+          "appearance_count": 20,
+          "time_info": "[07时18分 ~ 22时26分]"
         },
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -1248,22 +1264,36 @@
           "url": "https://wallstreetcn.com/articles/3764338",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[21时44分 ~ 22时26分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764353",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[20时39分 ~ 22时26分]"
+        },
+        {
+          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
+          "url": "https://www.cls.cn/detail/2272925",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时44分 ~ 22时26分]"
         },
         {
           "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
@@ -1276,6 +1306,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时20分 ~ 20时39分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3045636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -1322,17 +1363,6 @@
           "time_info": "17时31分"
         },
         {
-          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
-          "url": "https://www.cls.cn/detail/2272925",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
           "title": "美股费城半导体指数涨2.5%。",
           "url": "https://flash.jin10.com/detail/20260127235011567800",
           "source": "金十数据",
@@ -1342,17 +1372,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "GE Vernova美股盘前走低，现跌近3%，此前一度涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3045621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 美光科技涨超5%",
@@ -1433,15 +1452,16 @@
           "time_info": "20时39分"
         },
         {
-          "title": "星巴克美股盘前涨近10%，公司第一财季净营收高于预估。",
-          "url": "https://wallstreetcn.com/livenews/3045613",
+          "title": "GE Vernova美股盘前走低，现跌近3%，此前一度涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3045621",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时26分]"
         },
         {
           "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
@@ -1468,6 +1488,18 @@
           "time_info": "[20时39分 ~ 21时45分]"
         },
         {
+          "title": "星巴克美股盘前涨近10%，公司第一财季净营收高于预估。",
+          "url": "https://wallstreetcn.com/livenews/3045613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时26分]"
+        },
+        {
           "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
           "url": "https://wallstreetcn.com/livenews/3044921",
           "source": "华尔街见闻-快讯",
@@ -1478,6 +1510,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时23分]"
+        },
+        {
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
+        },
+        {
+          "title": "星巴克第一财季净营收99亿美元，预估96.5亿美元。 第一财季调整后每股收益0.56美元，预估0.59美元。 第一财季调整后运营利润率10.1％，预估10.3％。 第一财季同店销售增长4％，预估增长1.97％。 星巴克预计全年调整后每股收益2.15美元至2.40美元。 星巴克预计全年美国同店销售至少增长3％，市场预估增长2.85％。 星巴克预计全年同店销售至少增长3％，市场预估增长2.83％。 星巴克在2026财年第一财季关闭了165家门店。 星巴克美股盘前涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3045603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时26分]"
         },
         {
           "title": "美股盘前：阿斯麦涨约5%，希捷科技涨约10%",
@@ -1523,17 +1578,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
-        },
-        {
-          "title": "星巴克第一财季净营收99亿美元，预估96.5亿美元。 第一财季调整后每股收益0.56美元，预估0.59美元。 第一财季调整后运营利润率10.1％，预估10.3％。 第一财季同店销售增长4％，预估增长1.97％。 星巴克预计全年调整后每股收益2.15美元至2.40美元。 星巴克预计全年美国同店销售至少增长3％，市场预估增长2.85％。 星巴克预计全年同店销售至少增长3％，市场预估增长2.83％。 星巴克在2026财年第一财季关闭了165家门店。 星巴克美股盘前涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3045603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
         },
         {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
@@ -1591,6 +1635,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-28）",
+          "url": "https://flash.jin10.com/detail/20260128213140703800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美股半导体指数涨2.4%，创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3044981",
           "source": "华尔街见闻-快讯",
@@ -1605,7 +1660,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -1617,8 +1672,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时19分 ~ 21时45分]"
+          "appearance_count": 19,
+          "time_info": "[09时19分 ~ 22时26分]"
         },
         {
           "title": "光通信鼻祖康宁斩获Meta大单 股价创近25年新高 CEO称数据中心将成最大客户",
@@ -1633,6 +1688,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时19分 ~ 13时25分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
+          "url": "https://flash.jin10.com/detail/20260128220815725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
@@ -1965,8 +2031,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时26分 ~ 21时45分]"
+          "appearance_count": 10,
+          "time_info": "[16时26分 ~ 22时26分]"
         },
         {
           "title": "刘强东老家“村晚”现机器人舞王",
@@ -2079,7 +2145,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "王祖贤入驻抖音",
@@ -2098,6 +2164,17 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时24分 ~ 17时31分]"
+        },
+        {
+          "title": "王祖贤入驻抖音",
+          "url": "https://www.toutiao.com/trending/7599842592301989907/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "来抖音商城买每代人都爱的年货",
