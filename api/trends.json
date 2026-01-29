@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T18:32:42.897590+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-01-29T19:27:56.664899+08:00",
+  "total_titles_processed": 1880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "白银面临\"交割失败\"危机？3月或成贵金属\"关键时刻\"",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 18时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 19时27分]"
         },
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -145,8 +145,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 18时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 19时27分]"
         },
         {
           "title": "黄金白银基金宣布暂停申购",
@@ -190,13 +190,46 @@
           "time_info": "[02时31分 ~ 07时22分]"
         },
         {
+          "title": "二级市场溢价超60%，白银基金再度全天停牌",
+          "url": "https://www.cls.cn/detail/2274258",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时27分]"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时27分]"
+        },
+        {
+          "title": "黄金白银基金宣布暂停申购",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时37分 ~ 19时27分]"
+        },
+        {
           "title": "此次白银暴涨的结局会如何",
           "url": "https://search.bilibili.com/all?keyword=%E6%AD%A4%E6%AC%A1%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -210,17 +243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
-        },
-        {
-          "title": "二级市场溢价超60%，白银基金再度全天停牌",
-          "url": "https://www.cls.cn/detail/2274258",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         },
         {
           "title": "现货白银日内暴涨4.00美元，现报116.32美元/盎司，涨幅3.56%。",
@@ -256,6 +278,17 @@
           "time_info": "15时37分"
         },
         {
+          "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
+          "url": "https://wallstreetcn.com/livenews/3046433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "现货黄金涨1.80%，暂报5274.50美元；COMEX黄金期货涨3.71%。 现货白银跌0.65%，纽约期银涨5.15%。 COMEX铜期货涨0.96%。 WTI原油期货涨1.17%，布油涨1.01%。",
           "url": "https://wallstreetcn.com/livenews/3045756",
           "source": "华尔街见闻-快讯",
@@ -273,31 +306,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "黄金白银基金宣布暂停申购",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时37分 ~ 18时32分]"
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "美联储如期按兵不动，现货白银短线走高1.2美元，现报112.42美元/盎司。",
@@ -324,17 +335,6 @@
           "time_info": "[00时31分 ~ 09时29分]"
         },
         {
-          "title": "高盛：上调今明两年金价预测",
-          "url": "https://www.toutiao.com/trending/7600254146813558827/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
           "title": "特朗普升级对伊施压，白银冲上120后回落，金、铜、油全线狂飙，美元持续下挫",
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
@@ -344,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        },
+        {
+          "title": "中国银行：调整白银延期合约业务参数 保证金比例由48.26%调整为50.80%",
+          "url": "https://wallstreetcn.com/livenews/3046422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月29日（周四）早盘盘初上涨5.59%报1228.06元/克；<br/>上海黄金交易所白银T+D 1月29日（周四）早盘盘初上涨2.62%报29780.0元/千克。",
@@ -427,6 +438,18 @@
           "time_info": "[17时38分 ~ 18时32分]"
         },
         {
+          "title": "高盛：上调今明两年金价预测",
+          "url": "https://www.toutiao.com/trending/7600254146813558827/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时27分]"
+        },
+        {
           "title": "金价飙涨消费者把黄金变现",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%8A%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B0%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -461,6 +484,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "分析师：金价的任何回调都成为具有吸引力的买入机会",
           "url": "https://flash.jin10.com/detail/20260129085233565800",
           "source": "金十数据",
@@ -470,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "招金黄金：公司合质金和金精矿产品的价格受黄金价格波动影响较大，若未来黄金价格大幅波动，将给公司经营业绩带来较大影响；公司瓦图科拉金矿所在地为斐济共和国，斐济与国内在政治、法律、经济、税收、文化发展水平方面存在较大差异，存在境外投资项目环境、相关政策变动等风险，目前公司正在对矿山进行全面的技术改造和设备升级。",
+          "url": "https://wallstreetcn.com/livenews/3046415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
@@ -552,7 +597,7 @@
     },
     {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -564,8 +609,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时29分 ~ 18时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时29分 ~ 19时27分]"
         },
         {
           "title": "特斯拉首席财务官：特斯拉可能在几个月内发布Optimus机器人。",
@@ -590,6 +635,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特斯拉盘前上涨 但激进支出计划引发现金流担忧",
+          "url": "https://flash.jin10.com/detail/20260129191347837800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "马斯克：特斯拉“有望”在4月份首发下一代Roadster。",
           "url": "https://wallstreetcn.com/livenews/3045887",
           "source": "华尔街见闻-快讯",
@@ -610,6 +666,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
+          "url": "https://www.zhihu.com/question/2000138565615576779",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时27分]"
         },
         {
           "title": "特斯拉首席财务官：第四季度全自动驾驶软件的采用率有所提高，全球付费用户达到110万。",
@@ -667,6 +736,28 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特斯拉(TSLA.O)：预计2026年资本支出将超过200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260129190803441800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
+          "title": "特斯拉：预计2026年资本支出超过200亿美元。 2025年资本支出总额达85.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "马斯克：特斯拉需建造巨型芯片工厂",
           "url": "https://www.toutiao.com/trending/7600569251308552233/",
           "source": "今日头条",
@@ -689,6 +780,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特斯拉(TSLA.O)：2025年资本支出达85.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260129190729234800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：从长远来看，Optimus将对美国GDP产生非常重大的影响。",
           "url": "https://flash.jin10.com/detail/20260129064449017800",
           "source": "金十数据",
@@ -698,18 +800,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
-          "url": "https://www.zhihu.com/question/2000138565615576779",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时32分]"
         },
         {
           "title": "特斯拉4680电池悄悄回归Model Y",
@@ -935,7 +1025,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "燃气轮机、电网设备需求爆发，GE Vernova Q4营收超预期，积压订单达到1500亿美元 | 财报见闻",
@@ -946,8 +1036,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时29分 ~ 18时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时29分 ~ 19时27分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -976,6 +1066,20 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时04分 ~ 19时27分]"
+        },
+        {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
           "url": "https://wallstreetcn.com/articles/3764338",
           "source": "华尔街见闻",
@@ -998,20 +1102,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 06时22分]"
-        },
-        {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时04分 ~ 18时32分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -1056,7 +1146,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1115,6 +1205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3046431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "美联储发布1月决议声明前，标普500指数和道指微幅下跌，纳斯达克100指数涨幅不足0.4%，科技股七巨头指数涨0.1%，半导体指数涨2.2%，银行指数跌1%。",
@@ -1289,7 +1390,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1308,7 +1409,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "东大发飙!日本熊猫库存清零",
@@ -1320,11 +1421,12 @@
             8,
             10,
             13,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时04分 ~ 18时32分]"
+          "appearance_count": 10,
+          "time_info": "[12时04分 ~ 19时27分]"
         },
         {
           "title": "德国 7:1 巴西跟日本 7:0 中国哪个难度更大?",
@@ -1363,8 +1465,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[16时33分 ~ 19时27分]"
         },
         {
           "title": "日经民调：日本自民党有望在选举中赢得多数席位。",
@@ -1497,6 +1599,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "东电公司公布日本最大核电站重启故障的推断原因",
+          "url": "https://wallstreetcn.com/livenews/3046383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         }
       ]
     },
@@ -1568,11 +1681,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时27分]"
         },
         {
           "title": "Meta盘后涨幅扩大至超过5%。",
@@ -1702,6 +1816,18 @@
           "time_info": "15时37分"
         },
         {
+          "title": "【焦点复盘】科创50跌超3%，半导体等硬科技方向低迷，贵州茅台大涨近9%收复1400元大关",
+          "url": "https://www.cls.cn/detail/2274253",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时27分]"
+        },
+        {
           "title": "A股半导体板块大涨",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1723,17 +1849,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
-        },
-        {
-          "title": "【焦点复盘】科创50跌超3%，半导体等硬科技方向低迷，贵州茅台大涨近9%收复1400元大关",
-          "url": "https://www.cls.cn/detail/2274253",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         }
       ]
     },
@@ -1804,8 +1919,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
+          "url": "https://www.zhihu.com/question/1994095464539255007",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3046051",
@@ -1832,18 +1958,30 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "台当局拟在校园禁用5款大陆App，微博、小红书等位列其中",
           "url": "https://news.ifeng.com/c/8qJDOWuG2kr",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时37分 ~ 18时32分]"
+          "appearance_count": 6,
+          "time_info": "[15时37分 ~ 19时27分]"
+        },
+        {
+          "title": "微信发布针对第三方违规行为的打击公告",
+          "url": "https://wallstreetcn.com/livenews/3046418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "王祖贤入驻抖音",
