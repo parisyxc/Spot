@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T02:38:02.724336+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-30T03:28:20.148502+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "二级市场溢价超60%，白银基金再度全天停牌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -27,19 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "现货黄金白银快速走低",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%BF%AB%E9%80%9F%E8%B5%B0%E4%BD%8E%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时34分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 03时28分]"
         },
         {
           "title": "全球大国的白银争夺战",
@@ -47,11 +48,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "金价",
@@ -59,11 +61,12 @@
           "source": "微博",
           "ranks": [
             6,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "金价上涨打金店2天亏5万",
@@ -72,11 +75,68 @@
           "ranks": [
             7,
             24,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月29日（周四）晚盘收盘下跌3.4%报1195.83元/克；<br/>上海黄金交易所白银T+D 1月29日（周四）晚盘收盘下跌1.47%报29359.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260130023158117800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
+        },
+        {
+          "title": "金价暴涨第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
+        },
+        {
+          "title": "黄金白银基金宣布暂停申购",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -101,61 +161,29 @@
           "time_info": "00时38分"
         },
         {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
-        },
-        {
-          "title": "金价暴涨第一批受害者出现",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
-        },
-        {
-          "title": "黄金白银基金宣布暂停申购",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
-        },
-        {
           "title": "白银重挫8%",
           "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E9%87%8D%E6%8C%AB8%25%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时34分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 03时28分]"
+        },
+        {
+          "title": "此次白银暴涨的结局会如何",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A4%E6%AC%A1%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "一口气看懂金价涨跌的底层逻辑",
@@ -166,8 +194,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "现货白银日内跌幅达6.0%，报109.18美元/盎司。 纽约金跌破5200美元/盎司关口，报5180.4美元/盎司。 现货黄金日内跌幅达4.0%，报5173.28美元/盎司。",
@@ -175,17 +203,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "此次白银暴涨的结局会如何",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A4%E6%AC%A1%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -205,8 +222,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -217,8 +234,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -229,8 +246,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
@@ -260,22 +277,24 @@
           "url": "https://flash.jin10.com/detail/20260130013122983800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时28分]"
         },
         {
           "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260130013040868800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时28分]"
         },
         {
           "title": "IBM带来2026年第一大单科技股欧元债券供应",
@@ -303,7 +322,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "外界担忧日本或强登钓鱼岛 中方回应",
@@ -314,8 +333,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
@@ -325,8 +344,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "熊猫在日本真的很火吗？",
@@ -335,11 +354,23 @@
           "ranks": [
             15,
             14,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
+        },
+        {
+          "title": "日本2025年民间进口大米暴增90余倍",
+          "url": "https://wallstreetcn.com/livenews/3046662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "国防部回应日本可能“强登钓鱼岛”",
@@ -350,8 +381,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "东大发飙!日本熊猫库存清零",
@@ -361,8 +392,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "美国总统特朗普：美国目前的钢铁产量超过日本。",
@@ -389,8 +420,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -401,8 +432,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "标普500指数维持下跌1%的状态，道指跌0.2%，纳指跌1.8%，半导体指数跌1.5%。 1月29日临近纽约中午，美国总统特朗普赞扬股市上涨。",
@@ -427,11 +458,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至1.1%，成分股Atlassian跌11.5%，微软跌11%，Workday跌9.5%，财捷跌7%，Strategy跌超5%。 Diamond Energy目前涨3.8%表现第四，康卡斯特、霍尼韦尔涨超4%，Meta涨7.8%。",
@@ -458,8 +490,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "特斯拉(TSLA.O)：我们会继续为Model S和X项目提供支持，只要人们还拥有这些车辆。",
@@ -487,8 +519,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         },
         {
           "title": "大学生毕业之后把老师的微信删除，若干年以后有事要找老师咨询，又重新添加微信，作为老师你会怎么办？",
@@ -496,11 +528,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时34分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 03时28分]"
         }
       ]
     },
@@ -514,11 +547,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时28分]"
         }
       ]
     }
