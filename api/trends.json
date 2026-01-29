@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T19:27:56.664899+08:00",
-  "total_titles_processed": 1880,
+  "generated_at": "2026-01-29T20:45:11.806045+08:00",
+  "total_titles_processed": 1982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "白银面临\"交割失败\"危机？3月或成贵金属\"关键时刻\"",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 19时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 20时45分]"
         },
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -145,8 +145,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 19时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 20时45分]"
         },
         {
           "title": "黄金白银基金宣布暂停申购",
@@ -176,6 +176,40 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "二级市场溢价超60%，白银基金再度全天停牌",
+          "url": "https://www.cls.cn/detail/2274258",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 20时45分]"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 20时45分]"
+        },
+        {
+          "title": "黄金白银基金宣布暂停申购",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时37分 ~ 20时45分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -188,50 +222,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时31分 ~ 07时22分]"
-        },
-        {
-          "title": "二级市场溢价超60%，白银基金再度全天停牌",
-          "url": "https://www.cls.cn/detail/2274258",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时27分]"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时27分]"
-        },
-        {
-          "title": "黄金白银基金宣布暂停申购",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时37分 ~ 19时27分]"
-        },
-        {
-          "title": "此次白银暴涨的结局会如何",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A4%E6%AC%A1%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         },
         {
           "title": "纽约期银与现货白银均站上120美元",
@@ -278,15 +268,16 @@
           "time_info": "15时37分"
         },
         {
-          "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
-          "url": "https://wallstreetcn.com/livenews/3046433",
-          "source": "华尔街见闻-快讯",
+          "title": "此次白银暴涨的结局会如何",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A4%E6%AC%A1%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            2,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 20时45分]"
         },
         {
           "title": "现货黄金涨1.80%，暂报5274.50美元；COMEX黄金期货涨3.71%。 现货白银跌0.65%，纽约期银涨5.15%。 COMEX铜期货涨0.96%。 WTI原油期货涨1.17%，布油涨1.01%。",
@@ -352,7 +343,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -388,6 +379,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
+          "url": "https://wallstreetcn.com/livenews/3046433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时45分]"
         },
         {
           "title": "现货白银日内涨幅达4.5%，报117.09美元/盎司。",
@@ -450,6 +453,17 @@
           "time_info": "[18时32分 ~ 19时27分]"
         },
         {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 20时45分]"
+        },
+        {
           "title": "金价飙涨消费者把黄金变现",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%8A%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B0%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -484,17 +498,6 @@
           "time_info": "14时40分"
         },
         {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
           "title": "分析师：金价的任何回调都成为具有吸引力的买入机会",
           "url": "https://flash.jin10.com/detail/20260129085233565800",
           "source": "金十数据",
@@ -512,9 +515,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "湖南白银：存在较高的炒作风险，未来存在快速下跌的风险",
+          "url": "https://wallstreetcn.com/livenews/3046460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
@@ -548,6 +562,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月29日（周四）晚盘盘初上涨0.13%报1239.53元/克；<br/>上海黄金交易所白银T+D 1月29日（周四）晚盘盘初上涨1.08%报30118.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260129200153630800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "渣打：金价任何回调都是买入机会",
@@ -609,8 +634,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时29分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时29分 ~ 20时45分]"
+        },
+        {
+          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
+          "url": "https://www.zhihu.com/question/2000138565615576779",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 20时45分]"
         },
         {
           "title": "特斯拉首席财务官：特斯拉可能在几个月内发布Optimus机器人。",
@@ -641,7 +680,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -666,19 +705,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
-          "url": "https://www.zhihu.com/question/2000138565615576779",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 19时27分]"
         },
         {
           "title": "特斯拉首席财务官：第四季度全自动驾驶软件的采用率有所提高，全球付费用户达到110万。",
@@ -742,7 +768,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -753,7 +779,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -786,7 +812,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -1025,7 +1051,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "燃气轮机、电网设备需求爆发，GE Vernova Q4营收超预期，积压订单达到1500亿美元 | 财报见闻",
@@ -1076,8 +1102,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时04分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[12时04分 ~ 20时45分]"
         },
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -1140,6 +1166,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "黑石集团(BX.N)美股盘前涨1.1%，四季度利润和收入超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129201634269800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "业绩增长不及预期 微软美股盘前下跌",
           "url": "https://flash.jin10.com/detail/20260129181234274800",
           "source": "金十数据",
@@ -1149,6 +1186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "洛克希德马丁四季度净销售额203亿美元，预估198.5亿美元。 四季度每股收益5.8美元，预期5.86美元，上年同期2.22美元。 四季度营业利润为23.3亿美元，预期22.2亿美元。 洛克希德马丁预计2026年的净销售额775亿美元至800亿美元，市场预估778.9亿美元。 洛克希德马丁预计2026年每股收益29.35美元至30.25美元，市场预估29.09美元。 洛克希德马丁预计2026年自由现金流65亿至68亿美元，预期61.6亿美元。 洛克希德马丁美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3046473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
@@ -1207,17 +1255,6 @@
           "time_info": "06时22分"
         },
         {
-          "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3046431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
           "title": "美联储发布1月决议声明前，标普500指数和道指微幅下跌，纳斯达克100指数涨幅不足0.4%，科技股七巨头指数涨0.1%，半导体指数涨2.2%，银行指数跌1%。",
           "url": "https://wallstreetcn.com/livenews/3045753",
           "source": "华尔街见闻-快讯",
@@ -1238,6 +1275,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3046431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时45分]"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -1384,6 +1433,17 @@
           "time_info": "17时38分"
         },
         {
+          "title": "卡特彼勒公司第四季度营收191.3亿美元，预估179.1亿美元。 第四季度调整后每股收益5.16美元，预估4.69美元。 第四季度每股收益5.12美元，上年同期5.78美元。 第四季度调整后运营收益29.8亿美元，预估27.6亿美元。 第四季度机械、能源与交通业务营收182.0亿美元。 卡特彼勒美股盘前涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3046443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "Alphabet(GOOG.O)美股盘前上涨1.9%，此前竞争对手Meta公司上调了年度资本支出计划。",
           "url": "https://flash.jin10.com/detail/20260129175710247800",
           "source": "金十数据",
@@ -1408,6 +1468,216 @@
       ]
     },
     {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 16时34分]"
+        },
+        {
+          "title": "Meta四季度营收598.9亿美元，分析师预期584.2亿美元。预计一季度营收535亿-565亿美元，分析师预期512.7亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            12,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 20时45分]"
+        },
+        {
+          "title": "Meta Platforms CEO扎克伯格：公司精简团队，提升个人。过去由大型团队完成的工作如今只需一人即可完成。",
+          "url": "https://flash.jin10.com/detail/20260129054732206800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "Meta Platforms(META.O)首席财务官：广告效果提升推动了更高的广告需求和平均广告价格。",
+          "url": "https://flash.jin10.com/detail/20260129054635543800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "Meta Platforms(META.O)首席财务官：Instagram Reels又一个强劲季度，美国观看时长同比增长超过30%",
+          "url": "https://flash.jin10.com/detail/20260129054630720800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "罗森布拉特证券：将Meta Platforms(META.O)目标价从1117美元上调至1144美元。",
+          "url": "https://flash.jin10.com/detail/20260129200923166800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "德意志银行：将Meta Platforms(META.O)目标价从880美元上调至920美元。",
+          "url": "https://flash.jin10.com/detail/20260129200827470800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "Meta盘后涨幅扩大至超过5%。",
+          "url": "https://wallstreetcn.com/livenews/3045845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "提醒：Meta分析师电话会结束。",
+          "url": "https://wallstreetcn.com/livenews/3045874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "Meta Platforms(META.O)股票盘后涨幅扩大至逾5%。",
+          "url": "https://flash.jin10.com/detail/20260129052724865800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "Meta四季度营收598.9亿美元，分析师预期584.2亿美元。 四季度运营利润247.5亿美元，同比增长5.9%。 预计2026年资本开支1150亿-1350亿美元，分析师预期1106.2亿美元。 预计2026年总体开支1620亿 预计一季度营收535亿-565亿美元，分析师预期512.7亿美元。 公司将在优先领域招聘，尤其是人工智能（AI）方面。",
+          "url": "https://wallstreetcn.com/livenews/3045830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "Meta Platforms(META.O)2025年Q4净利润227.68亿美元，市场预期209.9亿美元，上年同期208.38亿美元。",
+          "url": "https://flash.jin10.com/detail/20260129052054813800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "Meta Platforms的CEO扎克伯格：未来的那些AI机会包括广告和订阅。",
+          "url": "https://wallstreetcn.com/livenews/3045861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "Meta将在一系列基建项目寻求更多的外部融资。",
+          "url": "https://wallstreetcn.com/livenews/3045859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "Meta Platforms CEO扎克伯格：在接下来的几年里，广告将是我们业务中最重要的增长动力。",
+          "url": "https://flash.jin10.com/detail/20260129061835433800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：持续关注欧盟和美国的法律逆风。",
+          "url": "https://flash.jin10.com/detail/20260129050802376800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "金十整理：Meta赚钱能力碾压预期 华尔街大行齐呼：还能涨！",
+          "url": "https://flash.jin10.com/detail/20260129195413564800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "稳定币 日本",
       "match_count": 17,
       "titles": [
@@ -1422,11 +1692,12 @@
             10,
             13,
             15,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时04分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[12时04分 ~ 20时45分]"
         },
         {
           "title": "德国 7:1 巴西跟日本 7:0 中国哪个难度更大?",
@@ -1447,6 +1718,17 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
+          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 20时45分]"
+        },
+        {
           "title": "外交敲警钟:春节慎去日本蹦跶",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349781&amp;topic_name=%E5%A4%96%E4%BA%A4%E6%95%B2%E8%AD%A6%E9%92%9F%3A%E6%98%A5%E8%8A%82%E6%85%8E%E5%8E%BB%E6%97%A5%E6%9C%AC%E8%B9%A6%E8%B7%B6",
           "source": "贴吧",
@@ -1456,17 +1738,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
-          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 19时27分]"
         },
         {
           "title": "日经民调：日本自民党有望在选举中赢得多数席位。",
@@ -1607,254 +1878,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "人类基因密码被谷歌AI破解",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时04分 ~ 16时34分]"
-        },
-        {
-          "title": "Meta四季度营收598.9亿美元，分析师预期584.2亿美元。预计一季度营收535亿-565亿美元，分析师预期512.7亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3045830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "Meta Platforms CEO扎克伯格：公司精简团队，提升个人。过去由大型团队完成的工作如今只需一人即可完成。",
-          "url": "https://flash.jin10.com/detail/20260129054732206800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "Meta Platforms(META.O)首席财务官：广告效果提升推动了更高的广告需求和平均广告价格。",
-          "url": "https://flash.jin10.com/detail/20260129054635543800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "Meta Platforms(META.O)首席财务官：Instagram Reels又一个强劲季度，美国观看时长同比增长超过30%",
-          "url": "https://flash.jin10.com/detail/20260129054630720800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "谷歌DeepMind登Nature封面",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 19时27分]"
-        },
-        {
-          "title": "Meta盘后涨幅扩大至超过5%。",
-          "url": "https://wallstreetcn.com/livenews/3045845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "提醒：Meta分析师电话会结束。",
-          "url": "https://wallstreetcn.com/livenews/3045874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "Meta Platforms(META.O)股票盘后涨幅扩大至逾5%。",
-          "url": "https://flash.jin10.com/detail/20260129052724865800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "Meta四季度营收598.9亿美元，分析师预期584.2亿美元。 四季度运营利润247.5亿美元，同比增长5.9%。 预计2026年资本开支1150亿-1350亿美元，分析师预期1106.2亿美元。 预计2026年总体开支1620亿 预计一季度营收535亿-565亿美元，分析师预期512.7亿美元。 公司将在优先领域招聘，尤其是人工智能（AI）方面。",
-          "url": "https://wallstreetcn.com/livenews/3045830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "Meta Platforms(META.O)2025年Q4净利润227.68亿美元，市场预期209.9亿美元，上年同期208.38亿美元。",
-          "url": "https://flash.jin10.com/detail/20260129052054813800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "Meta Platforms的CEO扎克伯格：未来的那些AI机会包括广告和订阅。",
-          "url": "https://wallstreetcn.com/livenews/3045861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "Meta将在一系列基建项目寻求更多的外部融资。",
-          "url": "https://wallstreetcn.com/livenews/3045859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "Meta Platforms CEO扎克伯格：在接下来的几年里，广告将是我们业务中最重要的增长动力。",
-          "url": "https://flash.jin10.com/detail/20260129061835433800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：持续关注欧盟和美国的法律逆风。",
-          "url": "https://flash.jin10.com/detail/20260129050802376800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "意法半导体Q4销售回升 汽车芯片需求仍疲弱",
-          "url": "https://flash.jin10.com/detail/20260129162442665800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "金十图示：2026年01月29日（周四）富时中国A50指数成分股今日收盘行情一览：酿酒板块午后走强，山西汾酒、五粮液涨停，贵州茅台收涨超8%，半导体板块维持弱势",
-          "url": "https://flash.jin10.com/detail/20260129150829206800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        },
-        {
-          "title": "【焦点复盘】科创50跌超3%，半导体等硬科技方向低迷，贵州茅台大涨近9%收复1400元大关",
-          "url": "https://www.cls.cn/detail/2274253",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时27分]"
-        },
-        {
-          "title": "A股半导体板块大涨",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 16时34分]"
-        },
-        {
-          "title": "金十图示：2026年01月29日（周四）富时中国A50指数成分股午盘收盘行情一览：金属板块维持涨势，酿酒板块表现活跃，半导体、银行、石油等板块多数下跌",
-          "url": "https://flash.jin10.com/detail/20260129113401579800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "宇树等机器人企业扎堆上春晚，谁是去年全球出货量第一？",
@@ -1914,6 +1946,131 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "哈森股份：公司不涉及机器人业务，3D打印相关业务营收占比不足公司总营业收入的0.2%",
+          "url": "https://wallstreetcn.com/livenews/3046440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "意法半导体Q4销售回升 汽车芯片需求仍疲弱",
+          "url": "https://flash.jin10.com/detail/20260129162442665800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "【焦点复盘】科创50跌超3%，半导体等硬科技方向低迷，贵州茅台大涨近9%收复1400元大关",
+          "url": "https://www.cls.cn/detail/2274253",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 20时45分]"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）富时中国A50指数成分股今日收盘行情一览：酿酒板块午后走强，山西汾酒、五粮液涨停，贵州茅台收涨超8%，半导体板块维持弱势",
+          "url": "https://flash.jin10.com/detail/20260129150829206800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "A股半导体板块大涨",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 16时34分]"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）富时中国A50指数成分股午盘收盘行情一览：金属板块维持涨势，酿酒板块表现活跃，半导体、银行、石油等板块多数下跌",
+          "url": "https://flash.jin10.com/detail/20260129113401579800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "台当局拟在校园禁用5款大陆App，微博、小红书等位列其中",
+          "url": "https://news.ifeng.com/c/8qJDOWuG2kr",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时37分 ~ 20时45分]"
+        },
+        {
+          "title": "QQ不响了微信没声了",
+          "url": "https://s.weibo.com/weibo?q=QQ%E4%B8%8D%E5%93%8D%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%B2%A1%E5%A3%B0%E4%BA%86&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "微信发布针对第三方违规行为的打击公告",
+          "url": "https://wallstreetcn.com/livenews/3046418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
+          "title": "王祖贤入驻抖音",
+          "url": "https://www.toutiao.com/trending/7599842592301989907/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     },
@@ -1926,11 +2083,12 @@
           "url": "https://www.zhihu.com/question/1994095464539255007",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 20时45分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -1953,46 +2111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "台当局拟在校园禁用5款大陆App，微博、小红书等位列其中",
-          "url": "https://news.ifeng.com/c/8qJDOWuG2kr",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时37分 ~ 19时27分]"
-        },
-        {
-          "title": "微信发布针对第三方违规行为的打击公告",
-          "url": "https://wallstreetcn.com/livenews/3046418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "王祖贤入驻抖音",
-          "url": "https://www.toutiao.com/trending/7599842592301989907/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
         }
       ]
     }
