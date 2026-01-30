@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T13:43:11.041308+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-01-30T14:41:52.816073+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "二级市场溢价超60%，白银基金再度全天停牌",
@@ -43,8 +43,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 13时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 14时41分]"
         },
         {
           "title": "现货黄金白银快速走低",
@@ -105,6 +105,18 @@
           "time_info": "[00时38分 ~ 09时29分]"
         },
         {
+          "title": "获利了结压顶贵金属剧烈震荡：白银一度跌超8% 黄金最大回撤500美元",
+          "url": "https://www.cls.cn/detail/2274893",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 14时41分]"
+        },
+        {
           "title": "黄金价格为何一路猛涨",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
@@ -112,8 +124,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 13时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 14时41分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -148,20 +160,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 13时43分]"
-        },
-        {
-          "title": "获利了结压顶贵金属剧烈震荡：白银一度跌超8% 黄金最大回撤500美元",
-          "url": "https://www.cls.cn/detail/2274893",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 13时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 14时41分]"
         },
         {
           "title": "此次白银暴涨的结局会如何",
@@ -180,6 +180,19 @@
           "time_info": "[00时38分 ~ 09时29分]"
         },
         {
+          "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
+          "url": "https://www.cls.cn/detail/2275001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 14时41分]"
+        },
+        {
           "title": "一口气看懂金价涨跌的底层逻辑",
           "url": "https://www.douyin.com/hot/2383551",
           "source": "抖音",
@@ -195,16 +208,15 @@
           "time_info": "[00时38分 ~ 07时22分]"
         },
         {
-          "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
-          "url": "https://www.cls.cn/detail/2275001",
-          "source": "财联社热门",
+          "title": "黄金白银一跌再跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%80%E8%B7%8C%E5%86%8D%E8%B7%8C%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 14时41分]"
         },
         {
           "title": "金十图示：2026年01月30日（周五）白银ETF持仓报告",
@@ -229,28 +241,18 @@
           "time_info": "07时22分"
         },
         {
-          "title": "黄金白银一跌再跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%80%E8%B7%8C%E5%86%8D%E8%B7%8C%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
           "title": "今日金价",
           "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 14时41分]"
         },
         {
           "title": "现货黄金跳水，日内跌1.39%逼近5300美元/盎司，现货白银跌超1%报113.85美元/盎司。",
@@ -269,11 +271,34 @@
           "source": "微博",
           "ranks": [
             7,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时41分]"
+        },
+        {
+          "title": "黄金白银深夜大幅跳水后反弹",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%B7%B1%E5%A4%9C%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4%E5%90%8E%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 14时41分]"
+        },
+        {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -330,17 +355,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时25分]"
-        },
-        {
-          "title": "黄金白银深夜大幅跳水后反弹",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%B7%B1%E5%A4%9C%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4%E5%90%8E%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 13时43分]"
         },
         {
           "title": "周四（1月29日））纽约尾盘，现货白银跌0.61%，报116.0075美元/盎司，日内交投区间为121.6540-106.8954美元。 COMEX白银期货涨2.87%，报116.790美元/盎司。 COMEX铜期货涨.78%，报6.2855美元/磅，北京时间22:31曾涨至6.5830美元。 现货铂金跌2.65%，现货钯金跌2.34%。",
@@ -445,7 +459,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "外界担忧日本或强登钓鱼岛 中方回应",
@@ -520,19 +534,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时41分]"
         },
         {
           "title": "中国公民在日本遭催泪瓦斯袭击",
           "url": "https://www.toutiao.com/trending/7601005249691799091/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 14时41分]"
         },
         {
           "title": "日本电力将于日本标准时间下午5点（北京时间下午4点）就总裁变更举行简报会。",
@@ -541,7 +556,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -565,9 +580,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "日经225指数收跌0.1%，报53322.85点。 日本东证指数收涨0.6%，报3566.32点。 韩国首尔综指收盘几无变动，报5221.36点。1月累计上涨24%，创1998年12月以来最大单月涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3047042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "日本12月新屋开工年率 -1.33%，预期-4.1%，前值-8.50%。",
@@ -576,7 +602,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -598,7 +624,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -609,7 +635,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -620,7 +646,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -641,11 +667,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 14时41分]"
         },
         {
           "title": "日本2年期国债拍卖投标倍数为3.88，高于12月上一次发行时的3.26。",
@@ -665,7 +692,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -687,7 +714,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -698,7 +725,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -798,8 +825,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 14时41分]"
         },
         {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
@@ -810,8 +837,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 13时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 14时41分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -1338,11 +1365,12 @@
           "url": "https://wallstreetcn.com/livenews/3047001",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时41分]"
         }
       ]
     }
