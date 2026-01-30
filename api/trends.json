@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T20:42:54.763771+08:00",
-  "total_titles_processed": 1898,
+  "generated_at": "2026-01-30T21:53:22.490598+08:00",
+  "total_titles_processed": 2016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 77,
+      "match_count": 79,
       "titles": [
         {
           "title": "二级市场溢价超60%，白银基金再度全天停牌",
@@ -167,11 +167,12 @@
             21,
             22,
             24,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时29分 ~ 20时42分]"
+          "appearance_count": 15,
+          "time_info": "[09时29分 ~ 21时53分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -210,6 +211,18 @@
           "time_info": "[00时38分 ~ 17时34分]"
         },
         {
+          "title": "夫妻用CT废胶片提炼白银超27斤",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E7%94%A8CT%E5%BA%9F%E8%83%B6%E7%89%87%E6%8F%90%E7%82%BC%E7%99%BD%E9%93%B6%E8%B6%8527%E6%96%A4",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时34分 ~ 21时53分]"
+        },
+        {
           "title": "金价28分钟内暴跌380美元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -238,16 +251,17 @@
           "time_info": "[13时42分 ~ 17时34分]"
         },
         {
-          "title": "夫妻用CT废胶片提炼白银超27斤",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E7%94%A8CT%E5%BA%9F%E8%83%B6%E7%89%87%E6%8F%90%E7%82%BC%E7%99%BD%E9%93%B6%E8%B6%8527%E6%96%A4",
-          "source": "百度热搜",
+          "title": "沃什引爆鹰派预期，商品遭遇黑色星期五，白银跌17%逼近95美元、金价一度跌至4950、单日重挫400美元，美元走强",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            21
+            4,
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 21时53分]"
         },
         {
           "title": "此次白银暴涨的结局会如何",
@@ -280,6 +294,21 @@
           "time_info": "[14时41分 ~ 18时29分]"
         },
         {
+          "title": "白银跌麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            21,
+            25,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时34分 ~ 21时53分]"
+        },
+        {
           "title": "一口气看懂金价涨跌的底层逻辑",
           "url": "https://www.douyin.com/hot/2383551",
           "source": "抖音",
@@ -293,32 +322,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时38分 ~ 07时22分]"
-        },
-        {
-          "title": "沃什引爆鹰派预期，商品遭遇黑色星期五，白银跌17%逼近95美元、金价一度跌至4950、单日重挫400美元，美元走强",
-          "url": "https://wallstreetcn.com/articles/3764541",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 20时42分]"
-        },
-        {
-          "title": "白银跌麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            21,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 20时42分]"
         },
         {
           "title": "黄金价格暴跌原因",
@@ -480,7 +483,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -539,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
+        },
+        {
+          "title": "未来金价走势如何?",
+          "url": "https://www.zhihu.com/question/655647666",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月29日（周四）晚盘收盘下跌3.4%报1195.83元/克；<br/>上海黄金交易所白银T+D 1月29日（周四）晚盘收盘下跌1.47%报29359.0元/千克。",
@@ -677,6 +691,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "女子卖房得120万元后全部买入白银，5个月狂赚200万元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498267",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "现货白银日内暴跌20.03美元，现报95.43美元/盎司，跌幅17.35%。纽约期银向下触及96美元/盎司，日内跌16.14%。",
           "url": "https://flash.jin10.com/detail/20260130174551371800",
           "source": "金十数据",
@@ -705,7 +730,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -782,7 +807,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -974,8 +999,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时42分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[13时42分 ~ 21时53分]"
         },
         {
           "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
@@ -1052,8 +1077,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 21时53分]"
         },
         {
           "title": "日本专家：高市政权或进一步右倾",
@@ -1063,8 +1088,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 21时53分]"
         },
         {
           "title": "日本电力将于日本标准时间下午5点（北京时间下午4点）就总裁变更举行简报会。",
@@ -1320,17 +1345,6 @@
       "match_count": 25,
       "titles": [
         {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时29分 ~ 20时42分]"
-        },
-        {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
@@ -1340,6 +1354,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 06时23分]"
+        },
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时29分 ~ 21时53分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -1373,11 +1399,12 @@
           "url": "https://wallstreetcn.com/articles/3764518",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时05分 ~ 19时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时05分 ~ 21时53分]"
         },
         {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
@@ -1533,7 +1560,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -1588,7 +1615,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -1787,7 +1814,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -1973,6 +2000,22 @@
           "time_info": "[01时34分 ~ 09时29分]"
         },
         {
+          "title": "抖音ACG新春会下猛料了",
+          "url": "https://www.douyin.com/hot/2383974",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19,
+            18,
+            11,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时37分 ~ 21时53分]"
+        },
+        {
           "title": "QQ不响了微信没声了",
           "url": "https://s.weibo.com/weibo?q=QQ%E4%B8%8D%E5%93%8D%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%B2%A1%E5%A3%B0%E4%BA%86&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -1984,21 +2027,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时38分 ~ 07时22分]"
-        },
-        {
-          "title": "抖音ACG新春会下猛料了",
-          "url": "https://www.douyin.com/hot/2383974",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19,
-            18,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时37分 ~ 20时42分]"
         }
       ]
     },
