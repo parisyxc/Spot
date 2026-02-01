@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T18:21:07.869177+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-02-01T19:18:37.450331+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "黄金白银遭遇史诗级跳水 背后“推手”究竟是谁？",
@@ -49,11 +49,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时54分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时54分 ~ 19时18分]"
         },
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -114,6 +115,19 @@
           "time_info": "[00时21分 ~ 07时18分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 19时18分]"
+        },
+        {
           "title": "黄金白银为何暴涨暴跌",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C",
           "source": "bilibili 热搜",
@@ -121,8 +135,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时20分 ~ 18时21分]"
+          "appearance_count": 16,
+          "time_info": "[04时20分 ~ 19时18分]"
         },
         {
           "title": "金价下跌 多品牌设退货手续费",
@@ -160,18 +174,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时25分 ~ 07时18分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 18时21分]"
         },
         {
           "title": "金价下跌是否值得入手",
@@ -220,11 +222,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时18分]"
+        },
+        {
+          "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
+          "url": "https://www.cls.cn/detail/2276774",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时18分]"
+        },
+        {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "印度国家证券交易所：交易所交易黄金及白银ETF的参考价将基于前一交易日（T-1）资产净值，规定的20%较低价格区间适用于T-1的资产净值。",
@@ -296,17 +322,6 @@
           "time_info": "[12时27分 ~ 14时47分]"
         },
         {
-          "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
-          "url": "https://www.cls.cn/detail/2276774",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
           "title": "金价巨震 有人昨天赚5万今天倒亏4万",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%B7%A8%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%98%A8%E5%A4%A9%E8%B5%9A5%E4%B8%87%E4%BB%8A%E5%A4%A9%E5%80%92%E4%BA%8F4%E4%B8%87",
           "source": "百度热搜",
@@ -329,12 +344,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 13时57分]"
+        },
+        {
+          "title": "金价暴跌 深圳水贝挤满了人",
+          "url": "https://www.toutiao.com/trending/7601809209675484713/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "金价暴跌后顾客排长队出售黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E9%A1%BE%E5%AE%A2%E6%8E%92%E9%95%BF%E9%98%9F%E5%87%BA%E5%94%AE%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "2.5吨白银建的湖南永兴银楼被拍卖",
+          "url": "https://www.baidu.com/s?wd=2.5%E5%90%A8%E7%99%BD%E9%93%B6%E5%BB%BA%E7%9A%84%E6%B9%96%E5%8D%97%E6%B0%B8%E5%85%B4%E9%93%B6%E6%A5%BC%E8%A2%AB%E6%8B%8D%E5%8D%96",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "金价暴跌回收柜台前挤满顾客",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%9E%E6%94%B6%E6%9F%9C%E5%8F%B0%E5%89%8D%E6%8C%A4%E6%BB%A1%E9%A1%BE%E5%AE%A2%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
@@ -396,26 +455,16 @@
           "time_info": "[00时22分 ~ 07时18分]"
         },
         {
-          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
-          "url": "https://flash.jin10.com/detail/20260201175015575800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
           "url": "https://wallstreetcn.com/livenews/3047808",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
         },
         {
           "title": "揭秘OpenAI掌门人的上位史",
@@ -427,13 +476,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
+          "url": "https://flash.jin10.com/detail/20260201175015575800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
+        },
+        {
+          "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
+          "url": "https://flash.jin10.com/detail/20260201180928077800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
+          "url": "https://wallstreetcn.com/articles/3764674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时57分 ~ 19时18分]"
+        },
         {
           "title": "机器人扎堆抢上春晚 出场要花1亿",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8E%E5%A0%86%E6%8A%A2%E4%B8%8A%E6%98%A5%E6%99%9A+%E5%87%BA%E5%9C%BA%E8%A6%81%E8%8A%B11%E4%BA%BF",
@@ -447,29 +532,17 @@
           "time_info": "[00时21分 ~ 09时54分]"
         },
         {
-          "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
-          "url": "https://wallstreetcn.com/articles/3764674",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时57分 ~ 18时21分]"
-        },
-        {
           "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509153",
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 18时21分]"
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 19时18分]"
         },
         {
           "title": "小鹏机器人首秀摔倒 被抬离现场",
@@ -477,11 +550,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "全球首次机器人极寒行走13万步",
@@ -493,6 +567,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
+          "url": "https://wallstreetcn.com/livenews/3047809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "比特币跌破8万美元关口，创去年4月以来最低",
@@ -536,20 +621,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "这个冬天被抖音网友的善意暖到了",
-          "url": "https://www.douyin.com/hot/2385605",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2,
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 18时21分]"
-        },
-        {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
           "url": "https://wallstreetcn.com/articles/3764675",
           "source": "华尔街见闻",
@@ -561,8 +632,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 18时21分]"
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 19时18分]"
+        },
+        {
+          "title": "这个冬天被抖音网友的善意暖到了",
+          "url": "https://www.douyin.com/hot/2385605",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2,
+            1,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 19时18分]"
         },
         {
           "title": "在抖音追生命树有问必答",
@@ -599,8 +685,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 18时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 19时18分]"
         },
         {
           "title": "71 岁成龙自曝没有微信，称「任何上瘾的东西都不学」，你认同这种生活理念吗？",
