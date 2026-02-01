@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T16:27:27.323441+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-02-01T17:27:06.611352+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "黄金白银遭遇史诗级跳水 背后“推手”究竟是谁？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 16时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 17时27分]"
         },
         {
           "title": "【早报】黄金、白银崩盘式跳水；吴清：全力巩固资本市场稳中向好势头",
@@ -53,6 +53,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 09时54分]"
+        },
+        {
+          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
+          "url": "https://www.cls.cn/detail/2276655",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 17时27分]"
         },
         {
           "title": "黄金白银创单日暴跌纪录",
@@ -107,8 +121,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时20分 ~ 16时27分]"
+          "appearance_count": 13,
+          "time_info": "[04时20分 ~ 17时27分]"
         },
         {
           "title": "金价下跌 多品牌设退货手续费",
@@ -134,19 +148,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 03时18分]"
-        },
-        {
-          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
-          "url": "https://www.cls.cn/detail/2276655",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 16时27分]"
         },
         {
           "title": "黄金白银大幅下跌 投资者怎么办",
@@ -188,6 +189,18 @@
           "time_info": "[02时25分 ~ 04时21分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时27分 ~ 17时27分]"
+        },
+        {
           "title": "金价遭遇过山车",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%81%AD%E9%81%87%E8%BF%87%E5%B1%B1%E8%BD%A6%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -202,15 +215,15 @@
           "time_info": "[13时57分 ~ 16时27分]"
         },
         {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
+          "title": "国投白银LOF：本基金将于2月2日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3047793",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            6
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 16时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "印度国家证券交易所：交易所交易黄金及白银ETF的参考价将基于前一交易日（T-1）资产净值，规定的20%较低价格区间适用于T-1的资产净值。",
@@ -270,6 +283,17 @@
           "time_info": "[12时27分 ~ 14时47分]"
         },
         {
+          "title": "白银lof为何禁止申购",
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E9%93%B6lof%E4%B8%BA%E4%BD%95%E7%A6%81%E6%AD%A2%E7%94%B3%E8%B4%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
           "title": "金价巨震 有人昨天赚5万今天倒亏4万",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%B7%A8%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%98%A8%E5%A4%A9%E8%B5%9A5%E4%B8%87%E4%BB%8A%E5%A4%A9%E5%80%92%E4%BA%8F4%E4%B8%87",
           "source": "百度热搜",
@@ -292,6 +316,105 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 13时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "机器人扎堆抢上春晚 出场要花1亿",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8E%E5%A0%86%E6%8A%A2%E4%B8%8A%E6%98%A5%E6%99%9A+%E5%87%BA%E5%9C%BA%E8%A6%81%E8%8A%B11%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时54分]"
+        },
+        {
+          "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
+          "url": "https://wallstreetcn.com/articles/3764674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 17时27分]"
+        },
+        {
+          "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509153",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 17时27分]"
+        },
+        {
+          "title": "全球首次机器人极寒行走13万步",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9E%81%E5%AF%92%E8%A1%8C%E8%B5%B013%E4%B8%87%E6%AD%A5%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "小鹏机器人首秀摔倒 被抬离现场",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A6%96%E7%A7%80%E6%91%94%E5%80%92+%E8%A2%AB%E6%8A%AC%E7%A6%BB%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "比特币跌破8万美元关口，创去年4月以来最低",
+          "url": "https://wallstreetcn.com/livenews/3047718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时54分]"
+        },
+        {
+          "title": "比特币跌破8万美元",
+          "url": "https://www.douyin.com/hot/2385871",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "全球首款完全仿生具身智能机器人亮相",
+          "url": "https://www.toutiao.com/trending/7601044218057506862/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         }
       ]
     },
@@ -372,82 +495,6 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "机器人扎堆抢上春晚 出场要花1亿",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8E%E5%A0%86%E6%8A%A2%E4%B8%8A%E6%98%A5%E6%99%9A+%E5%87%BA%E5%9C%BA%E8%A6%81%E8%8A%B11%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时54分]"
-        },
-        {
-          "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
-          "url": "https://wallstreetcn.com/articles/3764674",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 16时27分]"
-        },
-        {
-          "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509153",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "比特币跌破8万美元关口，创去年4月以来最低",
-          "url": "https://wallstreetcn.com/livenews/3047718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时18分 ~ 09时54分]"
-        },
-        {
-          "title": "比特币跌破8万美元",
-          "url": "https://www.douyin.com/hot/2385871",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "全球首款完全仿生具身智能机器人亮相",
-          "url": "https://www.toutiao.com/trending/7601044218057506862/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 5,
       "titles": [
@@ -461,8 +508,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 16时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 17时27分]"
+        },
+        {
+          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
+          "url": "https://wallstreetcn.com/articles/3764675",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时27分 ~ 17时27分]"
         },
         {
           "title": "在抖音追生命树有问必答",
@@ -498,22 +559,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 16时27分]"
-        },
-        {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 16时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 17时27分]"
         },
         {
           "title": "71 岁成龙自曝没有微信，称「任何上瘾的东西都不学」，你认同这种生活理念吗？",
@@ -669,11 +716,12 @@
           "url": "https://flash.jin10.com/detail/20260201155521308800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时27分]"
         },
         {
           "title": "法国汽车平台 （PFA）：法国1月新车注册量同比下降6.55%，至107,157辆。其中法国地区特斯拉注册量下降42.07%。",
