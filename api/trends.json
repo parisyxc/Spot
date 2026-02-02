@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T18:40:20.473553+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2026-02-02T19:33:12.202344+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -70,6 +70,20 @@
           "time_info": "[01时21分 ~ 07时20分]"
         },
         {
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时20分 ~ 19时33分]"
+        },
+        {
           "title": "女演员13年前囤白银遗忘 需补交7千",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%BC%94%E5%91%9813%E5%B9%B4%E5%89%8D%E5%9B%A4%E7%99%BD%E9%93%B6%E9%81%97%E5%BF%98+%E9%9C%80%E8%A1%A5%E4%BA%A47%E5%8D%83",
           "source": "百度热搜",
@@ -93,19 +107,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时46分 ~ 15时13分]"
-        },
-        {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时20分 ~ 18时40分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -146,6 +147,17 @@
           "time_info": "[00时23分 ~ 09时46分]"
         },
         {
+          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时42分 ~ 19时33分]"
+        },
+        {
           "title": "男子看金价下跌花20多万买200克",
           "url": "https://www.toutiao.com/trending/7600970812455845951/",
           "source": "今日头条",
@@ -168,17 +180,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时12分 ~ 16时37分]"
-        },
-        {
-          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时40分]"
         },
         {
           "title": "国投白银LOF：本基金将于2月2日开市起至当日10:30停牌",
@@ -321,7 +322,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -390,20 +391,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
         {
-          "title": "湖南白银：已回购1976万股，使用资金总额1.06亿元",
-          "url": "https://wallstreetcn.com/livenews/3048301",
+          "title": "中国银行发布关于代理个人上金所业务调整白银延期合约业务参数的公告",
+          "url": "https://wallstreetcn.com/livenews/3048312",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "19时33分"
         },
         {
           "title": "现货白银失守74美元/盎司，日内跌幅13.01%。",
@@ -450,6 +451,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时42分 ~ 18时40分]"
+        },
+        {
+          "title": "湖南白银：已回购1976万股，使用资金总额1.06亿元",
+          "url": "https://wallstreetcn.com/livenews/3048301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时33分]"
         },
         {
           "title": "国投白银LOF：将于2月3日开市起至当日10:30停牌",
@@ -508,6 +521,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时42分 ~ 18时40分]"
+        },
+        {
+          "title": "白银日内跌幅超14%",
+          "url": "https://www.toutiao.com/trending/7601335266075574291/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
         },
         {
           "title": "现货白银日内跌幅扩大至10%",
@@ -682,7 +706,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -750,8 +774,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时46分 ~ 19时33分]"
         },
         {
           "title": "日本选手发球砸到人后“滑行谢罪”",
@@ -773,8 +797,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[17时42分 ~ 19时33分]"
+        },
+        {
+          "title": "日本选手发球砸人 上演“滑行谢罪”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E5%8F%91%E7%90%83%E7%A0%B8%E4%BA%BA+%E4%B8%8A%E6%BC%94%E2%80%9C%E6%BB%91%E8%A1%8C%E8%B0%A2%E7%BD%AA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            16,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时12分 ~ 19时33分]"
         },
         {
           "title": "前日本财务省财务官渡边博史：放宽财政政策或再掀市场动荡",
@@ -810,19 +848,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "日本选手发球砸人 上演“滑行谢罪”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E5%8F%91%E7%90%83%E7%A0%B8%E4%BA%BA+%E4%B8%8A%E6%BC%94%E2%80%9C%E6%BB%91%E8%A1%8C%E8%B0%A2%E7%BD%AA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时12分 ~ 18时40分]"
-        },
-        {
           "title": "日本财务省将于2月9日拍卖3.8万亿日元的短期国债。",
           "url": "https://flash.jin10.com/detail/20260202092023008800",
           "source": "金十数据",
@@ -851,7 +876,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -906,27 +931,17 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "港股收盘：恒生指数收跌2.23%，恒生科技指数收跌3.36%；黄金股领跌，芯片、新能源车等板块跌幅居前，比亚迪股份跌超6%，华虹半导体跌超11%。",
-          "url": "https://wallstreetcn.com/livenews/3048205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
           "title": "【每日收评】三大指数均跌超2%，全市场超4600股飘绿，贵金属、半导体等热门赛道集体重挫",
           "url": "https://www.cls.cn/detail/2277810",
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[17时42分 ~ 19时33分]"
         },
         {
           "title": "沪指跌超2%险守4000点，金银、有色金属全线跌停，白酒逆势拉升，恒科指大跌3%，芯片半导体重挫",
@@ -936,8 +951,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[17时42分 ~ 19时33分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌2.23%，恒生科技指数收跌3.36%；黄金股领跌，芯片、新能源车等板块跌幅居前，比亚迪股份跌超6%，华虹半导体跌超11%。",
+          "url": "https://wallstreetcn.com/livenews/3048205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "沪指午后跌幅扩大至2%，金属、石油天然气、化工等资源周期股、半导体板块领跌，全市场超3700只个股下跌。",
@@ -1049,6 +1075,21 @@
           "time_info": "[00时23分 ~ 09时46分]"
         },
         {
+          "title": "红包老奶大战机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            5,
+            6,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时12分 ~ 19时33分]"
+        },
+        {
           "title": "何小鹏回应IRON机器人走猫步时摔倒",
           "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94IRON%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E7%8C%AB%E6%AD%A5%E6%97%B6%E6%91%94%E5%80%92",
           "source": "百度热搜",
@@ -1077,21 +1118,6 @@
           "time_info": "[09时46分 ~ 14时02分]"
         },
         {
-          "title": "红包老奶大战机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            5,
-            6,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时12分 ~ 18时40分]"
-        },
-        {
           "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
           "url": "https://wallstreetcn.com/livenews/3047809",
           "source": "华尔街见闻-快讯",
@@ -1108,11 +1134,12 @@
           "url": "https://wallstreetcn.com/livenews/3048302",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时33分]"
         },
         {
           "title": "比特币跌破80000美元！与特朗普政府紧密联系反成拖累",
@@ -1164,8 +1191,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 18时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 19时33分]"
         },
         {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
@@ -1197,7 +1224,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1259,11 +1286,12 @@
             11,
             9,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时01分 ~ 18时40分]"
+          "appearance_count": 9,
+          "time_info": "[14时01分 ~ 19时33分]"
         },
         {
           "title": "特斯拉首款量产机器人？擎天柱三代即将亮相 据称“进行了重新设计”",
@@ -1276,8 +1304,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时12分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[15时12分 ~ 19时33分]"
         },
         {
           "title": "特斯拉：第三代特斯拉人形机器人即将亮相",
