@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T01:35:16.624926+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-02-03T02:36:54.751988+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "国投白银LOF重估基金资产",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "白银基金决定资产重估！目前二级市场溢价超100%",
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "这次白银暴跌是人为操纵的？",
@@ -50,30 +51,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "白银",
           "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%93%B6&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
           "url": "https://www.douyin.com/hot/2386891",
           "source": "抖音",
           "ranks": [
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 02时36分]"
         }
       ]
     },
@@ -89,8 +92,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
+        },
+        {
+          "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
+          "url": "https://www.cls.cn/detail/2278170",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
@@ -101,20 +117,47 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI：Codex应用今日在MacOS上线。",
+          "url": "https://wallstreetcn.com/livenews/3048502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
-          "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
-          "url": "https://www.cls.cn/detail/2278170",
-          "source": "财联社热门",
+          "title": "OpenAI：通过使用Codex，人们可以轻松实现多任务处理，比如并行处理多个代理，并通过工作树隔离代理之间的变更；建立并运用技能，如将工具和规范整合为可重复使用的功能模块；设置自动化流程，如将重复性工作委托给Codex，并通过后台的定时工作流来完成。",
+          "url": "https://flash.jin10.com/detail/20260203021332925800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            12
+            8
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "OpenAI：Codex应用今日在MacOS上线。",
+          "url": "https://flash.jin10.com/detail/20260203020942519800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     },
@@ -127,11 +170,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "能生长能上天的中国机器人来了",
@@ -150,11 +194,12 @@
           "url": "https://wallstreetcn.com/livenews/3048468",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 02时36分]"
         }
       ]
     },
@@ -171,8 +216,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "费城半导体指数上涨2.2%。",
@@ -192,26 +237,27 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "谷歌公司：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
-          "url": "https://wallstreetcn.com/livenews/3048483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
           "title": "谷歌(GOOG.O)：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
           "url": "https://flash.jin10.com/detail/20260203010817118800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "谷歌公司：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
+          "url": "https://wallstreetcn.com/livenews/3048483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 02时36分]"
         }
       ]
     },
@@ -227,8 +273,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "日本米价飞天,开启史诗通胀",
@@ -238,8 +284,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         }
       ]
     },
@@ -254,7 +300,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
         }
