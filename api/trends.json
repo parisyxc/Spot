@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-03T09:46:17.903321+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-02-03T12:11:55.158571+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
           "url": "https://wallstreetcn.com/articles/3764699",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 09时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 12时11分]"
         },
         {
           "title": "白银基金决定资产重估！目前二级市场溢价超100%",
@@ -29,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 09时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 12时11分]"
         },
         {
           "title": "这次白银暴跌是人为操纵的？",
@@ -41,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 09时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 12时11分]"
         },
         {
           "title": "国投白银LOF重估基金资产",
@@ -70,6 +71,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 09时46分]"
+        },
+        {
+          "title": "单日下跌31.5%创下公募单日跌幅纪录，国投白银LOF“手动抹掉涨跌幅限制”",
+          "url": "https://www.cls.cn/detail/2278481",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 12时11分]"
         },
         {
           "title": "黄金白银直线飙涨原因",
@@ -100,20 +113,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        },
-        {
-          "title": "单日下跌31.5%创下公募单日跌幅纪录，国投白银LOF“手动抹掉涨跌幅限制”",
-          "url": "https://www.cls.cn/detail/2278481",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
         },
         {
           "title": "现货白银日内涨幅达2.00%，现报80.83美元/盎司。",
@@ -127,13 +129,35 @@
           "time_info": "07时23分"
         },
         {
+          "title": "上金所上调「白银 T+D」保证金及涨跌停板幅度，白银 LOF 称已对基金资产进行重估，场内外影响应如何解读？",
+          "url": "https://www.zhihu.com/question/2001794536775639417",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "国投白银LOF再次跌停",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%8A%95%E7%99%BD%E9%93%B6LOF%E5%86%8D%E6%AC%A1%E8%B7%8C%E5%81%9C%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
           "title": "现货黄金涨超4%，现报4851.49美元/盎司。 现货白银站上85美元关口，日内大涨7.8%。",
           "url": "https://wallstreetcn.com/livenews/3048675",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -147,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "李大霄解读金价一夜V型反转",
+          "url": "https://www.toutiao.com/trending/7602460387761491507/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -184,15 +219,48 @@
           "time_info": "[09时45分 ~ 09时46分]"
         },
         {
+          "title": "黄金白银直线飙涨",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E9%A3%99%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
+          "url": "https://www.cls.cn/detail/2278518",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 2月3日（周二）早盘盘初上涨0.63%报1071.52元/克；<br/>上海黄金交易所白银T+D 2月3日（周二）早盘盘初下跌18.4%报20486.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260203090154602800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "国投白银LOF复牌再度跌停",
+          "url": "https://www.douyin.com/hot/2387982",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "黄金价格剧烈波动 国有六大行强化黄金投资业务风险管控",
@@ -201,7 +269,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -212,7 +280,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -245,6 +313,21 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2278222",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 12时11分]"
+        },
+        {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -254,20 +337,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时33分 ~ 02时36分]"
-        },
-        {
-          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2278222",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 09时46分]"
         },
         {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
@@ -289,11 +358,25 @@
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 12时11分]"
+        },
+        {
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 12时11分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
@@ -318,18 +401,6 @@
           "time_info": "07时23分"
         },
         {
-          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
-          "url": "https://www.cls.cn/detail/2278378",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 09时46分]"
-        },
-        {
           "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
           "url": "https://wallstreetcn.com/livenews/3048580",
           "source": "华尔街见闻-快讯",
@@ -347,7 +418,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -377,7 +448,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "涉及稀土，日本声称“挖到了”！",
@@ -409,9 +480,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "日本拍卖10年期国债，认购倍数为3.02，上一次在1月份的拍卖中为3.3，过去12个月均值为3.24。",
+          "url": "https://wallstreetcn.com/livenews/3048787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "日本内阁官房长官木原稔：阿联酋已通知日本，阿联酋总统对日本的国事访问将从原定的2月8日推迟。",
@@ -420,7 +502,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -431,7 +513,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -442,7 +524,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -453,7 +535,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
@@ -532,59 +614,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【每日收评】三大指数均跌超2%，全市场超4600股飘绿，贵金属、半导体等热门赛道集体重挫",
-          "url": "https://www.cls.cn/detail/2277810",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 02时36分]"
-        },
-        {
-          "title": "沪指跌超2%险守4000点，金银、有色金属全线跌停，白酒逆势拉升，恒科指大跌3%，芯片半导体重挫",
-          "url": "https://wallstreetcn.com/articles/3764715",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "恒指高开0.82%，报26995.76点；恒生科技指数涨0.68%。网易、华虹半导体涨超3%，哔哩哔哩涨超2%，阿里巴巴、中芯国际等涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3048661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "费城半导体指数上涨2.2%。",
-          "url": "https://flash.jin10.com/detail/20260202232659574800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "红包老奶大战机器人",
@@ -597,8 +628,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 09时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 12时11分]"
+        },
+        {
+          "title": "北京人形机器人创新中心完成首轮超7亿元市场化融资",
+          "url": "https://wallstreetcn.com/livenews/3048792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "能生长能上天的中国机器人来了",
@@ -623,6 +665,68 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时36分]"
+        },
+        {
+          "title": "前阿里高管加入机器人租赁平台擎天租",
+          "url": "https://wallstreetcn.com/livenews/3048767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【每日收评】三大指数均跌超2%，全市场超4600股飘绿，贵金属、半导体等热门赛道集体重挫",
+          "url": "https://www.cls.cn/detail/2277810",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
+        },
+        {
+          "title": "沪指跌超2%险守4000点，金银、有色金属全线跌停，白酒逆势拉升，恒科指大跌3%，芯片半导体重挫",
+          "url": "https://wallstreetcn.com/articles/3764715",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 12时11分]"
+        },
+        {
+          "title": "恒指高开0.82%，报26995.76点；恒生科技指数涨0.68%。网易、华虹半导体涨超3%，哔哩哔哩涨超2%，阿里巴巴、中芯国际等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3048661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "费城半导体指数上涨2.2%。",
+          "url": "https://flash.jin10.com/detail/20260202232659574800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     },
