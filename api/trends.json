@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T05:30:53.992838+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-02-04T06:25:47.640061+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -86,6 +86,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "OpenAI的CEO Altman：Dylan Scandinaro加盟本公司，担任Preparedness（筹备）部门主管。",
+          "url": "https://wallstreetcn.com/livenews/3049343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
           "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
           "url": "https://wallstreetcn.com/livenews/3049302",
           "source": "华尔街见闻-快讯",
@@ -116,7 +127,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -127,7 +138,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -138,7 +149,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -149,9 +160,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：非常高兴地欢迎迪伦·斯坎迪纳罗（Dylan Scandinaro）加入OpenAI，担任我们的应变准备（Preparedness）主管。",
+          "url": "https://flash.jin10.com/detail/20260204053929054800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
@@ -179,7 +201,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -189,8 +211,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -200,8 +222,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -212,41 +234,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
         },
         {
-          "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3049338",
+          "title": "【超微电脑上调全年净销售指引，股价盘后涨8%】超微电脑第二财季净销售126.8亿美元，分析师预期104.3亿美元。 预计全年净销售至少400亿美元，公司原本预计至少360亿美元。 预计第三财季净销售至少123亿美元，分析师预期102.5亿美元。 超微电脑美股盘后涨8%。",
+          "url": "https://wallstreetcn.com/livenews/3049352",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "06时25分"
         },
         {
-          "title": "AMD四季度营收102.7亿美元，分析师预期96.5亿美元。 四季度调整后每股收益（EPS）为1.53美元，分析师预期1.32美元。 四季度运营利润28.5亿美元，分析师预期24.7亿美元。 四季度运营利润率28%，分析师预期25.4%。 四季度研发开支23.3亿美元，分析师预期21.6亿美元。 四季度资本开支2.22亿美元，分析师预期2.314亿美元。 预计一季度营收95亿-101亿美元，分析师预期93.9亿美元。 预计一季度调整后毛利润率大约55%，分析师预期54.5%。 AMD美股盘后跌4%。",
-          "url": "https://wallstreetcn.com/livenews/3049337",
+          "title": "（美股）费城金银指数收涨4.63%，报398.43点。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.29%，报2815.40点。 （美股）原材料指数收涨4.04%，金属与矿业指数收涨5.35%。",
+          "url": "https://wallstreetcn.com/livenews/3049350",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
-          "url": "https://wallstreetcn.com/livenews/3049332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "06时25分"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -261,15 +272,52 @@
           "time_info": "[03时42分 ~ 04时31分]"
         },
         {
+          "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3049338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时25分]"
+        },
+        {
+          "title": "AMD四季度营收102.7亿美元，分析师预期96.5亿美元。 四季度调整后每股收益（EPS）为1.53美元，分析师预期1.32美元。 四季度运营利润28.5亿美元，分析师预期24.7亿美元。 四季度运营利润率28%，分析师预期25.4%。 四季度研发开支23.3亿美元，分析师预期21.6亿美元。 四季度资本开支2.22亿美元，分析师预期2.314亿美元。 预计一季度营收95亿-101亿美元，分析师预期93.9亿美元。 预计一季度调整后毛利润率大约55%，分析师预期54.5%。 AMD美股盘后跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3049337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时25分]"
+        },
+        {
+          "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
+          "url": "https://wallstreetcn.com/livenews/3049332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时25分]"
+        },
+        {
           "title": "美股减肥药概念股周二哀鸿遍野，诺和诺德发布了最新业绩报告。 诺和诺德ADR收跌14.64%，硕迪生物跌6.75%，Goodrx跌5.26%，礼来跌3.9%，平价减肥药供应商Hims & Hers跌3.4%，辉瑞制药跌3.34%，阿斯利康跌2.17%，制药ETF跌1.86%，Viking Therapeutics跌1.7%，福泰制药跌1.36%，渤健BIIB跌1.3%。",
           "url": "https://wallstreetcn.com/livenews/3049330",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时25分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -284,6 +332,18 @@
           "time_info": "[03时42分 ~ 04时31分]"
         },
         {
+          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3049320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时25分]"
+        },
+        {
           "title": "美股延续跌势，纳指下跌2.00%。",
           "url": "https://flash.jin10.com/detail/20260204021533895800",
           "source": "金十数据",
@@ -295,145 +355,21 @@
           "time_info": "02时50分"
         },
         {
-          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
-          "url": "https://wallstreetcn.com/livenews/3049320",
+          "title": "美股七巨头收盘播报｜周二（2月3日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报203.68点，日内主要低位震荡。 “超大”市值科技股指数跌1.90%，报387.08点，日内大部分时间也低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3049340",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "俄方向日本发出警告",
-          "url": "https://www.douyin.com/hot/2388478",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
-        },
-        {
-          "title": "日本公开采集稀土泥全过程",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%AC%E5%BC%80%E9%87%87%E9%9B%86%E7%A8%80%E5%9C%9F%E6%B3%A5%E5%85%A8%E8%BF%87%E7%A8%8B%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
-        },
-        {
-          "title": "中国男篮能击败日本队吗",
-          "url": "https://www.toutiao.com/trending/7602547933929963574/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            9,
-            8,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
-        },
-        {
-          "title": "中方回应日本称开采出含稀土泥浆",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%BC%80%E9%87%87%E5%87%BA%E5%90%AB%E7%A8%80%E5%9C%9F%E6%B3%A5%E6%B5%86",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            22,
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
-        },
-        {
-          "title": "日本将调查外国人大规模购地状况",
-          "url": "https://news.ifeng.com/c/8qRpWJjbEhP",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
-        },
-        {
-          "title": "日本中小学生自杀呈上升趋势，专家：预防不应过于依靠数字手段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32517719",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
-        },
-        {
-          "title": "第1现场｜日本遭遇强降雪致30人死亡，积雪厚度达255厘米",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32518371",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
-        },
-        {
-          "title": "外交部回应日本海底挖到稀土泥",
-          "url": "https://www.douyin.com/hot/2388308",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
-        },
-        {
-          "title": "如何看待美国白宫正就稳定币收益问题与稳定币公司和银行进行会谈？有利息就没有 100% 存款准备金率？",
-          "url": "https://www.zhihu.com/question/2001952470549624363",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时31分]"
+          "time_info": "06时25分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -443,11 +379,12 @@
             3,
             4,
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
         },
         {
           "title": "黄金白银为何又大涨",
@@ -461,8 +398,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
         },
         {
           "title": "国投白银LOF手动抹去跌停板引质疑",
@@ -471,11 +408,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
         },
         {
           "title": "买了52公斤白银在暴跌前卖出45公斤",
@@ -486,11 +424,12 @@
             25,
             18,
             12,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
         },
         {
           "title": "金价波动",
@@ -505,6 +444,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时47分 ~ 05时30分]"
+        },
+        {
+          "title": "周二（2月3日）纽约尾盘，现货白银涨7.36%，报85.0929美元/盎司，北京时间21:46刷新日高至89.1655美元。 COMEX白银期货涨11.05%，报85.505美元/盎司，21:46刷新日高至89.100美元。 COMEX铜期货涨4.47%，报6.0960美元/磅，14:00出现一波显著的拉升行情——之前持续低位震荡、之后持续高位震荡。 现货铂金涨4.08%，现货钯金涨1.82%。",
+          "url": "https://wallstreetcn.com/livenews/3049349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月3日（周二）晚盘收盘上涨2.78%报1105.1元/克；<br/>上海黄金交易所白银T+D 2月3日（周二）晚盘收盘上涨5.67%报22100.0元/千克。",
@@ -545,6 +495,131 @@
       ]
     },
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "俄方向日本发出警告",
+          "url": "https://www.douyin.com/hot/2388478",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
+        },
+        {
+          "title": "日本公开采集稀土泥全过程",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%AC%E5%BC%80%E9%87%87%E9%9B%86%E7%A8%80%E5%9C%9F%E6%B3%A5%E5%85%A8%E8%BF%87%E7%A8%8B%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
+        },
+        {
+          "title": "中国男篮能击败日本队吗",
+          "url": "https://www.toutiao.com/trending/7602547933929963574/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            9,
+            8,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
+        },
+        {
+          "title": "中方回应日本称开采出含稀土泥浆",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%BC%80%E9%87%87%E5%87%BA%E5%90%AB%E7%A8%80%E5%9C%9F%E6%B3%A5%E6%B5%86",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22,
+            9,
+            8,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
+        },
+        {
+          "title": "日本将调查外国人大规模购地状况",
+          "url": "https://news.ifeng.com/c/8qRpWJjbEhP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
+        },
+        {
+          "title": "日本中小学生自杀呈上升趋势，专家：预防不应过于依靠数字手段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32517719",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
+        },
+        {
+          "title": "第1现场｜日本遭遇强降雪致30人死亡，积雪厚度达255厘米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32518371",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
+        },
+        {
+          "title": "外交部回应日本海底挖到稀土泥",
+          "url": "https://www.douyin.com/hot/2388308",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
+        },
+        {
+          "title": "如何看待美国白宫正就稳定币收益问题与稳定币公司和银行进行会谈？有利息就没有 100% 存款准备金率？",
+          "url": "https://www.zhihu.com/question/2001952470549624363",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 04时31分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 6,
       "titles": [
@@ -557,8 +632,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -578,7 +653,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -628,11 +703,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
         },
         {
           "title": "红包老奶大战机器人",
@@ -642,11 +718,12 @@
             24,
             25,
             23,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
         },
         {
           "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
@@ -701,7 +778,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "纳斯达克100指数跌幅扩大至2%，标普跌1.22%，道指跌0.82%，纳指跌1.94%，半导体指数跌3.18%。 纳斯达克金龙中国指数跌超2%，万得中概科技龙头指数跌3.55%。热门中概股大全新能源跌逾8%，哔哩哔哩、文远知行跌逾5%，金山云、阿里巴巴、爱奇艺跌逾4%。",
@@ -735,7 +812,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -749,6 +826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "纳指科技指数收跌约2.3%，半导体指数跌约2.1%，小盘股指涨0.3%，银行指数涨约0.8%",
+          "url": "https://wallstreetcn.com/livenews/3049322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         }
       ]
     },
@@ -765,8 +853,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时25分]"
         }
       ]
     },
