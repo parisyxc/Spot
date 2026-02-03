@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T01:50:06.264225+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-02-04T02:50:56.741655+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "日本公开采集稀土泥全过程",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "中国男篮能击败日本队吗",
@@ -36,11 +37,25 @@
           "source": "今日头条",
           "ranks": [
             6,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
+        },
+        {
+          "title": "中方回应日本称开采出含稀土泥浆",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%BC%80%E9%87%87%E5%87%BA%E5%90%AB%E7%A8%80%E5%9C%9F%E6%B3%A5%E6%B5%86",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "日本将调查外国人大规模购地状况",
@@ -50,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "日本中小学生自杀呈上升趋势，专家：预防不应过于依靠数字手段",
@@ -61,8 +76,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "第1现场｜日本遭遇强降雪致30人死亡，积雪厚度达255厘米",
@@ -73,8 +88,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "如何看待美国白宫正就稳定币收益问题与稳定币公司和银行进行会谈？有利息就没有 100% 存款准备金率？",
@@ -82,11 +97,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "外交部回应日本海底挖到稀土泥",
@@ -94,29 +110,101 @@
           "source": "抖音",
           "ranks": [
             17,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
+          "url": "https://flash.jin10.com/detail/20260204013101107800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
         },
         {
-          "title": "中方回应日本称开采出含稀土泥浆",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%BC%80%E9%87%87%E5%87%BA%E5%90%AB%E7%A8%80%E5%9C%9F%E6%B3%A5%E6%B5%86",
-          "source": "百度热搜",
+          "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
+          "url": "https://wallstreetcn.com/livenews/3049251",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            22
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
+          "url": "https://flash.jin10.com/detail/20260204012612904800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
+          "url": "https://wallstreetcn.com/articles/3764782",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
+          "url": "https://wallstreetcn.com/livenews/3049262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
+          "url": "https://wallstreetcn.com/livenews/3049251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
+          "url": "https://flash.jin10.com/detail/20260204015701016800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -127,30 +215,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "国投白银LOF手动抹去跌停板引质疑",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%8A%95%E7%99%BD%E9%93%B6LOF%E6%89%8B%E5%8A%A8%E6%8A%B9%E5%8E%BB%E8%B7%8C%E5%81%9C%E6%9D%BF%E5%BC%95%E8%B4%A8%E7%96%91%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "黄金白银为何又大涨",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E5%8F%88%E5%A4%A7%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月3日（周二）晚盘收盘上涨2.78%报1105.1元/克；<br/>上海黄金交易所白银T+D 2月3日（周二）晚盘收盘上涨5.67%报22100.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260204023108559800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         },
         {
           "title": "纯银价值就超5000万元，2.5吨白银打造的“天下银楼”标价1200万元被拍卖，首拍流产",
@@ -170,11 +271,12 @@
           "source": "微博",
           "ranks": [
             19,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "买了52公斤白银在暴跌前卖出45公斤",
@@ -182,28 +284,30 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
           "url": "https://wallstreetcn.com/articles/3764858",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -212,7 +316,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -228,13 +332,24 @@
           "time_info": "00时47分"
         },
         {
+          "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
+          "url": "https://wallstreetcn.com/livenews/3049266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
           "title": "谷歌(GOOG.O)：统一维护服务正式上线，通过集中式控制面板查看并管理谷歌云服务中的维护事件。",
           "url": "https://flash.jin10.com/detail/20260204010917960800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         }
@@ -242,7 +357,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -252,8 +367,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -263,8 +378,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -274,53 +389,25 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
-          "url": "https://flash.jin10.com/detail/20260204013101107800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
-          "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
-          "url": "https://wallstreetcn.com/livenews/3049251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
-          "url": "https://flash.jin10.com/detail/20260204012612904800",
+          "title": "美股延续跌势，纳指下跌2.00%。",
+          "url": "https://flash.jin10.com/detail/20260204021533895800",
           "source": "金十数据",
           "ranks": [
-            8
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "02时50分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
@@ -330,8 +417,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
+        },
+        {
+          "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
+          "url": "https://wallstreetcn.com/livenews/3049277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         },
         {
           "title": "红包老奶大战机器人",
@@ -339,11 +437,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
         },
         {
           "title": "无人机和机器人首次写入中央一号文件",
@@ -355,6 +454,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，标普跌1.22%，道指跌0.82%，纳指跌1.94%，半导体指数跌3.18%。 纳斯达克金龙中国指数跌超2%，万得中概科技龙头指数跌3.55%。热门中概股大全新能源跌逾8%，哔哩哔哩、文远知行跌逾5%，金山云、阿里巴巴、爱奇艺跌逾4%。",
+          "url": "https://wallstreetcn.com/livenews/3049276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "标普500日内跌幅达1.0%，报6906.78点，费城半导体指数跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3049257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     },
@@ -371,8 +498,25 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉(TSLA.O)将于周三在参议院商务委员会作证，指出国会必须对自动驾驶汽车监管进行现代化改革。",
+          "url": "https://flash.jin10.com/detail/20260204020709699800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     }
