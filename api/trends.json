@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T17:36:18.389336+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-02-03T18:35:54.672124+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
@@ -99,8 +99,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时11分 ~ 17时36分]"
+          "appearance_count": 9,
+          "time_info": "[12时11分 ~ 18时35分]"
+        },
+        {
+          "title": "如何看待国投白银 LOF 在 2026 年 2 月 2 号晚上修改净值计算方法？合规吗？",
+          "url": "https://www.zhihu.com/question/2001818980202092528",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 18时35分]"
         },
         {
           "title": "男子听劝卖出45公斤白银躲过暴跌",
@@ -128,27 +140,17 @@
           "time_info": "[00时33分 ~ 09时46分]"
         },
         {
-          "title": "如何看待国投白银 LOF 在 2026 年 2 月 2 号晚上修改净值计算方法？合规吗？",
-          "url": "https://www.zhihu.com/question/2001818980202092528",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 17时36分]"
-        },
-        {
           "title": "白银基金，连续2日跌停",
           "url": "https://www.cls.cn/detail/2278574",
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时36分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时35分]"
         },
         {
           "title": "黄金白银直线飙涨原因",
@@ -217,6 +219,17 @@
           "time_info": "16时32分"
         },
         {
+          "title": "湖南白银：近期公司经营情况正常，内外部经营环境未发生重大变化",
+          "url": "https://wallstreetcn.com/livenews/3049060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "现货白银日内涨幅达2.00%，现报80.83美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260203070312943800",
           "source": "金十数据",
@@ -237,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "国投瑞银回应白银LOF巨震",
+          "url": "https://www.douyin.com/hot/2388153",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时35分]"
         },
         {
           "title": "国投白银LOF再次跌停",
@@ -292,18 +316,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
-          "title": "国投瑞银回应白银LOF巨震",
-          "url": "https://www.douyin.com/hot/2388153",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -356,6 +369,30 @@
           "time_info": "[01时34分 ~ 07时23分]"
         },
         {
+          "title": "上金所：调整黄金、白银部分合约的交易保证金水平和涨跌停板比例",
+          "url": "https://www.cls.cn/detail/2279009",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时35分]"
+        },
+        {
+          "title": "白银暴涨10%",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A810%25%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时35分]"
+        },
+        {
           "title": "国投瑞银白银LOF净值下跌31.5%",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%8A%95%E7%91%9E%E9%93%B6%E7%99%BD%E9%93%B6LOF%E5%87%80%E5%80%BC%E4%B8%8B%E8%B7%8C31.5%25",
           "source": "百度热搜",
@@ -378,26 +415,26 @@
           "time_info": "[09时45分 ~ 09时46分]"
         },
         {
-          "title": "上金所：调整黄金、白银部分合约的交易保证金水平和涨跌停板比例",
-          "url": "https://www.cls.cn/detail/2279009",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
           "title": "儿子劝父亲卖出45公斤白银躲过暴跌",
           "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%8A%9D%E7%88%B6%E4%BA%B2%E5%8D%96%E5%87%BA45%E5%85%AC%E6%96%A4%E7%99%BD%E9%93%B6%E8%BA%B2%E8%BF%87%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "COMEX白银期货大涨14%，现报87.7美元/盎司。",
@@ -406,7 +443,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -417,7 +454,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -428,7 +465,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -453,17 +490,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
-        },
-        {
-          "title": "白银暴涨10%",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A810%25%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
         },
         {
           "title": "散户撤离引爆白银“踩踏” 银价回归1月中旬水位",
@@ -566,11 +592,26 @@
           "ranks": [
             5,
             1,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 17时36分]"
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 18时35分]"
+        },
+        {
+          "title": "中方回应日本称开采出含稀土泥浆",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%BC%80%E9%87%87%E5%87%BA%E5%90%AB%E7%A8%80%E5%9C%9F%E6%B3%A5%E6%B5%86",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 18时35分]"
         },
         {
           "title": "日本米价飞天,开启史诗通胀",
@@ -583,19 +624,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 09时46分]"
-        },
-        {
-          "title": "中方回应日本称开采出含稀土泥浆",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%BC%80%E9%87%87%E5%87%BA%E5%90%AB%E7%A8%80%E5%9C%9F%E6%B3%A5%E6%B5%86",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 17时36分]"
         },
         {
           "title": "日本宣布从南鸟岛海域成功采掘到含稀土的淤泥，外交部回应",
@@ -655,6 +683,17 @@
           "time_info": "[13时47分 ~ 15时39分]"
         },
         {
+          "title": "日本中小学生自杀呈上升趋势，专家：预防不应过于依靠数字手段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32517719",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时35分]"
+        },
+        {
           "title": "日本拍卖10年期国债，认购倍数为3.02，上一次在1月份的拍卖中为3.3，过去12个月均值为3.24。",
           "url": "https://wallstreetcn.com/livenews/3048787",
           "source": "华尔街见闻-快讯",
@@ -675,17 +714,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
-        },
-        {
-          "title": "日本中小学生自杀呈上升趋势，专家：预防不应过于依靠数字手段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32517719",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
         },
         {
           "title": "日本东证指数日内涨幅扩大至3%。",
@@ -727,7 +755,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -757,7 +785,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -768,8 +796,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时45分 ~ 17时36分]"
+          "appearance_count": 11,
+          "time_info": "[09时45分 ~ 18时35分]"
         },
         {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
@@ -826,6 +854,18 @@
           "time_info": "[00时33分 ~ 09时46分]"
         },
         {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时35分]"
+        },
+        {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -846,17 +886,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
@@ -887,7 +916,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -901,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美股太空公司股价盘前上涨，此前SpaceX确认与xAI合并。维珍银河上涨1.7%，行星实验室上涨3.1%，直觉机器上涨2.4%，旅行者科技上涨2.7%。",
+          "url": "https://flash.jin10.com/detail/20260203175702498800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "（美股）费城金银指数收跌0.40%，报380.81点。 （全球时段）纽约证交所ARCA金矿开采商指数跌1.62%，报2699.52点，美股盘初曾尖锐地冲高回落。 （美股）原材料指数收涨0.58%，（美股）金属与矿业指数收涨1.44%。",
@@ -917,7 +957,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "红包老奶大战机器人",
@@ -930,11 +970,12 @@
             5,
             19,
             20,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 17时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 18时35分]"
         },
         {
           "title": "北京人形机器人创新中心完成首轮市场化融资 超7亿元",
@@ -943,7 +984,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -957,6 +998,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "中央一号文件：促进人工智能与农业发展相结合，拓展无人机、物联网、机器人等应用场景，加快农业生物制造关键技术创新",
+          "url": "https://wallstreetcn.com/livenews/3049050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "智元机器人等在上海成立觅蜂具身智能科技公司，注册资本500万",
@@ -1035,7 +1087,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         }
