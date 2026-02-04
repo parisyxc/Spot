@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T01:42:30.287573+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-02-05T02:41:44.711400+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时41分]"
         },
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -27,19 +27,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时41分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
           "url": "https://www.zhihu.com/question/2002302871203440223",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时41分]"
         },
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -49,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时41分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -61,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时41分]"
         },
         {
           "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
@@ -84,14 +85,120 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时41分]"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260205013955939800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260205013948070800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "日本人神言论:稀土属于全地球",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350210&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A5%9E%E8%A8%80%E8%AE%BA%3A%E7%A8%80%E5%9C%9F%E5%B1%9E%E4%BA%8E%E5%85%A8%E5%9C%B0%E7%90%83",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时41分]"
+        },
+        {
+          "title": "美国贸易代表格里尔宣布：在关键矿物问题上与欧盟和日本合作。",
+          "url": "https://wallstreetcn.com/livenews/3050030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时42分]"
+          "time_info": "[01时42分 ~ 02时41分]"
+        },
+        {
+          "title": "日本多地强降雪致35死358伤",
+          "url": "https://www.douyin.com/hot/2389598",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时41分]"
+        },
+        {
+          "title": "美国财长贝森特：稳定币可能对美国政府的融资具有重要意义。",
+          "url": "https://wallstreetcn.com/livenews/3049995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "IBM计划参与投资日本Rapidus。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3050046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "据联合声明，美国和欧盟将在未来30天内签署一份谅解备忘录，以加强关键矿产供应链的安全保障。美国、日本和欧盟在联合声明中宣布建立战略伙伴关系，以加强关键矿产供应链的抗风险能力。",
+          "url": "https://flash.jin10.com/detail/20260205010523160800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "中方回应日本扬言将自卫队写入宪法",
+          "url": "https://www.toutiao.com/trending/7602324051302793226/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "事关半导体材料！两款国产设备，顺利交付",
@@ -101,19 +208,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时42分]"
-        },
-        {
-          "title": "欧洲半导体板块涨跌各异，Soitec收涨23.30%，阿斯麦控股跌4.18%。 最新业绩报告显示，Soitec第三财季营收1.60亿欧元，分析师预期1.488亿欧元。 预计2026财年四季度营收（按恒定汇率）将增长大约20%。",
-          "url": "https://wallstreetcn.com/livenews/3050029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时41分]"
         },
         {
           "title": "AMD跌幅扩大至16%，创2018年以来最大盘中跌幅。 应用材料跌6.4%，恐创2025年8月以来最大单日跌幅。 英伟达跌3%。 费城半导体指数跌4.1%。 标普500指数重新跌超0.3%。",
@@ -128,15 +224,38 @@
           "time_info": "[00时41分 ~ 01时42分]"
         },
         {
+          "title": "欧洲半导体板块涨跌各异，Soitec收涨23.30%，阿斯麦控股跌4.18%。 最新业绩报告显示，Soitec第三财季营收1.60亿欧元，分析师预期1.488亿欧元。 预计2026财年四季度营收（按恒定汇率）将增长大约20%。",
+          "url": "https://wallstreetcn.com/livenews/3050029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时41分]"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至2%。成分股AMD跌16.8%，Applovin跌14.2%，Palantir跌12.1%，美光科技跌9.9%、西部数据跌9.3%，应用材料、Strategy跌约7.3%，核电股CEG跌6.5%，星巴克目前涨4%，特许通讯涨5.6%，GEHC涨6.4%，ODFL涨6.6%，安进涨7.3%。 标普500指数跌0.7%，道指涨205点、涨幅0.4%，纳指跌418点跌幅1.8%。 费城半导体指数跌4.8%，银行指数涨1.3%，罗素2000指数跌0.9%。",
           "url": "https://wallstreetcn.com/livenews/3050023",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "标普500指数下跌1%，科技板块跌超3%，电信板块跌2%。 道指涨幅收窄至0.1%，纳指跌2.29%，纳斯达克100指数跌2.44%，半导体指数重挫超6%。",
+          "url": "https://wallstreetcn.com/livenews/3050044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至1.3%，标普500指数跌超0.4%，道指持平，半导体指数跌2.1%。 纳斯达克中国金龙指数跌超2％，金山云跌7.39％，网易跌7.08％，哔哩哔哩跌6.55％，世纪互联跌5.89％，万国数据跌5.48％。",
@@ -153,8 +272,21 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "金价巨震之下，水贝难寻金条现货|传真",
+          "url": "https://www.cls.cn/detail/2280847",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时41分]"
+        },
         {
           "title": "金银反弹，盘中期金涨近8%、白银涨超10%，“死猫跳”还是“牛市重启”？",
           "url": "https://wallstreetcn.com/articles/3764862",
@@ -167,16 +299,15 @@
           "time_info": "00时41分"
         },
         {
-          "title": "金价巨震之下，水贝难寻金条现货|传真",
-          "url": "https://www.cls.cn/detail/2280847",
-          "source": "财联社热门",
+          "title": "报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
+          "url": "https://wallstreetcn.com/articles/3764985",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            10
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "CNDOTA白银一代访谈",
@@ -208,68 +339,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "日本人神言论:稀土属于全地球",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350210&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A5%9E%E8%A8%80%E8%AE%BA%3A%E7%A8%80%E5%9C%9F%E5%B1%9E%E4%BA%8E%E5%85%A8%E5%9C%B0%E7%90%83",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时42分]"
-        },
-        {
-          "title": "美国贸易代表格里尔宣布：在关键矿物问题上与欧盟和日本合作。",
-          "url": "https://wallstreetcn.com/livenews/3050030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "日本多地强降雪致35死358伤",
-          "url": "https://www.douyin.com/hot/2389598",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时42分]"
-        },
-        {
-          "title": "美国财长贝森特：稳定币可能对美国政府的融资具有重要意义。",
-          "url": "https://wallstreetcn.com/livenews/3049995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "据联合声明，美国和欧盟将在未来30天内签署一份谅解备忘录，以加强关键矿产供应链的安全保障。美国、日本和欧盟在联合声明中宣布建立战略伙伴关系，以加强关键矿产供应链的抗风险能力。",
-          "url": "https://flash.jin10.com/detail/20260205010523160800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "01时42分"
         }
@@ -277,7 +347,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微信把元宝红包链接给“封了”：相关营销诱导用户高频分享，骚扰用户",
@@ -287,8 +357,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时41分]"
+        },
+        {
+          "title": "微信为什么要打自家人元宝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%89%93%E8%87%AA%E5%AE%B6%E4%BA%BA%E5%85%83%E5%AE%9D%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "微信整治春节诱导分享，处置元宝违规链接，如何看待微信「自家违规也动手」的操作？",
@@ -308,9 +389,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特斯拉(TSLA.O)股价跌至逾两个月低点，最新下跌4.3%。",
+          "url": "https://flash.jin10.com/detail/20260205021009474800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国股市延续跌势，纳指跌超2%，标普500指数跌1%。特斯拉(TSLA.O)跌幅扩大至5%。",
+          "url": "https://flash.jin10.com/detail/20260205013852825800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         }
       ]
     },
@@ -326,8 +435,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时41分]"
         },
         {
           "title": "人形机器人表演碰到老人 双双倒地",
@@ -336,7 +445,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
         }
@@ -351,11 +460,29 @@
           "url": "https://wallstreetcn.com/livenews/3050028",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260205013400830800",
+          "source": "金十数据",
+          "ranks": [
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "02时41分"
         }
       ]
     },
@@ -370,9 +497,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时41分]"
         }
       ]
     }
