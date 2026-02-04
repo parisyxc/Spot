@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T15:41:31.975335+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-02-04T16:35:54.360897+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "黄金白银为何又大涨",
@@ -63,11 +63,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 15时41分]"
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 16时35分]"
         },
         {
           "title": "买了52公斤白银在暴跌前卖出45公斤",
@@ -130,7 +131,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -163,9 +164,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "富达国际明星基金经理放话：金价再跌5%-7%将大举抄底",
+          "url": "https://flash.jin10.com/detail/20260204161737425800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "国投白银LOF场内三跌停，溢价仍超过6成",
+          "url": "https://wallstreetcn.com/livenews/3049723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月4日（周三）早盘盘初上涨4.63%报1124.99元/克；<br/>上海黄金交易所白银T+D 2月4日（周三）早盘盘初上涨6.92%报22363.0元/千克。",
@@ -185,7 +208,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -238,6 +261,18 @@
           "time_info": "[03时42分 ~ 04时31分]"
         },
         {
+          "title": "金价暴力反弹重上5000美元",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时35分]"
+        },
+        {
           "title": "智利上调铜价预期至4.95美元/磅",
           "url": "https://www.toutiao.com/trending/7602481102993997874/",
           "source": "今日头条",
@@ -277,7 +312,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -315,6 +350,17 @@
           "time_info": "13时44分"
         },
         {
+          "title": "金价创2009年以来最大单日涨幅",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2009%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "金十图示：2026年02月04日（周三）上海金早盘价为1134.24元/克，较国际金价(1123.02元/克)，高11.22元/克",
           "url": "https://flash.jin10.com/detail/20260204110147471800",
           "source": "金十数据",
@@ -335,17 +381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
-        },
-        {
-          "title": "金价暴力反弹重上5000美元",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
         },
         {
           "title": "国投白银LOF(161226)今日复牌再度跌停，报3.825元，最新溢价率为64.6%。",
@@ -387,6 +422,18 @@
           "time_info": "[00时47分 ~ 06时25分]"
         },
         {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 16时35分]"
+        },
+        {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -398,15 +445,16 @@
           "time_info": "[00时47分 ~ 06时25分]"
         },
         {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
           "ranks": [
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 15时41分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 16时35分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -419,17 +467,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时24分 ~ 14时44分]"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 15时41分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -477,8 +514,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 15时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 16时35分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -486,22 +523,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 15时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 16时35分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 15时41分]"
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 16时35分]"
         },
         {
           "title": "创纪录新高后获利回吐 日经指数受科技股拖累低开",
@@ -695,6 +734,306 @@
           "source": "金十数据",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "日本公开采集稀土泥全过程",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%AC%E5%BC%80%E9%87%87%E9%9B%86%E7%A8%80%E5%9C%9F%E6%B3%A5%E5%85%A8%E8%BF%87%E7%A8%8B%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 07时25分]"
+        },
+        {
+          "title": "中国男篮能击败日本队吗",
+          "url": "https://www.toutiao.com/trending/7602547933929963574/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            9,
+            8,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 07时25分]"
+        },
+        {
+          "title": "俄方向日本发出警告",
+          "url": "https://www.douyin.com/hot/2388478",
+          "source": "抖音",
+          "ranks": [
+            1,
+            11,
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时47分 ~ 16时35分]"
+        },
+        {
+          "title": "中方回应日本称开采出含稀土泥浆",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%BC%80%E9%87%87%E5%87%BA%E5%90%AB%E7%A8%80%E5%9C%9F%E6%B3%A5%E6%B5%86",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22,
+            9,
+            8,
+            10,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 07时25分]"
+        },
+        {
+          "title": "第1现场｜日本遭遇强降雪致30人死亡，积雪厚度达255厘米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32518371",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 13时44分]"
+        },
+        {
+          "title": "日本将调查外国人大规模购地状况",
+          "url": "https://news.ifeng.com/c/8qRpWJjbEhP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 07时25分]"
+        },
+        {
+          "title": "日本中小学生自杀呈上升趋势，专家：预防不应过于依靠数字手段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32517719",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 07时25分]"
+        },
+        {
+          "title": "外交部回应日本海底挖到稀土泥",
+          "url": "https://www.douyin.com/hot/2388308",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19,
+            15,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 09时30分]"
+        },
+        {
+          "title": "日本公开采集稀土泥全过程",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%85%AC%E5%BC%80%E9%87%87%E9%9B%86%E7%A8%80%E5%9C%9F%E6%B3%A5%E5%85%A8%E8%BF%87%E7%A8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "日媒：日本多个水库水位告急，国土交通省呼吁民众节水应对“前所未有”干涸",
+          "url": "https://wallstreetcn.com/livenews/3049433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "如何看待美国白宫正就稳定币收益问题与稳定币公司和银行进行会谈？有利息就没有 100% 存款准备金率？",
+          "url": "https://www.zhihu.com/question/2001952470549624363",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 04时31分]"
+        },
+        {
+          "title": "日本财务省：原则上已就与菲律宾的新税收协定达成一致。",
+          "url": "https://wallstreetcn.com/livenews/3049608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "日本40年期国债收益率上行1.5个基点，至3.940%。",
+          "url": "https://wallstreetcn.com/livenews/3049607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "标普全球评级：日本银行存款正面临由人口结构驱动的迁移。",
+          "url": "https://flash.jin10.com/detail/20260204142100022800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "市场对日本债务风险反应过度 日债收益率曲线或因政策预期走陡",
+          "url": "https://flash.jin10.com/detail/20260204160955840800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "5年期日本国债收益率下跌1个基点，至1.670%。",
+          "url": "https://flash.jin10.com/detail/20260204123030609800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "日本财务省：原则上已就与菲律宾的新税收协定达成一致。",
+          "url": "https://flash.jin10.com/detail/20260204140339420800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "日本1月服务业PMI终值 53.7，初值 53.4。",
+          "url": "https://wallstreetcn.com/livenews/3049414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "日本1月综合PMI终值 53.1，初值 52.8。",
+          "url": "https://wallstreetcn.com/livenews/3049413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "日本国债收益率走高挤压美债空间 吸筹竞争或推升美国偿债成本",
+          "url": "https://flash.jin10.com/detail/20260204111146150800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "40年期日本国债收益率上升1.5个基点，至3.940%。",
+          "url": "https://flash.jin10.com/detail/20260204140208391800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "日本一小学生遭初中生勒脖又推入海",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E5%88%9D%E4%B8%AD%E7%94%9F%E5%8B%92%E8%84%96%E5%8F%88%E6%8E%A8%E5%85%A5%E6%B5%B7%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "日本1月综合PMI终值 53.1，前值52.8。",
+          "url": "https://flash.jin10.com/detail/20260204083002188800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "日本1月服务业PMI终值 53.7，前值53.4。",
+          "url": "https://flash.jin10.com/detail/20260204083002187800",
+          "source": "金十数据",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -969,290 +1308,122 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 23,
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 10,
       "titles": [
         {
-          "title": "日本公开采集稀土泥全过程",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%AC%E5%BC%80%E9%87%87%E9%9B%86%E7%A8%80%E5%9C%9F%E6%B3%A5%E5%85%A8%E8%BF%87%E7%A8%8B%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "微信：对元宝的违规链接进行处置，限制其在微信内直接打开",
+          "url": "https://www.cls.cn/detail/2279955",
+          "source": "财联社热门",
           "ranks": [
-            8,
             4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 07时25分]"
-        },
-        {
-          "title": "中国男篮能击败日本队吗",
-          "url": "https://www.toutiao.com/trending/7602547933929963574/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            9,
-            8,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 07时25分]"
-        },
-        {
-          "title": "俄方向日本发出警告",
-          "url": "https://www.douyin.com/hot/2388478",
-          "source": "抖音",
-          "ranks": [
-            1,
-            11,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时47分 ~ 15时41分]"
-        },
-        {
-          "title": "中方回应日本称开采出含稀土泥浆",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%BC%80%E9%87%87%E5%87%BA%E5%90%AB%E7%A8%80%E5%9C%9F%E6%B3%A5%E6%B5%86",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            22,
-            9,
-            8,
-            10,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 07时25分]"
-        },
-        {
-          "title": "第1现场｜日本遭遇强降雪致30人死亡，积雪厚度达255厘米",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32518371",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时47分 ~ 13时44分]"
-        },
-        {
-          "title": "日本将调查外国人大规模购地状况",
-          "url": "https://news.ifeng.com/c/8qRpWJjbEhP",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 07时25分]"
-        },
-        {
-          "title": "日本中小学生自杀呈上升趋势，专家：预防不应过于依靠数字手段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32517719",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 07时25分]"
-        },
-        {
-          "title": "外交部回应日本海底挖到稀土泥",
-          "url": "https://www.douyin.com/hot/2388308",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19,
-            15,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 09时30分]"
-        },
-        {
-          "title": "日本公开采集稀土泥全过程",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%85%AC%E5%BC%80%E9%87%87%E9%9B%86%E7%A8%80%E5%9C%9F%E6%B3%A5%E5%85%A8%E8%BF%87%E7%A8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "日媒：日本多个水库水位告急，国土交通省呼吁民众节水应对“前所未有”干涸",
-          "url": "https://wallstreetcn.com/livenews/3049433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "如何看待美国白宫正就稳定币收益问题与稳定币公司和银行进行会谈？有利息就没有 100% 存款准备金率？",
-          "url": "https://www.zhihu.com/question/2001952470549624363",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            19,
-            20
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时31分]"
+          "time_info": "[12时08分 ~ 16时35分]"
         },
         {
-          "title": "日本财务省：原则上已就与菲律宾的新税收协定达成一致。",
-          "url": "https://wallstreetcn.com/livenews/3049608",
+          "title": "微信整治春节诱导分享，处置元宝违规链接，如何看待微信「自家违规也动手」的操作？",
+          "url": "https://www.zhihu.com/question/2002329647430517774",
+          "source": "知乎",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 16时35分]"
+        },
+        {
+          "title": "微信把自家“兄弟”发的红包封了",
+          "url": "https://tech.ifeng.com/c/8qSvQ6K4FpL",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时44分]"
+        },
+        {
+          "title": "微信把元宝红包链接给“封了”：相关营销诱导用户高频分享，骚扰用户",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32530069",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "微信公关总监@微信粥姨 发文回应微信屏蔽元宝红包分享链接：用户体验第一，一视同仁。",
+          "url": "https://wallstreetcn.com/livenews/3049549",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时44分]"
         },
         {
-          "title": "日本40年期国债收益率上行1.5个基点，至3.940%。",
-          "url": "https://wallstreetcn.com/livenews/3049607",
-          "source": "华尔街见闻-快讯",
+          "title": "微信屏蔽元宝红包链接 公关总监回应",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%B1%8F%E8%94%BD%E5%85%83%E5%AE%9D%E7%BA%A2%E5%8C%85%E9%93%BE%E6%8E%A5+%E5%85%AC%E5%85%B3%E6%80%BB%E7%9B%91%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "标普全球评级：日本银行存款正面临由人口结构驱动的迁移。",
-          "url": "https://flash.jin10.com/detail/20260204142100022800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "5年期日本国债收益率下跌1个基点，至1.670%。",
-          "url": "https://flash.jin10.com/detail/20260204123030609800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "日本财务省：原则上已就与菲律宾的新税收协定达成一致。",
-          "url": "https://flash.jin10.com/detail/20260204140339420800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "日本1月服务业PMI终值 53.7，初值 53.4。",
-          "url": "https://wallstreetcn.com/livenews/3049414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "日本1月综合PMI终值 53.1，初值 52.8。",
-          "url": "https://wallstreetcn.com/livenews/3049413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "日本国债收益率走高挤压美债空间 吸筹竞争或推升美国偿债成本",
-          "url": "https://flash.jin10.com/detail/20260204111146150800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "40年期日本国债收益率上升1.5个基点，至3.940%。",
-          "url": "https://flash.jin10.com/detail/20260204140208391800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "日本一小学生遭初中生勒脖又推入海",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E5%88%9D%E4%B8%AD%E7%94%9F%E5%8B%92%E8%84%96%E5%8F%88%E6%8E%A8%E5%85%A5%E6%B5%B7%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "日本1月综合PMI终值 53.1，前值52.8。",
-          "url": "https://flash.jin10.com/detail/20260204083002188800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "日本1月服务业PMI终值 53.7，前值53.4。",
-          "url": "https://flash.jin10.com/detail/20260204083002187800",
-          "source": "金十数据",
-          "ranks": [
+            26,
             29
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 15时41分]"
+        },
+        {
+          "title": "微信封禁自家“兄弟”红包，打的什么牌？",
+          "url": "https://tech.ifeng.com/c/8qRFXQoY4FM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时30分"
+          "time_info": "15时41分"
+        },
+        {
+          "title": "元宝回应被微信屏蔽",
+          "url": "https://www.cls.cn/detail/2279975",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "微信屏蔽元宝红包链接",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B1%8F%E8%94%BD%E5%85%83%E5%AE%9D%E7%BA%A2%E5%8C%85%E9%93%BE%E6%8E%A5%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "元宝回应被微信屏蔽：我们完全理解并尊重平台规则，已第一时间优化活动设计，确保合规体验。感谢大家的监督与支持。",
+          "url": "https://wallstreetcn.com/livenews/3049513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
@@ -1336,7 +1507,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1365,106 +1536,8 @@
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "微信：对元宝的违规链接进行处置，限制其在微信内直接打开",
-          "url": "https://www.cls.cn/detail/2279955",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 15时41分]"
-        },
-        {
-          "title": "微信整治春节诱导分享，处置元宝违规链接，如何看待微信「自家违规也动手」的操作？",
-          "url": "https://www.zhihu.com/question/2002329647430517774",
-          "source": "知乎",
-          "ranks": [
-            13,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 15时41分]"
-        },
-        {
-          "title": "微信把自家“兄弟”发的红包封了",
-          "url": "https://tech.ifeng.com/c/8qSvQ6K4FpL",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 14时44分]"
-        },
-        {
-          "title": "微信公关总监@微信粥姨 发文回应微信屏蔽元宝红包分享链接：用户体验第一，一视同仁。",
-          "url": "https://wallstreetcn.com/livenews/3049549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时44分]"
-        },
-        {
-          "title": "微信屏蔽元宝红包链接 公关总监回应",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%B1%8F%E8%94%BD%E5%85%83%E5%AE%9D%E7%BA%A2%E5%8C%85%E9%93%BE%E6%8E%A5+%E5%85%AC%E5%85%B3%E6%80%BB%E7%9B%91%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 15时41分]"
-        },
-        {
-          "title": "微信封禁自家“兄弟”红包，打的什么牌？",
-          "url": "https://tech.ifeng.com/c/8qRFXQoY4FM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "微信屏蔽元宝红包链接",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B1%8F%E8%94%BD%E5%85%83%E5%AE%9D%E7%BA%A2%E5%8C%85%E9%93%BE%E6%8E%A5%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "元宝回应被微信屏蔽：我们完全理解并尊重平台规则，已第一时间优化活动设计，确保合规体验。感谢大家的监督与支持。",
-          "url": "https://wallstreetcn.com/livenews/3049513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
@@ -1570,6 +1643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "光洋股份：与深圳市玄创机器人有限公司、黄山光洋机器人有限公司签署了《战略合作协议书》，针对深圳玄创特种具身全系列、全型号的产品展开全方位的战略合作，三方通过深度绑定与协同创新，共同开发、生产和销售满足高端特种具身产品。",
+          "url": "https://wallstreetcn.com/livenews/3049698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
@@ -1584,11 +1668,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时47分 ~ 15时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时47分 ~ 16时35分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
