@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T01:44:03.695469+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-02-06T02:42:03.391563+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -57,11 +57,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
@@ -70,7 +71,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         },
@@ -81,7 +82,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         },
@@ -91,22 +92,24 @@
           "source": "微博",
           "ranks": [
             18,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%B6%851%25",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
         }
       ]
     },
@@ -122,8 +125,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "日本民众举行集会，反对高市政权推动修宪",
@@ -133,8 +136,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "禁运卡脖子,日本闹药荒",
@@ -144,8 +147,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "日本宣称探明稀土储量1600万吨",
@@ -165,15 +168,66 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         }
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI创始人Altman：GPT-5.3-Codex来了！ 它拥有最佳编码性能，任务执行过程中的可操控性和实时更新功能，对于相同任务处理量，它仅需5.2-Codex一半的tokens，单 token处理速度提升25%以上，此外，它将能高效利用计算机资源。",
+          "url": "https://wallstreetcn.com/livenews/3050836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "OpenAI推出新平台Frontier，助力企业部署“AI同事”",
+          "url": "https://wallstreetcn.com/livenews/3050813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时42分]"
+        },
+        {
+          "title": "OpenAI：GPT-5.3-Codex正式发布",
+          "url": "https://flash.jin10.com/detail/20260206022204665800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：今天晚些时候，Codex用户将迎来重大折扣。你只需去创造事物即可。",
+          "url": "https://flash.jin10.com/detail/20260206001240368800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
@@ -183,8 +237,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "宇树机器人在 -47.4°C 阿勒泰自主行走 13 万步，实现了哪些突破？极寒环境对人形机器人有哪些挑战？",
@@ -195,8 +249,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
+        },
+        {
+          "title": "比特币跌幅扩大至10%，逼近6.5万美元和2024年10月10日底部58892.78美元。",
+          "url": "https://wallstreetcn.com/livenews/3050837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "比特币跌穿6.7万美元。",
@@ -223,47 +288,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "Meta为其“Vibes”视频测试单独的APP。（TechCrunch）",
           "url": "https://wallstreetcn.com/livenews/3050811",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI推出新平台Frontier，助力企业部署“AI同事”",
-          "url": "https://wallstreetcn.com/livenews/3050813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：今天晚些时候，Codex用户将迎来重大折扣。你只需去创造事物即可。",
-          "url": "https://flash.jin10.com/detail/20260206001240368800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            11,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时42分]"
         }
       ]
     },
@@ -279,8 +317,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "现货白银日内跌幅达18.0%，报72.12美元/盎司。 纽约银日内跌幅达15.0%，报71.72美元/盎司。",
