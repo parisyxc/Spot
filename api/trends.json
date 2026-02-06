@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T02:42:44.160653+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-02-07T03:35:54.158067+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -99,6 +99,104 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
+          "url": "https://wallstreetcn.com/articles/3765106",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时35分]"
+        },
+        {
+          "title": "现货白银日内暴涨10.00%，现报77.88美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260207020446136800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "现货白银日内涨幅达10.0%，报77.77美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3051585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时35分]"
+        },
+        {
+          "title": "白银暴跌后还能翻身吗",
+          "url": "https://www.toutiao.com/trending/7603720579941666340/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 03时35分]"
+        },
+        {
+          "title": "女演员开箱取出100克黄金500克白银",
+          "url": "https://www.toutiao.com/trending/7603351330325086262/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 02时42分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月6日（周五）晚盘收盘上涨2.97%报1111.0元/克；<br/>上海黄金交易所白银T+D 2月6日（周五）晚盘收盘上涨3.97%报18848.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260207023144146800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
+          "title": "现货白银日内暴涨9.00%，现报77.19美元/盎司；纽约期银向上触及77美元/盎司，日内涨0.37%。",
+          "url": "https://flash.jin10.com/detail/20260207015114652800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "现货白银向上触及77美元/盎司，日内涨8.77%。",
+          "url": "https://flash.jin10.com/detail/20260206233433623800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 7,
       "titles": [
@@ -110,8 +208,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时35分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -121,8 +219,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时35分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -132,8 +230,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时35分]"
         },
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
@@ -143,8 +241,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时35分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -154,8 +252,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时35分]"
         },
         {
           "title": "美国银行：从轻资产模式转向重资产模式意味着所谓美股科技七巨头的主导地位面临“重大威胁”。 今年大型科技公司在人工智能领域的资本开支预计约为6700亿美元，相当于其现金流的96%，而2023年这一比例仅为40%。 不再是拥有最佳资产负债表的公司，也不再是进行大规模股票回购的公司。",
@@ -176,94 +274,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
-          "url": "https://wallstreetcn.com/articles/3765106",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
-        },
-        {
-          "title": "现货白银日内暴涨10.00%，现报77.88美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260207020446136800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "现货白银日内涨幅达10.0%，报77.77美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3051585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "白银暴跌后还能翻身吗",
-          "url": "https://www.toutiao.com/trending/7603720579941666340/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时42分]"
-        },
-        {
-          "title": "女演员开箱取出100克黄金500克白银",
-          "url": "https://www.toutiao.com/trending/7603351330325086262/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时42分]"
-        },
-        {
-          "title": "现货白银日内暴涨9.00%，现报77.19美元/盎司；纽约期银向上触及77美元/盎司，日内涨0.37%。",
-          "url": "https://flash.jin10.com/detail/20260207015114652800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "现货白银向上触及77美元/盎司，日内涨8.77%。",
-          "url": "https://flash.jin10.com/detail/20260206233433623800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "02时42分"
         }
       ]
     },
@@ -279,8 +292,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时35分]"
         },
         {
           "title": "比特币涨幅扩大至10%。",
@@ -295,6 +308,17 @@
           "time_info": "[00时38分 ~ 01时38分]"
         },
         {
+          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时35分]"
+        },
+        {
           "title": "加密货币市场周五普遍反弹，最近“七天”Solana累跌约26%，以太坊跌超24%",
           "url": "https://wallstreetcn.com/livenews/3051560",
           "source": "华尔街见闻-快讯",
@@ -305,17 +329,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时42分]"
-        },
-        {
-          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "比特币涨超9%，刷新日高至69151.50美元，北京时间08:15还曾跌至60033美元——短时呈现出V形反转，随后逐步走高。",
@@ -364,11 +377,12 @@
           "url": "https://wallstreetcn.com/livenews/3051576",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时35分]"
         }
       ]
     },
@@ -383,11 +397,12 @@
           "ranks": [
             19,
             22,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时35分]"
         },
         {
           "title": "日本持续强降雪已致42人死亡",
@@ -397,19 +412,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时35分]"
         },
         {
           "title": "特朗普“下场”支持日本首相",
           "url": "https://www.douyin.com/hot/2391219",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时35分]"
         }
       ]
     },
@@ -453,8 +469,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时35分]"
         }
       ]
     },
