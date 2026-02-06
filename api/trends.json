@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T14:47:30.164029+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-02-06T15:43:43.297809+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "解读白银暴涨暴跌背后",
@@ -30,8 +30,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 15时43分]"
+        },
+        {
+          "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
+          "url": "https://wallstreetcn.com/articles/3765106",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时43分]"
         },
         {
           "title": "散户们把白银玩成了“万人坑”",
@@ -45,17 +56,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 09时31分]"
-        },
-        {
-          "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
-          "url": "https://wallstreetcn.com/articles/3765106",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时47分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -168,6 +168,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 2月6日（周五）收盘下跌1.37%报1091.0元/克；<br/>上海黄金交易所白银T+D 2月6日（周五）收盘下跌11.44%报18188.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260206153033886800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "现货白银突破74美元/盎司，日内涨4.69%。",
           "url": "https://wallstreetcn.com/livenews/3051136",
           "source": "华尔街见闻-快讯",
@@ -200,6 +211,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "女演员开箱取出100克黄金500克白银",
+          "url": "https://www.toutiao.com/trending/7603351330325086262/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 15时43分]"
         },
         {
           "title": "周四，现货白银一度下跌超过19.87%，在临近结束一天的交易时跌至70.52美元/盎司。",
@@ -319,15 +342,15 @@
           "time_info": "12时11分"
         },
         {
-          "title": "女演员开箱取出100克黄金500克白银",
-          "url": "https://www.toutiao.com/trending/7603351330325086262/",
+          "title": "现货白银重新站上75美元",
+          "url": "https://www.toutiao.com/trending/7603628646909087268/",
           "source": "今日头条",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时47分"
+          "time_info": "15时43分"
         },
         {
           "title": "现货黄金、白银跌幅收窄，现货黄金现跌1.1%，重返4700美元上方，此前一度跌超2%；现货白银跌幅收窄至4.2%，此前一度跌超8%。",
@@ -369,7 +392,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -380,7 +403,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -410,7 +433,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "尼泊尔总统到访日本，高市早苗亲自帮其穿上日本服饰",
@@ -453,11 +476,12 @@
           "url": "https://news.ifeng.com/c/8qWByeKcHHN",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时43分]"
         },
         {
           "title": "日本央行审议委员增一行：没有设定具体加息步伐。 认为日本央行的货币政策并未落后。 关注除大米价格之外的食品通胀。 如果价格走势持续高于2%，并不特别可取。 需要让价格走势稳定在2%左右。",
@@ -469,6 +493,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "日本挖到稀土泥中方回应亮了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%E6%B3%A5%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BA%AE%E4%BA%86%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 15时43分]"
         },
         {
           "title": "丰田汽车将2025/26财年日本销量预期下调为207万辆，此前预测为208万辆；将亚洲销量预期下调至182万辆，此前预期为184万辆；将欧洲销量预期下调为123万辆，此前预测为124万辆。",
@@ -491,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普称支持高市早苗赢得日本大选，外交部：不作评论",
+          "url": "https://wallstreetcn.com/livenews/3051213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "路透调查：日本第四季度GDP有望在强劲投资推动下重回增长轨道。",
@@ -526,17 +573,6 @@
           "time_info": "13时50分"
         },
         {
-          "title": "日本挖到稀土泥中方回应亮了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%E6%B3%A5%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BA%AE%E4%BA%86%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
           "title": "日本12月同步指标月率初值 -0.4%，前值-1%。",
           "url": "https://flash.jin10.com/detail/20260206130002705800",
           "source": "金十数据",
@@ -554,7 +590,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -576,7 +612,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -687,7 +723,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -698,7 +734,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -720,7 +756,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -742,7 +778,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -761,7 +797,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -825,6 +861,30 @@
           "time_info": "[00时41分 ~ 04时29分]"
         },
         {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 15时43分]"
+        },
+        {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 15时43分]"
+        },
+        {
           "title": "美股三大指数集体低开 纳指跌超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%B6%851%25",
           "source": "百度热搜",
@@ -856,30 +916,6 @@
           "time_info": "[00时41分 ~ 07时20分]"
         },
         {
-          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 14时47分]"
-        },
-        {
-          "title": "美股收盘：纳指连续三天均跌超1%",
-          "url": "https://www.cls.cn/detail/2282258",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 14时47分]"
-        },
-        {
           "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
           "url": "https://www.cls.cn/detail/2282354",
           "source": "财联社热门",
@@ -889,8 +925,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 15时43分]"
         },
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
@@ -902,8 +938,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 15时43分]"
         },
         {
           "title": "科技股抛压暂缓，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币、金银V形反弹",
@@ -939,6 +975,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时11分 ~ 14时47分]"
+        },
+        {
+          "title": "科技股抛压暂缓，金银V形反弹，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币止跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股盘中）",
@@ -1121,6 +1168,17 @@
           "time_info": "[00时41分 ~ 07时20分]"
         },
         {
+          "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
+          "url": "https://www.cls.cn/detail/2282271",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 15时43分]"
+        },
+        {
           "title": "比特币跌破7万美元，超20万人爆仓",
           "url": "https://m.thepaper.cn/newsDetail_forward_32541853",
           "source": "澎湃新闻",
@@ -1130,19 +1188,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时35分 ~ 14时47分]"
-        },
-        {
-          "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
-          "url": "https://www.cls.cn/detail/2282271",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 14时47分]"
+          "appearance_count": 11,
+          "time_info": "[03时35分 ~ 15时43分]"
         },
         {
           "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
@@ -1150,11 +1197,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 15时43分]"
         },
         {
           "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
@@ -1165,8 +1213,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时43分]"
         },
         {
           "title": "摩根大通Nikolaos Panigirtzoglou等策略师认为：长期而言，比特币较黄金更具有（投资）魅力。",
@@ -1209,11 +1257,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时43分]"
         },
         {
           "title": "Strategy四季度营收1.23亿美元，分析师预期1.232亿美元。 四季度持有比特币71.3502万枚。 公司已经在2月1日动用22.5亿美元美元储备资金。",
@@ -1234,7 +1283,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -1397,7 +1446,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "腾讯客服回应“千问口令已无法在微信复制分享”：产品非腾讯业务，可通过官网尝试获取客服",
@@ -1406,7 +1455,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -1417,7 +1466,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -1430,8 +1479,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 14时47分]"
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 15时43分]"
+        },
+        {
+          "title": "阿里千问奶茶红包分享链接被微信屏蔽，如何评价千问、元宝营销模式的异同？",
+          "url": "https://www.zhihu.com/question/2003039884005302416",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "阿里千问红包分享链接被微信屏蔽",
@@ -1497,6 +1557,46 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据华尔街日报：消息人士称，xAI的投资者认为这家初创公司的未来与特斯拉CEO埃隆·马斯克的公司紧密交织在一起。SpaceX与xAI的合并以人工智能初创公司的资本流动为前提。",
+          "url": "https://flash.jin10.com/detail/20260206113638095800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "特斯拉陶琳：会积极参与中国市场辅助自动驾驶相关工作",
+          "url": "https://wallstreetcn.com/livenews/3051208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "被困特斯拉驾驶员的911呼救记录：“起火了，请救救我”",
+          "url": "https://wallstreetcn.com/livenews/3050857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 2,
       "titles": [
@@ -1524,35 +1624,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据华尔街日报：消息人士称，xAI的投资者认为这家初创公司的未来与特斯拉CEO埃隆·马斯克的公司紧密交织在一起。SpaceX与xAI的合并以人工智能初创公司的资本流动为前提。",
-          "url": "https://flash.jin10.com/detail/20260206113638095800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "被困特斯拉驾驶员的911呼救记录：“起火了，请救救我”",
-          "url": "https://wallstreetcn.com/livenews/3050857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时24分]"
         }
       ]
     }
