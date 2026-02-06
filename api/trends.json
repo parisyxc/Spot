@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-06T18:35:24.630222+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2026-02-06T19:31:16.849619+08:00",
+  "total_titles_processed": 1741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
+          "url": "https://wallstreetcn.com/articles/3765106",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时11分 ~ 19时31分]"
+        },
         {
           "title": "白银的历史大顶，从来不是“贵出来”的",
           "url": "https://wallstreetcn.com/articles/3765066",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时20分 ~ 18时35分]"
-        },
-        {
-          "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
-          "url": "https://wallstreetcn.com/articles/3765106",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时11分 ~ 18时35分]"
         },
         {
           "title": "解读白银暴涨暴跌背后",
@@ -45,6 +45,20 @@
           "time_info": "[00时41分 ~ 12时11分]"
         },
         {
+          "title": "女演员开箱取出100克黄金500克白银",
+          "url": "https://www.toutiao.com/trending/7603351330325086262/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            2,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时47分 ~ 19时31分]"
+        },
+        {
           "title": "散户们把白银玩成了“万人坑”",
           "url": "https://wallstreetcn.com/articles/3765034",
           "source": "华尔街见闻",
@@ -58,18 +72,15 @@
           "time_info": "[05时24分 ~ 09时31分]"
         },
         {
-          "title": "女演员开箱取出100克黄金500克白银",
-          "url": "https://www.toutiao.com/trending/7603351330325086262/",
-          "source": "今日头条",
+          "title": "“做空白银豪赚”小作文引关注，中财期货回应来了！",
+          "url": "https://wallstreetcn.com/articles/3765090",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            2,
-            21,
-            26
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时47分 ~ 18时35分]"
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 19时31分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -239,17 +250,6 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
-          "title": "“做空白银豪赚”小作文引关注，中财期货回应来了！",
-          "url": "https://wallstreetcn.com/articles/3765090",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
           "title": "芝商所上调黄金、白银期货保证金比例",
           "url": "https://flash.jin10.com/detail/20260206052709197800",
           "source": "金十数据",
@@ -296,6 +296,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "白银为何突然成为市场焦点",
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%88%90%E4%B8%BA%E5%B8%82%E5%9C%BA%E7%84%A6%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 19时31分]"
         },
         {
           "title": "国投白银LOF：连续第五日跌停",
@@ -372,7 +383,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -463,6 +474,430 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 35,
+      "titles": [
+        {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 19时31分]"
+        },
+        {
+          "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 06时22分]"
+        },
+        {
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 06时22分]"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 12时11分]"
+        },
+        {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            8,
+            10,
+            9,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时20分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 19时31分]"
+        },
+        {
+          "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
+          "url": "https://wallstreetcn.com/articles/3764989",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 04时29分]"
+        },
+        {
+          "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
+          "url": "https://www.cls.cn/detail/2282354",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 16时36分]"
+        },
+        {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 15时43分]"
+        },
+        {
+          "title": "美股三大指数集体低开 纳指跌超1%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%B6%851%25",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26,
+            14,
+            25,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时20分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            24,
+            30,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时20分]"
+        },
+        {
+          "title": "科技股抛压暂缓，金银V形反弹，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币止跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 17时38分]"
+        },
+        {
+          "title": "科技股抛压暂缓，美股期指集体转涨，金银V形反弹，比特币止跌，英伟盘前上涨结束五连跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 19时31分]"
+        },
+        {
+          "title": "科技股抛压暂缓，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币、金银V形反弹",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时47分]"
+        },
+        {
+          "title": "下周财报日历",
+          "url": "https://flash.jin10.com/detail/20260206170743656800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "Biogen第四季度营收22.8亿美元，预估22.2亿美元。 第四季度调整后每股收益1.99美元，上年同期3.44美元，预估1.56美元。 Biogen预计2026年调整后每股收益15.25美元至16.25美元。 Biogen美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3051361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260206013143448800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时47分]"
+        },
+        {
+          "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260206013123695800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "科技股崩跌余波席卷亚太，韩股重挫领跌，比特币、金银V形反弹",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
+          "url": "https://flash.jin10.com/detail/20260206050117661800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时22分]"
+        },
+        {
+          "title": "周四（2月5日）美股尾盘，彭博电动汽车价格回报指数跌1.88%，报3467.18点，北京时间08:17短线走高，随后持续走低。 成分股沃尔沃汽车集团（欧股）收跌22.53%，Aurora Innovation股份跌9.7%，普拉格动力公司跌9%，MP材料跌7.3%，速腾聚创科技H股收涨2.79%表现第五，小米集团H股收涨2.83%，文远知行涨3.5%，地平线H股收涨3.64%，Panasonic株式会社收涨8.41%。",
+          "url": "https://wallstreetcn.com/livenews/3050879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时22分]"
+        },
+        {
+          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
+          "url": "https://wallstreetcn.com/livenews/3051294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 18时35分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
+          "url": "https://wallstreetcn.com/livenews/3050900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "美股、金银、比特币、石油 全崩了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 13时50分]"
+        },
+        {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 19时31分]"
+        },
+        {
+          "title": "科技股崩跌余波席卷亚太",
+          "url": "https://www.toutiao.com/trending/7603558814855466547/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 13时50分]"
+        },
+        {
+          "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260206050531968800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260206050524149800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美股期指盘中转涨，道指期货涨0.11%，标普500指数期货涨0.28%，纳斯达克100指数期货涨0.3%，盘中一度跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3051309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)美股盘后大跌近9%。",
+          "url": "https://flash.jin10.com/detail/20260206050409662800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美股三大股指期货均转涨，纳指期货现涨0.4%，标普500指数期货涨0.3%，道指期货涨0.1%，此前纳指期货一度跌超1.6%。",
+          "url": "https://flash.jin10.com/detail/20260206173458950800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "全球科技股抛售潮持续蔓延，韩国KOSPI指数跌幅扩大至5%。",
+          "url": "https://flash.jin10.com/detail/20260206082453648800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美股期货跌幅扩大，标普500指数期货现跌1%，纳斯达克100指数期货跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3050968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美股三大股指期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.6%，道指期货跌近0.6%。",
+          "url": "https://flash.jin10.com/detail/20260206081816714800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
@@ -854,408 +1289,8 @@
       ]
     },
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 33,
-      "titles": [
-        {
-          "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时22分]"
-        },
-        {
-          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764994",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时22分]"
-        },
-        {
-          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 18时35分]"
-        },
-        {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 12时11分]"
-        },
-        {
-          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
-          "url": "https://www.zhihu.com/question/2002675555208803379",
-          "source": "知乎",
-          "ranks": [
-            8,
-            10,
-            9,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时20分]"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 18时35分]"
-        },
-        {
-          "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
-          "url": "https://wallstreetcn.com/articles/3764989",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 04时29分]"
-        },
-        {
-          "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
-          "url": "https://www.cls.cn/detail/2282354",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 16时36分]"
-        },
-        {
-          "title": "美股收盘：纳指连续三天均跌超1%",
-          "url": "https://www.cls.cn/detail/2282258",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 15时43分]"
-        },
-        {
-          "title": "美股三大指数集体低开 纳指跌超1%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%B6%851%25",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            26,
-            14,
-            25,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时20分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            24,
-            30,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时20分]"
-        },
-        {
-          "title": "科技股抛压暂缓，金银V形反弹，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币止跌",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 17时38分]"
-        },
-        {
-          "title": "科技股抛压暂缓，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币、金银V形反弹",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 14时47分]"
-        },
-        {
-          "title": "下周财报日历",
-          "url": "https://flash.jin10.com/detail/20260206170743656800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260206013143448800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时47分]"
-        },
-        {
-          "title": "科技股抛压暂缓，美股期指集体转涨，金银V形反弹，比特币止跌，英伟盘前上涨结束五连跌",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260206013123695800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "科技股崩跌余波席卷亚太，韩股重挫领跌，比特币、金银V形反弹",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
-          "url": "https://flash.jin10.com/detail/20260206050117661800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时22分]"
-        },
-        {
-          "title": "周四（2月5日）美股尾盘，彭博电动汽车价格回报指数跌1.88%，报3467.18点，北京时间08:17短线走高，随后持续走低。 成分股沃尔沃汽车集团（欧股）收跌22.53%，Aurora Innovation股份跌9.7%，普拉格动力公司跌9%，MP材料跌7.3%，速腾聚创科技H股收涨2.79%表现第五，小米集团H股收涨2.83%，文远知行涨3.5%，地平线H股收涨3.64%，Panasonic株式会社收涨8.41%。",
-          "url": "https://wallstreetcn.com/livenews/3050879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时22分]"
-        },
-        {
-          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
-          "url": "https://wallstreetcn.com/livenews/3051294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时35分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
-          "url": "https://wallstreetcn.com/livenews/3050900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时20分]"
-        },
-        {
-          "title": "美股、金银、比特币、石油 全崩了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 13时50分]"
-        },
-        {
-          "title": "科技股崩跌余波席卷亚太",
-          "url": "https://www.toutiao.com/trending/7603558814855466547/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时50分]"
-        },
-        {
-          "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260206050531968800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260206050524149800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美股期指盘中转涨，道指期货涨0.11%，标普500指数期货涨0.28%，纳斯达克100指数期货涨0.3%，盘中一度跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3051309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)美股盘后大跌近9%。",
-          "url": "https://flash.jin10.com/detail/20260206050409662800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美股三大股指期货均转涨，纳指期货现涨0.4%，标普500指数期货涨0.3%，道指期货涨0.1%，此前纳指期货一度跌超1.6%。",
-          "url": "https://flash.jin10.com/detail/20260206173458950800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "全球科技股抛售潮持续蔓延，韩国KOSPI指数跌幅扩大至5%。",
-          "url": "https://flash.jin10.com/detail/20260206082453648800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美股期货跌幅扩大，标普500指数期货现跌1%，纳斯达克100指数期货跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3050968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美股三大股指期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.6%，道指期货跌近0.6%。",
-          "url": "https://flash.jin10.com/detail/20260206081816714800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
@@ -1278,8 +1313,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 18时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 19时31分]"
+        },
+        {
+          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
+          "url": "https://www.zhihu.com/question/2002848288005718086",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时11分 ~ 19时31分]"
         },
         {
           "title": "宇树机器人在 -47.4°C 阿勒泰自主行走 13 万步，实现了哪些突破？极寒环境对人形机器人有哪些挑战？",
@@ -1296,17 +1344,19 @@
           "time_info": "[00时41分 ~ 07时20分]"
         },
         {
-          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
-          "url": "https://www.zhihu.com/question/2002848288005718086",
-          "source": "知乎",
+          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            6,
-            7
+            14,
+            13,
+            11,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时11分 ~ 18时35分]"
+          "appearance_count": 10,
+          "time_info": "[12时11分 ~ 19时31分]"
         },
         {
           "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
@@ -1331,22 +1381,31 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时35分 ~ 18时35分]"
+          "appearance_count": 17,
+          "time_info": "[03时35分 ~ 19时31分]"
         },
         {
-          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
-          "source": "澎湃新闻",
+          "title": "加密市场24小时58万人爆仓！“大空头”：比特币恐重演2022年崩盘模式",
+          "url": "https://www.cls.cn/detail/2282592",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            13,
-            11,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时11分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 19时31分]"
+        },
+        {
+          "title": "中国机器人在米兰冬奥会大秀功夫",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%A4%A7%E7%A7%80%E5%8A%9F%E5%A4%AB",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 19时31分]"
         },
         {
           "title": "摩根大通Nikolaos Panigirtzoglou等策略师认为：长期而言，比特币较黄金更具有（投资）魅力。",
@@ -1358,18 +1417,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "加密市场24小时58万人爆仓！“大空头”：比特币恐重演2022年崩盘模式",
-          "url": "https://www.cls.cn/detail/2282592",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时35分]"
         },
         {
           "title": "2月6日午间收评：创业板指低开高走涨0.65%，化工、机器人概念股集体走强",
@@ -1510,8 +1557,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 19时31分]"
         },
         {
           "title": "邓超终于有抖音了",
@@ -1522,19 +1569,33 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时50分 ~ 18时35分]"
+          "appearance_count": 9,
+          "time_info": "[13时50分 ~ 19时31分]"
         },
         {
           "title": "抖音ACG新春会年味拉满",
           "url": "https://www.douyin.com/hot/2391404",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 19时31分]"
+        },
+        {
+          "title": "阿里千问奶茶红包分享链接被微信屏蔽，如何评价千问、元宝营销模式的异同？",
+          "url": "https://www.zhihu.com/question/2003039884005302416",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时43分 ~ 19时31分]"
         },
         {
           "title": "腾讯客服回应“千问口令已无法在微信复制分享”：产品非腾讯业务，可通过官网尝试获取客服",
@@ -1546,18 +1607,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
-        },
-        {
-          "title": "阿里千问奶茶红包分享链接被微信屏蔽，如何评价千问、元宝营销模式的异同？",
-          "url": "https://www.zhihu.com/question/2003039884005302416",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时43分 ~ 18时35分]"
         },
         {
           "title": "元宝口令无法在微信复制分享",
@@ -1677,7 +1726,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
