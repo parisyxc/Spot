@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T16:36:25.283523+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-02-06T17:38:08.397777+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "白银的历史大顶，从来不是“贵出来”的",
@@ -17,8 +17,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 17时38分]"
+        },
+        {
+          "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
+          "url": "https://wallstreetcn.com/articles/3765106",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时20分 ~ 16时36分]"
+          "time_info": "[12时11分 ~ 17时38分]"
         },
         {
           "title": "解读白银暴涨暴跌背后",
@@ -34,17 +45,6 @@
           "time_info": "[00时41分 ~ 12时11分]"
         },
         {
-          "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
-          "url": "https://wallstreetcn.com/articles/3765106",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 16时36分]"
-        },
-        {
           "title": "散户们把白银玩成了“万人坑”",
           "url": "https://wallstreetcn.com/articles/3765034",
           "source": "华尔街见闻",
@@ -56,6 +56,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 09时31分]"
+        },
+        {
+          "title": "女演员开箱取出100克黄金500克白银",
+          "url": "https://www.toutiao.com/trending/7603351330325086262/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时47分 ~ 17时38分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -179,19 +192,6 @@
           "time_info": "15时43分"
         },
         {
-          "title": "女演员开箱取出100克黄金500克白银",
-          "url": "https://www.toutiao.com/trending/7603351330325086262/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 16时36分]"
-        },
-        {
           "title": "现货白银突破74美元/盎司，日内涨4.69%。",
           "url": "https://wallstreetcn.com/livenews/3051136",
           "source": "华尔街见闻-快讯",
@@ -297,6 +297,17 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
+          "title": "国投白银LOF：连续第五日跌停",
+          "url": "https://www.cls.cn/detail/2282489",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 17时38分]"
+        },
+        {
           "title": "美国芝商所上调黄金、白银期货保证金比例",
           "url": "https://wallstreetcn.com/livenews/3050891",
           "source": "华尔街见闻-快讯",
@@ -319,6 +330,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 09时31分]"
+        },
+        {
+          "title": "黄金白银比特币暴跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%AF%94%E7%89%B9%E5%B8%81%E6%9A%B4%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 17时38分]"
         },
         {
           "title": "现货白银日内跌幅达18.0%，报72.12美元/盎司。 纽约银日内跌幅达15.0%，报71.72美元/盎司。",
@@ -692,7 +714,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -813,7 +835,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
@@ -821,7 +843,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -874,6 +896,17 @@
           "time_info": "[00时41分 ~ 07时20分]"
         },
         {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 17时38分]"
+        },
+        {
           "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
           "url": "https://wallstreetcn.com/articles/3764989",
           "source": "华尔街见闻",
@@ -885,15 +918,17 @@
           "time_info": "[00时41分 ~ 04时29分]"
         },
         {
-          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
-          "url": "https://wallstreetcn.com/articles/3765023",
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 17时38分]"
         },
         {
           "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
@@ -954,19 +989,6 @@
           "time_info": "[00时41分 ~ 07时20分]"
         },
         {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 16时36分]"
-        },
-        {
           "title": "科技股抛压暂缓，金银V形反弹，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币止跌",
           "url": "https://wallstreetcn.com/articles/3765113",
           "source": "华尔街见闻",
@@ -974,8 +996,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 17时38分]"
         },
         {
           "title": "科技股抛压暂缓，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币、金银V形反弹",
@@ -987,6 +1009,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时50分 ~ 14时47分]"
+        },
+        {
+          "title": "下周财报日历",
+          "url": "https://flash.jin10.com/detail/20260206170743656800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
@@ -1022,6 +1055,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
+          "url": "https://wallstreetcn.com/livenews/3051294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "科技股崩跌余波席卷亚太，韩股重挫领跌，比特币、金银V形反弹",
@@ -1165,7 +1209,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
@@ -1202,8 +1246,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 17时38分]"
+        },
+        {
+          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
+          "url": "https://www.zhihu.com/question/2002848288005718086",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 17时38分]"
         },
         {
           "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
@@ -1224,23 +1281,26 @@
             20,
             17,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时35分 ~ 16时36分]"
+          "appearance_count": 14,
+          "time_info": "[03时35分 ~ 17时38分]"
         },
         {
-          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
-          "url": "https://www.zhihu.com/question/2002848288005718086",
-          "source": "知乎",
+          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            6
+            14,
+            13,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 16时36分]"
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 17时38分]"
         },
         {
           "title": "摩根大通Nikolaos Panigirtzoglou等策略师认为：长期而言，比特币较黄金更具有（投资）魅力。",
@@ -1254,17 +1314,15 @@
           "time_info": "07时20分"
         },
         {
-          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
-          "source": "澎湃新闻",
+          "title": "加密市场24小时58万人爆仓！“大空头”：比特币恐重演2022年崩盘模式",
+          "url": "https://www.cls.cn/detail/2282592",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            13,
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 16时36分]"
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 17时38分]"
         },
         {
           "title": "2月6日午间收评：创业板指低开高走涨0.65%，化工、机器人概念股集体走强",
@@ -1393,6 +1451,102 @@
       ]
     },
     {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "邓超终于有抖音了",
+          "url": "https://www.douyin.com/hot/2391408",
+          "source": "抖音",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时50分 ~ 17时38分]"
+        },
+        {
+          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
+          "url": "https://www.cls.cn/detail/2282814",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 17时38分]"
+        },
+        {
+          "title": "抖音ACG新春会年味拉满",
+          "url": "https://www.douyin.com/hot/2391404",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 17时38分]"
+        },
+        {
+          "title": "腾讯客服回应“千问口令已无法在微信复制分享”：产品非腾讯业务，可通过官网尝试获取客服",
+          "url": "https://wallstreetcn.com/livenews/3051167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "元宝口令无法在微信复制分享",
+          "url": "https://wallstreetcn.com/livenews/3051163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "阿里千问奶茶红包分享链接被微信屏蔽，如何评价千问、元宝营销模式的异同？",
+          "url": "https://www.zhihu.com/question/2003039884005302416",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 17时38分]"
+        },
+        {
+          "title": "阿里千问红包分享链接被微信屏蔽",
+          "url": "https://wallstreetcn.com/livenews/3051070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "阿里千问红包分享链接被微信屏蔽",
+          "url": "https://www.toutiao.com/trending/7603351841925201958/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -1467,80 +1621,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "腾讯客服回应“千问口令已无法在微信复制分享”：产品非腾讯业务，可通过官网尝试获取客服",
-          "url": "https://wallstreetcn.com/livenews/3051167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
-          "title": "元宝口令无法在微信复制分享",
-          "url": "https://wallstreetcn.com/livenews/3051163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
-          "title": "邓超终于有抖音了",
-          "url": "https://www.douyin.com/hot/2391408",
-          "source": "抖音",
-          "ranks": [
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 16时36分]"
-        },
-        {
-          "title": "阿里千问奶茶红包分享链接被微信屏蔽，如何评价千问、元宝营销模式的异同？",
-          "url": "https://www.zhihu.com/question/2003039884005302416",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 16时36分]"
-        },
-        {
-          "title": "阿里千问红包分享链接被微信屏蔽",
-          "url": "https://wallstreetcn.com/livenews/3051070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "阿里千问红包分享链接被微信屏蔽",
-          "url": "https://www.toutiao.com/trending/7603351841925201958/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
         }
       ]
     },
