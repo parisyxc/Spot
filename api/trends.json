@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T07:20:39.221335+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-02-06T09:31:19.067431+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 09时31分]"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -99,6 +99,29 @@
           "time_info": "[00时41分 ~ 07时20分]"
         },
         {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时31分]"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260206013143448800",
           "source": "金十数据",
@@ -121,15 +144,15 @@
           "time_info": "01时44分"
         },
         {
-          "title": "美股收盘：纳指连续三天均跌超1%",
-          "url": "https://www.cls.cn/detail/2282258",
+          "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
+          "url": "https://www.cls.cn/detail/2282354",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时31分"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
@@ -142,6 +165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时22分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "周四（2月5日）美股尾盘，彭博电动汽车价格回报指数跌1.88%，报3467.18点，北京时间08:17短线走高，随后持续走低。 成分股沃尔沃汽车集团（欧股）收跌22.53%，Aurora Innovation股份跌9.7%，普拉格动力公司跌9%，MP材料跌7.3%，速腾聚创科技H股收涨2.79%表现第五，小米集团H股收涨2.83%，文远知行涨3.5%，地平线H股收涨3.64%，Panasonic株式会社收涨8.41%。",
@@ -199,23 +233,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "美股、金银、比特币、石油 全崩了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "全球科技股抛售潮持续蔓延，韩国KOSPI指数跌幅扩大至5%。",
+          "url": "https://flash.jin10.com/detail/20260206082453648800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美股期货跌幅扩大，标普500指数期货现跌1%，纳斯达克100指数期货跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3050968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美股三大股指期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.6%，道指期货跌近0.6%。",
+          "url": "https://flash.jin10.com/detail/20260206081816714800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
         {
           "title": "解读白银暴涨暴跌背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 09时31分]"
         },
         {
           "title": "散户们把白银玩成了“万人坑”",
@@ -223,11 +302,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 09时31分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -236,18 +316,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少122.6吨，当前持仓量为16247.45吨。欢迎点击查看数据中心……",
-          "url": "https://flash.jin10.com/detail/20260206064759197800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -256,11 +325,78 @@
           "url": "https://wallstreetcn.com/articles/3765066",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时31分]"
+        },
+        {
+          "title": "现货白银转涨，稍早一度跌超8%。 现货黄金日内跌幅收窄至0.5%，重返4750美元关口上方。",
+          "url": "https://wallstreetcn.com/livenews/3050994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "现货白银一度转涨，稍早一度跌超8%。",
+          "url": "https://flash.jin10.com/detail/20260206090637671800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少122.6吨，当前持仓量为16247.45吨。欢迎点击查看数据中心……",
+          "url": "https://flash.jin10.com/detail/20260206064759197800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "黄金白银比特币暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%AF%94%E7%89%B9%E5%B8%81%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月6日（周五）早盘盘初下跌3.37%报1068.94元/克；<br/>上海黄金交易所白银T+D 2月6日（周五）早盘盘初下跌16.42%报17165.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260206090110632800",
+          "source": "金十数据",
+          "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时31分"
+        },
+        {
+          "title": "黄金白银再暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%86%8D%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "周四，现货白银一度下跌超过19.87%，在临近结束一天的交易时跌至70.52美元/盎司。",
@@ -281,7 +417,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -334,6 +470,18 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
+          "title": "贵金属价格剧烈波动，上期所再度对黄金、白银等期货提保扩板",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32543462",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时31分]"
+        },
+        {
           "title": "现货白银日内跌幅达18.0%，报72.12美元/盎司。 纽约银日内跌幅达15.0%，报71.72美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3050784",
           "source": "华尔街见闻-快讯",
@@ -345,15 +493,15 @@
           "time_info": "00时41分"
         },
         {
-          "title": "贵金属价格剧烈波动，上期所再度对黄金、白银等期货提保扩板",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32543462",
-          "source": "澎湃新闻",
+          "title": "现货黄金、白银跌幅收窄，现货黄金现跌1.1%，重返4700美元上方，此前一度跌超2%；现货白银跌幅收窄至4.2%，此前一度跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3050977",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时31分"
         },
         {
           "title": "现货白银跌幅扩大至19%，现报71.40美元/盎司。",
@@ -362,15 +510,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "现货金银回升，现货黄金跌幅收窄至1%以内，此前跌超2.5%，现货白银跌幅收窄至2.3%，此前跌9%。",
+          "url": "https://flash.jin10.com/detail/20260206083623216800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
@@ -380,8 +539,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 09时31分]"
         },
         {
           "title": "宇树机器人在 -47.4°C 阿勒泰自主行走 13 万步，实现了哪些突破？极寒环境对人形机器人有哪些挑战？",
@@ -403,11 +562,34 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时35分 ~ 07时20分]"
+          "appearance_count": 7,
+          "time_info": "[03时35分 ~ 09时31分]"
+        },
+        {
+          "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
+          "url": "https://www.cls.cn/detail/2282271",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
+          "url": "https://wallstreetcn.com/articles/3765079",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "摩根大通Nikolaos Panigirtzoglou等策略师认为：长期而言，比特币较黄金更具有（投资）魅力。",
@@ -416,7 +598,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -468,6 +650,39 @@
           "time_info": "05时24分"
         },
         {
+          "title": "比特币盘中一度跌至60033美元，逼近6万美元大关。",
+          "url": "https://wallstreetcn.com/livenews/3050976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "比特币",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "比特币延续跌势，现跌3.5%；以太坊跌2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3050966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "经济学家警告比特币持续暴跌风险",
           "url": "https://www.toutiao.com/trending/7603358148941843974/",
           "source": "今日头条",
@@ -477,6 +692,146 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "尼泊尔总统到访日本，高市早苗亲自帮其穿上日本服饰",
+          "url": "https://v.ifeng.com/c/8qTDVc9qccJ",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时20分]"
+        },
+        {
+          "title": "日本民众举行集会，反对高市政权推动修宪",
+          "url": "https://news.ifeng.com/c/8qVCqvLToVC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时20分]"
+        },
+        {
+          "title": "禁运卡脖子,日本闹药荒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350220&amp;topic_name=%E7%A6%81%E8%BF%90%E5%8D%A1%E8%84%96%E5%AD%90%2C%E6%97%A5%E6%9C%AC%E9%97%B9%E8%8D%AF%E8%8D%92",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 09时31分]"
+        },
+        {
+          "title": "日本大选前夕空头避险撤离 日元全线走强触发套利交易平仓潮",
+          "url": "https://flash.jin10.com/detail/20260206090810394800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日本宣称探明稀土储量1600万吨",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AE%A3%E7%A7%B0%E6%8E%A2%E6%98%8E%E7%A8%80%E5%9C%9F%E5%82%A8%E9%87%8F1600%E4%B8%87%E5%90%A8%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 07时20分]"
+        },
+        {
+          "title": "日本30年期国债收益率下行6个基点至3.505%。",
+          "url": "https://wallstreetcn.com/livenews/3050983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "亚洲杯国乒4将不敌日本选手",
+          "url": "https://www.toutiao.com/trending/7602902967411081252/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日本30年期国债收益率下跌6个基点，至3.505%。",
+          "url": "https://flash.jin10.com/detail/20260206083656459800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日本5年期国债收益率下行2.5个基点至1.655%。 日本2年期国债收益率下行1个基点至1.265%。",
+          "url": "https://wallstreetcn.com/livenews/3050972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "2年期日本国债收益率下跌1.0个基点，至1.265%。5年期收益率下跌2.5个基点，至1.655%。",
+          "url": "https://flash.jin10.com/detail/20260206082208703800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日经民调：日本执政党有望赢得众议院逾六成席位",
+          "url": "https://flash.jin10.com/detail/20260206012228153800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "日本东证指数日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3050965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
@@ -559,71 +914,20 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 5,
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 3,
       "titles": [
         {
-          "title": "尼泊尔总统到访日本，高市早苗亲自帮其穿上日本服饰",
-          "url": "https://v.ifeng.com/c/8qTDVc9qccJ",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时20分]"
-        },
-        {
-          "title": "日本民众举行集会，反对高市政权推动修宪",
-          "url": "https://news.ifeng.com/c/8qVCqvLToVC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时20分]"
-        },
-        {
-          "title": "禁运卡脖子,日本闹药荒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350220&amp;topic_name=%E7%A6%81%E8%BF%90%E5%8D%A1%E8%84%96%E5%AD%90%2C%E6%97%A5%E6%9C%AC%E9%97%B9%E8%8D%AF%E8%8D%92",
-          "source": "贴吧",
+          "title": "中信证券：看好存储产能扩张及技术迭代加速，半导体核心供应商空间广阔",
+          "url": "https://flash.jin10.com/detail/20260206083205823800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时20分]"
-        },
-        {
-          "title": "日本宣称探明稀土储量1600万吨",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AE%A3%E7%A7%B0%E6%8E%A2%E6%98%8E%E7%A8%80%E5%9C%9F%E5%82%A8%E9%87%8F1600%E4%B8%87%E5%90%A8%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 07时20分]"
-        },
-        {
-          "title": "日经民调：日本执政党有望赢得众议院逾六成席位",
-          "url": "https://flash.jin10.com/detail/20260206012228153800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 2,
-      "titles": [
+          "time_info": "09时31分"
+        },
         {
           "title": "纳指收跌约1.6%，小盘股指跌约1.8%，半导体指数大致收平",
           "url": "https://wallstreetcn.com/livenews/3050881",
