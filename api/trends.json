@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T06:20:48.288899+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-02-08T07:25:48.114502+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时25分]"
         },
         {
           "title": "日本教授警告：攻击外国人能拉票，但会加剧社会分裂",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时25分]"
         },
         {
           "title": "扶桑谈｜大选前夕的日本政坛：“无形绑架”与被边缘化的“中道”力量",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时25分]"
         },
         {
           "title": "日本在菲律宾培植代理人挑衅中国",
@@ -54,11 +54,12 @@
             13,
             17,
             19,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时25分]"
         },
         {
           "title": "日本裁判",
@@ -66,17 +67,29 @@
           "source": "微博",
           "ranks": [
             6,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 06时20分]"
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 07时25分]"
+        },
+        {
+          "title": "日本众议院选举投票开始",
+          "url": "https://www.douyin.com/hot/2393372",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
@@ -97,8 +110,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时25分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -110,6 +123,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 06时20分]"
+        },
+        {
+          "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
+          "url": "https://wallstreetcn.com/articles/3765226",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
@@ -154,6 +178,35 @@
       ]
     },
     {
+      "keyword_group": "SaaS 订阅经济",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时25分]"
+        },
+        {
+          "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
+          "url": "https://wallstreetcn.com/articles/3765210",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 1,
       "titles": [
@@ -165,8 +218,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 07时25分]"
         }
       ]
     },
@@ -183,26 +236,25 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时25分]"
         }
       ]
     },
     {
-      "keyword_group": "SaaS 订阅经济",
+      "keyword_group": "金价 铜价 白银",
       "match_count": 1,
       "titles": [
         {
-          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
-          "url": "https://www.cls.cn/detail/2283350",
-          "source": "财联社热门",
+          "title": "黄金——资产再配置，金价走向何方？",
+          "url": "https://wallstreetcn.com/articles/3765213",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            5
+            9
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
@@ -217,11 +269,12 @@
           "ranks": [
             20,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 07时25分]"
         }
       ]
     }
