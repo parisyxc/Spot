@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T07:21:20.133001+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-02-07T09:29:23.379685+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 09时29分]"
         },
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -82,9 +83,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时29分]"
+        },
+        {
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时29分]"
         },
         {
           "title": "本周，标普累跌约0.2%，道指累涨约2.5%，纳指累跌1.6%，半导体指数累涨0.8%，科技七巨头指数累跌3.2%、超大市值科技股指数累跌4.6%，银行指数累涨5.2%，生物科技指数累涨2.2%，小盘股指累涨2.1%。 标普500指数初步收涨2%，科技板块涨4.2%，工业板块涨2.8%，能源板块涨1.9%。 纳斯达克100指数初步收涨2.2%，成分股中，Strategy涨25.8%，Arm控股涨11.6%，西部数据涨8.7%，英伟达涨8.1%，谷歌A跌2.4%，亚马逊跌5.3%。 卡特彼勒初步收涨7%，安进、3M、高盛涨超4%，和英伟达领跑道指成分股，亚马逊表现最差。",
@@ -98,15 +111,15 @@
           "time_info": "05时27分"
         },
         {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
+          "title": "德银：大科技股的表现相对标普500指数跌至十年通道底部",
+          "url": "https://wallstreetcn.com/livenews/3051657",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "09时29分"
         },
         {
           "title": "（美股）费城金银指数收涨5.18%，报391.95点，本周累涨2.52%。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.94%，报2764.85点，本周累涨0.76%。 （美股）原材料指数收涨3.62%，本周累涨4.82%。 （美股）金属与矿业指数收涨3.92%，本周累涨6.03%。",
@@ -114,11 +127,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时21分]"
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 09时29分]"
         },
         {
           "title": "周五（2月6日）美股尾盘，彭博电动汽车价格回报指数涨1.51%，报3521.92点，本周迄今累计下跌0.78%，整体呈现出W形走势。",
@@ -162,11 +176,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时21分]"
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 09时29分]"
         },
         {
           "title": "美股延续涨势，纳指上涨2.00%。",
@@ -183,7 +198,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
@@ -197,6 +212,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 07时21分]"
+        },
+        {
+          "title": "波动率超100%、一个月跳水11次，白银何时止血?",
+          "url": "https://wallstreetcn.com/articles/3765133",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时29分]"
         },
         {
           "title": "现货白银日内暴涨10.00%，现报77.88美元/盎司。",
@@ -222,17 +249,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 04时28分]"
-        },
-        {
-          "title": "波动率超100%、一个月跳水11次，白银何时止血?",
-          "url": "https://wallstreetcn.com/articles/3765133",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         },
         {
           "title": "现货白银日内涨幅达10.0%，报77.77美元/盎司。",
@@ -285,6 +301,17 @@
           "time_info": "03时35分"
         },
         {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少56.36吨，当前持仓量为16191.09吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260207082918537800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
           "title": "现货白银日内暴涨9.00%，现报77.19美元/盎司；纽约期银向上触及77美元/盎司，日内涨0.37%。",
           "url": "https://flash.jin10.com/detail/20260207015114652800",
           "source": "金十数据",
@@ -310,7 +337,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -322,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -405,7 +443,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
@@ -420,6 +458,18 @@
           "time_info": "[00时38分 ~ 04时28分]"
         },
         {
+          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 09时29分]"
+        },
+        {
           "title": "苹果计划允许第三方语音控制AI聊天机器人接入CarPlay",
           "url": "https://flash.jin10.com/detail/20260207040949574800",
           "source": "金十数据",
@@ -429,18 +479,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 07时21分]"
-        },
-        {
-          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时21分]"
         },
         {
           "title": "比特币涨幅扩大至10%。",
@@ -488,6 +526,87 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时38分]"
+        },
+        {
+          "title": "贾跃亭发布 FF 人形机器人，要打造「人车协同」生态，他这次能成功吗？",
+          "url": "https://www.zhihu.com/question/2002708004215154139",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "日本挖到稀土泥 中方回应亮了",
+          "url": "https://www.toutiao.com/trending/7602841741054017579/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            22,
+            7,
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 07时21分]"
+        },
+        {
+          "title": "日本持续强降雪已致42人死亡",
+          "url": "https://www.douyin.com/hot/2391380",
+          "source": "抖音",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 09时29分]"
+        },
+        {
+          "title": "特朗普“下场”支持日本首相",
+          "url": "https://www.douyin.com/hot/2391219",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时42分 ~ 07时21分]"
+        },
+        {
+          "title": "日本再度达到流感流行警报级别",
+          "url": "https://wallstreetcn.com/livenews/3051648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时29分]"
+        },
+        {
+          "title": "敏感时刻，一个罕见情况在日本出现",
+          "url": "https://news.ifeng.com/c/8qXB1sQrQOA",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         }
       ]
     },
@@ -548,66 +667,8 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "日本挖到稀土泥 中方回应亮了",
-          "url": "https://www.toutiao.com/trending/7602841741054017579/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            22,
-            7,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时21分]"
-        },
-        {
-          "title": "日本持续强降雪已致42人死亡",
-          "url": "https://www.douyin.com/hot/2391380",
-          "source": "抖音",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普“下场”支持日本首相",
-          "url": "https://www.douyin.com/hot/2391219",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时42分 ~ 07时21分]"
-        },
-        {
-          "title": "日本再度达到流感流行警报级别",
-          "url": "https://wallstreetcn.com/livenews/3051648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -619,6 +680,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 07时21分]"
+        },
+        {
+          "title": "景林资产四季度减持英伟达超150万股，进一步增仓拼多多，重仓谷歌A、Meta、拼多多",
+          "url": "https://wallstreetcn.com/livenews/3051649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
@@ -646,7 +718,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "邓超终于有抖音了",
@@ -654,11 +726,23 @@
           "source": "抖音",
           "ranks": [
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 09时29分]"
+        },
+        {
+          "title": "我有节目献给抖音非遗联欢会",
+          "url": "https://www.douyin.com/hot/2391847",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "抖音ACG新春会年味拉满",
@@ -666,18 +750,30 @@
           "source": "抖音",
           "ranks": [
             24,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时21分]"
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 09时29分]"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
+          "url": "https://www.cls.cn/detail/2283596",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
         {
           "title": "特斯拉据称正在美布局多州建厂 以扩张太阳能电池制造版图",
           "url": "https://www.cls.cn/detail/2283494",
@@ -687,8 +783,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时21分]"
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 09时29分]"
         }
       ]
     },
