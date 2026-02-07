@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T14:36:27.146108+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-02-07T15:29:20.615233+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -16,11 +16,12 @@
             6,
             7,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 14时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 15时29分]"
         },
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -32,6 +33,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时38分 ~ 06时19分]"
+        },
+        {
+          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 15时29分]"
         },
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
@@ -46,28 +58,18 @@
           "time_info": "[00时38分 ~ 06时19分]"
         },
         {
-          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 14时36分]"
-        },
-        {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
           "url": "https://www.cls.cn/detail/2283586",
           "source": "财联社热门",
           "ranks": [
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 15时29分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -101,6 +103,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 03时35分]"
+        },
+        {
+          "title": "美股成交额前20：英伟达结束五连跌",
+          "url": "https://www.toutiao.com/trending/7603404451794485302/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "本周，标普累跌约0.2%，道指累涨约2.5%，纳指累跌1.6%，半导体指数累涨0.8%，科技七巨头指数累跌3.2%、超大市值科技股指数累跌4.6%，银行指数累涨5.2%，生物科技指数累涨2.2%，小盘股指累涨2.1%。 标普500指数初步收涨2%，科技板块涨4.2%，工业板块涨2.8%，能源板块涨1.9%。 纳斯达克100指数初步收涨2.2%，成分股中，Strategy涨25.8%，Arm控股涨11.6%，西部数据涨8.7%，英伟达涨8.1%，谷歌A跌2.4%，亚马逊跌5.3%。 卡特彼勒初步收涨7%，安进、3M、高盛涨超4%，和英伟达领跑道指成分股，亚马逊表现最差。",
@@ -239,11 +252,12 @@
           "ranks": [
             14,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时36分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 15时29分]"
         },
         {
           "title": "现货白银日内暴涨10.00%，现报77.88美元/盎司。",
@@ -376,11 +390,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 15时29分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -486,11 +501,12 @@
             19,
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 14时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 15时29分]"
         },
         {
           "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
@@ -526,8 +542,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 15时29分]"
         },
         {
           "title": "比特币触及16个月新低",
@@ -627,11 +643,23 @@
           "ranks": [
             3,
             6,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 15时29分]"
+        },
+        {
+          "title": "日本教授警告：攻击外国人能拉票，但会加剧社会分裂",
+          "url": "https://news.ifeng.com/c/8qY33XqGNml",
+          "source": "凤凰网",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时36分]"
+          "time_info": "[13时38分 ~ 15时29分]"
         },
         {
           "title": "特朗普“下场”支持日本首相",
@@ -648,15 +676,15 @@
           "time_info": "[02时42分 ~ 07时21分]"
         },
         {
-          "title": "日本教授警告：攻击外国人能拉票，但会加剧社会分裂",
-          "url": "https://news.ifeng.com/c/8qY33XqGNml",
+          "title": "敏感时刻，一个罕见情况在日本出现",
+          "url": "https://news.ifeng.com/c/8qXB1sQrQOA",
           "source": "凤凰网",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 15时29分]"
         },
         {
           "title": "日本再度达到流感流行警报级别",
@@ -670,17 +698,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时21分 ~ 12时04分]"
-        },
-        {
-          "title": "敏感时刻，一个罕见情况在日本出现",
-          "url": "https://news.ifeng.com/c/8qXB1sQrQOA",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 14时36分]"
         }
       ]
     },
@@ -808,8 +825,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 14时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 15时29分]"
         },
         {
           "title": "我有节目献给抖音非遗联欢会",
@@ -818,11 +835,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 15时29分]"
         },
         {
           "title": "抖音ACG新春会年味拉满",
@@ -833,11 +851,12 @@
             21,
             23,
             25,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时19分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[06时19分 ~ 15时29分]"
         }
       ]
     },
@@ -855,8 +874,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 15时29分]"
         },
         {
           "title": "特斯拉据称正在美布局多州建厂 以扩张太阳能电池制造版图",
@@ -882,11 +901,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时36分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 15时29分]"
         },
         {
           "title": "AI 能救得了 SaaS 么？",
