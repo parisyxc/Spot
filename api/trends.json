@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T17:58:35.959371+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-02-09T18:56:52.220804+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 110,
+      "match_count": 111,
       "titles": [
         {
           "title": "专访｜“众院选举结果可能改变日本国家形态，进入相当危险阶段”",
@@ -71,6 +71,19 @@
           "time_info": "[00时25分 ~ 06时22分]"
         },
         {
+          "title": "日本众议院选举结果公布：由自民党和日本维新会组成的执政联盟获过半数议席",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32564947",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 18时56分]"
+        },
+        {
           "title": "王楚钦暴打张本,击溃日本夺冠",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350395&amp;topic_name=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9A%B4%E6%89%93%E5%BC%A0%E6%9C%AC%2C%E5%87%BB%E6%BA%83%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0",
           "source": "贴吧",
@@ -80,11 +93,12 @@
             9,
             17,
             18,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 17时58分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 18时56分]"
         },
         {
           "title": "日本执政联盟将获众议院过半议席",
@@ -119,16 +133,16 @@
           "time_info": "[00时25分 ~ 07时27分]"
         },
         {
-          "title": "日本众议院选举结果公布：由自民党和日本维新会组成的执政联盟获过半数议席",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32564947",
-          "source": "澎湃新闻",
+          "title": "日本众议院选举结果公布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            6
+            4,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时49分 ~ 17时58分]"
+          "time_info": "[12时23分 ~ 18时56分]"
         },
         {
           "title": "日本执政联盟获得过半数议席",
@@ -140,23 +154,25 @@
             11,
             13,
             16,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时26分 ~ 17时58分]"
+          "appearance_count": 10,
+          "time_info": "[07时26分 ~ 18时56分]"
         },
         {
-          "title": "日本众议院选举结果公布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "日本众议院选举结果公布，执政联盟获得过半数议席，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2003926420188000507",
+          "source": "知乎",
           "ranks": [
-            4,
-            8
+            11,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 17时58分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 18时56分]"
         },
         {
           "title": "日本大选结果冲击市场：日元跌至两周新低 日股创历史新高",
@@ -183,17 +199,31 @@
           "time_info": "[00时25分 ~ 03时22分]"
         },
         {
-          "title": "日本众议院选举结果公布，执政联盟获得过半数议席，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2003926420188000507",
-          "source": "知乎",
+          "title": "日本执政联盟赢得众议院选举过半议席，日元日债面临压力",
+          "url": "https://wallstreetcn.com/articles/3765261",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时04分 ~ 18时56分]"
+        },
+        {
+          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            9,
             8,
             6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时49分 ~ 17时58分]"
+          "time_info": "[12时23分 ~ 18时56分]"
         },
         {
           "title": "日本众议院选举结果公布：执政联盟获得过半数议席",
@@ -235,18 +265,6 @@
           "time_info": "[09时49分 ~ 14时05分]"
         },
         {
-          "title": "日本执政联盟赢得众议院选举过半议席，日元日债面临压力",
-          "url": "https://wallstreetcn.com/articles/3765261",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时04分 ~ 17时58分]"
-        },
-        {
           "title": "日本财务大臣片山皋月：不会对汇率水平发表评论。 正与美国就汇率保持密切联系。 保持日元兑美元汇率稳定是财务主管的责任。 无需担心日本进入滞胀。",
           "url": "https://wallstreetcn.com/livenews/3051839",
           "source": "华尔街见闻-快讯",
@@ -270,6 +288,17 @@
           "time_info": "[09时49分 ~ 14时05分]"
         },
         {
+          "title": "中方对日强硬立场影响日本大选？外交部回应",
+          "url": "https://news.ifeng.com/c/8qbZw6QnGlM",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 18时56分]"
+        },
+        {
           "title": "日本首相高市早苗：希望做好危机管理投资和增长投资。",
           "url": "https://wallstreetcn.com/livenews/3051833",
           "source": "华尔街见闻-快讯",
@@ -280,20 +309,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时25分 ~ 05时22分]"
-        },
-        {
-          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 17时58分]"
         },
         {
           "title": "日本财务大臣片山皋月：如有必要，将于周一与市场沟通。 金融市场对日本国债有信心。",
@@ -323,6 +338,17 @@
           "time_info": "[00时25分 ~ 06时22分]"
         },
         {
+          "title": "外交部回应日本自民党胜选",
+          "url": "https://www.douyin.com/hot/2394913",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 18时56分]"
+        },
+        {
           "title": "日本首相高市早苗：将加快关于食品减税的讨论。 如达成决定，将向国会提交税制改革法案。 有关日元疲软的言论被断章取义。 要建立对汇率变动有韧性的经济结构。 财政可持续性十分重要。",
           "url": "https://wallstreetcn.com/livenews/3051830",
           "source": "华尔街见闻-快讯",
@@ -350,26 +376,15 @@
           "time_info": "[00时25分 ~ 06时22分]"
         },
         {
-          "title": "中方对日强硬立场影响日本大选？外交部回应",
-          "url": "https://news.ifeng.com/c/8qbZw6QnGlM",
+          "title": "胡锡进：这次选举是高市个人忽悠术的胜利，而决非日本的胜利",
+          "url": "https://news.ifeng.com/c/8qbgybCJ8kB",
           "source": "凤凰网",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时44分 ~ 17时58分]"
-        },
-        {
-          "title": "外交部回应日本自民党胜选",
-          "url": "https://www.douyin.com/hot/2394913",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 17时58分]"
+          "time_info": "[17时58分 ~ 18时56分]"
         },
         {
           "title": "两年期日本国债收益率升至1.3%，创1996年以来新高。",
@@ -459,7 +474,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -475,17 +490,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "胡锡进：这次选举是高市个人忽悠术的胜利，而决非日本的胜利",
-          "url": "https://news.ifeng.com/c/8qbgybCJ8kB",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
           "title": "日本首相高市早苗：我们联盟的潜力是无限的。",
           "url": "https://flash.jin10.com/detail/20260209115819128800",
           "source": "金十数据",
@@ -495,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "日本前参选人称高市是特朗普的应声虫，担忧中日关系会再恶化",
+          "url": "https://news.ifeng.com/c/8qbmJBWHrqw",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "分析：日本执政党拿下多数席位 市场将迎更多财政刺激",
@@ -547,7 +562,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -658,7 +673,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -683,6 +698,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "中国头号流失国宝 竟成日本国有财产",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%B4%E5%8F%B7%E6%B5%81%E5%A4%B1%E5%9B%BD%E5%AE%9D+%E7%AB%9F%E6%88%90%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%9C%89%E8%B4%A2%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 18时56分]"
         },
         {
           "title": "日本首相高市早苗：美日联盟和友谊建立在深度信任与紧密坚实合作之上。",
@@ -714,7 +741,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -763,17 +790,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
-        },
-        {
-          "title": "日本首相高市早苗：一直密切关注包括外汇在内的市场动态。 希望打造一个能够抵御汇率波动的经济。 寻求降低债务占GDP比率来赢得市场信任。",
-          "url": "https://wallstreetcn.com/livenews/3052238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
         },
         {
           "title": "日本众议院选举结果公布",
@@ -835,16 +851,53 @@
           "time_info": "[06时22分 ~ 07时27分]"
         },
         {
+          "title": "日本首相高市早苗：一直密切关注包括外汇在内的市场动态。 希望打造一个能够抵御汇率波动的经济。 寻求降低债务占GDP比率来赢得市场信任。",
+          "url": "https://wallstreetcn.com/livenews/3052238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 18时56分]"
+        },
+        {
           "title": "日本应在靖国神社等问题上谨言慎行",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BA%94%E5%9C%A8%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E7%AD%89%E9%97%AE%E9%A2%98%E4%B8%8A%E8%B0%A8%E8%A8%80%E6%85%8E%E8%A1%8C",
           "source": "百度热搜",
           "ranks": [
             30,
-            24
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 18时56分]"
+        },
+        {
+          "title": "中方回应强硬立场影响日本大选论",
+          "url": "https://www.toutiao.com/trending/7604510939282407487/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时44分 ~ 17时58分]"
+          "time_info": "[17时58分 ~ 18时56分]"
+        },
+        {
+          "title": "外交部回应中国网民担忧日本右倾",
+          "url": "https://www.toutiao.com/trending/7604101647568273471/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 18时56分]"
         },
         {
           "title": "日本首相高市早苗：已获得选民对政府支出、国家安全和情报等政策大胆变革的理解。",
@@ -853,18 +906,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "中国头号流失国宝 竟成日本国有财产",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%B4%E5%8F%B7%E6%B5%81%E5%A4%B1%E5%9B%BD%E5%AE%9D+%E7%AB%9F%E6%88%90%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%9C%89%E8%B4%A2%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -897,7 +939,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -941,7 +983,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -985,7 +1027,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1007,7 +1049,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1029,7 +1071,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1054,17 +1096,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
-        },
-        {
-          "title": "中方回应强硬立场影响日本大选论",
-          "url": "https://www.toutiao.com/trending/7604510939282407487/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
         },
         {
           "title": "日本1月经济观察家现况指数 47.6，预期 49，前值 48.6。",
@@ -1095,7 +1126,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1109,17 +1140,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "外交部回应中国网民担忧日本右倾",
-          "url": "https://www.toutiao.com/trending/7604101647568273471/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
         },
         {
           "title": "日本两年期国债收益率上升1.5个基点，至1.29%。",
@@ -1172,7 +1192,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1183,7 +1203,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1216,7 +1236,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1238,7 +1258,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1260,7 +1280,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1301,7 +1321,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "2026 年 3 月白银会爆发史诗级「交割战争」吗？",
@@ -1365,6 +1385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "上海黄金交易所：对黄金、白银延期合约交易保证金比例和涨跌停板以及履约担保型询价合约保证金进行调整",
+          "url": "https://wallstreetcn.com/livenews/3052281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月9日（周一）收盘上涨3.69%报1118.8元/克；<br/>上海黄金交易所白银T+D 2月9日（周一）收盘上涨8.0%报19580.0元/千克。",
@@ -1450,7 +1481,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1530,6 +1561,120 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 12时23分]"
+        },
+        {
+          "title": "美银Hartnett：小盘股比科技股更值得押注，科技巨头不再是赢家",
+          "url": "https://wallstreetcn.com/articles/3765250",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 15时54分]"
+        },
+        {
+          "title": "高盛交易员警告：美股抛售尚未结束",
+          "url": "https://flash.jin10.com/detail/20260209002129268800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            9,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 07时27分]"
+        },
+        {
+          "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
+          "url": "https://wallstreetcn.com/livenews/3051846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
+          "title": "摩根士丹利：美股科技股抛售后人工智能板块存在机遇",
+          "url": "https://wallstreetcn.com/livenews/3052244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 18时56分]"
+        },
+        {
+          "title": "本周“惨况”继续？高盛：美股抛售潮尚未结束，金银和比特币亦受连累！",
+          "url": "https://www.cls.cn/detail/2284121",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "美股软件股盘前上涨，微软(MSFT.O)涨0.8%，Datadog涨 1.2%，ServiceNow涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20260209180250782800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "分析师：近期科技股抛售并不意味着AI投资热潮结束",
+          "url": "https://flash.jin10.com/detail/20260209131648292800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         }
       ]
     },
@@ -1623,7 +1768,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1812,8 +1957,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 17时58分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 18时56分]"
         },
         {
           "title": "比特币涨至71000美元，日内涨超2%。",
@@ -1855,97 +2000,6 @@
       ]
     },
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 12时23分]"
-        },
-        {
-          "title": "美银Hartnett：小盘股比科技股更值得押注，科技巨头不再是赢家",
-          "url": "https://wallstreetcn.com/articles/3765250",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 15时54分]"
-        },
-        {
-          "title": "高盛交易员警告：美股抛售尚未结束",
-          "url": "https://flash.jin10.com/detail/20260209002129268800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2,
-            9,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时27分]"
-        },
-        {
-          "title": "摩根士丹利：美股科技股抛售后人工智能板块存在机遇",
-          "url": "https://wallstreetcn.com/livenews/3052244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
-          "url": "https://wallstreetcn.com/livenews/3051846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时22分]"
-        },
-        {
-          "title": "本周“惨况”继续？高盛：美股抛售潮尚未结束，金银和比特币亦受连累！",
-          "url": "https://www.cls.cn/detail/2284121",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "分析师：近期科技股抛售并不意味着AI投资热潮结束",
-          "url": "https://flash.jin10.com/detail/20260209131648292800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 6,
       "titles": [
@@ -1963,24 +2017,13 @@
           "time_info": "[00时25分 ~ 12时23分]"
         },
         {
-          "title": "因阻止第三方AI助手遭欧盟警告，Meta：欧盟没有理由干预WhatsApp商务API",
-          "url": "https://wallstreetcn.com/livenews/3052250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
           "title": "欧盟委员会执行副主席里韦拉：谷歌(GOOG.O)正在与欧盟委员会进行谈判，正在努力做出一些改变。",
           "url": "https://flash.jin10.com/detail/20260209172748613800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -2007,13 +2050,25 @@
           "time_info": "16时44分"
         },
         {
+          "title": "因阻止第三方AI助手遭欧盟警告，Meta：欧盟没有理由干预WhatsApp商务API",
+          "url": "https://wallstreetcn.com/livenews/3052250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 18时56分]"
+        },
+        {
           "title": "欧盟警告Meta需向竞争对手AI聊天机器人开放WhatsApp",
           "url": "https://flash.jin10.com/detail/20260209172344732800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         }
@@ -2037,11 +2092,12 @@
             23,
             18,
             20,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 17时58分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 18时56分]"
         },
         {
           "title": "跟着抖音颜值天团新年美出圈",
