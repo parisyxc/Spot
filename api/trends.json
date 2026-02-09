@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T20:58:50.085533+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2026-02-09T22:16:05.642456+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 113,
+      "match_count": 114,
       "titles": [
         {
           "title": "专访｜“众院选举结果可能改变日本国家形态，进入相当危险阶段”",
@@ -38,11 +38,42 @@
             10,
             6,
             4,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 22时16分]"
+        },
+        {
+          "title": "日本执政联盟赢得众议院选举过半议席，日元日债面临压力",
+          "url": "https://wallstreetcn.com/articles/3765261",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[09时49分 ~ 20时58分]"
+          "time_info": "[14时04分 ~ 22时16分]"
+        },
+        {
+          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            9,
+            8,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时23分 ~ 22时16分]"
         },
         {
           "title": "日本众议院选举结果公布",
@@ -50,11 +81,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时23分 ~ 20时58分]"
+          "appearance_count": 11,
+          "time_info": "[12时23分 ~ 22时16分]"
         },
         {
           "title": "日本国会众议院选举投票结束",
@@ -97,6 +129,18 @@
           "time_info": "[00时25分 ~ 06时22分]"
         },
         {
+          "title": "中方对日强硬立场影响日本大选？外交部回应",
+          "url": "https://news.ifeng.com/c/8qbZw6QnGlM",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时44分 ~ 22时16分]"
+        },
+        {
           "title": "日本众议院选举结果公布，执政联盟获得过半数议席，会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2003926420188000507",
           "source": "知乎",
@@ -107,24 +151,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时49分 ~ 20时58分]"
-        },
-        {
-          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时23分 ~ 20时58分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 22时16分]"
         },
         {
           "title": "王楚钦暴打张本,击溃日本夺冠",
@@ -143,19 +171,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时25分 ~ 20时58分]"
-        },
-        {
-          "title": "日本执政联盟赢得众议院选举过半议席，日元日债面临压力",
-          "url": "https://wallstreetcn.com/articles/3765261",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时04分 ~ 20时58分]"
         },
         {
           "title": "警惕日本军国主义在文体领域渗透",
@@ -188,8 +203,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 20时58分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 22时16分]"
         },
         {
           "title": "日本执政联盟获得过半数议席",
@@ -231,17 +246,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 03时22分]"
-        },
-        {
-          "title": "中方对日强硬立场影响日本大选？外交部回应",
-          "url": "https://news.ifeng.com/c/8qbZw6QnGlM",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时44分 ~ 20时58分]"
         },
         {
           "title": "外交部回应日本自民党胜选",
@@ -303,6 +307,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时58分 ~ 20时58分]"
+        },
+        {
+          "title": "高市早苗大胜，日本民众：失望，年轻人的意见没被重视",
+          "url": "https://news.ifeng.com/c/8qblkorBAnB",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时43分 ~ 22时16分]"
         },
         {
           "title": "日本财务大臣片山皋月：不会对汇率水平发表评论。 正与美国就汇率保持密切联系。 保持日元兑美元汇率稳定是财务主管的责任。 无需担心日本进入滞胀。",
@@ -367,6 +383,19 @@
           "time_info": "[00时25分 ~ 06时22分]"
         },
         {
+          "title": "中国头号流失国宝 竟成日本国有财产",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%B4%E5%8F%B7%E6%B5%81%E5%A4%B1%E5%9B%BD%E5%AE%9D+%E7%AB%9F%E6%88%90%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%9C%89%E8%B4%A2%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时58分 ~ 22时16分]"
+        },
+        {
           "title": "日本首相高市早苗：将加快关于食品减税的讨论。 如达成决定，将向国会提交税制改革法案。 有关日元疲软的言论被断章取义。 要建立对汇率变动有韧性的经济结构。 财政可持续性十分重要。",
           "url": "https://wallstreetcn.com/livenews/3051830",
           "source": "华尔街见闻-快讯",
@@ -392,29 +421,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时22分]"
-        },
-        {
-          "title": "中国头号流失国宝 竟成日本国有财产",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%B4%E5%8F%B7%E6%B5%81%E5%A4%B1%E5%9B%BD%E5%AE%9D+%E7%AB%9F%E6%88%90%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%9C%89%E8%B4%A2%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时58分 ~ 20时58分]"
-        },
-        {
-          "title": "高市早苗大胜，日本民众：失望，年轻人的意见没被重视",
-          "url": "https://news.ifeng.com/c/8qblkorBAnB",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时43分 ~ 20时58分]"
         },
         {
           "title": "两年期日本国债收益率升至1.3%，创1996年以来新高。",
@@ -916,6 +922,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时58分 ~ 18时56分]"
+        },
+        {
+          "title": "评论员：日本对外国人不再友好",
+          "url": "https://www.toutiao.com/trending/7604248458757341222/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
         },
         {
           "title": "日本首相高市早苗：已获得选民对政府支出、国家安全和情报等政策大胆变革的理解。",
@@ -1533,7 +1550,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1555,7 +1572,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1618,7 +1635,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -1661,6 +1678,29 @@
           "time_info": "[01时22分 ~ 07时27分]"
         },
         {
+          "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时16分]"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2285010",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时16分]"
+        },
+        {
           "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
@@ -1673,26 +1713,15 @@
           "time_info": "[18时56分 ~ 19时43分]"
         },
         {
-          "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3052372",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2285010",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "22时16分"
         },
         {
           "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
@@ -1785,11 +1814,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时49分 ~ 20时58分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 22时16分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -1872,9 +1902,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时16分]"
         },
         {
           "title": "年前机器人走穴忙 热门款日薪8000",
@@ -1997,6 +2027,115 @@
       ]
     },
     {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 12时23分]"
+        },
+        {
+          "title": "欧盟委员会执行副主席里韦拉：谷歌(GOOG.O)正在与欧盟委员会进行谈判，正在努力做出一些改变。",
+          "url": "https://flash.jin10.com/detail/20260209172748613800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "美国方面称，道达尔能源将为谷歌位于得州的数据中心提供1吉瓦太阳能发电容量，为期15年。",
+          "url": "https://flash.jin10.com/detail/20260209161349055800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "道达尔能源将在德州为谷歌供应1吉瓦太阳能电力",
+          "url": "https://wallstreetcn.com/livenews/3052196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "谷歌母公司Alphabet启动七批美元债券发行。",
+          "url": "https://wallstreetcn.com/livenews/3052346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 22时16分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet计划通过美元债券发行筹集约150亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3052364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "因阻止第三方AI助手遭欧盟警告，Meta：欧盟没有理由干预WhatsApp商务API",
+          "url": "https://wallstreetcn.com/livenews/3052250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 18时56分]"
+        },
+        {
+          "title": "欧盟警告Meta需向竞争对手AI聊天机器人开放WhatsApp",
+          "url": "https://flash.jin10.com/detail/20260209172344732800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "道达尔能源公司将为谷歌(GOOG.O)在得州的数据中心提供1吉瓦太阳能电力，协议期限为15年。建设计划于二季度启动。",
+          "url": "https://flash.jin10.com/detail/20260209184350182800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 INTEL",
       "match_count": 9,
       "titles": [
@@ -2109,99 +2248,52 @@
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 8,
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
       "titles": [
         {
-          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
-          "url": "https://wallstreetcn.com/articles/3765245",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 12时23分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet启动七批美元债券发行。",
-          "url": "https://wallstreetcn.com/livenews/3052346",
+          "title": "OpenAI准备在本周推出更新版聊天模型",
+          "url": "https://wallstreetcn.com/livenews/3052361",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "22时16分"
         },
         {
-          "title": "欧盟委员会执行副主席里韦拉：谷歌(GOOG.O)正在与欧盟委员会进行谈判，正在努力做出一些改变。",
-          "url": "https://flash.jin10.com/detail/20260209172748613800",
+          "title": "OpenAI创始人：ChatGPT月增长重超10% 本周将推新版聊天模型",
+          "url": "https://flash.jin10.com/detail/20260209211725388800",
           "source": "金十数据",
           "ranks": [
-            8
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时58分"
+          "time_info": "22时16分"
         },
         {
-          "title": "美国方面称，道达尔能源将为谷歌位于得州的数据中心提供1吉瓦太阳能发电容量，为期15年。",
-          "url": "https://flash.jin10.com/detail/20260209161349055800",
+          "title": "据CNBC：ChatGPT月增长率超过10%。",
+          "url": "https://flash.jin10.com/detail/20260209210816509800",
           "source": "金十数据",
           "ranks": [
-            9
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时44分"
+          "time_info": "22时16分"
         },
         {
-          "title": "道达尔能源将在德州为谷歌供应1吉瓦太阳能电力",
-          "url": "https://wallstreetcn.com/livenews/3052196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "因阻止第三方AI助手遭欧盟警告，Meta：欧盟没有理由干预WhatsApp商务API",
-          "url": "https://wallstreetcn.com/livenews/3052250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 18时56分]"
-        },
-        {
-          "title": "欧盟警告Meta需向竞争对手AI聊天机器人开放WhatsApp",
-          "url": "https://flash.jin10.com/detail/20260209172344732800",
+          "title": "据CNBC：OpenAI计划于本周发布一款升级版对话模型。",
+          "url": "https://flash.jin10.com/detail/20260209210728140800",
           "source": "金十数据",
           "ranks": [
-            15
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "道达尔能源公司将为谷歌(GOOG.O)在得州的数据中心提供1吉瓦太阳能电力，协议期限为15年。建设计划于二季度启动。",
-          "url": "https://flash.jin10.com/detail/20260209184350182800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "22时16分"
         }
       ]
     },
@@ -2228,8 +2320,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 20时58分]"
+          "appearance_count": 23,
+          "time_info": "[00时25分 ~ 22时16分]"
         },
         {
           "title": "跟着抖音颜值天团新年美出圈",
