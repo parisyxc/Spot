@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T14:07:39.649888+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-02-11T15:53:20.444651+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 15时53分]"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 15时53分]"
         },
         {
           "title": "莫德纳宣布，美国食品药品管理局（FDA）拒绝审查其流感疫苗MRNA Flu申请。 FDA称，该公司临床试验（受试样本）不够大，也没有得到很好的控制。 莫德纳美股盘后跌9%。",
@@ -81,24 +92,13 @@
           "time_info": "07时34分"
         },
         {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
           "title": "罗杰斯为何清空美股死守金银铜",
           "url": "https://www.toutiao.com/trending/7605434410879421993/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -256,7 +256,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
@@ -349,11 +349,23 @@
           "url": "https://news.ifeng.com/c/8qec1PYiH19",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 15时53分]"
+        },
+        {
+          "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
+          "url": "https://wallstreetcn.com/livenews/3053533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "马来西亚央行：测试将使央行能够评估（稳定币和代币化存款）对货币和金融稳定的影响，并为这些特定领域的政策方向提供依据。拟在2026年底前就林吉特稳定币和代币化存款的使用提供更清晰的指引。",
@@ -426,6 +438,17 @@
           "time_info": "[03时03分 ~ 04时39分]"
         },
         {
+          "title": "自民党众议院获胜，日本政治的政策右转趋势会加速吗？",
+          "url": "https://www.zhihu.com/question/2004480771465947078",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "日媒：日本将采购美制装备援乌",
           "url": "https://www.toutiao.com/trending/7605189138233065515/",
           "source": "今日头条",
@@ -443,7 +466,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -473,7 +496,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
@@ -511,6 +534,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "现货白银站上84美元/盎司，日内涨4.10%。",
+          "url": "https://flash.jin10.com/detail/20260211151359525800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 2月10日（周二）晚盘收盘下跌0.49%报1115.02元/克；<br/>上海黄金交易所白银T+D 2月10日（周二）晚盘收盘下跌0.32%报19238.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260211023038113800",
           "source": "金十数据",
@@ -533,6 +567,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "现货白银站上84美元/盎司，日内涨超4%。 纽约期银日内涨4%，现报83.61美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3053521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "周二（2月10日）纽约尾盘，现货白银跌3.09%，报80.8200美元/盎司。 COMEX白银期货跌2.11%，报80.495美元/盎司。 COMEX铜期货跌0.99%，报5.9035美元/磅。 现货铂金跌1.47%，现货钯金跌1.68%。",
           "url": "https://wallstreetcn.com/livenews/3053269",
           "source": "华尔街见闻-快讯",
@@ -549,11 +594,56 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 15时53分]"
+        },
+        {
+          "title": "世界白银协会：将连续第六年出现供应缺口，长期看涨前景稳固！",
+          "url": "https://www.cls.cn/detail/2286585",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时07分"
+          "time_info": "15时53分"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）上海金午盘价为1125.69元/克，较国际金价(1124.61元/克)，高1.08元/克",
+          "url": "https://flash.jin10.com/detail/20260211150538919800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "现货白银向上触及83美元/盎司，日内涨2.85%。",
+          "url": "https://flash.jin10.com/detail/20260211145508847800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "现货白银向上触及83美元/盎司，日内涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3053504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "世界白银协会：投资增长将使全球白银需求在2026年保持稳定",
@@ -592,7 +682,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "芝商所（CME）：新增现金结算期货合约，将纳入包括Alphabet、Meta、英伟达和特斯拉在内的50多只美国顶级个股。",
@@ -682,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "蚂蚁开源全模态大模型Ming-Flash-Omni 2.0 性能对标Gemini 2.5 Pro",
+          "url": "https://wallstreetcn.com/livenews/3053495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         }
       ]
     },
@@ -729,6 +830,18 @@
           "time_info": "[01时58分 ~ 03时03分]"
         },
         {
+          "title": "雷军：小米汽车工厂有六七百台机器人",
+          "url": "https://www.toutiao.com/trending/7605427131748765210/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 15时53分]"
+        },
+        {
           "title": "Coinbasee 投资主管警告称，约 32.7% 的比特币面临潜在的量子计算攻击风险，你怎么看？",
           "url": "https://www.zhihu.com/question/2001595914083590360",
           "source": "知乎",
@@ -745,17 +858,6 @@
           "source": "百度热搜",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "雷军：小米汽车工厂有六七百台机器人",
-          "url": "https://www.toutiao.com/trending/7605427131748765210/",
-          "source": "今日头条",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -787,8 +889,21 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "微信出新功能 以后删好友要注意了",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%87%BA%E6%96%B0%E5%8A%9F%E8%83%BD+%E4%BB%A5%E5%90%8E%E5%88%A0%E5%A5%BD%E5%8F%8B%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 15时53分]"
+        },
         {
           "title": "微信9大更新",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A19%E5%A4%A7%E6%9B%B4%E6%96%B0%23&t=31&band_rank=1&Refer=top",
@@ -802,18 +917,6 @@
           "time_info": "[12时27分 ~ 14时07分]"
         },
         {
-          "title": "微信出新功能 以后删好友要注意了",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%87%BA%E6%96%B0%E5%8A%9F%E8%83%BD+%E4%BB%A5%E5%90%8E%E5%88%A0%E5%A5%BD%E5%8F%8B%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 14时07分]"
-        },
-        {
           "title": "邓超真的把入驻抖音当个事办",
           "url": "https://www.douyin.com/hot/2395420",
           "source": "抖音",
@@ -824,6 +927,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时34分 ~ 12时27分]"
+        },
+        {
+          "title": "抖音新春吃喝玩乐节开启：向用户发放亿元红包，上线「春节营业」标签",
+          "url": "https://wallstreetcn.com/livenews/3053500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "微信删好友能保留聊天记录",
@@ -860,7 +974,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -871,9 +985,37 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月11日（周三）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化，保险、酿酒半导体等多个板块全线飘绿，煤炭、石油走高",
+          "url": "https://flash.jin10.com/detail/20260211113357126800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）富时中国A50指数成分股今日收盘行情一览：保险、酿酒、半导体等多个板块全线下跌，石油、煤炭板块逆势走高",
+          "url": "https://flash.jin10.com/detail/20260211150436788800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         }
       ]
     },
@@ -902,23 +1044,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月11日（周三）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化，保险、酿酒半导体等多个板块全线飘绿，煤炭、石油走高",
-          "url": "https://flash.jin10.com/detail/20260211113357126800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         }
       ]
     }
