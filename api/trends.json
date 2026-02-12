@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T12:22:06.225621+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-02-12T14:01:58.983999+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[01时02分 ~ 07时28分]"
         },
         {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 14时01分]"
+        },
+        {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时56分 ~ 06时26分]"
-        },
-        {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 12时22分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -75,19 +75,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 12时22分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 14时01分]"
         },
         {
           "title": "订单量大增252%！英伟达液冷供应商财报超预期 股价跳空大涨创新高",
           "url": "https://www.cls.cn/detail/2287935",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时01分]"
         },
         {
           "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
@@ -97,8 +98,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时01分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
@@ -160,149 +161,8 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "野田佳彦惨败辞职后，日本在野党将选新党代表",
-          "url": "https://news.ifeng.com/c/8qfETZ4tnOT",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时28分]"
-        },
-        {
-          "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582946",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 12时22分]"
-        },
-        {
-          "title": "日本首相正开启东亚“潘多拉魔盒”",
-          "url": "https://www.toutiao.com/trending/7605523759625145883/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时25分 ~ 07时28分]"
-        },
-        {
-          "title": "据日经新闻：日本计划最早于今年夏季开始测试反干扰技术，并力争在2028财年之前研发出相关设备。",
-          "url": "https://flash.jin10.com/detail/20260212003139866800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "据日经新闻：日本计划在2033年左右实现抗干扰设备的商业化。",
-          "url": "https://flash.jin10.com/detail/20260212003129410800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "据日经新闻：日本将补贴用于保护卫星信号的抗干扰技术。",
-          "url": "https://flash.jin10.com/detail/20260212003115909800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "邱毅：日本政坛剧变再度成为亚太乱源",
-          "url": "https://www.toutiao.com/trending/7604684055234002990/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时22分]"
-        },
-        {
-          "title": "日本10年期国债收益率下跌4.5个基点，至2.190%。",
-          "url": "https://flash.jin10.com/detail/20260212084009976800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "日本30年期国债收益率下行7.5个基点至3.420%。 日本40年期国债收益率下行8个基点至3.645%。",
-          "url": "https://wallstreetcn.com/livenews/3054059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "日本20年期国债收益率下行5个基点至3.055%。",
-          "url": "https://wallstreetcn.com/livenews/3054057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "日本最高外汇事务官员三村淳：正以高度紧迫感密切关注市场动态，不对具体汇率水平发表评论；我们丝毫没有放松警惕；与美国当局保持密切联系。",
-          "url": "https://wallstreetcn.com/livenews/3054055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "日本40年期国债收益率下行5.5个基点至3.67%。",
-          "url": "https://wallstreetcn.com/livenews/3054048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
@@ -310,11 +170,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 14时01分]"
         },
         {
           "title": "Meta将270亿美元数据中心项目剥离出表，审计机构发出警示",
@@ -374,6 +235,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "韩国IT巨头Kakao宣布将与谷歌合作，共同开发基于Android XR和Android移动体验的AI眼镜用户体验，并将最新AI技术融入其中。",
+          "url": "https://wallstreetcn.com/livenews/3054194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "Meta将在印第安纳州数据中心投资超过100亿美元",
           "url": "https://flash.jin10.com/detail/20260212021624548800",
           "source": "金十数据",
@@ -431,6 +303,147 @@
       ]
     },
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "野田佳彦惨败辞职后，日本在野党将选新党代表",
+          "url": "https://news.ifeng.com/c/8qfETZ4tnOT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时28分]"
+        },
+        {
+          "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582946",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时02分 ~ 14时01分]"
+        },
+        {
+          "title": "日本首相正开启东亚“潘多拉魔盒”",
+          "url": "https://www.toutiao.com/trending/7605523759625145883/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时25分 ~ 07时28分]"
+        },
+        {
+          "title": "据日经新闻：日本计划最早于今年夏季开始测试反干扰技术，并力争在2028财年之前研发出相关设备。",
+          "url": "https://flash.jin10.com/detail/20260212003139866800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "据日经新闻：日本计划在2033年左右实现抗干扰设备的商业化。",
+          "url": "https://flash.jin10.com/detail/20260212003129410800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "据日经新闻：日本将补贴用于保护卫星信号的抗干扰技术。",
+          "url": "https://flash.jin10.com/detail/20260212003115909800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "邱毅：日本政坛剧变再度成为亚太乱源",
+          "url": "https://www.toutiao.com/trending/7604684055234002990/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时01分]"
+        },
+        {
+          "title": "日本10年期国债收益率下跌4.5个基点，至2.190%。",
+          "url": "https://flash.jin10.com/detail/20260212084009976800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "日本30年期国债收益率下行7.5个基点至3.420%。 日本40年期国债收益率下行8个基点至3.645%。",
+          "url": "https://wallstreetcn.com/livenews/3054059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "日本20年期国债收益率下行5个基点至3.055%。",
+          "url": "https://wallstreetcn.com/livenews/3054057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：正以高度紧迫感密切关注市场动态，不对具体汇率水平发表评论；我们丝毫没有放松警惕；与美国当局保持密切联系。",
+          "url": "https://wallstreetcn.com/livenews/3054055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "日本40年期国债收益率下行5.5个基点至3.67%。",
+          "url": "https://wallstreetcn.com/livenews/3054048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 铜价 白银",
       "match_count": 10,
       "titles": [
@@ -458,15 +471,16 @@
           "time_info": "02时56分"
         },
         {
-          "title": "金十图示：2026年02月12日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260212120340330800",
-          "source": "金十数据",
+          "title": "黄金白银直线下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
           "ranks": [
-            2
+            28,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 14时01分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加19.73吨，当前持仓量为16236.18吨。欢迎点击查看数据中心…",
@@ -486,9 +500,21 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "金十图示：2026年02月12日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260212120340330800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 14时01分]"
         },
         {
           "title": "现货白银日内走低3.00%，现报81.64美元/盎司。",
@@ -512,18 +538,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时28分]"
-        },
-        {
-          "title": "黄金白银直线下跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 12时22分]"
         },
         {
           "title": "黄金白银直线下跌",
@@ -551,18 +565,30 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "玄创机器人完成Pre-A+轮融资",
+          "url": "https://wallstreetcn.com/livenews/3054205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
         {
           "title": "小米发布并开源机器人VLA大模型Xiaomi-Robotics-0。该VLA模型规模为47亿参数，支持视觉语言理解，可进行实时动作执行。",
           "url": "https://wallstreetcn.com/livenews/3054181",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 14时01分]"
         },
         {
           "title": "比特币腰斩后，加密货币亿万富翁拟逢低买入",
@@ -585,6 +611,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "邓超入驻抖音5天4条视频粉丝就破千万",
+          "url": "https://www.toutiao.com/trending/7605119842168930346/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 12时22分]"
+        },
+        {
+          "title": "和王者搭子在抖音过年",
+          "url": "https://www.douyin.com/hot/2397966",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         }
       ]
     },
@@ -616,24 +671,6 @@
           "ranks": [
             10,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 12时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "邓超入驻抖音5天4条视频粉丝就破千万",
-          "url": "https://www.toutiao.com/trending/7605119842168930346/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            26
           ],
           "is_new": false,
           "appearance_count": 4,
