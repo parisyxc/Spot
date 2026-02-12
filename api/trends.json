@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-13T02:56:57.947123+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-02-13T03:49:11.634013+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "证实NAND超级周期？存储巨头铠侠全年利润指引高出共识60%，Q3净利润878.1亿日元 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3765583",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 03时49分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 03时49分]"
         },
         {
           "title": "【每日收评】科技股全线回暖！创业板指与科创50双双涨超1%，算力产业链强势领涨",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 03时49分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -49,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 03时49分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -73,6 +74,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 00时54分]"
+        },
+        {
+          "title": "AI初创公司助力企业预测财报电话会议提问",
+          "url": "https://wallstreetcn.com/livenews/3054704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -133,19 +145,31 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 03时49分]"
+        },
         {
           "title": "现在金价这么高，把「三金」卖了，以后金价跌了再买合适吗？",
           "url": "https://www.zhihu.com/question/1964981998281036870",
           "source": "知乎",
           "ranks": [
             13,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 03时49分]"
         },
         {
           "title": "现货白银日内跌幅达10.0%，报75.59美元/盎司。",
@@ -176,7 +200,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -322,47 +346,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "新兴市场外汇和股市回吐涨幅。 标普500指数跌幅扩大至1%，纳斯达克100指数跌1.5%，半导体指数跌1.51%。",
-          "url": "https://wallstreetcn.com/livenews/3054623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "纳斯达克综合指数跌幅扩大至1.24%，纳斯达克100指数也跌1.25%，半导体指数跌0.72%。 标普500指数目前跌0.71%，道指跌0.35%。",
-          "url": "https://wallstreetcn.com/livenews/3054619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "中方回应荷兰启动调查安世半导体",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8D%B7%E5%85%B0%E5%90%AF%E5%8A%A8%E8%B0%83%E6%9F%A5%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -394,9 +379,60 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "OpenAI发布首个搭载英伟达对手Cerebras芯片的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3054665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中方回应荷兰启动调查安世半导体",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8D%B7%E5%85%B0%E5%90%AF%E5%8A%A8%E8%B0%83%E6%9F%A5%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 03时49分]"
+        },
+        {
+          "title": "新兴市场外汇和股市回吐涨幅。 标普500指数跌幅扩大至1%，纳斯达克100指数跌1.5%，半导体指数跌1.51%。",
+          "url": "https://wallstreetcn.com/livenews/3054623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "纳斯达克综合指数跌幅扩大至1.24%，纳斯达克100指数也跌1.25%，半导体指数跌0.72%。 标普500指数目前跌0.71%，道指跌0.35%。",
+          "url": "https://wallstreetcn.com/livenews/3054619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         }
       ]
     },
@@ -404,6 +440,18 @@
       "keyword_group": "特斯拉 INTEL",
       "match_count": 2,
       "titles": [
+        {
+          "title": "男子开特斯拉跑货拉拉最高日入上千元",
+          "url": "https://www.toutiao.com/trending/7605814145933525038/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 03时49分]"
+        },
         {
           "title": "33岁男子开特斯拉跑货拉拉",
           "url": "https://s.weibo.com/weibo?q=%2333%E5%B2%81%E7%94%B7%E5%AD%90%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%91%E8%B4%A7%E6%8B%89%E6%8B%89%23&t=31&band_rank=30&Refer=top",
@@ -415,17 +463,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时53分 ~ 01时55分]"
-        },
-        {
-          "title": "男子开特斯拉跑货拉拉最高日入上千元",
-          "url": "https://www.toutiao.com/trending/7605814145933525038/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
         }
       ]
     },
@@ -443,8 +480,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 03时49分]"
         },
         {
           "title": "在抖音读上名家春节作文选了",
@@ -452,11 +489,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 01时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时49分]"
         }
       ]
     },
@@ -490,8 +528,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 03时49分]"
         }
       ]
     }
