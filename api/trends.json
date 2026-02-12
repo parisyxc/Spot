@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T05:29:55.719745+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-02-13T06:28:16.772390+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "证实NAND超级周期？存储巨头铠侠全年利润指引高出共识60%，Q3净利润878.1亿日元 | 财报见闻",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 06时28分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 06时28分]"
         },
         {
           "title": "【每日收评】科技股全线回暖！创业板指与科创50双双涨超1%，算力产业链强势领涨",
@@ -39,19 +39,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 06时28分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2288812",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 06时28分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -89,48 +90,39 @@
           "time_info": "[03时49分 ~ 05时29分]"
         },
         {
+          "title": "（美股）费城金银指数收跌7.12%，报398.20点。 （全球时段）纽约证交所ARCA金矿开采商指数跌5.55%，报2853.94点。 （美股）原材料指数收跌3.64%，（美股）金属与矿业指数收跌3.96%。",
+          "url": "https://wallstreetcn.com/livenews/3054752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260213051126204800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时28分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260213050512806800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "美股收盘：三大指数收跌 苹果大跌5%",
-          "url": "https://flash.jin10.com/detail/20260213050029671800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌3.00%，报7599.35点，美股盘初持续走低，北京时间00:00过后持续低位窄幅震荡。 成分股。 热门中概股里，腾讯音乐初步收跌10%，携程跌6%，贝壳跌5.8%，B站、百度、阿特斯、百胜中国跌超4%，阿里跌3.4%，亚朵涨1.2%，世纪互联涨3.7%。 ETF中，中概互联网指数ETF（KWEB）收跌3.84%，中国科技指数ETF（CQQQ）收跌2.48%。 德银嘉实沪深300指数ETF（ASHR）收跌0.56%，XtrackersHarvest中证50（ASHS）收涨0.16%。",
-          "url": "https://wallstreetcn.com/livenews/3054725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时28分]"
         },
         {
           "title": "AI引发的资本市场大溃逃，美股商业地产遭遇“黑色星期四”",
@@ -145,6 +137,18 @@
           "time_info": "[04时30分 ~ 05时29分]"
         },
         {
+          "title": "美股收盘：三大指数收跌 苹果大跌5%",
+          "url": "https://flash.jin10.com/detail/20260213050029671800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时28分]"
+        },
+        {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
           "url": "https://flash.jin10.com/detail/20260213034826757800",
           "source": "金十数据",
@@ -155,6 +159,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时29分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌3.00%，报7599.35点，美股盘初持续走低，北京时间00:00过后持续低位窄幅震荡。 成分股。 热门中概股里，腾讯音乐初步收跌10%，携程跌6%，贝壳跌5.8%，B站、百度、阿特斯、百胜中国跌超4%，阿里跌3.4%，亚朵涨1.2%，世纪互联涨3.7%。 ETF中，中概互联网指数ETF（KWEB）收跌3.84%，中国科技指数ETF（CQQQ）收跌2.48%。 德银嘉实沪深300指数ETF（ASHR）收跌0.56%，XtrackersHarvest中证50（ASHS）收涨0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3054725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时28分]"
+        },
+        {
+          "title": "周四（2月12日）美股尾盘，彭博电动汽车价格回报指数跌0.69%，报3636.68点。 美股盘初刷新日高至3697.22点——亚太盘初以来持续交投于3690点附近，随后持续下挫，00:00过后持续交投于3640点附近。",
+          "url": "https://wallstreetcn.com/livenews/3054722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时28分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -168,15 +196,26 @@
           "time_info": "01时55分"
         },
         {
-          "title": "周四（2月12日）美股尾盘，彭博电动汽车价格回报指数跌0.69%，报3636.68点。 美股盘初刷新日高至3697.22点——亚太盘初以来持续交投于3690点附近，随后持续下挫，00:00过后持续交投于3640点附近。",
-          "url": "https://wallstreetcn.com/livenews/3054722",
+          "title": "黄金ETF收跌将近3.5%，和布油基金领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3054740",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时29分"
+          "time_info": "06时28分"
+        },
+        {
+          "title": "网络股指数ETF收跌超3.5%，领跌美股行业ETF，标普科技板块跌超2.6%",
+          "url": "https://wallstreetcn.com/livenews/3054739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股盘中）",
@@ -188,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜苹果创4月份以来最差单日表现",
+          "url": "https://wallstreetcn.com/livenews/3054738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "美股罗素3000卡车运输指数重挫7%",
@@ -226,7 +276,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
@@ -236,8 +286,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时48分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[03时48分 ~ 06时28分]"
         },
         {
           "title": "现在金价这么高，把「三金」卖了，以后金价跌了再买合适吗？",
@@ -250,8 +300,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 06时28分]"
+        },
+        {
+          "title": "白银跌约11%，铂族贵金属和纽约铜也在00:00前后跳水",
+          "url": "https://wallstreetcn.com/livenews/3054751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "现货白银日内跌幅达10.0%，报75.59美元/盎司。",
@@ -265,6 +326,28 @@
           "time_info": "00时54分"
         },
         {
+          "title": "盛宝银行大宗商品策略师Ole Hansen：对黄金和白银而言，相当大一部分交易仍由情绪和动能驱动。在这样的日子里，它们会很吃力。",
+          "url": "https://wallstreetcn.com/livenews/3054747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "黄金和白银突遭抛售，股市大跌引发了算法卖盘",
+          "url": "https://wallstreetcn.com/livenews/3054745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
           "title": "现货白银日内跌幅达8.5%，报76.88美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3054625",
           "source": "华尔街见闻-快讯",
@@ -274,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "金价跌超3%",
+          "url": "https://wallstreetcn.com/livenews/3054743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月12日（周四）晚盘收盘下跌2.49%报1096.99元/克；<br/>上海黄金交易所白银T+D 2月12日（周四）晚盘收盘下跌8.62%报18201.0元/千克。",
@@ -429,18 +523,18 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
-          "title": "Yelp与OpenAI构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3054731",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
+          "url": "https://flash.jin10.com/detail/20260213054809093800",
+          "source": "金十数据",
           "ranks": [
-            5
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时29分"
+          "time_info": "06时28分"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -464,6 +558,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时55分]"
+        },
+        {
+          "title": "Yelp与OpenAI构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3054731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时28分]"
         },
         {
           "title": "OpenAI发布第一款采用Cerebras芯片的模型。",
@@ -514,7 +620,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -547,27 +653,17 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "“特斯拉劲敌”Rivian四季度营收12.9亿美元，分析师预期12.6亿美元。 四季度每股亏损0.66美元，上年同期亏损0.70美元。 四季度调整后每股亏损0.54美元，分析师预期亏损0.69美元。 四季度车辆交付9,745辆，分析师预期9,964辆。 四季度产量10,974辆，分析师预期10,698辆。 预计2026年交付62,000-67,000辆，分析师预期63,402辆。 预计2026年调整后EBITDA亏损18亿-21亿美元，分析师预期亏损18亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3054729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
           "title": "男子开特斯拉跑货拉拉最高日入上千元",
           "url": "https://www.toutiao.com/trending/7605814145933525038/",
           "source": "今日头条",
           "ranks": [
             23,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 03时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时54分 ~ 06时28分]"
         },
         {
           "title": "33岁男子开特斯拉跑货拉拉",
@@ -580,6 +676,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时53分 ~ 01时55分]"
+        },
+        {
+          "title": "“特斯拉劲敌”Rivian四季度营收12.9亿美元，分析师预期12.6亿美元。 四季度每股亏损0.66美元，上年同期亏损0.70美元。 四季度调整后每股亏损0.54美元，分析师预期亏损0.69美元。 四季度车辆交付9,745辆，分析师预期9,964辆。 四季度产量10,974辆，分析师预期10,698辆。 预计2026年交付62,000-67,000辆，分析师预期63,402辆。 预计2026年调整后EBITDA亏损18亿-21亿美元，分析师预期亏损18亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3054729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时28分]"
         }
       ]
     },
@@ -598,8 +706,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 06时28分]"
         },
         {
           "title": "在抖音读上名家春节作文选了",
@@ -608,11 +716,12 @@
           "ranks": [
             26,
             24,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时28分]"
         }
       ]
     },
@@ -658,8 +767,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 06时28分]"
         }
       ]
     }
