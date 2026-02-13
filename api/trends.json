@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T14:55:56.634380+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-02-13T15:48:18.828765+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "证实NAND超级周期？存储巨头铠侠全年利润指引高出共识60%，Q3净利润878.1亿日元 | 财报见闻",
@@ -66,8 +66,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 15时48分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -77,19 +77,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 15时48分]"
         },
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
           "url": "https://wallstreetcn.com/articles/3765629",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 15时48分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -116,6 +117,19 @@
           "time_info": "[01时54分 ~ 02时56分]"
         },
         {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 15时48分]"
+        },
+        {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -127,16 +141,16 @@
           "time_info": "[00时53分 ~ 00时54分]"
         },
         {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            9,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时17分 ~ 14时55分]"
+          "time_info": "[13时56分 ~ 15时48分]"
         },
         {
           "title": "AI初创公司助力企业预测财报电话会议提问",
@@ -152,17 +166,6 @@
           "time_info": "[03时49分 ~ 05时29分]"
         },
         {
-          "title": "美股饱受AI焦虑摧残 亚洲芯片制造龙头企业受全球资金追捧",
-          "url": "https://wallstreetcn.com/livenews/3054952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
           "title": "美股存储芯片指数收涨不到1.4%",
           "url": "https://wallstreetcn.com/livenews/3054760",
           "source": "华尔街见闻-快讯",
@@ -174,15 +177,16 @@
           "time_info": "07时24分"
         },
         {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时56分 ~ 14时55分]"
+          "time_info": "[14时55分 ~ 15时48分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
@@ -197,6 +201,18 @@
           "time_info": "[05时29分 ~ 06时28分]"
         },
         {
+          "title": "美股饱受AI焦虑摧残 亚洲芯片制造龙头企业受全球资金追捧",
+          "url": "https://wallstreetcn.com/livenews/3054952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 15时48分]"
+        },
+        {
           "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260213050512806800",
           "source": "金十数据",
@@ -207,17 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时28分]"
-        },
-        {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
         },
         {
           "title": "AI引发的资本市场大溃逃，美股商业地产遭遇“黑色星期四”",
@@ -371,6 +376,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "美股黄金大跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -413,12 +429,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "新华资产王德伦：中国股市2026年可期 投资策略应逐步转向均衡",
+          "url": "https://wallstreetcn.com/livenews/3054955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "日媒：日本扣押一艘中国渔船，船长被逮捕",
@@ -428,8 +455,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 15时48分]"
         },
         {
           "title": "玉渊谭天：日本正迈出“危险三步”",
@@ -438,11 +465,12 @@
           "ranks": [
             1,
             5,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 15时48分]"
         },
         {
           "title": "时隔4年 日本再次扣押中国大陆渔船",
@@ -467,6 +495,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "中方回应日本扣押中国渔船：希望日方遵守中日渔业协定",
+          "url": "https://wallstreetcn.com/livenews/3054980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "日本央行审议委员田村直树：日本央行必须避免过早收紧货币政策，但也必须避免持续出现无法被描述为“温和”的物价上涨。",
           "url": "https://flash.jin10.com/detail/20260213114343773800",
           "source": "金十数据",
@@ -484,7 +523,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -592,6 +631,19 @@
           "time_info": "[12时17分 ~ 13时56分]"
         },
         {
+          "title": "日本正在迈出“危险的三步”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%9C%A8%E8%BF%88%E5%87%BA%E2%80%9C%E5%8D%B1%E9%99%A9%E7%9A%84%E4%B8%89%E6%AD%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 15时48分]"
+        },
+        {
           "title": "日本彻底右转有多危险",
           "url": "https://www.toutiao.com/trending/7605377609426190355/",
           "source": "今日头条",
@@ -601,18 +653,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 04时30分]"
-        },
-        {
-          "title": "日本正在迈出“危险的三步”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%9C%A8%E8%BF%88%E5%87%BA%E2%80%9C%E5%8D%B1%E9%99%A9%E7%9A%84%E4%B8%89%E6%AD%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 14时55分]"
         },
         {
           "title": "日本央行审议委员田村直树：对于我而言，决定日本央行价格目标是否达成的最后一个关键因素在于，通胀是否已稳定在该目标水平之上。",
@@ -742,7 +782,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -805,7 +845,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
@@ -817,6 +857,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时48分 ~ 06时28分]"
+        },
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 15时48分]"
         },
         {
           "title": "现在金价这么高，把「三金」卖了，以后金价跌了再买合适吗？",
@@ -834,17 +885,6 @@
           "time_info": "[00时53分 ~ 07时24分]"
         },
         {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时55分]"
-        },
-        {
           "title": "CPI前夜，黄金白银再现闪崩！华尔街热议：谁是背后推手？",
           "url": "https://www.cls.cn/detail/2289149",
           "source": "财联社热门",
@@ -854,8 +894,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 15时48分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -867,6 +907,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月13日（周五）收盘下跌1.47%报1108.5元/克；<br/>上海黄金交易所白银T+D 2月13日（周五）收盘下跌3.26%报19270.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260213153102640800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "现货黄金低开30美元，失守4890美元/盎司，日内跌幅0.68%。现货白银日内跌超1.00%，现报74.24美元/盎司。",
@@ -1056,7 +1107,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -1166,7 +1217,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -1236,6 +1287,18 @@
           "time_info": "[06时28分 ~ 07时24分]"
         },
         {
+          "title": "OpenAI指责DeepSeek“抄袭”背后",
+          "url": "https://www.toutiao.com/trending/7606207773960834579/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 15时48分]"
+        },
+        {
           "title": "OpenAI发布第一款采用Cerebras芯片的模型。",
           "url": "https://wallstreetcn.com/livenews/3054665",
           "source": "华尔街见闻-快讯",
@@ -1256,17 +1319,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "OpenAI指责DeepSeek“抄袭”背后",
-          "url": "https://www.toutiao.com/trending/7606207773960834579/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
         },
         {
           "title": "OpenAI发布首个搭载英伟达对手Cerebras芯片的AI模型",
@@ -1446,11 +1498,12 @@
             21,
             25,
             22,
-            23
+            23,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 14时55分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 15时48分]"
         },
         {
           "title": "在抖音读上名家春节作文选了",
@@ -1473,11 +1526,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 15时48分]"
         },
         {
           "title": "抖音非遗联欢会好戏登场了",
@@ -1486,11 +1540,12 @@
           "ranks": [
             18,
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 15时48分]"
         },
         {
           "title": "微信 贴图",
