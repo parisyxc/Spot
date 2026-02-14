@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T09:31:10.378161+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-02-14T12:06:49.686427+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -31,6 +31,20 @@
           "time_info": "[00时39分 ~ 07时26分]"
         },
         {
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时06分]"
+        },
+        {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2289929",
           "source": "财联社热门",
@@ -40,21 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 09时31分]"
-        },
-        {
-          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
-          "url": "https://wallstreetcn.com/articles/3765660",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 09时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时06分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -97,22 +98,35 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 09时31分]"
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 12时06分]"
         },
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
           "url": "https://wallstreetcn.com/articles/3765664",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 12时06分]"
+        },
+        {
+          "title": "美股：金银大涨 英伟达蒸发6900亿元",
+          "url": "https://www.toutiao.com/trending/7606270891333091371/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
@@ -192,7 +206,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -236,18 +250,6 @@
       "match_count": 15,
       "titles": [
         {
-          "title": "息事宁人?日本释放中国船长",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350668&amp;topic_name=%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA%3F%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E8%88%B9%E9%95%BF",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 09时31分]"
-        },
-        {
           "title": "外交部回应日本再次扣押中国大陆渔船一事，日方近期在涉华问题上动作频频，哪些信息值得关注？会有什么影响？",
           "url": "https://www.zhihu.com/question/2005639895000044849",
           "source": "知乎",
@@ -272,29 +274,44 @@
           "time_info": "[00时39分 ~ 07时26分]"
         },
         {
-          "title": "日本释放被捕的中国渔船船长",
-          "url": "https://www.toutiao.com/trending/7605877620357516836/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 09时31分]"
-        },
-        {
           "title": "日本扣押一中国渔船并逮捕船长，外交部：望日方严格遵守有关协定、公正执法",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448613",
           "source": "澎湃新闻",
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时39分 ~ 09时31分]"
+          "appearance_count": 11,
+          "time_info": "[03时39分 ~ 12时06分]"
+        },
+        {
+          "title": "息事宁人?日本释放中国船长",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350668&amp;topic_name=%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA%3F%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E8%88%B9%E9%95%BF",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时06分]"
+        },
+        {
+          "title": "日本释放被捕的中国渔船船长",
+          "url": "https://www.toutiao.com/trending/7605877620357516836/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时06分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -305,8 +322,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 09时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时06分]"
         },
         {
           "title": "外交部回应日本扣押中国渔船",
@@ -326,18 +343,6 @@
           "time_info": "[00时39分 ~ 09时31分]"
         },
         {
-          "title": "太猖狂!日本扣押中国渔船",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350665&amp;topic_name=%E5%A4%AA%E7%8C%96%E7%8B%82%21%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 09时31分]"
-        },
-        {
           "title": "日本释放被捕的中国渔船船长",
           "url": "https://www.douyin.com/hot/2399989",
           "source": "抖音",
@@ -347,11 +352,25 @@
             16,
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 09时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时06分]"
+        },
+        {
+          "title": "太猖狂!日本扣押中国渔船",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350665&amp;topic_name=%E5%A4%AA%E7%8C%96%E7%8B%82%21%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时06分]"
         },
         {
           "title": "中方正协助被日本扣押中国船员返回",
@@ -371,22 +390,24 @@
           "url": "https://www.zhihu.com/question/2005619389051986415",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 12时06分]"
         },
         {
           "title": "日本加速“再军事化”美国准备好了吗",
           "url": "https://www.toutiao.com/trending/7606395764763557930/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 12时06分]"
         },
         {
           "title": "日本宣布针对越南的、价值100亿美元的日元贷款，用于越南铁路线和天然气工厂。（日经新闻）",
@@ -443,6 +464,24 @@
           "time_info": "[00时39分 ~ 09时31分]"
         },
         {
+          "title": "商务部回应安世半导体案裁决结果",
+          "url": "https://www.douyin.com/hot/2399895",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10,
+            28,
+            29,
+            26,
+            25,
+            18,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 12时06分]"
+        },
+        {
           "title": "荷公布安世半导体裁决 商务部回应",
           "url": "https://www.toutiao.com/trending/7606332994369900086/",
           "source": "今日头条",
@@ -458,23 +497,6 @@
           "time_info": "[00时39分 ~ 06时28分]"
         },
         {
-          "title": "商务部回应安世半导体案裁决结果",
-          "url": "https://www.douyin.com/hot/2399895",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10,
-            28,
-            29,
-            26,
-            25,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 07时26分]"
-        },
-        {
           "title": "商务部就荷公布安世半导体案裁决结果答记者问",
           "url": "https://m.thepaper.cn/newsDetail_forward_32603418",
           "source": "澎湃新闻",
@@ -482,11 +504,12 @@
             15,
             12,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时39分 ~ 09时31分]"
+          "appearance_count": 11,
+          "time_info": "[03时39分 ~ 12时06分]"
         },
         {
           "title": "中方回应荷方公布安世半导体案裁决",
@@ -504,27 +527,29 @@
           "time_info": "[01时37分 ~ 07时26分]"
         },
         {
-          "title": "沪指失守4100点，半导体逆势走强，贵金属、海运调整，恒指跌1%，智谱狂飙超20%创历史新高，沪银大跌7%",
-          "url": "https://wallstreetcn.com/articles/3765643",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
-        },
-        {
           "title": "荷公布安世半导体案裁决结果，商务部回应",
           "url": "https://www.cls.cn/detail/2289906",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时30分 ~ 09时31分]"
+          "appearance_count": 6,
+          "time_info": "[05时30分 ~ 12时06分]"
+        },
+        {
+          "title": "沪指失守4100点，半导体逆势走强，贵金属、海运调整，恒指跌1%，智谱狂飙超20%创历史新高，沪银大跌7%",
+          "url": "https://wallstreetcn.com/articles/3765643",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 12时06分]"
         },
         {
           "title": "标普500指数收涨3.41点，涨幅0.05%，报6836.17点。 道琼斯工业平均指数收涨48.95点，涨幅0.10%，报49500.93点。 纳斯达克综合指数（纳指）收跌50.477点，跌幅0.22%，报22546.671点。 纳斯达克100指数收涨45.12点，涨幅0.18%，报24732.732点。 纳斯达克生物科技指数收涨0.97%，报5917.24点。 费城半导体指数收涨0.66%，报8137.859点。 费城证交所KBW银行指数收涨0.29%，报166.39点。 道琼斯KBW地区银行指数收涨0.69%，报137.88点。",
@@ -697,11 +722,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 09时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时06分]"
         },
         {
           "title": "欢迎碧梨入驻抖音",
@@ -711,8 +737,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时37分 ~ 09时31分]"
+          "appearance_count": 10,
+          "time_info": "[01时37分 ~ 12时06分]"
         },
         {
           "title": "微信开放520元大额红包",
@@ -722,8 +748,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 12时06分]"
         },
         {
           "title": "微信开放520元大额红包",
@@ -760,7 +786,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -844,7 +870,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
