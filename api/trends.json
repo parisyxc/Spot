@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T12:06:49.686427+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-02-14T13:41:36.745256+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 12时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 13时41分]"
         },
         {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
@@ -54,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 12时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 13时41分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -102,8 +102,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 12时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 13时41分]"
         },
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
@@ -114,8 +114,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 13时41分]"
         },
         {
           "title": "美股：金银大涨 英伟达蒸发6900亿元",
@@ -124,7 +124,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -247,7 +247,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "外交部回应日本再次扣押中国大陆渔船一事，日方近期在涉华问题上动作频频，哪些信息值得关注？会有什么影响？",
@@ -284,21 +284,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时39分 ~ 12时06分]"
-        },
-        {
-          "title": "息事宁人?日本释放中国船长",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350668&amp;topic_name=%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA%3F%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E8%88%B9%E9%95%BF",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 12时06分]"
+          "appearance_count": 12,
+          "time_info": "[03时39分 ~ 13时41分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -314,16 +301,18 @@
           "time_info": "[00时39分 ~ 12时06分]"
         },
         {
-          "title": "日本释放被捕的中国渔船船长",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E8%A2%AB%E6%8D%95%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9%E8%88%B9%E9%95%BF",
-          "source": "百度热搜",
+          "title": "息事宁人?日本释放中国船长",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350668&amp;topic_name=%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA%3F%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E8%88%B9%E9%95%BF",
+          "source": "贴吧",
           "ranks": [
-            7,
-            22
+            4,
+            5,
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 12时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 13时41分]"
         },
         {
           "title": "外交部回应日本扣押中国渔船",
@@ -336,11 +325,25 @@
             15,
             9,
             12,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 09时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 13时41分]"
+        },
+        {
+          "title": "日本释放被捕的中国渔船船长",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E8%A2%AB%E6%8D%95%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9%E8%88%B9%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 13时41分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -353,11 +356,12 @@
             15,
             14,
             13,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 12时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 13时41分]"
         },
         {
           "title": "太猖狂!日本扣押中国渔船",
@@ -366,11 +370,12 @@
           "ranks": [
             10,
             11,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 12时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 13时41分]"
         },
         {
           "title": "中方正协助被日本扣押中国船员返回",
@@ -391,11 +396,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 13时41分]"
         },
         {
           "title": "日本加速“再军事化”美国准备好了吗",
@@ -443,142 +449,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "【焦点复盘】沪指低开低走失守4100点，军工、半导体设备板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2289707",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 09时31分]"
         },
         {
-          "title": "商务部回应安世半导体案裁决结果",
-          "url": "https://www.douyin.com/hot/2399895",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10,
-            28,
-            29,
-            26,
-            25,
-            18,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 12时06分]"
-        },
-        {
-          "title": "荷公布安世半导体裁决 商务部回应",
-          "url": "https://www.toutiao.com/trending/7606332994369900086/",
+          "title": "日媒披露特朗普拒绝在中日间力挺日本",
+          "url": "https://www.toutiao.com/trending/7605283067519008810/",
           "source": "今日头条",
           "ranks": [
-            27,
-            20,
-            26,
-            10,
-            29
+            21
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 06时28分]"
-        },
-        {
-          "title": "商务部就荷公布安世半导体案裁决结果答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603418",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时39分 ~ 12时06分]"
-        },
-        {
-          "title": "中方回应荷方公布安世半导体案裁决",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8D%B7%E6%96%B9%E5%85%AC%E5%B8%83%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%A1%88%E8%A3%81%E5%86%B3",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            30,
-            25,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时37分 ~ 07时26分]"
-        },
-        {
-          "title": "荷公布安世半导体案裁决结果，商务部回应",
-          "url": "https://www.cls.cn/detail/2289906",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时30分 ~ 12时06分]"
-        },
-        {
-          "title": "沪指失守4100点，半导体逆势走强，贵金属、海运调整，恒指跌1%，智谱狂飙超20%创历史新高，沪银大跌7%",
-          "url": "https://wallstreetcn.com/articles/3765643",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 12时06分]"
-        },
-        {
-          "title": "标普500指数收涨3.41点，涨幅0.05%，报6836.17点。 道琼斯工业平均指数收涨48.95点，涨幅0.10%，报49500.93点。 纳斯达克综合指数（纳指）收跌50.477点，跌幅0.22%，报22546.671点。 纳斯达克100指数收涨45.12点，涨幅0.18%，报24732.732点。 纳斯达克生物科技指数收涨0.97%，报5917.24点。 费城半导体指数收涨0.66%，报8137.859点。 费城证交所KBW银行指数收涨0.29%，报166.39点。 道琼斯KBW地区银行指数收涨0.69%，报137.88点。",
-          "url": "https://wallstreetcn.com/livenews/3055363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时28分]"
-        },
-        {
-          "title": "商务部回应安世半导体案裁决结果",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%A1%88%E8%A3%81%E5%86%B3%E7%BB%93%E6%9E%9C%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "13时41分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
@@ -638,6 +525,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
           "url": "https://wallstreetcn.com/livenews/3055387",
           "source": "华尔街见闻-快讯",
@@ -685,8 +583,139 @@
       ]
     },
     {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指低开低走失守4100点，军工、半导体设备板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2289707",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 09时31分]"
+        },
+        {
+          "title": "商务部回应安世半导体案裁决结果",
+          "url": "https://www.douyin.com/hot/2399895",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10,
+            28,
+            29,
+            26,
+            25,
+            18,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 13时41分]"
+        },
+        {
+          "title": "荷公布安世半导体裁决 商务部回应",
+          "url": "https://www.toutiao.com/trending/7606332994369900086/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            20,
+            26,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 06时28分]"
+        },
+        {
+          "title": "商务部就荷公布安世半导体案裁决结果答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603418",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            11,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[03时39分 ~ 13时41分]"
+        },
+        {
+          "title": "中方回应荷方公布安世半导体案裁决",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8D%B7%E6%96%B9%E5%85%AC%E5%B8%83%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%A1%88%E8%A3%81%E5%86%B3",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            30,
+            25,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时37分 ~ 07时26分]"
+        },
+        {
+          "title": "荷公布安世半导体案裁决结果，商务部回应",
+          "url": "https://www.cls.cn/detail/2289906",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时30分 ~ 13时41分]"
+        },
+        {
+          "title": "沪指失守4100点，半导体逆势走强，贵金属、海运调整，恒指跌1%，智谱狂飙超20%创历史新高，沪银大跌7%",
+          "url": "https://wallstreetcn.com/articles/3765643",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 13时41分]"
+        },
+        {
+          "title": "标普500指数收涨3.41点，涨幅0.05%，报6836.17点。 道琼斯工业平均指数收涨48.95点，涨幅0.10%，报49500.93点。 纳斯达克综合指数（纳指）收跌50.477点，跌幅0.22%，报22546.671点。 纳斯达克100指数收涨45.12点，涨幅0.18%，报24732.732点。 纳斯达克生物科技指数收涨0.97%，报5917.24点。 费城半导体指数收涨0.66%，报8137.859点。 费城证交所KBW银行指数收涨0.29%，报166.39点。 道琼斯KBW地区银行指数收涨0.69%，报137.88点。",
+          "url": "https://wallstreetcn.com/livenews/3055363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "商务部回应安世半导体案裁决结果",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%A1%88%E8%A3%81%E5%86%B3%E7%BB%93%E6%9E%9C%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "抖音非遗联欢会好戏登场了",
@@ -723,11 +752,12 @@
           "ranks": [
             17,
             18,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 12时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 13时41分]"
         },
         {
           "title": "欢迎碧梨入驻抖音",
@@ -745,11 +775,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%BC%80%E6%94%BE520%E5%85%83%E5%A4%A7%E9%A2%9D%E7%BA%A2%E5%8C%85",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 13时41分]"
         },
         {
           "title": "微信开放520元大额红包",
@@ -761,12 +792,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "为什么微信红包最多只能200元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%AE%E4%BF%A1%E7%BA%A2%E5%8C%85%E6%9C%80%E5%A4%9A%E5%8F%AA%E8%83%BD200%E5%85%83%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "没有撤回微信红包的需求",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E6%92%A4%E5%9B%9E%E5%BE%AE%E4%BF%A1%E7%BA%A2%E5%8C%85%E7%9A%84%E9%9C%80%E6%B1%82%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -789,6 +842,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "金十图示：2026年02月14日（周六）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260214123315733800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "现货白银周五涨约3%",
@@ -818,7 +882,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
@@ -856,13 +920,35 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时40分 ~ 04时33分]"
+        },
+        {
+          "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
+          "url": "https://flash.jin10.com/detail/20260214122124232800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "FF：已推出首批具身智能机器人产品系列 首批交付预计在本月底",
+          "url": "https://flash.jin10.com/detail/20260214115005522800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
         {
           "title": "跨界投入 腾笼换鸟 汽车企业加速布局机器人赛道",
           "url": "https://wallstreetcn.com/livenews/3055404",
