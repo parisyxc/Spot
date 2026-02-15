@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T22:23:27.694103+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-02-15T23:21:14.803368+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "王毅：日本若要再赌一次，只会输得更惨",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时23分 ~ 13时53分]"
+        },
+        {
+          "title": "鲁比奥会见日本外相，协调两国首脑会谈",
+          "url": "https://news.ifeng.com/c/8qkpGZduu6P",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时28分 ~ 23时21分]"
         },
         {
           "title": "2026慕安会｜王毅在德国严正警告日本，150秒脱稿答问值得反复观看",
@@ -50,32 +63,6 @@
           "time_info": "[12时18分 ~ 20时39分]"
         },
         {
-          "title": "火力全开!王毅警告日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 22时23分]"
-        },
-        {
-          "title": "鲁比奥会见日本外相，协调两国首脑会谈",
-          "url": "https://news.ifeng.com/c/8qkpGZduu6P",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时28分 ~ 22时23分]"
-        },
-        {
           "title": "王毅拿德国与日本作对比",
           "url": "https://www.toutiao.com/trending/7605590688838811698/",
           "source": "今日头条",
@@ -91,6 +78,20 @@
           "time_info": "[00时23分 ~ 07时20分]"
         },
         {
+          "title": "火力全开!王毅警告日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            9,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[09时50分 ~ 23时21分]"
+        },
+        {
           "title": "王毅警告日本 现场爆发热烈掌声",
           "url": "https://www.toutiao.com/trending/7605877620357762596/",
           "source": "今日头条",
@@ -104,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 22时23分]"
+          "appearance_count": 17,
+          "time_info": "[09时50分 ~ 23时21分]"
         },
         {
           "title": "王毅警告日本 现场爆发热烈掌声",
@@ -180,6 +181,18 @@
           "time_info": "[14时45分 ~ 19时19分]"
         },
         {
+          "title": "学者：全世界不答应日本招魂军国主义",
+          "url": "https://www.toutiao.com/trending/7606608497891393577/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时23分 ~ 23时21分]"
+        },
+        {
           "title": "日本探测船采集含稀土淤泥返回，将推进经济性评估",
           "url": "https://news.ifeng.com/c/8qlJB59vIp4",
           "source": "凤凰网",
@@ -191,28 +204,31 @@
           "time_info": "[13时53分 ~ 17时28分]"
         },
         {
-          "title": "学者：全世界不答应日本招魂军国主义",
-          "url": "https://www.toutiao.com/trending/7606608497891393577/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
           "title": "日本游客为免票背了1个月《滕王阁序》",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E4%B8%BA%E5%85%8D%E7%A5%A8%E8%83%8C%E4%BA%861%E4%B8%AA%E6%9C%88%E3%80%8A%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F%E3%80%8B",
           "source": "百度热搜",
           "ranks": [
             26,
             15,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 22时23分]"
+          "appearance_count": 7,
+          "time_info": "[19时19分 ~ 23时21分]"
+        },
+        {
+          "title": "日本男子全文背滕王阁序免票进景区",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%85%A8%E6%96%87%E8%83%8C%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F%E5%85%8D%E7%A5%A8%E8%BF%9B%E6%99%AF%E5%8C%BA%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时42分 ~ 23时21分]"
         },
         {
           "title": "日本大阪持刀伤人事件致1死",
@@ -250,16 +266,16 @@
           "time_info": "[15时35分 ~ 17时28分]"
         },
         {
-          "title": "日本男子全文背滕王阁序免票进景区",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%85%A8%E6%96%87%E8%83%8C%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F%E5%85%8D%E7%A5%A8%E8%BF%9B%E6%99%AF%E5%8C%BA%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "日本游客为免票背了1个月滕王阁序",
+          "url": "https://www.toutiao.com/trending/7607008817620189227/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            9
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[22时23分 ~ 23时21分]"
         },
         {
           "title": "大阪发生持刀伤人事件致1死2伤，中领馆提醒中国公民近期避免前往日本",
@@ -297,6 +313,17 @@
           "time_info": "[12时18分 ~ 13时53分]"
         },
         {
+          "title": "背滕王阁序被免票日本男子发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%8C%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F%E8%A2%AB%E5%85%8D%E7%A5%A8%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
+        {
           "title": "媒体：日本开历史倒车必将撞南墙",
           "url": "https://www.toutiao.com/trending/7606922832173580324/",
           "source": "今日头条",
@@ -317,17 +344,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "日本游客为免票背了1个月滕王阁序",
-          "url": "https://www.toutiao.com/trending/7607008817620189227/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "日本大阪府多人被刺伤 行凶者仍在逃",
@@ -389,8 +405,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时53分 ~ 22时23分]"
+          "appearance_count": 15,
+          "time_info": "[13时53分 ~ 23时21分]"
         },
         {
           "title": "市场监管总局约谈阿里巴巴、抖音、百度、腾讯、京东、美团、淘宝闪购等平台企业",
@@ -428,11 +444,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时28分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[16时28分 ~ 23时21分]"
         },
         {
           "title": "市场监管总局约谈阿里巴巴、抖音、百度、腾讯、京东、美团、淘宝闪购等平台企业",
@@ -465,6 +482,36 @@
           "time_info": "[12时18分 ~ 20时39分]"
         },
         {
+          "title": "微信朋友圈打开率下滑",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%89%93%E5%BC%80%E7%8E%87%E4%B8%8B%E6%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时38分 ~ 23时21分]"
+        },
+        {
+          "title": "抖音李亮谈Seedance 2.0：数字分身暂不支持真人人脸参考和IP形象生成，团队投入最多的就是不断维护和加强反侵权策略",
+          "url": "https://wallstreetcn.com/livenews/3055605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            12,
+            17,
+            21,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 23时21分]"
+        },
+        {
           "title": "微信又出新功能 红包封面“开挂”了",
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%8F%88%E5%87%BA%E6%96%B0%E5%8A%9F%E8%83%BD+%E7%BA%A2%E5%8C%85%E5%B0%81%E9%9D%A2%E2%80%9C%E5%BC%80%E6%8C%82%E2%80%9D%E4%BA%86",
           "source": "百度热搜",
@@ -479,34 +526,6 @@
           "time_info": "[16时28分 ~ 20时39分]"
         },
         {
-          "title": "微信朋友圈打开率下滑",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%89%93%E5%BC%80%E7%8E%87%E4%B8%8B%E6%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时38分 ~ 22时23分]"
-        },
-        {
-          "title": "抖音李亮谈Seedance 2.0：数字分身暂不支持真人人脸参考和IP形象生成，团队投入最多的就是不断维护和加强反侵权策略",
-          "url": "https://wallstreetcn.com/livenews/3055605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            12,
-            17,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 22时23分]"
-        },
-        {
           "title": "微信推新功能 网友：刘德华可以放假了",
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%8E%A8%E6%96%B0%E5%8A%9F%E8%83%BD+%E7%BD%91%E5%8F%8B%EF%BC%9A%E5%88%98%E5%BE%B7%E5%8D%8E%E5%8F%AF%E4%BB%A5%E6%94%BE%E5%81%87%E4%BA%86",
           "source": "百度热搜",
@@ -515,8 +534,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[21时42分 ~ 23时21分]"
         },
         {
           "title": "抖音机器人联欢会先演上了",
@@ -528,8 +547,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时19分]"
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 23时21分]"
         },
         {
           "title": "微信回应“红包手气最佳攻略”",
@@ -558,8 +577,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 22时23分]"
+          "appearance_count": 17,
+          "time_info": "[09时50分 ~ 23时21分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -716,6 +735,18 @@
           "time_info": "[14时45分 ~ 19时19分]"
         },
         {
+          "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
+          "url": "https://wallstreetcn.com/livenews/3055629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时21分]"
+        },
+        {
           "title": "中国“洗船”机器人挺进马六甲海峡",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%B4%97%E8%88%B9%E2%80%9D%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8C%BA%E8%BF%9B%E9%A9%AC%E5%85%AD%E7%94%B2%E6%B5%B7%E5%B3%A1",
           "source": "百度热搜",
@@ -727,17 +758,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 02时28分]"
-        },
-        {
-          "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
-          "url": "https://wallstreetcn.com/livenews/3055629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "马斯克：擎天柱机器人从明年开始将改变人类生活",
@@ -779,8 +799,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时53分 ~ 22时23分]"
+          "appearance_count": 15,
+          "time_info": "[13时53分 ~ 23时21分]"
         },
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
@@ -818,11 +838,12 @@
           "url": "https://flash.jin10.com/detail/20260215215525567800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时21分]"
         }
       ]
     },
@@ -898,27 +919,28 @@
           "time_info": "[00时23分 ~ 07时20分]"
         },
         {
-          "title": "国投白银LOF出台补偿方案 超九成投资者将获全额补偿",
-          "url": "https://wallstreetcn.com/livenews/3055625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时23分]"
-        },
-        {
           "title": "白银基金出台补偿方案！2月26日可办理，1000元以下损失全额补偿",
           "url": "https://www.cls.cn/detail/2290657",
           "source": "财联社热门",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时23分 ~ 23时21分]"
+        },
+        {
+          "title": "国投白银LOF出台补偿方案 超九成投资者将获全额补偿",
+          "url": "https://wallstreetcn.com/livenews/3055625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时21分]"
         }
       ]
     },
@@ -939,8 +961,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时53分 ~ 22时23分]"
+          "appearance_count": 15,
+          "time_info": "[13时53分 ~ 23时21分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -951,8 +973,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时38分 ~ 22时23分]"
+          "appearance_count": 6,
+          "time_info": "[20时38分 ~ 23时21分]"
         }
       ]
     },
@@ -997,11 +1019,12 @@
           "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[21时42分 ~ 23时21分]"
         }
       ]
     }
