@@ -1,63 +1,11 @@
 {
-  "generated_at": "2026-02-15T07:20:14.328499+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-02-15T09:50:42.356684+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
-          "url": "https://www.cls.cn/detail/2290186",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 07时20分]"
-        },
-        {
-          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32609556",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 05时20分]"
-        },
-        {
-          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时20分]"
-        },
-        {
-          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
-          "url": "https://wallstreetcn.com/livenews/3055539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "稳定币 日本",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
           "title": "王毅：日本若要再赌一次，只会输得更惨",
@@ -67,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 09时50分]"
         },
         {
           "title": "王毅拿德国与日本作对比",
@@ -90,11 +38,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350668&amp;topic_name=%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA%3F%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E8%88%B9%E9%95%BF",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 09时50分]"
         },
         {
           "title": "太猖狂!日本扣押中国渔船",
@@ -106,57 +55,187 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时23分 ~ 07时20分]"
+        },
+        {
+          "title": "王毅警告日本 现场爆发热烈掌声",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC+%E7%8E%B0%E5%9C%BA%E7%88%86%E5%8F%91%E7%83%AD%E7%83%88%E6%8E%8C%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "火力全开!王毅警告日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "王毅警告日本 现场爆发热烈掌声",
+          "url": "https://www.toutiao.com/trending/7605877620357762596/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "王毅警告日本现场爆发热烈掌声",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%E7%8E%B0%E5%9C%BA%E7%88%86%E5%8F%91%E7%83%AD%E7%83%88%E6%8E%8C%E5%A3%B0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "Seedance2.0爆火日本官员急了",
+          "url": "https://s.weibo.com/weibo?q=%23Seedance2.0%E7%88%86%E7%81%AB%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E6%80%A5%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "日本大阪府多人被刺伤 行凶者仍在逃",
+          "url": "https://flash.jin10.com/detail/20260215081519009800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 9,
       "titles": [
         {
-          "title": "市场监管总局约谈阿里巴巴、抖音、百度、腾讯、京东、美团、淘宝闪购等平台企业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610083",
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 07时20分]"
+        },
+        {
+          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32609556",
           "source": "澎湃新闻",
           "ranks": [
-            4,
-            3,
-            2,
-            1
+            20,
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时50分]"
         },
         {
-          "title": "抖音ACG拜年晚会",
-          "url": "https://www.douyin.com/hot/2400555",
-          "source": "抖音",
+          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055546",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            4,
-            6,
-            7
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 09时50分]"
         },
         {
-          "title": "微信回应“红包手气最佳攻略”",
-          "url": "https://www.toutiao.com/trending/7606605035208802345/",
-          "source": "今日头条",
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 07时20分]"
+        },
+        {
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
+          "url": "https://wallstreetcn.com/articles/3765736",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
+          "url": "https://wallstreetcn.com/articles/3765726",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "Meta考虑为其智能眼镜开发面部识别技术。 该公司计划最快今年增添这种功能。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3055571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "市场消息：Meta Platforms(META.O)据悉考虑为其智能眼镜开发面部识别技术，计划最快今年增添这种功能。",
+          "url": "https://flash.jin10.com/detail/20260215081751787800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "北航新研究登上《自然-通讯》，或让机器人具备人眼级视觉能力",
@@ -183,6 +262,28 @@
           "time_info": "[00时23分 ~ 02时28分]"
         },
         {
+          "title": "马斯克称擎天柱机器人将从明年开始改变人类生活",
+          "url": "https://wallstreetcn.com/livenews/3055580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "马斯克：擎天柱机器人从明年开始将改变人类生活",
+          "url": "https://flash.jin10.com/detail/20260215083658319800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "机器人除夕夜将闪耀中央电视塔",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%99%A4%E5%A4%95%E5%A4%9C%E5%B0%86%E9%97%AA%E8%80%80%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%A1%94",
           "source": "百度热搜",
@@ -192,6 +293,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "市场监管总局约谈阿里巴巴、抖音、百度、腾讯、京东、美团、淘宝闪购等平台企业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610083",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 09时50分]"
+        },
+        {
+          "title": "抖音ACG拜年晚会",
+          "url": "https://www.douyin.com/hot/2400555",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4,
+            6,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 09时50分]"
+        },
+        {
+          "title": "微信回应“红包手气最佳攻略”",
+          "url": "https://www.toutiao.com/trending/7606605035208802345/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
         }
       ]
     },
@@ -219,11 +366,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 09时50分]"
         }
       ]
     },
@@ -239,8 +387,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 09时50分]"
         },
         {
           "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
@@ -253,8 +401,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 09时50分]"
         }
       ]
     },
