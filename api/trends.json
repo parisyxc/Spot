@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T09:47:56.159307+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-02-19T12:16:38.203414+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 12时16分]"
         },
         {
           "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
@@ -84,9 +84,32 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时16分]"
+        },
+        {
+          "title": "日本挖到稀土,全是选举戏码",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350780&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%2C%E5%85%A8%E6%98%AF%E9%80%89%E4%B8%BE%E6%88%8F%E7%A0%81",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "12时16分"
+        },
+        {
+          "title": "日本若介入台湾问题 中方必迎头痛击",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98+%E4%B8%AD%E6%96%B9%E5%BF%85%E8%BF%8E%E5%A4%B4%E7%97%9B%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时16分]"
         },
         {
           "title": "日本20年期国债收益率上涨1个基点，至2.98%。",
@@ -95,20 +118,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
         {
-          "title": "日本若介入台湾问题 中方必迎头痛击",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98+%E4%B8%AD%E6%96%B9%E5%BF%85%E8%BF%8E%E5%A4%B4%E7%97%9B%E5%87%BB",
-          "source": "百度热搜",
+          "title": "日本10年期国债收益率上涨1.0个基点，至2.145%。",
+          "url": "https://flash.jin10.com/detail/20260219114015527800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "12时16分"
+        },
+        {
+          "title": "日本20年期国债拍卖投标倍数为3.08，创2025年5月以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260219113956647800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "据日经新闻：日本政府计划最早于四月公布立法修正案，对机上使用移动电源设定更严格的限制。",
@@ -147,6 +181,30 @@
           "time_info": "[00时58分 ~ 01时52分]"
         },
         {
+          "title": "10年期日本国债收益率上升1个基点至2.145%。",
+          "url": "https://wallstreetcn.com/livenews/3056540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时16分]"
+        },
+        {
+          "title": "日本2月13日当周外资净买进日本债券 -3930亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3056534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时16分]"
+        },
+        {
           "title": "高市早苗：希望日本央行与政府密切合作，以持久实现通胀目标",
           "url": "https://flash.jin10.com/detail/20260218235340774800",
           "source": "金十数据",
@@ -183,26 +241,15 @@
           "time_info": "[06时28分 ~ 07时25分]"
         },
         {
-          "title": "10年期日本国债收益率上升1个基点至2.145%。",
-          "url": "https://wallstreetcn.com/livenews/3056540",
-          "source": "华尔街见闻-快讯",
+          "title": "观察｜从防守向进攻转变，日本海上自卫队加速推进转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629426",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "日本2月13日当周外资净买进日本债券 -3930亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3056534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "12时16分"
         },
         {
           "title": "20年期日本国债收益率下跌0.5个基点，至2.965%。",
@@ -211,7 +258,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -222,7 +269,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -233,7 +280,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -244,7 +291,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -255,7 +302,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -266,7 +313,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -277,7 +324,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -296,7 +343,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -307,8 +354,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 12时16分]"
         },
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
@@ -319,8 +366,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 12时16分]"
         },
         {
           "title": "今年春晚，机器人刷屏了",
@@ -331,21 +378,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 09时47分]"
-        },
-        {
-          "title": "机器人变印度造,三哥真敢吹",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350767&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%98%E5%8D%B0%E5%BA%A6%E9%80%A0%2C%E4%B8%89%E5%93%A5%E7%9C%9F%E6%95%A2%E5%90%B9",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 12时16分]"
         },
         {
           "title": "春晚机器人厉害在哪里",
@@ -372,6 +406,20 @@
           "time_info": "[00时58分 ~ 07时25分]"
         },
         {
+          "title": "机器人变印度造,三哥真敢吹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350767&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%98%E5%8D%B0%E5%BA%A6%E9%80%A0%2C%E4%B8%89%E5%93%A5%E7%9C%9F%E6%95%A2%E5%90%B9",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 12时16分]"
+        },
+        {
           "title": "未来的春晚机器人be like",
           "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BAbe%20like",
           "source": "bilibili 热搜",
@@ -383,8 +431,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 12时16分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -404,11 +452,12 @@
           "ranks": [
             21,
             22,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 12时16分]"
         },
         {
           "title": "春晚人形机器人成外媒报道焦点",
@@ -437,19 +486,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 09时47分]"
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 12时16分]"
         },
         {
           "title": "机器人跳舞摔倒 小伙查看时脸被踢破",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E8%88%9E%E6%91%94%E5%80%92+%E5%B0%8F%E4%BC%99%E6%9F%A5%E7%9C%8B%E6%97%B6%E8%84%B8%E8%A2%AB%E8%B8%A2%E7%A0%B4",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时16分]"
         },
         {
           "title": "高盛CEO改口，承认持有比特币，此前长期对加密货币持怀疑态度",
@@ -514,13 +564,24 @@
           "time_info": "[07时25分 ~ 09时47分]"
         },
         {
+          "title": "从春晚看懂机器人未来布局",
+          "url": "https://www.douyin.com/hot/2405116",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "台名嘴看春晚机器人表演感慨太神了",
           "url": "https://www.toutiao.com/trending/7607737105233657875/",
           "source": "今日头条",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -553,8 +614,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 12时16分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -565,8 +626,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 12时16分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -601,8 +662,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 12时16分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -612,8 +673,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 09时47分]"
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 12时16分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -872,7 +933,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "周三（2月18日），彭博电动汽车价格回报指数涨0.92%，报3639.09点，亚太盘初以来持续走高。 成分股Aurora Innovation涨5.8%，Panasonic株式会社收涨5.38%，意法半导体法国巴黎股价收涨3.84%，优美科欧股收涨3.67%，MobilEye则跌约1.7%，巴拉德动力系统股份跌2%，文远知行跌4.1%。",
@@ -885,6 +946,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
+          "url": "https://www.cls.cn/detail/2291363",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "标普500指数收涨38.09点，涨幅0.56%，报6881.31点。 道琼斯工业平均指数收涨129.47点，涨幅0.26%，报49662.66点。 纳斯达克综合指数（纳指）收涨175.251点，涨幅0.78%，报22753.635点。 纳斯达克100指数收涨197.272点，涨幅0.80%，报24898.868点。 纳斯达克生物科技指数收涨0.44%，报5996.81点。 费城半导体指数收涨0.96%，报8214.354点。 费城证交所KBW银行指数收涨1.33%，报169.67点。 道琼斯KBW地区银行指数收跌0.37%，报137.63点。",
@@ -904,7 +976,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -915,7 +987,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -923,7 +995,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
@@ -935,6 +1007,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
+          "url": "https://flash.jin10.com/detail/20260219114656970800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
@@ -964,8 +1058,48 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现货白银站上78美元/盎司，日内涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3056568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "现货白银向上触及78美元/盎司，日内涨1.10%。",
+          "url": "https://flash.jin10.com/detail/20260219115105987800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "金价涨约2%，白银涨约5%",
+          "url": "https://wallstreetcn.com/livenews/3056504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
@@ -980,24 +1114,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时58分 ~ 09时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "金价涨约2%，白银涨约5%",
-          "url": "https://wallstreetcn.com/livenews/3056504",
-          "source": "华尔街见闻-快讯",
+          "title": "特斯拉(TSLA.O)：特斯拉(TSLA.O)车主在FSD监督模式下累计行驶里程已突破80亿英里。",
+          "url": "https://flash.jin10.com/detail/20260219110621037800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            17
+            25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     }
