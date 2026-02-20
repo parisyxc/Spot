@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T05:20:39.205359+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-02-21T06:21:16.471312+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -47,11 +48,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -65,6 +67,18 @@
           "time_info": "[00时32分 ~ 04时25分]"
         },
         {
+          "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时34分 ~ 06时21分]"
+        },
+        {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破81美元",
           "url": "https://wallstreetcn.com/articles/3765902",
           "source": "华尔街见闻",
@@ -76,15 +90,26 @@
           "time_info": "[00时32分 ~ 02时40分]"
         },
         {
-          "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
+          "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
+          "url": "https://wallstreetcn.com/livenews/3057124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时20分]"
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
         },
         {
           "title": "瑞达利欧家族办公室披露5亿美元美股持仓：重仓黄金",
@@ -122,8 +147,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
+        },
+        {
+          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
+          "url": "https://wallstreetcn.com/articles/3765896",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "撤销5类非战斗限制，日本拟大幅松绑武器出口规则",
@@ -133,19 +170,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
-        },
-        {
-          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
-          "url": "https://wallstreetcn.com/articles/3765896",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "九成议员支持修宪，日本彻底撕掉和平伪装",
@@ -155,8 +181,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "日本冰壶女运动员撞脸孙燕姿",
@@ -171,8 +197,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "日本挖到稀土,全是选举戏码",
@@ -183,8 +209,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "日本一货船与游船碰撞 多人死伤",
@@ -195,8 +221,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 06时21分]"
         }
       ]
     },
@@ -213,8 +239,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -225,8 +251,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -236,8 +262,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -248,8 +274,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "机器人复刻成龙醉拳幕后",
@@ -258,11 +284,12 @@
           "ranks": [
             24,
             6,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时20分]"
+          "appearance_count": 5,
+          "time_info": "[03时34分 ~ 06时21分]"
         },
         {
           "title": "机器人为什么一定是人形",
@@ -287,11 +314,12 @@
           "url": "https://wallstreetcn.com/livenews/3057101",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时21分]"
         },
         {
           "title": "现货白银站上83美元/盎司，日内涨5.77%。",
@@ -301,8 +329,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 06时21分]"
         },
         {
           "title": "金价震荡后回升，关税风波叠加俄罗斯售金",
@@ -329,6 +357,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3057126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "报道：英伟达接近向OpenAI投资300亿美元",
+          "url": "https://wallstreetcn.com/livenews/3057127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "OpenAI创始人点赞中国大模型",
+          "url": "https://www.toutiao.com/trending/7608951834689932827/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 2,
       "titles": [
@@ -341,8 +408,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普谈及贸易扩张法案232条款、122条款、201条款、以及301条款，称这些都是选项，232和301关税保留。 特朗普签署命令，将实施10%的全球关税，“我认为三天后生效”。 威胁要征收15%-30%的汽车关税。 “我已经拯救了英特尔。” 标普500指数涨幅扩大至0.6%，半导体指数涨0.9%%。",
@@ -355,6 +422,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
+          "url": "https://wallstreetcn.com/articles/3765904",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "谷歌公司探索多种方法，从而为自家AI芯片扩大市场。 谷歌考虑将TPU部门重组为一个单独的部门，但还没有相应的计划。 谷歌洽谈对初创公司FluidStack投资大约1亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3057039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         }
       ]
     },
@@ -372,53 +467,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
           "url": "https://www.zhihu.com/question/2008253352463528326",
           "source": "知乎",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌公司探索多种方法，从而为自家AI芯片扩大市场。 谷歌考虑将TPU部门重组为一个单独的部门，但还没有相应的计划。 谷歌洽谈对初创公司FluidStack投资大约1亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3057039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI创始人点赞中国大模型",
-          "url": "https://www.toutiao.com/trending/7608951834689932827/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 06时21分]"
         }
       ]
     }
