@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T22:39:58.345258+08:00",
-  "total_titles_processed": 1781,
+  "generated_at": "2026-02-20T23:34:26.628463+08:00",
+  "total_titles_processed": 1870,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时36分 ~ 22时39分]"
+          "appearance_count": 9,
+          "time_info": "[17时36分 ~ 23时34分]"
         },
         {
           "title": "日本挖到稀土,全是选举戏码",
@@ -83,8 +83,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时45分 ~ 22时39分]"
+          "appearance_count": 25,
+          "time_info": "[00时45分 ~ 23时34分]"
         },
         {
           "title": "中国冰壶女队6:9日本",
@@ -129,8 +129,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时28分 ~ 22时39分]"
+          "appearance_count": 6,
+          "time_info": "[19时28分 ~ 23时34分]"
         },
         {
           "title": "日本福冈发生伤人事件 3人被刺伤",
@@ -161,6 +161,17 @@
           "time_info": "[16时35分 ~ 19时28分]"
         },
         {
+          "title": "日本一货船与渔船发生相撞，多人死伤",
+          "url": "https://news.ifeng.com/c/8qu6fj6FuQy",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时34分]"
+        },
+        {
           "title": "日本首相高市早苗：日本将设立自己的“外国投资委员会（CFIUS）”，以审查外国投资。 日本将加快重启核反应堆，也将推进新一代反应堆的开发与安装具体计划。",
           "url": "https://wallstreetcn.com/livenews/3056867",
           "source": "华尔街见闻-快讯",
@@ -175,15 +186,29 @@
           "time_info": "[13时51分 ~ 16时35分]"
         },
         {
-          "title": "日本一货船与渔船发生相撞，多人死伤",
-          "url": "https://news.ifeng.com/c/8qu6fj6FuQy",
+          "title": "九成议员支持修宪，日本彻底撕掉和平伪装",
+          "url": "https://news.ifeng.com/c/8qu28qoqKsI",
           "source": "凤凰网",
           "ranks": [
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时39分]"
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时34分]"
+        },
+        {
+          "title": "日本冰壶女运动员撞脸孙燕姿",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%B0%E5%A3%B6%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E6%92%9E%E8%84%B8%E5%AD%99%E7%87%95%E5%A7%BF",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            20,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时45分 ~ 23时34分]"
         },
         {
           "title": "日本首相高市早苗：日本国内的投资严重不足，将通过多年预算和长期基金推动大胆投资。 不会推行破坏市场信心的鲁莽财政政策。 将稳步降低债务与GDP比率，恢复财政可持续性；将维护市场信任，并将明确具体的财政指标。 将力争在本财年年底前尽早通过包括2026/27财年税制改革立法在内的关键法案。 政府将于下月开始为17个战略领域推出投资路线图。",
@@ -197,30 +222,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时51分 ~ 15时51分]"
-        },
-        {
-          "title": "日本冰壶女运动员撞脸孙燕姿",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%B0%E5%A3%B6%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E6%92%9E%E8%84%B8%E5%AD%99%E7%87%95%E5%A7%BF",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时45分 ~ 22时39分]"
-        },
-        {
-          "title": "九成议员支持修宪，日本彻底撕掉和平伪装",
-          "url": "https://news.ifeng.com/c/8qu28qoqKsI",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时39分]"
         },
         {
           "title": "日本5年期国债收益率下跌1.0个基点，至1.620%。",
@@ -374,6 +375,19 @@
           "time_info": "[13时51分 ~ 14时50分]"
         },
         {
+          "title": "日本一货船与游船碰撞 多人死伤",
+          "url": "https://www.toutiao.com/trending/7607873021679992841/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时34分]"
+        },
+        {
           "title": "日本首相高市早苗：政府将于下月开始为17个战略领域推出投资路线图。",
           "url": "https://flash.jin10.com/detail/20260220131303233800",
           "source": "金十数据",
@@ -432,18 +446,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 12时11分]"
-        },
-        {
-          "title": "日本一货船与游船碰撞 多人死伤",
-          "url": "https://www.toutiao.com/trending/7607873021679992841/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时39分]"
         },
         {
           "title": "日本2月综合PMI初值 53.8，前值 53.1。",
@@ -823,8 +825,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时51分 ~ 22时39分]"
+          "appearance_count": 13,
+          "time_info": "[13时51分 ~ 23时34分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
@@ -835,8 +837,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时36分 ~ 22时39分]"
+          "appearance_count": 9,
+          "time_info": "[17时36分 ~ 23时34分]"
         },
         {
           "title": "韩国人怎么评价春晚机器人表演",
@@ -860,11 +862,12 @@
             12,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时43分 ~ 22时39分]"
+          "appearance_count": 15,
+          "time_info": "[09时43分 ~ 23时34分]"
         },
         {
           "title": "春晚机器人如何完成高难度动作",
@@ -896,8 +899,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时45分 ~ 22时39分]"
+          "appearance_count": 25,
+          "time_info": "[00时45分 ~ 23时34分]"
         },
         {
           "title": "未来的春晚机器人be like",
@@ -937,8 +940,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时39分]"
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时34分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，机器人延续涨势",
@@ -1150,7 +1153,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -1162,8 +1165,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时27分 ~ 22时39分]"
+          "appearance_count": 18,
+          "time_info": "[06时27分 ~ 23时34分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -1176,8 +1179,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时11分 ~ 22时39分]"
+          "appearance_count": 14,
+          "time_info": "[12时11分 ~ 23时34分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -1203,8 +1206,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时51分 ~ 22时39分]"
+          "appearance_count": 11,
+          "time_info": "[15时51分 ~ 23时34分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -1216,8 +1219,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时45分 ~ 22时39分]"
+          "appearance_count": 25,
+          "time_info": "[00时45分 ~ 23时34分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -1253,8 +1256,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时45分 ~ 22时39分]"
+          "appearance_count": 25,
+          "time_info": "[00时45分 ~ 23时34分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1276,8 +1279,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时28分 ~ 22时39分]"
+          "appearance_count": 6,
+          "time_info": "[19时28分 ~ 23时34分]"
+        },
+        {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时34分]"
         },
         {
           "title": "美国PCE等数据公布后，美股期货短线走低， 纳指期货日内跌0.33%，标普500指数期货跌0.24%，道指期货跌0.18%。美国国债持稳，美元指数走低至日内低点。",
@@ -1303,29 +1319,6 @@
           "time_info": "05时28分"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3056969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时39分]"
-        },
-        {
           "title": "金十图示：2026年02月19日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260220050543287800",
           "source": "金十数据",
@@ -1343,7 +1336,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1382,6 +1375,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时36分 ~ 20时46分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 23时34分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
@@ -1429,12 +1434,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "美国通胀压力依然顽固，美股三大股指集体走低",
+          "url": "https://wallstreetcn.com/livenews/3056973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "现货黄金突破5040美元/盎司，日内涨0.88%。 现货白银突破81美元/盎司，续创2月12日以来新高，日内涨超3%。",
@@ -1570,6 +1586,17 @@
           "time_info": "17时36分"
         },
         {
+          "title": "现货黄金突破5060美元/盎司关口，报5060.15美元/盎司。 现货白银日内涨幅达4.0%，报81.65美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3056981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "美伊局势继续升级，特朗普下“最后通牒”，10到15天内是协议最后期限，更有美媒爆料其考虑有限打击以逼伊朗达成协议；今日晚些时候，美国将公布美联储青睐的12月PCE通胀数据，当前，黄金价格在5000美元附近徘徊，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260220110918759800",
           "source": "金十数据",
@@ -1587,7 +1614,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1623,6 +1650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "现货白银向上触及82美元/盎司，日内涨4.51%。",
+          "url": "https://flash.jin10.com/detail/20260220230208261800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     },
@@ -1655,17 +1693,6 @@
           "time_info": "20时46分"
         },
         {
-          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
           "url": "https://wallstreetcn.com/livenews/3056822",
           "source": "华尔街见闻-快讯",
@@ -1687,6 +1714,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
+        },
+        {
+          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 23时34分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -1732,7 +1771,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1743,7 +1782,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1900,8 +1939,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[03时36分 ~ 22时39分]"
+          "appearance_count": 22,
+          "time_info": "[03时36分 ~ 23时34分]"
         },
         {
           "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
@@ -1954,11 +1993,12 @@
             23,
             7,
             6,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时32分 ~ 22时39分]"
+          "appearance_count": 8,
+          "time_info": "[18时32分 ~ 23时34分]"
         },
         {
           "title": "特斯拉在美国推出更经济实惠的Cybertruck车型",
