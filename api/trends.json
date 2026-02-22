@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T17:27:26.532453+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-02-22T18:20:52.043157+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,17 @@
         },
         {
           "title": "韩国外交部强烈抗议日本举行“竹岛日”活动",
+          "url": "https://news.ifeng.com/c/8qx0g6BhHN6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 18时20分]"
+        },
+        {
+          "title": "韩国外交部强烈抗议日本举行“竹岛日”活动",
           "url": "https://flash.jin10.com/detail/20260222132336777800",
           "source": "金十数据",
           "ranks": [
@@ -50,27 +61,17 @@
           "time_info": "[13时48分 ~ 16时26分]"
         },
         {
-          "title": "韩国外交部强烈抗议日本举行“竹岛日”活动",
-          "url": "https://news.ifeng.com/c/8qx0g6BhHN6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 17时27分]"
-        },
-        {
           "title": "韩国就独岛主权问题向日本表示强烈抗议",
           "url": "https://wallstreetcn.com/livenews/3057246",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时20分]"
         },
         {
           "title": "日本多地连发集体食物中毒事件 逾百人“中招”",
@@ -161,8 +162,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 17时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 18时20分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -176,8 +177,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 17时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 18时20分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -200,8 +201,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时47分 ~ 17时27分]"
+          "appearance_count": 7,
+          "time_info": "[13时47分 ~ 18时20分]"
         },
         {
           "title": "“春晚版熊猫机器人”拍出近6万高价",
@@ -286,8 +287,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 17时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 18时20分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -311,8 +312,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 17时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 18时20分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -322,11 +323,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时41分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时41分 ~ 18时20分]"
         }
       ]
     },
@@ -334,6 +336,21 @@
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 3,
       "titles": [
+        {
+          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
+          "url": "https://wallstreetcn.com/articles/3765938",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 18时20分]"
+        },
         {
           "title": "实测Gemini 3.1 Pro",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
@@ -348,26 +365,12 @@
             5,
             14,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 17时27分]"
-        },
-        {
-          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
-          "url": "https://wallstreetcn.com/articles/3765938",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时13分 ~ 17时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 18时20分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -398,8 +401,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 17时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 18时20分]"
         },
         {
           "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
@@ -448,8 +451,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 17时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 18时20分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 18时20分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -462,19 +479,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时47分 ~ 15时33分]"
-        },
-        {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 17时27分]"
         }
       ]
     },
@@ -492,8 +496,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时19分 ~ 17时27分]"
+          "appearance_count": 11,
+          "time_info": "[07时19分 ~ 18时20分]"
         },
         {
           "title": "全抖音都在发财摇",
