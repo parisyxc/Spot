@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T06:19:46.629958+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-02-23T07:21:34.860078+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "分析：英伟达下周公布的财报即使亮眼，可能也无法提振股价",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时24分 ~ 06时19分]"
+        },
+        {
+          "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
+          "url": "https://flash.jin10.com/detail/20260223064004274800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     },
@@ -59,8 +70,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "日本晴空塔电梯急速下降 数人被困",
@@ -74,8 +85,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时29分 ~ 06时19分]"
+          "appearance_count": 7,
+          "time_info": "[02时29分 ~ 07时21分]"
         },
         {
           "title": "日媒：日本不敢撕毁日美投资协议",
@@ -104,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -116,8 +127,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -127,8 +138,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时21分]"
         }
       ]
     },
@@ -144,8 +155,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -155,8 +166,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时21分]"
         }
       ]
     },
@@ -173,8 +184,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时21分]"
         }
       ]
     },
@@ -187,11 +198,12 @@
           "url": "https://www.cls.cn/detail/2292521",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时29分 ~ 06时19分]"
+          "appearance_count": 7,
+          "time_info": "[02时29分 ~ 07时21分]"
         }
       ]
     }
