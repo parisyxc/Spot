@@ -1,8 +1,142 @@
 {
-  "generated_at": "2026-02-23T18:45:23.389147+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2026-02-23T19:37:31.891634+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 16时44分]"
+        },
+        {
+          "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
+          "url": "https://wallstreetcn.com/articles/3765941",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时21分]"
+        },
+        {
+          "title": "分析：英伟达下周公布的财报即使亮眼，可能也无法提振股价",
+          "url": "https://flash.jin10.com/detail/20260222230305554800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时19分]"
+        },
+        {
+          "title": "达美乐比萨第四季度营收15.4亿美元，预估15.2亿美元。 第四季度调整后每股收益5.35美元，预估5.37美元。 达美乐比萨美股盘前涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3057447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
+          "url": "https://flash.jin10.com/detail/20260223064004274800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "Arcellx美股盘前涨超76%，吉利德科学将以每股115美元的价格收购Arcellx。",
+          "url": "https://wallstreetcn.com/livenews/3057446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时37分]"
+        },
+        {
+          "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
+          "url": "https://wallstreetcn.com/livenews/3057423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 19时37分]"
+        },
+        {
+          "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
+          "url": "https://wallstreetcn.com/livenews/3057431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时37分]"
+        },
+        {
+          "title": "礼来(LLY.N)美股盘前上涨2.1%。",
+          "url": "https://flash.jin10.com/detail/20260223174523816800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "金十整理：本周重要事件与数据预告——特朗普国情咨文、美伊局势、英伟达财报",
+          "url": "https://flash.jin10.com/detail/20260223073515674800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
     {
       "keyword_group": "稳定币 日本",
       "match_count": 11,
@@ -19,8 +153,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 18时45分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 19时37分]"
         },
         {
           "title": "日本一寺庙举行裸祭上万名男性参加",
@@ -52,6 +186,17 @@
           "time_info": "[02时29分 ~ 07时21分]"
         },
         {
+          "title": "日本万人参加裸祭仪式，3人重伤昏迷(图)",
+          "url": "https://v.ifeng.com/c/8qyyvjcjmJE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时37分]"
+        },
+        {
           "title": "日媒：日本不敢撕毁日美投资协议",
           "url": "https://www.toutiao.com/trending/7609294007209836553/",
           "source": "今日头条",
@@ -62,17 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 04时21分]"
-        },
-        {
-          "title": "日本万人参加裸祭仪式，3人重伤昏迷(图)",
-          "url": "https://v.ifeng.com/c/8qyyvjcjmJE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "荷兰国际：本周一系列日本经济数据料展现积极信号 3月会议得以维持利率不变",
@@ -144,7 +278,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -153,11 +287,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 18时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 19时37分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -193,8 +328,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 18时45分]"
+          "appearance_count": 5,
+          "time_info": "[16时44分 ~ 19时37分]"
         },
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -203,11 +338,12 @@
           "ranks": [
             13,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 18时45分]"
+          "appearance_count": 5,
+          "time_info": "[16时44分 ~ 19时37分]"
         },
         {
           "title": "和蔡明演小品、跟沈腾演戏、给李宇春伴舞…机器人公司为何纷纷「砸钱」上春晚？",
@@ -235,6 +371,29 @@
           "time_info": "[09时47分 ~ 12时21分]"
         },
         {
+          "title": "王兴兴称机器人技术接近 10 岁孩子水平，杨立昆称当下人形机器人常识水平不如猫，谁的说法更接近现实？",
+          "url": "https://www.zhihu.com/question/2008851829849604675",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时37分]"
+        },
+        {
+          "title": "比特币价格为何瀑布式下跌",
+          "url": "https://www.toutiao.com/trending/7609967033089789467/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "加密货币集体大跌，超13万人爆仓，比特币跌破65000美元",
           "url": "https://wallstreetcn.com/livenews/3057352",
           "source": "华尔街见闻-快讯",
@@ -246,135 +405,15 @@
           "time_info": "14时03分"
         },
         {
-          "title": "王兴兴称机器人技术接近 10 岁孩子水平，杨立昆称当下人形机器人常识水平不如猫，谁的说法更接近现实？",
-          "url": "https://www.zhihu.com/question/2008851829849604675",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
           "title": "机器人亮相天坛",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E5%A4%A9%E5%9D%9B%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 16时44分]"
-        },
-        {
-          "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
-          "url": "https://wallstreetcn.com/articles/3765941",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时21分]"
-        },
-        {
-          "title": "分析：英伟达下周公布的财报即使亮眼，可能也无法提振股价",
-          "url": "https://flash.jin10.com/detail/20260222230305554800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 06时19分]"
-        },
-        {
-          "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
-          "url": "https://flash.jin10.com/detail/20260223064004274800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
-          "url": "https://wallstreetcn.com/livenews/3057431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
-          "url": "https://wallstreetcn.com/livenews/3057423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 18时45分]"
-        },
-        {
-          "title": "礼来(LLY.N)美股盘前上涨2.1%。",
-          "url": "https://flash.jin10.com/detail/20260223174523816800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "金十整理：本周重要事件与数据预告——特朗普国情咨文、美伊局势、英伟达财报",
-          "url": "https://flash.jin10.com/detail/20260223073515674800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
         }
       ]
     },
@@ -394,8 +433,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时29分 ~ 18时45分]"
+          "appearance_count": 16,
+          "time_info": "[02时29分 ~ 19时37分]"
         },
         {
           "title": "拆解黄金白银为何震荡",
@@ -404,9 +443,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时37分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）白银ETF持仓报告",
@@ -436,11 +475,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 19时37分]"
         },
         {
           "title": "国投资本： 国投瑞银白银期货证券投资基金估值调整预计对公司2026年度归母净利润产生一定负面影响",
@@ -585,8 +625,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 18时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 19时37分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -613,11 +653,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 18时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 19时37分]"
         }
       ]
     }
