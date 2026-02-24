@@ -1,40 +1,42 @@
 {
-  "generated_at": "2026-02-25T05:37:24.450219+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-02-25T06:30:03.038023+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
-        },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
           "url": "https://wallstreetcn.com/articles/3766041",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -49,41 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260225050547207800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260225050527378800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 AMD大涨超8%",
-          "url": "https://flash.jin10.com/detail/20260225050111394800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -98,15 +67,52 @@
           "time_info": "[01时05分 ~ 02时55分]"
         },
         {
+          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260225050547207800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时30分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260225050527378800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时30分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 AMD大涨超8%",
+          "url": "https://flash.jin10.com/detail/20260225050111394800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时30分]"
+        },
+        {
           "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
           "url": "https://wallstreetcn.com/livenews/3058334",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时30分]"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -118,6 +124,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
+          "url": "https://wallstreetcn.com/livenews/3058355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
+          "url": "https://wallstreetcn.com/livenews/3058353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3058348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
@@ -144,8 +183,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "“日本以为中方会软化立场，等来的却是当头一棒”",
@@ -155,8 +194,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "商务部就对日出口管制答问：制止日本“再军事化”和拥核企图",
@@ -165,11 +204,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "被中国列入管控清单的20家日本实体，什么来头？",
@@ -179,22 +219,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
-        },
-        {
-          "title": "商务部将三菱造船株式会社等 20 家日本实体列入出口管制管控名单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2009569467659745146",
-          "source": "知乎",
-          "ranks": [
-            1,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "媒体：彻底击碎日本“军国梦”",
@@ -205,8 +231,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
+        },
+        {
+          "title": "商务部将三菱造船株式会社等 20 家日本实体列入出口管制管控名单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2009569467659745146",
+          "source": "知乎",
+          "ranks": [
+            1,
+            6,
+            7,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "日本将在距台湾岛110公里处部署导弹",
@@ -215,11 +256,12 @@
           "ranks": [
             20,
             17,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "彻底凉!日本断绝大鹅对话",
@@ -230,8 +272,21 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
+        },
+        {
+          "title": "彻底击碎日本军国梦",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%BB%E5%BA%95%E5%87%BB%E7%A2%8E%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E6%A2%A6%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时55分 ~ 06时30分]"
         },
         {
           "title": "记者观察：日本企业面临双重压力",
@@ -247,28 +302,16 @@
           "time_info": "[00时01分 ~ 02时55分]"
         },
         {
-          "title": "彻底击碎日本军国梦",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%BB%E5%BA%95%E5%87%BB%E7%A2%8E%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E6%A2%A6%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 05时37分]"
-        },
-        {
           "title": "对20家日本实体实施出口管制",
           "url": "https://www.douyin.com/hot/2409980",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时37分 ~ 06时30分]"
         }
       ]
     },
@@ -283,11 +326,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "一口气锁定6吉瓦芯片！Meta大单绑定AMD 还顺手收认股权证",
@@ -298,11 +342,12 @@
             11,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 06时30分]"
         },
         {
           "title": "亚马逊(AMZN.O)：Claude已通过亚马逊云服务(AWS)的Amazon Bedrock在东南亚地区上线可用。",
@@ -375,7 +420,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "宇树机器人背后的23个算法",
@@ -387,8 +432,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "宇树发布新款四足机器人",
@@ -400,8 +445,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "宇树发布新款四足机器人",
@@ -409,18 +454,41 @@
           "source": "今日头条",
           "ranks": [
             29,
-            24
+            24,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时30分]"
+        },
+        {
+          "title": "湖北机器人“大壮”能闻味儿了",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E5%A4%A7%E5%A3%AE%E2%80%9D%E8%83%BD%E9%97%BB%E5%91%B3%E5%84%BF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "现货黄金跌约1.5%，白银跌1.1%，纽约铜期货涨2%",
+          "url": "https://wallstreetcn.com/livenews/3058361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 2月24日（周二）晚盘收盘下跌0.17%报1146.0元/克；<br/>上海黄金交易所白银T+D 2月24日（周二）晚盘收盘下跌0.0%报21360.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260225023158520800",
@@ -459,7 +527,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         }
@@ -513,11 +581,12 @@
             18,
             14,
             29,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 06时30分]"
         }
       ]
     }
