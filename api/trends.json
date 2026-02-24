@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T12:14:59.694219+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-02-24T13:56:58.636851+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 12时14分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 13时56分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -64,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时56分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -76,8 +76,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时56分]"
+        },
+        {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时14分]"
+          "time_info": "[12时14分 ~ 13时56分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
@@ -114,17 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时37分]"
-        },
-        {
-          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
-          "url": "https://wallstreetcn.com/articles/3765995",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股收盘）",
@@ -179,11 +179,12 @@
           "url": "https://www.cls.cn/detail/2292947",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时56分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
@@ -239,6 +240,227 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "日本万人参加裸祭仪式，3人重伤昏迷(图)",
+          "url": "https://v.ifeng.com/c/8qyyvjcjmJE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 08时04分]"
+        },
+        {
+          "title": "彻底凉!日本断绝大鹅对话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350868&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%87%89%21%E6%97%A5%E6%9C%AC%E6%96%AD%E7%BB%9D%E5%A4%A7%E9%B9%85%E5%AF%B9%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 13时56分]"
+        },
+        {
+          "title": "20家日本实体被列入出口管控",
+          "url": "https://search.bilibili.com/all?keyword=20%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E8%A2%AB%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时56分]"
+        },
+        {
+          "title": "商务部：将20家日本实体列入出口管制管控名单",
+          "url": "https://news.ifeng.com/c/8r05GfWUSml",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时56分]"
+        },
+        {
+          "title": "商务部将三菱造船株式会社等 20 家日本实体列入出口管制管控名单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2009569467659745146",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时56分]"
+        },
+        {
+          "title": "中方对20家日本实体实施出口管制",
+          "url": "https://www.toutiao.com/trending/7610246623687347753/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时56分]"
+        },
+        {
+          "title": "对20家日本实体实施出口管制",
+          "url": "https://www.douyin.com/hot/2409980",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时56分]"
+        },
+        {
+          "title": "商务部：将20家日本实体列入出口管制管控名单",
+          "url": "https://www.cls.cn/detail/2293229",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时56分]"
+        },
+        {
+          "title": "消息人士称，由于市场波动持续，日本正考虑对流动性支持型日本国债拍卖进行调整。",
+          "url": "https://flash.jin10.com/detail/20260224114713439800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "中方将20家日本实体列入管控名单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时56分]"
+        },
+        {
+          "title": "据英国《金融时报》：特朗普的“和平委员会”为加沙探索推出稳定币。",
+          "url": "https://flash.jin10.com/detail/20260224002207019800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时58分]"
+        },
+        {
+          "title": "日本",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时56分]"
+        },
+        {
+          "title": "日本首相高市早苗：将在关注市场趋势的同时推进政策。",
+          "url": "https://wallstreetcn.com/livenews/3057875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "日本重型机械和国防股下跌，三菱重工下跌2.6%，川崎重工下跌4.3%。",
+          "url": "https://flash.jin10.com/detail/20260224113609602800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "日本计划加强对外国投资的审查，效仿美国，成立一个新的机构来加强经济安全。新机构将以美国外国投资委员会（CFIB）为蓝本。",
+          "url": "https://flash.jin10.com/detail/20260224130448758800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "美国总统特朗普所谓的“和平委员会”研究为加沙发行稳定币。 关于“加沙稳定币”的谈判还处于初级阶段。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3057572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "商务部将20家日本实体列入关注名单",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E5%85%B3%E6%B3%A8%E5%90%8D%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "英媒：特朗普“和平委员会”拟推稳定币，以重塑加沙经济",
+          "url": "https://flash.jin10.com/detail/20260224002704978800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "日本10年期国债收益率下行5个基点至2.055%。",
+          "url": "https://wallstreetcn.com/livenews/3057730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         }
       ]
     },
@@ -427,200 +649,15 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "日本万人参加裸祭仪式，3人重伤昏迷(图)",
-          "url": "https://v.ifeng.com/c/8qyyvjcjmJE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 08时04分]"
-        },
-        {
-          "title": "彻底凉!日本断绝大鹅对话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350868&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%87%89%21%E6%97%A5%E6%9C%AC%E6%96%AD%E7%BB%9D%E5%A4%A7%E9%B9%85%E5%AF%B9%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 12时14分]"
-        },
-        {
-          "title": "中方对20家日本实体实施出口管制",
-          "url": "https://www.toutiao.com/trending/7610246623687347753/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "20家日本实体被列入出口管控",
-          "url": "https://search.bilibili.com/all?keyword=20%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E8%A2%AB%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E6%8E%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "商务部：将20家日本实体列入出口管制管控名单",
-          "url": "https://news.ifeng.com/c/8r05GfWUSml",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "商务部将三菱造船株式会社等 20 家日本实体列入出口管制管控名单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2009569467659745146",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "消息人士称，由于市场波动持续，日本正考虑对流动性支持型日本国债拍卖进行调整。",
-          "url": "https://flash.jin10.com/detail/20260224114713439800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "对20家日本实体实施出口管制",
-          "url": "https://www.douyin.com/hot/2409980",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "商务部：将20家日本实体列入出口管制管控名单",
-          "url": "https://www.cls.cn/detail/2293229",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "据英国《金融时报》：特朗普的“和平委员会”为加沙探索推出稳定币。",
-          "url": "https://flash.jin10.com/detail/20260224002207019800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时58分]"
-        },
-        {
-          "title": "中方将20家日本实体列入管控名单",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "日本",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "日本重型机械和国防股下跌，三菱重工下跌2.6%，川崎重工下跌4.3%。",
-          "url": "https://flash.jin10.com/detail/20260224113609602800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "美国总统特朗普所谓的“和平委员会”研究为加沙发行稳定币。 关于“加沙稳定币”的谈判还处于初级阶段。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3057572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "英媒：特朗普“和平委员会”拟推稳定币，以重塑加沙经济",
-          "url": "https://flash.jin10.com/detail/20260224002704978800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "日本10年期国债收益率下行5个基点至2.055%。",
-          "url": "https://wallstreetcn.com/livenews/3057730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "12时14分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -697,6 +734,28 @@
           "time_info": "09时44分"
         },
         {
+          "title": "魔法原子投资成立机器人科技公司",
+          "url": "https://wallstreetcn.com/livenews/3057889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "比特币创2022年6月加密货币崩盘以来最差单月表现",
+          "url": "https://wallstreetcn.com/livenews/3057881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "数字货币市场周一亚太早盘出现一波V形下跌行情，比特币目前跌约3%",
           "url": "https://wallstreetcn.com/livenews/3057586",
           "source": "华尔街见闻-快讯",
@@ -707,6 +766,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时13分]"
+        },
+        {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "宇树机器人，天坛表演中国武术",
@@ -726,9 +796,60 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "目标交付30万辆！越南\"特斯拉\"背后有哪些中国上市公司在供货？|新春观察",
+          "url": "https://www.cls.cn/detail/2292692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时37分 ~ 08时04分]"
+        },
+        {
+          "title": "特斯拉起诉美国加利福尼亚州机动车管理局（DMV），要求推翻加州关于“特斯拉涉嫌全自动驾驶（FSD）虚假广告”的判决。",
+          "url": "https://wallstreetcn.com/livenews/3057671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：大众集团1月欧盟新车注册量下降3.7%、特斯拉下降1.6%、日产下降16%、比亚迪增长175%、斯特兰蒂斯增长9.1%、宝马下降3.3%、梅赛德斯-奔驰增长4%、丰田下降14%、上汽集团下降0.8%。",
+          "url": "https://flash.jin10.com/detail/20260224130244588800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：欧盟1月新车注册量下降3.9%，至799,625辆。1月，特斯拉在欧盟、英国和欧洲自由贸易联盟的市场份额降至0.8%，而比亚迪为1.9%；特斯拉纯电动车市场份额为4.3%。",
+          "url": "https://flash.jin10.com/detail/20260224130023406800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     },
@@ -783,35 +904,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "目标交付30万辆！越南\"特斯拉\"背后有哪些中国上市公司在供货？|新春观察",
-          "url": "https://www.cls.cn/detail/2292692",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时37分 ~ 08时04分]"
-        },
-        {
-          "title": "特斯拉起诉美国加利福尼亚州机动车管理局（DMV），要求推翻加州关于“特斯拉涉嫌全自动驾驶（FSD）虚假广告”的判决。",
-          "url": "https://wallstreetcn.com/livenews/3057671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 1,
       "titles": [
@@ -837,11 +929,12 @@
           "url": "https://www.douyin.com/hot/2408989",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时56分]"
         }
       ]
     }
