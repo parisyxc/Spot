@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T15:06:05.871748+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-02-25T16:42:59.169592+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "媒体：日本等来当头一棒",
@@ -141,9 +141,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "“东风导弹可覆盖日本全境”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%9C%E9%A3%8E%E5%AF%BC%E5%BC%B9%E5%8F%AF%E8%A6%86%E7%9B%96%E6%97%A5%E6%9C%AC%E5%85%A8%E5%A2%83%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            30,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 16时42分]"
         },
         {
           "title": "警惕！日本拟4年后在敏感地点部署导弹部队",
@@ -164,7 +177,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -191,6 +204,17 @@
           "time_info": "13时58分"
         },
         {
+          "title": "日本公平贸易委员会(FTC)对微软进行了现场检查。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3058719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "商务部宣布将 20 家日本实体列入出口管制管控名单，涉及哪些领域？将给日本带来哪些影响？",
           "url": "https://www.zhihu.com/question/2009569700791752615",
           "source": "知乎",
@@ -209,7 +233,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -220,9 +244,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "日本公平交易委员会对微软(MSFT.O)进行了现场检查。",
+          "url": "https://flash.jin10.com/detail/20260225155850753800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "对20家日本实体实施出口管制",
@@ -250,18 +285,6 @@
           "time_info": "[00时01分 ~ 02时55分]"
         },
         {
-          "title": "“东风导弹可覆盖日本全境”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%9C%E9%A3%8E%E5%AF%BC%E5%BC%B9%E5%8F%AF%E8%A6%86%E7%9B%96%E6%97%A5%E6%9C%AC%E5%85%A8%E5%A2%83%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时06分]"
-        },
-        {
           "title": "日本央行加息前景不明 日元延续盘整",
           "url": "https://flash.jin10.com/detail/20260225092915573800",
           "source": "金十数据",
@@ -279,7 +302,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -312,7 +335,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -323,7 +346,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -334,7 +357,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -350,13 +373,35 @@
           "time_info": "13时58分"
         },
         {
+          "title": "外交部：国际社会应坚决抵制日本新型军国主义的妄动",
+          "url": "https://wallstreetcn.com/livenews/3058700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "中方：坚决抵制日本新型军国主义妄动",
+          "url": "https://www.toutiao.com/trending/7610402453200584714/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "日本前央行行长黑田东彦：日元兑美元近期在157左右的水平“有些过弱”。",
           "url": "https://flash.jin10.com/detail/20260225140040849800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -367,7 +412,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -400,7 +445,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -433,7 +478,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -444,7 +489,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -485,7 +530,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -558,8 +603,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 15时06分]"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 16时42分]"
         },
         {
           "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
@@ -595,6 +640,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时30分]"
+        },
+        {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
@@ -706,8 +762,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 15时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 16时42分]"
         },
         {
           "title": "一口气锁定6吉瓦芯片！Meta大单绑定AMD 还顺手收认股权证",
@@ -932,7 +988,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         }
@@ -991,11 +1047,12 @@
           "url": "https://www.zhihu.com/question/2009924225859805232",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时06分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 16时42分]"
         },
         {
           "title": "湖北机器人“大壮”能闻味儿了",
@@ -1138,7 +1195,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         }
