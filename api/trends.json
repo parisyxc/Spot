@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T16:42:59.169592+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-02-25T17:49:51.489010+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "媒体：日本等来当头一棒",
@@ -210,7 +210,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -238,6 +238,17 @@
           "time_info": "15时06分"
         },
         {
+          "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "日本40年期国债收益率上升10个基点，至3.615%。日本5年期国债收益率下跌1.5个基点，至1.580%。",
           "url": "https://flash.jin10.com/detail/20260225141144873800",
           "source": "金十数据",
@@ -255,7 +266,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -283,6 +294,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时01分 ~ 02时55分]"
+        },
+        {
+          "title": "中方：坚决抵制日本新型军国主义妄动",
+          "url": "https://www.toutiao.com/trending/7610402453200584714/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时49分]"
         },
         {
           "title": "日本央行加息前景不明 日元延续盘整",
@@ -379,18 +402,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "中方：坚决抵制日本新型军国主义妄动",
-          "url": "https://www.toutiao.com/trending/7610402453200584714/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -530,7 +542,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -607,6 +619,40 @@
           "time_info": "[09时47分 ~ 16时42分]"
         },
         {
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
+          "url": "https://wallstreetcn.com/livenews/3058780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。消息面上，津巴布韦暂停了锂精矿和原矿的出口。",
+          "url": "https://flash.jin10.com/detail/20260225173456379800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时49分]"
+        },
+        {
           "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
           "url": "https://wallstreetcn.com/livenews/3058381",
           "source": "华尔街见闻-快讯",
@@ -640,17 +686,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时30分]"
-        },
-        {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         },
         {
           "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
@@ -711,6 +746,17 @@
           "time_info": "06时30分"
         },
         {
+          "title": "惠普(HPQ.N)美股盘前下跌5.4%，此前该公司预计2026年个人电脑部门出货量将出现两位数降幅。",
+          "url": "https://flash.jin10.com/detail/20260225170753362800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3058353",
           "source": "华尔街见闻-快讯",
@@ -747,7 +793,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
@@ -762,8 +808,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时01分 ~ 16时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时01分 ~ 17时49分]"
         },
         {
           "title": "一口气锁定6吉瓦芯片！Meta大单绑定AMD 还顺手收认股权证",
@@ -829,6 +875,17 @@
           "time_info": "[03时48分 ~ 04时31分]"
         },
         {
+          "title": "据塔斯社：谷歌(GOOG.O)被俄罗斯当局罚款超过2200万卢布。",
+          "url": "https://flash.jin10.com/detail/20260225172229198800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
           "url": "https://wallstreetcn.com/livenews/3058274",
           "source": "华尔街见闻-快讯",
@@ -876,7 +933,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "金十图示：2026年02月25日（周三）白银ETF持仓报告",
@@ -921,6 +978,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "国投白银LOF：2月26日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3058764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月24日（周二）晚盘收盘下跌0.17%报1146.0元/克；<br/>上海黄金交易所白银T+D 2月24日（周二）晚盘收盘下跌0.0%报21360.0元/千克。",
@@ -996,7 +1064,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "宇树机器人背后的23个算法",
@@ -1048,11 +1116,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 16时42分]"
+          "appearance_count": 5,
+          "time_info": "[13时58分 ~ 17时49分]"
         },
         {
           "title": "湖北机器人“大壮”能闻味儿了",
@@ -1075,6 +1144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "荣耀：将在MWC 2026推出人形机器人、机器人手机等新品",
+          "url": "https://wallstreetcn.com/livenews/3058755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         }
       ]
     },
@@ -1141,7 +1221,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
@@ -1164,12 +1244,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "韩女子用ChatGPT策划连环杀人案",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         }
       ]
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "微信更新面对面收照片和文件功能",
@@ -1187,6 +1278,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时04分 ~ 07时27分]"
+        },
+        {
+          "title": "不能用发照片当理由加微信了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%83%BD%E7%94%A8%E5%8F%91%E7%85%A7%E7%89%87%E5%BD%93%E7%90%86%E7%94%B1%E5%8A%A0%E5%BE%AE%E4%BF%A1%E4%BA%86&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "抖音电商安全与信任中心发布首份年度报告，全年清退违规达人超27万名",
