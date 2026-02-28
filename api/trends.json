@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T19:16:18.298883+08:00",
-  "total_titles_processed": 1746,
+  "generated_at": "2026-02-28T20:35:55.918929+08:00",
+  "total_titles_processed": 1874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "逐帧解析男篮逆转日本",
@@ -203,6 +203,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "日本航空：已取消东京羽田机场与多哈之间的航班，取消时间持续至3月3日。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3060835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美国地质调查局（USGS）：日本平良市西北偏北61公里处发生5.0级地震。",
           "url": "https://flash.jin10.com/detail/20260227233805687800",
           "source": "金十数据",
@@ -238,6 +249,219 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 20时35分]"
+        },
+        {
+          "title": "现货白银站上94美元/盎司，日内涨6.48%。",
+          "url": "https://flash.jin10.com/detail/20260228001714055800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "黄金白银大涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "伊朗局势如何影响金价 专家称未来48小时决定金价走势",
+          "url": "https://wallstreetcn.com/livenews/3060816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "黄金白银原油全线上涨",
+          "url": "https://www.douyin.com/hot/2413986",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少104.25吨，当前持仓量为15992.4吨。欢迎点击查看数据中心..",
+          "url": "https://flash.jin10.com/detail/20260228083518088800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "高盛将今年底的铜价预测由11000美元上调至12200美元。",
+          "url": "https://flash.jin10.com/detail/20260228045842619800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时25分 ~ 07时20分]"
+        },
+        {
+          "title": "多数珠宝品牌商现已不回收白银",
+          "url": "https://www.toutiao.com/trending/7611031493875941417/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时52分]"
+        },
+        {
+          "title": "专家：金价极端情况下或到7000美元",
+          "url": "https://www.toutiao.com/trending/7611434469627330601/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时35分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：2月24日当周，投机者所持COMEX黄金净多头头寸增加3,878手合约，至99,937手合约，创四周新高。 所持COMEX白银净多头头寸创五周新高。 所持COMEX铜净多头头寸创21周新低。 所持NYMEX铂金净多头头寸创五周新高，所持NYMEX钯金净多头头寸创四年新高。",
+          "url": "https://wallstreetcn.com/livenews/3060499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时19分]"
+        },
+        {
+          "title": "现货白银日内涨幅达5.5%，报92.98美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
+          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "以色列伊朗 金价",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BC%8A%E6%9C%97%20%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "现货白银日内暴涨6.00%，现报93.58美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260227235313419800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月27日（周五）晚盘收盘上涨0.93%报1155.17元/克；<br/>上海黄金交易所白银T+D 2月27日（周五）晚盘收盘上涨5.38%报23231.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260228023017051800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，COMEX白银期货投机者净多头头寸增加1822手，至7981手。",
+          "url": "https://flash.jin10.com/detail/20260228043200214800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "现货白银向上触及93美元/盎司，日内涨5.35%。",
+          "url": "https://flash.jin10.com/detail/20260227234445582800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "专家：黄金白银不适合普通投资者",
+          "url": "https://www.toutiao.com/trending/7611811572997967423/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 18,
       "titles": [
@@ -263,11 +487,12 @@
             9,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 20时35分]"
         },
         {
           "title": "机器人将进入宝马德国工厂打工",
@@ -472,8 +697,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[05时25分 ~ 19时16分]"
+          "appearance_count": 16,
+          "time_info": "[05时25分 ~ 20时35分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -513,8 +738,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 19时16分]"
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 20时35分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
@@ -633,11 +858,12 @@
           "url": "https://www.cls.cn/detail/2298126",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时35分]"
         },
         {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
@@ -675,196 +901,6 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "现货白银站上94美元/盎司，日内涨6.48%。",
-          "url": "https://flash.jin10.com/detail/20260228001714055800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "黄金白银大涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "伊朗局势如何影响金价 专家称未来48小时决定金价走势",
-          "url": "https://wallstreetcn.com/livenews/3060816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少104.25吨，当前持仓量为15992.4吨。欢迎点击查看数据中心..",
-          "url": "https://flash.jin10.com/detail/20260228083518088800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 19时16分]"
-        },
-        {
-          "title": "高盛将今年底的铜价预测由11000美元上调至12200美元。",
-          "url": "https://flash.jin10.com/detail/20260228045842619800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时20分]"
-        },
-        {
-          "title": "多数珠宝品牌商现已不回收白银",
-          "url": "https://www.toutiao.com/trending/7611031493875941417/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时52分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：2月24日当周，投机者所持COMEX黄金净多头头寸增加3,878手合约，至99,937手合约，创四周新高。 所持COMEX白银净多头头寸创五周新高。 所持COMEX铜净多头头寸创21周新低。 所持NYMEX铂金净多头头寸创五周新高，所持NYMEX钯金净多头头寸创四年新高。",
-          "url": "https://wallstreetcn.com/livenews/3060499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时19分]"
-        },
-        {
-          "title": "现货白银日内涨幅达5.5%，报92.98美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3060400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
-        },
-        {
-          "title": "专家：金价极端情况下或到7000美元",
-          "url": "https://www.toutiao.com/trending/7611434469627330601/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
-        },
-        {
-          "title": "以色列伊朗 金价",
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BC%8A%E6%9C%97%20%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "现货白银日内暴涨6.00%，现报93.58美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260227235313419800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 2月27日（周五）晚盘收盘上涨0.93%报1155.17元/克；<br/>上海黄金交易所白银T+D 2月27日（周五）晚盘收盘上涨5.38%报23231.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260228023017051800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，COMEX白银期货投机者净多头头寸增加1822手，至7981手。",
-          "url": "https://flash.jin10.com/detail/20260228043200214800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "现货白银向上触及93美元/盎司，日内涨5.35%。",
-          "url": "https://flash.jin10.com/detail/20260227234445582800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "专家：黄金白银不适合普通投资者",
-          "url": "https://www.toutiao.com/trending/7611811572997967423/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 14,
       "titles": [
@@ -874,11 +910,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时23分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时23分 ~ 20时35分]"
         },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -920,6 +957,18 @@
           "time_info": "[00时35分 ~ 05时25分]"
         },
         {
+          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
+          "url": "https://www.cls.cn/detail/2298093",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 20时35分]"
+        },
+        {
           "title": "中际旭创2025年净利润同比增长108.81%，算力基础设施投入驱动高速光模块放量 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3766380",
           "source": "华尔街见闻",
@@ -930,18 +979,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时20分 ~ 14时31分]"
-        },
-        {
-          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
-          "url": "https://www.cls.cn/detail/2298093",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 19时16分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -978,6 +1015,18 @@
           "time_info": "[06时19分 ~ 07时20分]"
         },
         {
+          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
+          "url": "https://www.zhihu.com/question/2011096140146286806",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时35分]"
+        },
+        {
           "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
           "url": "https://wallstreetcn.com/livenews/3060522",
           "source": "华尔街见闻-快讯",
@@ -988,17 +1037,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时20分]"
-        },
-        {
-          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
-          "url": "https://www.zhihu.com/question/2011096140146286806",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（2月27日），美国科技股七巨头（Magnificent 7）指数跌1.83%，报193.36点，本周累计下跌2.18%，2月份累计下跌6.57%，大部分时间低位震荡——交投于195点附近。 “超大”市值科技股指数跌0.82%，报366.62点，2月份累跌6.91%。",
