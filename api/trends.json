@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T13:31:42.224568+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-02-28T14:31:58.840144+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "逐帧解析男篮逆转日本",
@@ -19,11 +19,12 @@
             18,
             16,
             29,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 12时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 14时31分]"
         },
         {
           "title": "日本撞人族出没,女童惨遭肘击",
@@ -54,37 +55,18 @@
           "time_info": "[01时31分 ~ 06时19分]"
         },
         {
-          "title": "日本国立农业研究所和筑波大学联合开发了一种可按需催熟的甜瓜，旨在克服甜瓜保质期相对较短的问题，并促进出口。",
-          "url": "https://flash.jin10.com/detail/20260228132031654800",
-          "source": "金十数据",
+          "title": "复盘中国男篮逆转日本",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            9,
+            20,
+            17,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "市场消息：日本政府计划在非洲部分地区开发稀土矿。",
-          "url": "https://flash.jin10.com/detail/20260228131135729800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "日本拟在4月引进新规 限制航空旅客最多携带2个充电宝",
-          "url": "https://flash.jin10.com/detail/20260228125516771800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 14时31分]"
         },
         {
           "title": "法国总统马克龙计划于四月访问日本。",
@@ -92,11 +74,24 @@
           "source": "金十数据",
           "ranks": [
             2,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时31分]"
+        },
+        {
+          "title": "日本国立农业研究所和筑波大学联合开发了一种可按需催熟的甜瓜，旨在克服甜瓜保质期相对较短的问题，并促进出口。",
+          "url": "https://flash.jin10.com/detail/20260228132031654800",
+          "source": "金十数据",
+          "ranks": [
+            1,
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时31分]"
+          "time_info": "[13时31分 ~ 14时31分]"
         },
         {
           "title": "日本软银集团旗下PayPay美国IPO获得2亿美元锚投资，估值至多140亿美元。 Qia、Visa、Idia将锚定PayPal纳斯达克挂牌交易股票。（路透）",
@@ -109,6 +104,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时25分]"
+        },
+        {
+          "title": "撞人族是日本特有",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%92%9E%E4%BA%BA%E6%97%8F%E6%98%AF%E6%97%A5%E6%9C%AC%E7%89%B9%E6%9C%89%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时31分]"
+        },
+        {
+          "title": "市场消息：日本政府计划在非洲部分地区开发稀土矿。",
+          "url": "https://flash.jin10.com/detail/20260228131135729800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时31分]"
         },
         {
           "title": "日本围绕美国投资项目研究核工厂。（日本读卖新闻）",
@@ -124,29 +144,16 @@
           "time_info": "[09时24分 ~ 12时52分]"
         },
         {
-          "title": "复盘中国男篮逆转日本",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
+          "title": "日本拟在4月引进新规 限制航空旅客最多携带2个充电宝",
+          "url": "https://flash.jin10.com/detail/20260228125516771800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 13时31分]"
-        },
-        {
-          "title": "撞人族是日本特有",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%92%9E%E4%BA%BA%E6%97%8F%E6%98%AF%E6%97%A5%E6%9C%AC%E7%89%B9%E6%9C%89%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            7
+            8,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时31分]"
+          "time_info": "[13时31分 ~ 14时31分]"
         },
         {
           "title": "中国男篮绝境逆转日本纪录片",
@@ -170,6 +177,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 00时36分]"
+        },
+        {
+          "title": "日本政府计划在非洲部分地区开发稀土矿。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3060606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "印度GDP数据修订意味着：超越日本需耗费更长时间",
@@ -208,21 +226,8 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
-          "url": "https://www.cls.cn/detail/2297763",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时31分 ~ 13时31分]"
-        },
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
           "url": "https://wallstreetcn.com/articles/3766389",
@@ -235,8 +240,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时25分 ~ 13时31分]"
+          "appearance_count": 10,
+          "time_info": "[05时25分 ~ 14时31分]"
+        },
+        {
+          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
+          "url": "https://www.cls.cn/detail/2297763",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时31分 ~ 14时31分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -257,11 +275,23 @@
           "ranks": [
             6,
             9,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 14时31分]"
+        },
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -275,6 +305,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时51分 ~ 13时31分]"
+        },
+        {
+          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
+          "url": "https://flash.jin10.com/detail/20260228120317791800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时31分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
@@ -311,18 +354,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时51分 ~ 12时52分]"
-        },
-        {
-          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
-          "url": "https://flash.jin10.com/detail/20260228120317791800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时31分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -370,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "AWS与OpenAI联合开发“有状态运行时环境”，预计数月内推出",
+          "url": "https://flash.jin10.com/detail/20260228132543765800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "（对于此前宣布的OpenAI已完成的融资轮）亚马逊对OpenAI的500亿美元投资为现金。 OpenAI料将在3月底之前融资大约100亿美元。（彭博）",
@@ -422,8 +464,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 13时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时31分]"
         },
         {
           "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
@@ -433,8 +475,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 13时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 14时31分]"
         },
         {
           "title": "中际旭创2025年净利润同比增长108.81%，算力基础设施投入驱动高速光模块放量 | 财报见闻",
@@ -445,8 +487,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 13时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时31分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -526,6 +568,153 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "你如何看待机器人发展对人类的影响",
+          "url": "https://www.toutiao.com/trending/7611473320617492531/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 09时24分]"
+        },
+        {
+          "title": "机器人将进入宝马德国工厂打工",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%86%E8%BF%9B%E5%85%A5%E5%AE%9D%E9%A9%AC%E5%BE%B7%E5%9B%BD%E5%B7%A5%E5%8E%82%E6%89%93%E5%B7%A5",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时31分]"
+        },
+        {
+          "title": "比特币价格短线快速走低约1000美元，至65000美元下方。",
+          "url": "https://wallstreetcn.com/livenews/3060614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "机器人将进入宝马德国工厂打工",
+          "url": "https://www.toutiao.com/trending/7611525084908535854/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            10,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 14时31分]"
+        },
+        {
+          "title": "数字货币市场最近七天走低，比特币一度涨向7万美元整数位心理关口、但整体累跌约3.5%",
+          "url": "https://wallstreetcn.com/livenews/3060428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "菜菜子re评机器人小品",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8F%9C%E8%8F%9C%E5%AD%90re%E8%AF%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%8F%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 07时20分]"
+        },
+        {
+          "title": "宝马宣布在德国工厂引入人形机器人 试点接管装配线最累工序",
+          "url": "https://www.cls.cn/detail/2297869",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时31分]"
+        },
+        {
+          "title": "AI机器人能全面替代人类工种吗",
+          "url": "https://www.toutiao.com/trending/7611539933462793779/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "茅台基金入股一脑多形具身机器人公司小雨智造",
+          "url": "https://wallstreetcn.com/livenews/3060607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "7万家企业为何扎堆深圳做机器人",
+          "url": "https://www.toutiao.com/trending/7611696532860964402/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "美国政府机构对使用马斯克旗下的Grok聊天机器人发出警告。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3060393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "奔驰宝马CEO围观中国机器人",
+          "url": "https://www.toutiao.com/trending/7611107211151327278/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
         }
       ]
     },
@@ -662,129 +851,6 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "你如何看待机器人发展对人类的影响",
-          "url": "https://www.toutiao.com/trending/7611473320617492531/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 09时24分]"
-        },
-        {
-          "title": "机器人将进入宝马德国工厂打工",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%86%E8%BF%9B%E5%85%A5%E5%AE%9D%E9%A9%AC%E5%BE%B7%E5%9B%BD%E5%B7%A5%E5%8E%82%E6%89%93%E5%B7%A5",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时31分]"
-        },
-        {
-          "title": "数字货币市场最近七天走低，比特币一度涨向7万美元整数位心理关口、但整体累跌约3.5%",
-          "url": "https://wallstreetcn.com/livenews/3060428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "机器人将进入宝马德国工厂打工",
-          "url": "https://www.toutiao.com/trending/7611525084908535854/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 13时31分]"
-        },
-        {
-          "title": "菜菜子re评机器人小品",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8F%9C%E8%8F%9C%E5%AD%90re%E8%AF%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%8F%E5%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时35分 ~ 07时20分]"
-        },
-        {
-          "title": "宝马宣布在德国工厂引入人形机器人 试点接管装配线最累工序",
-          "url": "https://www.cls.cn/detail/2297869",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 13时31分]"
-        },
-        {
-          "title": "AI机器人能全面替代人类工种吗",
-          "url": "https://www.toutiao.com/trending/7611539933462793779/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "7万家企业为何扎堆深圳做机器人",
-          "url": "https://www.toutiao.com/trending/7611696532860964402/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "美国政府机构对使用马斯克旗下的Grok聊天机器人发出警告。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3060393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "奔驰宝马CEO围观中国机器人",
-          "url": "https://www.toutiao.com/trending/7611107211151327278/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 5,
       "titles": [
@@ -906,8 +972,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 13时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 14时31分]"
         },
         {
           "title": "穆迪：Meta Platforms(META.O)展望稳定，确认Aa3高级无担保评级。",
