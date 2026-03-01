@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T17:25:53.754257+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-03-01T18:21:14.193059+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
@@ -23,8 +23,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 17时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 18时21分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -166,6 +166,18 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
+          "url": "https://www.cls.cn/detail/2298678",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时52分 ~ 18时21分]"
+        },
+        {
           "title": "事关人形机器人！我国首个国家级标准体系发布 产业迫近临界点",
           "url": "https://www.cls.cn/detail/2298376",
           "source": "财联社热门",
@@ -176,8 +188,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 17时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 18时21分]"
         },
         {
           "title": "我国首个国家级人形机器人与具身智能标准体系发布",
@@ -192,18 +204,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 12时19分]"
-        },
-        {
-          "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
-          "url": "https://www.cls.cn/detail/2298678",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时52分 ~ 17时25分]"
         },
         {
           "title": "春晚同款机器人开箱",
@@ -291,7 +291,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价",
@@ -344,6 +344,17 @@
           "time_info": "12时19分"
         },
         {
+          "title": "国投白银LOF：3月2日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3061122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "金价或将冲击历史新高",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%88%96%E5%B0%86%E5%86%B2%E5%87%BB%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -369,62 +380,8 @@
       ]
     },
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
-          "url": "https://www.cls.cn/detail/2298093",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时52分]"
-        },
-        {
-          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时18分]"
-        },
-        {
-          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
-          "url": "https://www.zhihu.com/question/2011096140146286806",
-          "source": "知乎",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时52分]"
-        },
-        {
-          "title": "“后巴菲特时代”首封股东信：巴菲特仍坐镇，手握3700亿现金，坚守日本投资策略",
-          "url": "https://wallstreetcn.com/articles/3766440",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 15时31分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "稳定币 日本",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "人民日报：以实际行动阻击日本再军事化",
@@ -458,6 +415,18 @@
           "time_info": "[12时19分 ~ 16时25分]"
         },
         {
+          "title": "世界上最完美的圆锥孤山是不是日本富士山？我国有没有媲美富士山的圆锥山？",
+          "url": "https://www.zhihu.com/question/1909395021217642085",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时21分]"
+        },
+        {
           "title": "日本航运公司暂停在波斯湾的运营",
           "url": "https://flash.jin10.com/detail/20260301112605398800",
           "source": "金十数据",
@@ -469,15 +438,80 @@
           "time_info": "12时19分"
         },
         {
-          "title": "世界上最完美的圆锥孤山是不是日本富士山？我国有没有媲美富士山的圆锥山？",
-          "url": "https://www.zhihu.com/question/1909395021217642085",
-          "source": "知乎",
+          "title": "残阵韩国断电2分钟惜败日本男篮",
+          "url": "https://www.toutiao.com/trending/7611347817369600036/",
+          "source": "今日头条",
           "ranks": [
-            12
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "德国地学研究中心GFZ：日本九州地区发生5.8级地震。",
+          "url": "https://flash.jin10.com/detail/20260301171044967800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
+          "url": "https://www.cls.cn/detail/2298093",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时52分]"
+        },
+        {
+          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时18分]"
+        },
+        {
+          "title": "“后巴菲特时代”首封股东信：巴菲特仍坐镇，手握3700亿现金，坚守日本投资策略",
+          "url": "https://wallstreetcn.com/articles/3766440",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时52分 ~ 18时21分]"
+        },
+        {
+          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
+          "url": "https://www.zhihu.com/question/2011096140146286806",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时52分]"
         }
       ]
     },
@@ -490,11 +524,12 @@
           "url": "https://wallstreetcn.com/livenews/3061108",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时21分]"
         },
         {
           "title": "特斯拉(TSLA.O)：将Cybertruck双电机全轮驱动版售价提高至69990美元。",
@@ -503,7 +538,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
@@ -543,8 +578,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时52分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时52分 ~ 18时21分]"
         }
       ]
     }
