@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T22:42:21.679273+08:00",
-  "total_titles_processed": 2061,
+  "generated_at": "2026-03-02T23:38:09.901887+08:00",
+  "total_titles_processed": 2147,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时39分 ~ 23时38分]"
+        },
+        {
+          "title": "印度GDP没超过日本",
+          "url": "https://www.douyin.com/hot/2415868",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时39分 ~ 22时42分]"
+          "time_info": "[20时45分 ~ 23时38分]"
         },
         {
           "title": "日本遭遇霍尔木兹休克",
@@ -34,19 +47,6 @@
           "time_info": "[17时42分 ~ 19时29分]"
         },
         {
-          "title": "印度GDP没超过日本",
-          "url": "https://www.douyin.com/hot/2415868",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时45分 ~ 22时42分]"
-        },
-        {
           "title": "世界上最完美的圆锥孤山是不是日本富士山？我国有没有媲美富士山的圆锥山？",
           "url": "https://www.zhihu.com/question/1909395021217642085",
           "source": "知乎",
@@ -58,6 +58,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 03时20分]"
+        },
+        {
+          "title": "经过亚洲杯亚军，世预赛两败韩国，逆转日本 + 宝岛，你认为郭士强作为中国男篮主帅，合格吗？",
+          "url": "https://www.zhihu.com/question/2011809177207535249",
+          "source": "知乎",
+          "ranks": [
+            10,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时57分 ~ 23时38分]"
         },
         {
           "title": "日本央行副行长冰见野良三：核心通胀率一直在稳步上升。",
@@ -157,18 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
-        },
-        {
-          "title": "经过亚洲杯亚军，世预赛两败韩国，逆转日本 + 宝岛，你认为郭士强作为中国男篮主帅，合格吗？",
-          "url": "https://www.zhihu.com/question/2011809177207535249",
-          "source": "知乎",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时42分]"
         },
         {
           "title": "日本央行副行长冰见野良三：日本央行的目标是通过避免过度通胀和通缩来维持物价稳定，从而使经济保持在可持续的增长轨道上。",
@@ -438,7 +439,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "本周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
@@ -476,6 +477,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[17时42分 ~ 22时42分]"
+        },
+        {
+          "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -572,7 +584,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -583,7 +595,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -594,9 +606,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
+        },
+        {
+          "title": "富时A50在美股盘初出现V形反转，使得夜盘转而涨超0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3062004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "沙特阿美股价上涨 1.8%。",
@@ -608,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "全球航空业ETF跌4.46%，在美股盘初领跌行业ETF，可选消费ETF跌2.47%，区域银行ETF跌2.38%，半导体ETF跌1.83%，科技行业ETF跌0.92%，能源业ETF涨2.65%。 标普超级综合航空指数跌5.6%。 Frontier Group跌9.72%，美国航空公司跌6.4%，美联航跌5.3%，达美航空跌3.7%，美国西南航空跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3062001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "美国与伊朗冲突爆发后，美股邮轮运营商股价盘前走低。嘉年华公司下跌6.9%，皇家加勒比邮轮下跌5.9%，挪威邮轮下跌5.8%。",
@@ -653,11 +687,12 @@
           "url": "https://www.zhihu.com/question/2011572653631223263",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时42分]"
+          "appearance_count": 5,
+          "time_info": "[21时57分 ~ 23时38分]"
         },
         {
           "title": "机器人手机趋势到来了吗",
@@ -727,6 +762,19 @@
           "time_info": "[09时44分 ~ 14时51分]"
         },
         {
+          "title": "荣耀机器人手机上手体验",
+          "url": "https://www.douyin.com/hot/2416394",
+          "source": "抖音",
+          "ranks": [
+            24,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时57分 ~ 23时38分]"
+        },
+        {
           "title": "集体下跌！沙特阿拉伯股指跌2%，埃及股指跌超5%，比特币回落至6.7万美元下方",
           "url": "https://wallstreetcn.com/articles/3766457",
           "source": "华尔街见闻",
@@ -759,18 +807,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 02时27分]"
-        },
-        {
-          "title": "荣耀机器人手机上手体验",
-          "url": "https://www.douyin.com/hot/2416394",
-          "source": "抖音",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时42分]"
         },
         {
           "title": "雷军公布小米机器人最新进展：已在汽车工厂实习 初步实现部分场景自主工作",
@@ -914,7 +950,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -969,7 +1005,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -980,7 +1016,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
