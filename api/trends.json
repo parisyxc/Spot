@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T20:43:54.887229+08:00",
-  "total_titles_processed": 1898,
+  "generated_at": "2026-03-03T21:57:17.863387+08:00",
+  "total_titles_processed": 2017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时47分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[09时47分 ~ 21时57分]"
         },
         {
           "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
@@ -57,6 +57,17 @@
           "time_info": "[02时39分 ~ 12时11分]"
         },
         {
+          "title": "特朗普放话“不惜一切” ，金银跳水、白银暴跌10%，布油飙升破85美元，美股期指扩大跌幅",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 21时57分]"
+        },
+        {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -66,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "特朗普放话“不惜一切” ，金银跳水、白银暴跌10%，布油飙升破85美元，美股期指扩大跌幅",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "美股股指期货跌幅扩大",
@@ -90,13 +90,24 @@
           "time_info": "13时45分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3062829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "百思买第四季度调整后每股收益2.61美元，去年同期为2.58美元，市场预期2.46美元。 第四季度美国同店销售同比下降0.8%，去年同期增长0.2%，市场预期增长0.24%。 第四季度总收入为138.1亿美元，同比下降1%，市场预期138.8亿美元。 第四季度毛利率为20.9%，与去年同期持平，市场预期20.8%。 百思买美股盘前涨超13%。",
           "url": "https://wallstreetcn.com/livenews/3062787",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -107,7 +118,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -192,6 +203,17 @@
           "time_info": "[01时41分 ~ 02时39分]"
         },
         {
+          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2301690",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
+        },
+        {
           "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
           "url": "https://wallstreetcn.com/livenews/3062073",
           "source": "华尔街见闻-快讯",
@@ -250,6 +272,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-03）",
+          "url": "https://flash.jin10.com/detail/20260303212356871800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "美股期货持续下行，道琼斯指数期货跌1.55%，标普500指数期货跌1.55%，纳斯达克100指数期货跌2%。",
           "url": "https://wallstreetcn.com/livenews/3062613",
           "source": "华尔街见闻-快讯",
@@ -267,7 +300,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -297,7 +330,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
@@ -439,6 +472,17 @@
           "time_info": "[18时34分 ~ 20时43分]"
         },
         {
+          "title": "现货白银跌超10%",
+          "url": "https://www.toutiao.com/trending/7612069382793183251/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
+        },
+        {
           "title": "现货白银日内暴跌10%",
           "url": "https://flash.jin10.com/detail/20260303190834338800",
           "source": "金十数据",
@@ -544,7 +588,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -791,7 +835,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
@@ -804,8 +848,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 21时57分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：国防部还确认，我们的服务不会被军方情报机构使用。",
@@ -886,6 +930,17 @@
           "time_info": "14时44分"
         },
         {
+          "title": "Altman承认：在舆论抵制下，OpenAI的美国国防协议“显得投机且草率”",
+          "url": "https://wallstreetcn.com/livenews/3062825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3062254",
           "source": "华尔街见闻-快讯",
@@ -900,7 +955,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国人形机器人快速“上量”靠什么",
@@ -951,11 +1006,12 @@
           "ranks": [
             14,
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 21时57分]"
         },
         {
           "title": "据CNBC：高通(QCOM.O)CEO表示，未来两年内，机器人技术将成为高通公司的一个“更大机遇”。",
@@ -969,6 +1025,29 @@
           "time_info": "14时44分"
         },
         {
+          "title": "高通CEO预计：机器人将在两年内成为“更重大的机遇”",
+          "url": "https://wallstreetcn.com/livenews/3062827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
+          "url": "https://www.cls.cn/detail/2301011",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 21时57分]"
+        },
+        {
           "title": "西班牙国王和中国机器人握手",
           "url": "https://www.toutiao.com/trending/7612133346110455835/",
           "source": "今日头条",
@@ -979,17 +1058,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时11分 ~ 13时45分]"
-        },
-        {
-          "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
-          "url": "https://www.cls.cn/detail/2301011",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "人形机器人技惊四座背后靠什么",
@@ -1012,6 +1080,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
+          "url": "https://wallstreetcn.com/articles/3766588",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 21时57分]"
+        },
+        {
+          "title": "A股半导体公司集体发涨价函",
+          "url": "https://www.toutiao.com/trending/7612660746741104650/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
+        },
+        {
+          "title": "美伊战火扰乱半导体供应 以色列晶圆厂客户紧急转单 成熟制程或掀涨价潮",
+          "url": "https://www.cls.cn/detail/2300914",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 21时57分]"
         }
       ]
     },
@@ -1058,32 +1168,19 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 2,
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 1,
       "titles": [
         {
-          "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
-          "url": "https://wallstreetcn.com/articles/3766588",
-          "source": "华尔街见闻",
+          "title": "中国军号抖音粉丝突破5000万",
+          "url": "https://www.douyin.com/hot/2418009",
+          "source": "抖音",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 20时43分]"
-        },
-        {
-          "title": "美伊战火扰乱半导体供应 以色列晶圆厂客户紧急转单 成熟制程或掀涨价潮",
-          "url": "https://www.cls.cn/detail/2300914",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 20时43分]"
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
         }
       ]
     }
