@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T21:59:28.645678+08:00",
-  "total_titles_processed": 1971,
+  "generated_at": "2026-03-05T22:50:56.091985+08:00",
+  "total_titles_processed": 2052,
   "failed_sources": [],
   "trends": [
     {
@@ -61,8 +61,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时08分 ~ 21时59分]"
+          "appearance_count": 14,
+          "time_info": "[12时08分 ~ 22时50分]"
         },
         {
           "title": "中使馆提醒防范日本“撞人族”",
@@ -87,11 +87,12 @@
             13,
             16,
             15,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时08分 ~ 21时59分]"
+          "appearance_count": 14,
+          "time_info": "[12时08分 ~ 22时50分]"
         },
         {
           "title": "霍尔木兹告急,日本:与我无瓜",
@@ -255,7 +256,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -465,7 +466,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -488,8 +489,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时26分 ~ 21时59分]"
+          "appearance_count": 17,
+          "time_info": "[07时26分 ~ 22时50分]"
         },
         {
           "title": "美国“小非农”超预期回暖，美股指高开，纳指涨幅扩大至1%，美油转跌，断供影响伦铝创四年新高",
@@ -536,8 +537,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 21时59分]"
+          "appearance_count": 4,
+          "time_info": "[19时31分 ~ 22时50分]"
         },
         {
           "title": "美股期指集体拉升，油价跳水，韩股暴力反弹近10%，白银跌3%",
@@ -573,6 +574,17 @@
           "time_info": "18时34分"
         },
         {
+          "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260305223632756800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "伯克希尔哈撒韦美股盘前拉升，现涨1.6%，此前公司CEO Abel购入了价值1530万美元的股票。伯克希尔哈撒韦认为其股票的内在价值高于市场价值，称回购时机及总回购规模取决于股价情况。",
           "url": "https://wallstreetcn.com/livenews/3064487",
           "source": "华尔街见闻-快讯",
@@ -584,15 +596,15 @@
           "time_info": "20时47分"
         },
         {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3064536",
+          "title": "美股盘初：道指跌0.7%，黄金股普跌，京东跌约3%",
+          "url": "https://wallstreetcn.com/livenews/3064557",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "22时50分"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
@@ -641,6 +653,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时34分 ~ 19时31分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3064536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时50分]"
+        },
+        {
+          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2304327",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时50分]"
         },
         {
           "title": "城堡证券的Rubner不再看空美股，预计3月将出现反弹",
@@ -702,15 +738,15 @@
           "time_info": "[06时27分 ~ 07时26分]"
         },
         {
-          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2304327",
-          "source": "财联社热门",
+          "title": "美股开盘，道指跌0.74%，标普500指数跌0.47%，纳指跌0.44%。热门中概股普跌，哔哩哔哩(BILI.O)跌超5%，京东(JD.O)、阿里巴巴(BABA.N)跌约3%。",
+          "url": "https://flash.jin10.com/detail/20260305223026344800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "22时50分"
         },
         {
           "title": "伯克希尔哈撒韦(BRK.A.N、BRK.B.N)美股盘前拉升，现涨1.6%。此前公司宣布于周三启动股票回购。",
@@ -1099,9 +1135,127 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
+          "url": "https://wallstreetcn.com/livenews/3063812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时41分 ~ 04时28分]"
+        },
+        {
+          "title": "Meta计划研发自研芯片，来训练自家的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3063889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：谷歌是一家好公司。",
+          "url": "https://wallstreetcn.com/livenews/3063847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
+          "url": "https://wallstreetcn.com/livenews/3063886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：谷歌是一家好公司。",
+          "url": "https://flash.jin10.com/detail/20260305042824208800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "谷歌DeepMind向千问团队抛橄榄枝",
+          "url": "https://wallstreetcn.com/livenews/3064303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "阿里挖角谷歌DeepMind技术大牛",
+          "url": "https://www.toutiao.com/trending/7613743881837874697/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "市场消息：谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
+          "url": "https://flash.jin10.com/detail/20260305021016525800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "Meta Platforms(META.O)计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
+          "url": "https://flash.jin10.com/detail/20260305042235977800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：承诺到2030年投入5000万美元，采取行动应对强效温室气体。",
+          "url": "https://flash.jin10.com/detail/20260305222046201800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
@@ -1223,113 +1377,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
-          "url": "https://wallstreetcn.com/livenews/3063812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 04时28分]"
-        },
-        {
-          "title": "Meta计划研发自研芯片，来训练自家的AI模型",
-          "url": "https://wallstreetcn.com/livenews/3063889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美国总统特朗普：谷歌是一家好公司。",
-          "url": "https://wallstreetcn.com/livenews/3063847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
-          "url": "https://wallstreetcn.com/livenews/3063886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美国总统特朗普：谷歌是一家好公司。",
-          "url": "https://flash.jin10.com/detail/20260305042824208800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "谷歌DeepMind向千问团队抛橄榄枝",
-          "url": "https://wallstreetcn.com/livenews/3064303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "阿里挖角谷歌DeepMind技术大牛",
-          "url": "https://www.toutiao.com/trending/7613743881837874697/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "市场消息：谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
-          "url": "https://flash.jin10.com/detail/20260305021016525800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "Meta Platforms(META.O)计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
-          "url": "https://flash.jin10.com/detail/20260305042235977800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 7,
       "titles": [
@@ -1400,6 +1447,18 @@
           "time_info": "[12时08分 ~ 14时44分]"
         },
         {
+          "title": "在抖音沉迷读“论文”",
+          "url": "https://www.douyin.com/hot/2419588",
+          "source": "抖音",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 22时50分]"
+        },
+        {
           "title": "凭微信转账记录起诉同学还钱被驳回",
           "url": "https://www.toutiao.com/trending/7613245733235392566/",
           "source": "今日头条",
@@ -1410,17 +1469,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时44分 ~ 19时31分]"
-        },
-        {
-          "title": "在抖音沉迷读“论文”",
-          "url": "https://www.douyin.com/hot/2419588",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         }
       ]
     },
