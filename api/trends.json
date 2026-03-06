@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T22:34:44.503715+08:00",
-  "total_titles_processed": 1933,
+  "generated_at": "2026-03-06T23:33:07.552676+08:00",
+  "total_titles_processed": 2027,
   "failed_sources": [],
   "trends": [
     {
@@ -69,6 +69,20 @@
           "time_info": "16时32分"
         },
         {
+          "title": "日本NHK高层在闹市区性侵陌生女子",
+          "url": "https://www.toutiao.com/trending/7613968803771203593/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            25,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 23时33分]"
+        },
+        {
           "title": "日本40年期国债收益率上行1个基点，至3.600%。",
           "url": "https://wallstreetcn.com/livenews/3064917",
           "source": "华尔街见闻-快讯",
@@ -112,19 +126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
-        },
-        {
-          "title": "日本NHK高层在闹市区性侵陌生女子",
-          "url": "https://www.toutiao.com/trending/7613968803771203593/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 22时34分]"
         },
         {
           "title": "日本东芝重组其债务，计划2028年重新上市。（彭博）",
@@ -395,7 +396,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
@@ -407,8 +408,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时47分 ~ 22时34分]"
+          "appearance_count": 20,
+          "time_info": "[07时47分 ~ 23时33分]"
         },
         {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
@@ -459,6 +460,17 @@
           "time_info": "[01时59分 ~ 06时27分]"
         },
         {
+          "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
+          "url": "https://wallstreetcn.com/articles/3766902",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
+        },
+        {
           "title": "非农数据疲软提振降息预期，美债走高，美股期指跌幅扩大，WTI原油近两年来首破86美元，现货黄金短线拉升",
           "url": "https://wallstreetcn.com/articles/3766902",
           "source": "华尔街见闻",
@@ -476,7 +488,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -565,13 +577,24 @@
           "time_info": "[01时59分 ~ 03时20分]"
         },
         {
+          "title": "美股三大股指跌幅收窄，纳指现跌1%，标普500指数跌1.24%，道指跌1.39%。",
+          "url": "https://flash.jin10.com/detail/20260306231649816800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "周五美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3065312",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -642,6 +665,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "区域银行ETF跌3.77%，银行业ETF跌3.58%，全球航空业ETF跌3.18%，在美股盘初领跌行业ETF，半导体ETF跌2.21%。 标普1500航空指数跌3.6%，进入连续第六个交易日下跌之中。",
+          "url": "https://wallstreetcn.com/livenews/3065326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "日韩股指跌幅快速收窄，日经225指数现跌0.14%，韩国首尔综合指数跌0.26%。 美股期货小幅走高，标普500指数期货现涨0.2%，纳斯达克100指数期货涨0.1%。",
           "url": "https://wallstreetcn.com/livenews/3064716",
           "source": "华尔街见闻-快讯",
@@ -651,6 +685,111 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月06日（周五）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260306115436140800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月6日（周五）收盘下跌0.91%报1138.3元/克；<br/>上海黄金交易所白银T+D 3月6日（周五）收盘上涨0.77%报21350.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260306153150190800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "芝加哥商品交易所（CME）：将其COMEX 100黄金期货的初始保证金由9%下调至7%。COMEX 5000白银期货的初始保证金由18%下调至14%。",
+          "url": "https://wallstreetcn.com/livenews/3064670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "芝商所（CME）将其COMEX 5000白银期货的初始保证金由18%下调至14%。",
+          "url": "https://flash.jin10.com/detail/20260306051416574800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "现货白银日内涨超3.00%，现报84.76美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3065353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "现货白银上涨3%，至84.64美元/盎司。 现货黄金涨1.12%，至5138.55美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3064839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "现货白银日内涨超3.00%，现报84.76美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260306230653728800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月5日（周四）晚盘收盘下跌1.37%报1133.0元/克；<br/>上海黄金交易所白银T+D 3月5日（周四）晚盘收盘下跌0.89%报20999.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260306023116487800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月6日（周五）晚盘盘初下跌0.77%报1132.0元/克；<br/>上海黄金交易所白银T+D 3月6日（周五）晚盘盘初下跌1.07%报20978.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260306200049598800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         }
       ]
     },
@@ -669,8 +808,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时45分 ~ 22时34分]"
+          "appearance_count": 19,
+          "time_info": "[09时45分 ~ 23时33分]"
         },
         {
           "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
@@ -811,6 +950,19 @@
           "time_info": "[18时31分 ~ 19时25分]"
         },
         {
+          "title": "烧坏几十台宇树机器人换来“全能王”",
+          "url": "https://www.baidu.com/s?wd=%E7%83%A7%E5%9D%8F%E5%87%A0%E5%8D%81%E5%8F%B0%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8D%A2%E6%9D%A5%E2%80%9C%E5%85%A8%E8%83%BD%E7%8E%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时52分 ~ 23时33分]"
+        },
+        {
           "title": "商务部：机器人成我国外贸新标签",
           "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%88%90%E6%88%91%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%96%B0%E6%A0%87%E7%AD%BE",
           "source": "百度热搜",
@@ -820,18 +972,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时33分 ~ 17时34分]"
-        },
-        {
-          "title": "烧坏几十台宇树机器人换来“全能王”",
-          "url": "https://www.baidu.com/s?wd=%E7%83%A7%E5%9D%8F%E5%87%A0%E5%8D%81%E5%8F%B0%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8D%A2%E6%9D%A5%E2%80%9C%E5%85%A8%E8%83%BD%E7%8E%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时34分]"
         },
         {
           "title": "智元机器人等入股AI公司福来数创",
@@ -854,89 +994,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月06日（周五）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260306115436140800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月6日（周五）收盘下跌0.91%报1138.3元/克；<br/>上海黄金交易所白银T+D 3月6日（周五）收盘上涨0.77%报21350.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260306153150190800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "芝加哥商品交易所（CME）：将其COMEX 100黄金期货的初始保证金由9%下调至7%。COMEX 5000白银期货的初始保证金由18%下调至14%。",
-          "url": "https://wallstreetcn.com/livenews/3064670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "芝商所（CME）将其COMEX 5000白银期货的初始保证金由18%下调至14%。",
-          "url": "https://flash.jin10.com/detail/20260306051416574800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "现货白银上涨3%，至84.64美元/盎司。 现货黄金涨1.12%，至5138.55美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3064839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月5日（周四）晚盘收盘下跌1.37%报1133.0元/克；<br/>上海黄金交易所白银T+D 3月5日（周四）晚盘收盘下跌0.89%报20999.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260306023116487800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月6日（周五）晚盘盘初下跌0.77%报1132.0元/克；<br/>上海黄金交易所白银T+D 3月6日（周五）晚盘盘初下跌1.07%报20978.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260306200049598800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         }
       ]
     },
@@ -974,7 +1031,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         }
