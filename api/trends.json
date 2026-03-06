@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T09:45:53.600059+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-03-06T12:06:33.673442+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时59分 ~ 09时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时59分 ~ 12时06分]"
         },
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 09时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 12时06分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -62,8 +62,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 09时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 12时06分]"
         },
         {
           "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -199,16 +199,124 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "keyword_group": "稳定币 日本",
+      "match_count": 8,
       "titles": [
+        {
+          "title": "能源见底,日本斩杀线已到",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351391&amp;topic_name=%E8%83%BD%E6%BA%90%E8%A7%81%E5%BA%95%2C%E6%97%A5%E6%9C%AC%E6%96%A9%E6%9D%80%E7%BA%BF%E5%B7%B2%E5%88%B0",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时59分 ~ 12时06分]"
+        },
+        {
+          "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
+          "url": "https://www.zhihu.com/question/2011868258307941835",
+          "source": "知乎",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 07时47分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜日本：准备向中东派遣自卫队",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "日本20年期国债收益率上行1个基点，至2.990%。",
+          "url": "https://wallstreetcn.com/livenews/3064737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "五年期日本国债收益率下跌0.5个基点，至1.245%。",
+          "url": "https://flash.jin10.com/detail/20260306091330400800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本经济再生担当大臣木内康弘：正在密切关注原油和金融市场。",
+          "url": "https://wallstreetcn.com/livenews/3064723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本10年期国债收益率下行0.5个基点，至2.15%。",
+          "url": "https://wallstreetcn.com/livenews/3064717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本再次向海洋排放核污染水",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%8D%E6%AC%A1%E5%90%91%E6%B5%B7%E6%B4%8B%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时06分]"
+        },
         {
           "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
           "url": "https://flash.jin10.com/detail/20260306025523028800",
@@ -219,17 +327,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -273,89 +370,38 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "能源见底,日本斩杀线已到",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351391&amp;topic_name=%E8%83%BD%E6%BA%90%E8%A7%81%E5%BA%95%2C%E6%97%A5%E6%9C%AC%E6%96%A9%E6%9D%80%E7%BA%BF%E5%B7%B2%E5%88%B0",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时59分 ~ 09时45分]"
-        },
-        {
-          "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
-          "url": "https://www.zhihu.com/question/2011868258307941835",
-          "source": "知乎",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时59分 ~ 07时47分]"
-        },
-        {
-          "title": "日本20年期国债收益率上行1个基点，至2.990%。",
-          "url": "https://wallstreetcn.com/livenews/3064737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
         {
-          "title": "五年期日本国债收益率下跌0.5个基点，至1.245%。",
-          "url": "https://flash.jin10.com/detail/20260306091330400800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "日本经济再生担当大臣木内康弘：正在密切关注原油和金融市场。",
-          "url": "https://wallstreetcn.com/livenews/3064723",
-          "source": "华尔街见闻-快讯",
+          "title": "详解OpenAI新模型GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
+          "source": "bilibili 热搜",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "日本10年期国债收益率下行0.5个基点，至2.15%。",
-          "url": "https://wallstreetcn.com/livenews/3064717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "12时06分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金十图示：2026年03月06日（周五）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260306115436140800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
         {
           "title": "芝加哥商品交易所（CME）：将其COMEX 100黄金期货的初始保证金由9%下调至7%。COMEX 5000白银期货的初始保证金由18%下调至14%。",
           "url": "https://wallstreetcn.com/livenews/3064670",
@@ -379,6 +425,17 @@
           "time_info": "05时30分"
         },
         {
+          "title": "现货白银上涨3%，至84.64美元/盎司。 现货黄金涨1.12%，至5138.55美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3064839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 3月5日（周四）晚盘收盘下跌1.37%报1133.0元/克；<br/>上海黄金交易所白银T+D 3月5日（周四）晚盘收盘下跌0.89%报20999.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260306023116487800",
           "source": "金十数据",
@@ -388,6 +445,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "食堂引入2台6万元的智能炒菜机器人",
+          "url": "https://www.toutiao.com/trending/7612586869767815177/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            30,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 09时45分]"
+        },
+        {
+          "title": "社区食堂引入2台6万元的炒菜机器人",
+          "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E9%A3%9F%E5%A0%82%E5%BC%95%E5%85%A52%E5%8F%B06%E4%B8%87%E5%85%83%E7%9A%84%E7%82%92%E8%8F%9C%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         }
       ]
     },
@@ -410,6 +498,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Meta开放AI竞争者使用WhatsApp一年，以避免欧盟采取行动",
+          "url": "https://wallstreetcn.com/livenews/3064824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 1,
       "titles": [
@@ -423,26 +528,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时59分 ~ 04时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "食堂引入2台6万元的智能炒菜机器人",
-          "url": "https://www.toutiao.com/trending/7612586869767815177/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            30,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 09时45分]"
         }
       ]
     }
