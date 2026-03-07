@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-03-08T00:22:28.724396+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-08T01:18:07.503957+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "日本频现“撞人族” 中国游客发声",
+          "url": "https://www.toutiao.com/trending/7613541583115255871/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
+        },
+        {
+          "title": "日本首次在冲绳部署新型反潜巡逻机，强化西南方向军事部署动作频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32721200",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 01时18分]"
+        },
+        {
+          "title": "霍尔木兹海峡关闭阻碍从中东进口原材料，日本可能面临乙烯生产中断",
+          "url": "https://wallstreetcn.com/livenews/3065709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时18分]"
+        }
+      ]
+    },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 2,
@@ -12,11 +52,12 @@
           "url": "https://www.douyin.com/hot/2422419",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "抖音直播盛典晚会",
@@ -26,36 +67,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "霍尔木兹海峡关闭阻碍从中东进口原材料，日本可能面临乙烯生产中断",
-          "url": "https://wallstreetcn.com/livenews/3065709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "日本频现“撞人族” 中国游客发声",
-          "url": "https://www.toutiao.com/trending/7613541583115255871/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         }
       ]
     },
@@ -71,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时18分]"
         }
       ]
     },
@@ -88,8 +101,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价剧烈波动大家开始观望",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%89%A7%E7%83%88%E6%B3%A2%E5%8A%A8%E5%A4%A7%E5%AE%B6%E5%BC%80%E5%A7%8B%E8%A7%82%E6%9C%9B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 01时18分]"
         }
       ]
     }
