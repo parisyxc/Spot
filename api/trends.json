@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T01:18:07.503957+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-03-08T02:27:31.325928+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "日本首次在冲绳部署新型反潜巡逻机，强化西南方向军事部署动作频频",
@@ -27,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 02时27分]"
         },
         {
           "title": "霍尔木兹海峡关闭阻碍从中东进口原材料，日本可能面临乙烯生产中断",
@@ -38,8 +39,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时27分]"
         }
       ]
     },
@@ -56,8 +57,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "抖音直播盛典晚会",
@@ -84,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时27分]"
         }
       ]
     },
@@ -101,8 +102,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据Techmeme：OpenAI硬件与机器人工程负责人Caitlin Kalinowski辞职，原因是美国对国内监控和致命自主武器系统的担忧。",
+          "url": "https://flash.jin10.com/detail/20260308014504453800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         }
       ]
     },
