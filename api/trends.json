@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T16:25:21.252793+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-03-07T17:24:52.922785+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时24分 ~ 16时25分]"
+          "appearance_count": 12,
+          "time_info": "[07时24分 ~ 17时24分]"
         },
         {
           "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
@@ -166,7 +166,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -439,6 +439,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "抖音直播盛典红毯群星闪耀",
+          "url": "https://www.douyin.com/hot/2422173",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 17时24分]"
+        },
+        {
           "title": "抖音直播盛典彩排直击",
           "url": "https://www.douyin.com/hot/2421163",
           "source": "抖音",
@@ -448,17 +459,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时25分]"
-        },
-        {
-          "title": "抖音直播盛典红毯群星闪耀",
-          "url": "https://www.douyin.com/hot/2422173",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         }
       ]
     },
