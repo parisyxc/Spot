@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T21:36:19.700588+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-03-07T22:20:15.643137+08:00",
+  "total_titles_processed": 1679,
   "failed_sources": [],
   "trends": [
     {
@@ -59,6 +59,20 @@
           "time_info": "16时25分"
         },
         {
+          "title": "霍尔木兹海峡关闭阻碍从中东进口原材料，日本可能面临乙烯生产中断",
+          "url": "https://wallstreetcn.com/livenews/3065709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 22时20分]"
+        },
+        {
           "title": "美国商务部：美国商务部长卢特尼克周五会见了日本经济产业大臣赤泽亮正。",
           "url": "https://flash.jin10.com/detail/20260307021119950800",
           "source": "金十数据",
@@ -80,19 +94,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 09时27分]"
-        },
-        {
-          "title": "霍尔木兹海峡关闭阻碍从中东进口原材料，日本可能面临乙烯生产中断",
-          "url": "https://wallstreetcn.com/livenews/3065709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 21时36分]"
         },
         {
           "title": "日美首脑会晤前 日本方面呼吁美国不要加征关税",
@@ -147,8 +148,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时24分 ~ 21时36分]"
+          "appearance_count": 19,
+          "time_info": "[07时24分 ~ 22时20分]"
         },
         {
           "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
@@ -250,6 +251,17 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 22时20分]"
+        },
+        {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
           "url": "https://wallstreetcn.com/articles/3766836",
           "source": "华尔街见闻",
@@ -260,17 +272,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时35分 ~ 02时37分]"
-        },
-        {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "url": "https://wallstreetcn.com/articles/3766935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时36分]"
         },
         {
           "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
@@ -443,6 +444,45 @@
       ]
     },
     {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "抖音直播盛典红毯群星闪耀",
+          "url": "https://www.douyin.com/hot/2422173",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 20时37分]"
+        },
+        {
+          "title": "抖音直播盛典彩排直击",
+          "url": "https://www.douyin.com/hot/2421163",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时25分]"
+        },
+        {
+          "title": "抖音直播盛典晚会",
+          "url": "https://www.douyin.com/hot/2422613",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 2,
       "titles": [
@@ -452,11 +492,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 21时36分]"
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 22时20分]"
         },
         {
           "title": "标普500指数收跌90.69点，跌幅1.33%，报6740.02点。 道琼斯工业平均指数收跌453.19点，跌幅0.95%，报47501.55点。 纳斯达克综合指数（纳指）收跌361.307点，跌幅1.59%，报22387.679点。 纳斯达克100指数收跌377.399点，跌幅1.51%，报24643.015点。 费城半导体指数收跌3.93%，报7514.736点。 费城证交所KBW银行指数收跌2.48%，报153.46点。 道琼斯KBW地区银行指数收跌2.32%，报125.41点。",
@@ -497,34 +538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "抖音直播盛典红毯群星闪耀",
-          "url": "https://www.douyin.com/hot/2422173",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 20时37分]"
-        },
-        {
-          "title": "抖音直播盛典彩排直击",
-          "url": "https://www.douyin.com/hot/2421163",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时25分]"
         }
       ]
     }
