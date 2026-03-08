@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T21:38:02.171129+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-03-08T22:21:30.609243+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "日本首次在冲绳部署新型反潜巡逻机，强化西南方向军事部署动作频频",
@@ -47,11 +47,12 @@
             10,
             12,
             13,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时07分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[12时07分 ~ 22时21分]"
         },
         {
           "title": "日本频现“撞人族” 中国游客发声",
@@ -77,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 21时38分]"
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 22时21分]"
         },
         {
           "title": "王毅：日本没资格插手台湾事务",
@@ -93,6 +94,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时07分 ~ 16时26分]"
+        },
+        {
+          "title": "两会外长会｜就涉台议题，王毅四问日本：有什么资格插手？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726646",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时25分 ~ 22时21分]"
         },
         {
           "title": "王毅谈中日关系：台湾事务是中国内政，日本没有资格插手",
@@ -124,20 +139,6 @@
           "time_info": "[13时40分 ~ 17时25分]"
         },
         {
-          "title": "两会外长会｜就涉台议题，王毅四问日本：有什么资格插手？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726646",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时25分 ~ 21时38分]"
-        },
-        {
           "title": "日本没资格插手台湾事务",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B2%A1%E8%B5%84%E6%A0%BC%E6%8F%92%E6%89%8B%E5%8F%B0%E6%B9%BE%E4%BA%8B%E5%8A%A1%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -147,6 +148,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时07分 ~ 13时40分]"
+        },
+        {
+          "title": "日本岩手县以东海域发生6.0级地震",
+          "url": "https://flash.jin10.com/detail/20260308213417863800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "霍尔木兹海峡关闭阻碍从中东进口原材料，日本可能面临乙烯生产中断",
@@ -322,11 +334,12 @@
             17,
             7,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时07分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[12时07分 ~ 22时21分]"
         },
         {
           "title": "抖音直播盛典晚会",
@@ -340,8 +353,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 21时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 22时21分]"
         },
         {
           "title": "抖音逐玉剧粉开始发力了",
@@ -394,11 +407,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时38分]"
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 22时21分]"
         }
       ]
     },
