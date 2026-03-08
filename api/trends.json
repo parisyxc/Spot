@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T00:22:41.886561+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-09T01:19:42.808371+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "王毅表示中日关系取决于日方选择，日本没资格插手台湾事务，如何解读?",
@@ -15,8 +15,30 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时19分]"
+        },
+        {
+          "title": "王毅向日本发出灵魂4问",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E7%81%B5%E9%AD%824%E9%97%AE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时19分"
+        },
+        {
+          "title": "木柜子痴硬闯日本,晒照挑衅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351507&amp;topic_name=%E6%9C%A8%E6%9F%9C%E5%AD%90%E7%97%B4%E7%A1%AC%E9%97%AF%E6%97%A5%E6%9C%AC%2C%E6%99%92%E7%85%A7%E6%8C%91%E8%A1%85",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
           "title": "两会外长会｜就涉台议题，王毅四问日本：有什么资格插手？",
@@ -26,25 +48,26 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时19分]"
         },
         {
           "title": "日本品牌正被中国大规模收购",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E6%AD%A3%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%94%B6%E8%B4%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时19分]"
         }
       ]
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "抖音精选为每一种选择喝彩",
@@ -54,8 +77,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时19分]"
+        },
+        {
+          "title": "抖音直播盛典晚会",
+          "url": "https://www.douyin.com/hot/2422613",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时19分"
         }
       ]
     },
@@ -68,11 +102,12 @@
           "url": "https://www.douyin.com/hot/2423450",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时19分]"
         }
       ]
     }
