@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T15:38:29.512532+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-03-10T16:35:59.638946+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "国台办评卓荣泰窜访日本：鸡鸣狗盗，令人不齿",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 15时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 16时35分]"
         },
         {
           "title": "国台办评卓荣泰窜访日本",
@@ -58,8 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 15时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 16时35分]"
         },
         {
           "title": "全球第三大战略原油储备！日本即将“放油”？",
@@ -126,11 +126,12 @@
             14,
             20,
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 15时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 16时35分]"
         },
         {
           "title": "日本学者 Cell 子刊发文，首次证实「人可以经肛门呼吸」，相关研究有哪些应用场景和实际意义？",
@@ -194,6 +195,17 @@
           "time_info": "12时05分"
         },
         {
+          "title": "日本防卫省：日本防卫大臣小泉进次郎与美国国防部长赫格塞思就伊朗问题通电话。",
+          "url": "https://flash.jin10.com/detail/20260310162028477800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "日经225指数收涨2.9%，报54248.39点。 日本东证指数收涨2.5%，报3664.28点。 韩国首尔综指收涨5.3%，报5532.57点。",
           "url": "https://wallstreetcn.com/livenews/3067071",
           "source": "华尔街见闻-快讯",
@@ -203,6 +215,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：拒绝对扩大使用俄罗斯原油的可能性发表评论。",
+          "url": "https://flash.jin10.com/detail/20260310161612559800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "日本首次部署远程导弹：最大射程上千公里，可攻击邻国沿海区域",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733095",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 16时35分]"
         },
         {
           "title": "30年期日本国债收益率下跌4.0个基点，至3.415%。",
@@ -249,6 +285,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "日本经济产业大臣赤泽亮正：国际能源署成员国释放石油储备是稳定石油市场的有效手段。",
+          "url": "https://flash.jin10.com/detail/20260310161419423800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "日本经济产业省（METI）：经济产业大臣赤泽亮正 (Ryosei Akazawa)已经在周一与国际能源署（IEA）署长Birol通话。",
           "url": "https://wallstreetcn.com/livenews/3066773",
           "source": "华尔街见闻-快讯",
@@ -271,6 +318,17 @@
           "time_info": "14时42分"
         },
         {
+          "title": "日本经济产业大臣赤泽亮正：关于释放石油储备的细节仍在讨论之中。",
+          "url": "https://flash.jin10.com/detail/20260310161347073800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "日本20年期国债收益率下行4个基点，至3.015%。 日本30年期国债收益率下行4个基点，至3.415%。",
           "url": "https://wallstreetcn.com/livenews/3067034",
           "source": "华尔街见闻-快讯",
@@ -281,19 +339,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 14时42分]"
-        },
-        {
-          "title": "日本首次部署远程导弹：最大射程上千公里，可攻击邻国沿海区域",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32733095",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 15时38分]"
         },
         {
           "title": "日本或陷入无油可用困境",
@@ -337,9 +382,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：日本支持国际能源署牵头协调释放战略石油储备。",
+          "url": "https://flash.jin10.com/detail/20260310161032884800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "伊朗外交部：伊朗外长阿拉格齐与日本外长通电话，讨论了美国和犹太复国主义政权对伊朗发动军事侵略后地区局势的发展及其对地区和全球的影响。",
@@ -373,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：七国集团能源部长将于今晚举行会议，讨论包括可能动用石油储备在内的各项议题。",
+          "url": "https://flash.jin10.com/detail/20260310160946145800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "日本气象厅表示，预计春季正常天气形势将持续，概率为50%。",
@@ -436,7 +503,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -499,8 +566,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 15时38分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 16时35分]"
         },
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
@@ -698,7 +765,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -756,7 +823,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         }
@@ -817,7 +884,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -836,7 +903,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "腾讯火速上线5只“龙虾” 全家桶里最后一只“龙虾”已在内测 支持微信直接对话",
@@ -862,8 +929,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 15时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 16时35分]"
         },
         {
           "title": "抖音小火人日活用户规模突破1亿",
@@ -887,6 +954,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 04时29分]"
+        },
+        {
+          "title": "抖音十二生肖创意大赛",
+          "url": "https://www.douyin.com/hot/2424401",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
@@ -976,6 +1054,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "人形机器人进厂“打工”还有多远",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82%E2%80%9C%E6%89%93%E5%B7%A5%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 16时35分]"
+        },
+        {
           "title": "数字货币市场走高，比特币目前涨2.7%",
           "url": "https://wallstreetcn.com/livenews/3066651",
           "source": "华尔街见闻-快讯",
@@ -986,17 +1075,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时45分]"
-        },
-        {
-          "title": "人形机器人进厂“打工”还有多远",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82%E2%80%9C%E6%89%93%E5%B7%A5%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
         },
         {
           "title": "智元机器人推出ACoT-VLA并开源",
