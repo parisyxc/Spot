@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T22:03:34.160479+08:00",
-  "total_titles_processed": 1999,
+  "generated_at": "2026-03-11T23:43:23.697882+08:00",
+  "total_titles_processed": 2118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "国防部回应日本部署远程导弹",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 22时03分]"
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 23时43分]"
         },
         {
           "title": "“被中国封喉，日本比美国动作慢多了”",
@@ -57,8 +58,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 22时03分]"
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 23时43分]"
         },
         {
           "title": "不怕断油,日本开吹石油储备",
@@ -81,6 +82,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "国防部回应日本部署射程约 1000 公里远程导弹，正告日方「敢侵犯必迎头痛击」，如何解读日方意图？",
+          "url": "https://www.zhihu.com/question/2015161588936565933",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "日本首相高市早苗：日本最快将于3月16日开始释放部分石油储备。",
@@ -155,7 +167,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -257,7 +269,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -452,7 +464,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -462,8 +474,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 22时03分]"
+          "appearance_count": 13,
+          "time_info": "[09时28分 ~ 23时43分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -508,7 +520,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -519,9 +531,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
+        },
+        {
+          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2310036",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时43分]"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘后涨近5%。",
@@ -541,18 +565,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2310036",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -574,9 +587,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
+        },
+        {
+          "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "航空业ETF、能源业ETF收跌约1.3%，领跌美股行业ETF",
@@ -748,7 +772,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         }
@@ -845,7 +869,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1028,7 +1052,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         }
@@ -1068,6 +1092,19 @@
           "time_info": "[15时40分 ~ 22时03分]"
         },
         {
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 23时43分]"
+        },
+        {
           "title": "抖音十二生肖创意大赛",
           "url": "https://www.douyin.com/hot/2424401",
           "source": "抖音",
@@ -1101,19 +1138,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时31分 ~ 13时44分]"
-        },
-        {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 22时03分]"
         },
         {
           "title": "取微信名要慎重",
@@ -1166,7 +1190,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【焦点复盘】市场全天现缩量普涨，英伟达链卷土重来，机器人概念现久违涨势",
@@ -1188,11 +1212,12 @@
           "ranks": [
             7,
             22,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 22时03分]"
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 23时43分]"
         },
         {
           "title": "《电力厂站足式机器人巡检》标准正式发布，咸亨国际子公司等13家企业参与起草",
@@ -1204,6 +1229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "据华尔街日报：美国电动汽车公司Rivian首席执行官的AI机器人初创公司融资5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260311230231434800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "浙江荣泰：公司拟将原生产项目“年产1.4万吨云母纸、4,500吨云母制品及700万套机器人部件生产项目”变更为“年产1.4万吨绝缘防火材料及4,500吨深加工制品生产项目”和“年产700万套工业丝杠生产项目”。",
@@ -1245,7 +1281,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         }
@@ -1327,8 +1363,19 @@
     },
     {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "马斯克：Digital Optimus是xAI一特斯拉的一个联合项目。 这也是双方协议的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3068208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
         {
           "title": "中汽协：特斯拉中国2月出口2万辆电动汽车。",
           "url": "https://flash.jin10.com/detail/20260311142402255800",
