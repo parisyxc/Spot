@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T12:06:52.724818+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-03-11T13:44:40.384427+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 12时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 13时44分]"
+        },
+        {
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 13时44分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时24分]"
-        },
-        {
-          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 12时06分]"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘后涨近5%。",
@@ -232,18 +232,19 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
-          "title": "日本东证指数涨幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3067763",
-          "source": "华尔街见闻-快讯",
+          "title": "“被中国封喉，日本比美国动作慢多了”",
+          "url": "https://news.ifeng.com/c/8rOx4mwOWcD",
+          "source": "凤凰网",
           "ranks": [
-            5
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时44分]"
         },
         {
           "title": "日本人假扮熊猫 目击者说有点搞笑",
@@ -280,24 +281,13 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
-          "title": "“被中国封喉，日本比美国动作慢多了”",
-          "url": "https://news.ifeng.com/c/8rOx4mwOWcD",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
           "title": "日本政府不排除自行释放石油储备的可能性",
           "url": "https://flash.jin10.com/detail/20260311112048734800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -308,9 +298,32 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "日本东证指数涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3067763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时44分]"
+        },
+        {
+          "title": "日本5年期国债收益率下行1.5个基点至1.610%。",
+          "url": "https://wallstreetcn.com/livenews/3067787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "消息人士称，软银支持的日本支付应用PayPay的IPO定价料将位于推介区间的下限。（路透）",
@@ -335,6 +348,17 @@
           "time_info": "09时28分"
         },
         {
+          "title": "五年期日本国债收益率下跌1.5个基点，至1.610%。",
+          "url": "https://flash.jin10.com/detail/20260311125107910800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "日本外务大臣：截至今日，已有388名人士乘坐政府包机返回日本。",
           "url": "https://flash.jin10.com/detail/20260311014534458800",
           "source": "金十数据",
@@ -355,6 +379,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "路透调查：受访的58%的经济学家认为，两名鸽派学者加入日本央行不会使加息更加困难。",
+          "url": "https://flash.jin10.com/detail/20260311120618830800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "路透调查：预测中值显示，日本央行将于2027年第一季度加息至1.25%，2028年第一季度加息至1.50%。",
+          "url": "https://flash.jin10.com/detail/20260311120603547800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "路透调查：64位经济学家均表示，日本央行将于3月19日将基准利率维持在0.75%。",
+          "url": "https://flash.jin10.com/detail/20260311120547264800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         }
       ]
     },
@@ -434,7 +491,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2026年03月11日（周三）富时中国A50指数成分股午盘收盘行情一览：银行、保险等板块全线飘红，白酒、半导体等板块涨跌分化",
@@ -443,9 +500,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "华虹集团投资成立半导体公司",
+          "url": "https://wallstreetcn.com/livenews/3067801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "道琼斯日内涨幅达1.0%，报48218.23点。 标普500指数涨0.7%，纳指涨207点涨幅0.9%。 半导体指数涨2.6%，银行指数涨1.8%。",
@@ -477,7 +545,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         }
@@ -485,8 +553,19 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "现货白银失守87美元/盎司，日内跌幅1.53%。",
+          "url": "https://flash.jin10.com/detail/20260311133134569800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 3月11日（周三）早盘盘初上涨0.87%报1156.0元/克；<br/>上海黄金交易所白银T+D 3月11日（周三）早盘盘初上涨0.62%报22400.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260311090229539800",
@@ -565,11 +644,12 @@
             18,
             21,
             24,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 12时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时44分]"
         },
         {
           "title": "同事被裁员，立马退群，中午吃完饭准备交接，同事微信都被他删了，天天一起上班，难道就不能等交接完再删吗？",
@@ -577,11 +657,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 12时06分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 13时44分]"
         },
         {
           "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
@@ -639,7 +720,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
@@ -648,9 +729,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "OpenAI计划将AI视频生成工具Sora接入ChatGPT。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3067769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         }
       ]
     }
