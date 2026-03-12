@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T19:29:22.299510+08:00",
-  "total_titles_processed": 1729,
+  "generated_at": "2026-03-12T20:47:18.557071+08:00",
+  "total_titles_processed": 1841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "国防部回应日本部署射程约 1000 公里远程导弹，正告日方「敢侵犯必迎头痛击」，如何解读日方意图？",
@@ -35,6 +35,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时45分 ~ 06时23分]"
+        },
+        {
+          "title": "日本官员承认出轨，高市早苗让他“用工作弥补”",
+          "url": "https://news.ifeng.com/c/8rR8BDRz10z",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 20时47分]"
         },
         {
           "title": "日本大阪一地下管道冲出地面18米",
@@ -68,17 +79,6 @@
           "time_info": "[00时45分 ~ 07时21分]"
         },
         {
-          "title": "日本官员承认出轨，高市早苗让他“用工作弥补”",
-          "url": "https://news.ifeng.com/c/8rR8BDRz10z",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时29分]"
-        },
-        {
           "title": "日本大地震15年后超2万人仍背井离乡",
           "url": "https://www.toutiao.com/trending/7615206824697937962/",
           "source": "今日头条",
@@ -99,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "据日本共同社：日本与美国将扩大机密信息共享。",
+          "url": "https://flash.jin10.com/detail/20260312203254943800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "日本首相高市早苗：无需为汽油相关措施追加预算。",
@@ -248,6 +259,17 @@
           "time_info": "01时45分"
         },
         {
+          "title": "美国将对 16 个贸易伙伴发起 301 调查，中国、欧盟、日本、印度、墨西哥等在内，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2015379875393976162",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "日本任天堂宣布，新款宝可梦游戏Pokemon Pokopia仅四天就售出超过220万份，其中100万份在国内售出。",
           "url": "https://wallstreetcn.com/livenews/3068436",
           "source": "华尔街见闻-快讯",
@@ -350,8 +372,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时21分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[07时21分 ~ 20时47分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -445,7 +467,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -770,11 +792,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            2
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时47分 ~ 19时29分]"
+          "appearance_count": 9,
+          "time_info": "[13时47分 ~ 20时47分]"
         },
         {
           "title": "逐玉抖音追剧团现场直播",
@@ -806,6 +829,20 @@
           "time_info": "[12时10分 ~ 15时43分]"
         },
         {
+          "title": "微信3大新功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A13%E5%A4%A7%E6%96%B0%E5%8A%9F%E8%83%BD%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 20时47分]"
+        },
+        {
           "title": "微信上线新功能，通话弹窗新增“忽略”选项",
           "url": "https://wallstreetcn.com/livenews/3068555",
           "source": "华尔街见闻-快讯",
@@ -816,19 +853,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时10分 ~ 13时47分]"
-        },
-        {
-          "title": "微信3大新功能",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A13%E5%A4%A7%E6%96%B0%E5%8A%9F%E8%83%BD%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时29分]"
         },
         {
           "title": "微信视频通话终于有锁定功能了",
@@ -850,9 +874,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时47分]"
         }
       ]
     },
@@ -1033,8 +1057,19 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌：沉浸式导航今日起在美国全面上线，未来几个月将逐步扩大覆盖范围。",
+          "url": "https://flash.jin10.com/detail/20260312203342460800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
         {
           "title": "谷歌和特斯拉组建“电网利用联盟” AI缺电逻辑有望持续演绎",
           "url": "https://www.cls.cn/detail/2310272",
