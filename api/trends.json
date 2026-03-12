@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T07:21:33.800327+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-03-12T09:28:10.425959+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 09时28分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -44,26 +45,27 @@
           "time_info": "[00时45分 ~ 06时23分]"
         },
         {
+          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 09时28分]"
+        },
+        {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
           "url": "https://www.cls.cn/detail/2310241",
           "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 09时28分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
@@ -210,7 +212,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -221,7 +223,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -229,7 +231,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "国防部回应日本部署射程约 1000 公里远程导弹，正告日方「敢侵犯必迎头痛击」，如何解读日方意图？",
@@ -237,11 +239,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 09时28分]"
         },
         {
           "title": "国防部回应日本部署远程导弹",
@@ -288,13 +291,35 @@
           "time_info": "[00时45分 ~ 07时21分]"
         },
         {
+          "title": "日本大地震15年后超2万人仍背井离乡",
+          "url": "https://www.toutiao.com/trending/7615206824697937962/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "日本首相高市早苗：无需为汽油相关措施追加预算。",
+          "url": "https://wallstreetcn.com/livenews/3068451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "美国自动驾驶初创公司Nuro在日本东京启动测试。",
           "url": "https://wallstreetcn.com/livenews/3068377",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -332,13 +357,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "日本任天堂宣布，新款宝可梦游戏Pokemon Pokopia仅四天就售出超过220万份，其中100万份在国内售出。",
+          "url": "https://wallstreetcn.com/livenews/3068436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "日本五年期国债收益率上升2.5个基点，至1.635%。",
+          "url": "https://flash.jin10.com/detail/20260312081047616800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "日本五年期国债收益率上升2.5个基点，至1.635%。",
+          "url": "https://wallstreetcn.com/livenews/3068426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 3月12日（周四）早盘盘初下跌0.65%报1144.67元/克；<br/>上海黄金交易所白银T+D 3月12日（周四）早盘盘初下跌2.41%报21680.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260312090210518800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 3月11日（周三）晚盘收盘下跌0.46%报1146.91元/克；<br/>上海黄金交易所白银T+D 3月11日（周三）晚盘收盘下跌2.09%报21750.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260312023116703800",
@@ -370,9 +439,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "现货白银回落至84美元/盎司下方，日内跌2.00%。",
+          "url": "https://flash.jin10.com/detail/20260312080756631800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
@@ -401,11 +481,12 @@
             22,
             20,
             23,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 09时28分]"
         }
       ]
     },
@@ -421,11 +502,12 @@
             17,
             12,
             16,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 09时28分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.61%，暂报2633.29点，期内大部分时间持稳于2620点附近——低位窄幅震荡。 MarketVectorTM数字资产100中盘指数跌1.25%，报2831.50点，过半时间持稳于2800点一线。 MarketVector数字资产100指数跌0.88%，报14124.93点，过半时间交投于14000点下方。 目前，Solana涨0.56%，狗狗币跌1.84%，XRP持平。 比特币涨0.97%，暂报70695.99美元；以太坊涨1.69%，暂报2069.95美元。",
