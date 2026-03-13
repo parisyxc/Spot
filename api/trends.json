@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T01:31:53.051503+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-03-14T02:35:20.228855+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
@@ -42,13 +42,24 @@
           "time_info": "[00时34分 ~ 01时31分]"
         },
         {
+          "title": "美股延续跌势，纳斯达克指数下跌1.00%。",
+          "url": "https://flash.jin10.com/detail/20260314015012456800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260314003327722800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         }
@@ -105,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
         },
         {
           "title": "美国三大股指悉数转跌，标普500指数跌超0.2%，纳指跌0.5%，半导体指数涨0.4%，银行指数涨0.2%，小盘股指跌超0.1%。",
@@ -133,8 +144,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
         },
         {
           "title": "据华尔街日报：驻扎在日本的“的黎波里”号两栖攻击舰及其配属的海军陆战队正前往中东。官员称，目前已有海军陆战队在中东地区支援针对伊朗的行动。",
@@ -161,19 +172,37 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
         },
         {
           "title": "数字货币市场周五走高，比特币涨穿7.2万美元，本周以太币涨超7.7%",
           "url": "https://wallstreetcn.com/livenews/3069952",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI基础设施 算力基建 AI Agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软(MSFT.O)CEO：我们是首家部署英伟达Vera Rubin NVL72系统进行验证的云服务提供商，这是与英伟达(NVDA.O)合作构建下一代AI基础设施的又一重要里程碑。",
+          "url": "https://flash.jin10.com/detail/20260314015342167800",
+          "source": "金十数据",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "02时35分"
         }
       ]
     },
@@ -190,8 +219,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
         }
       ]
     }
