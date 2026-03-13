@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T15:42:09.985579+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2026-03-13T16:35:25.452096+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "日本官员承认出轨，高市早苗让他“用工作弥补”",
@@ -31,17 +31,6 @@
           "time_info": "[00时31分 ~ 09时43分]"
         },
         {
-          "title": "日本高官承认出轨高市让用工作弥补",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%89%BF%E8%AE%A4%E5%87%BA%E8%BD%A8%E9%AB%98%E5%B8%82%E8%AE%A9%E7%94%A8%E5%B7%A5%E4%BD%9C%E5%BC%A5%E8%A1%A5%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
           "title": "日本女大臣开会迟到全程被拍",
           "url": "https://www.toutiao.com/trending/7615785953781071915/",
           "source": "今日头条",
@@ -51,8 +40,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时44分 ~ 15时42分]"
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 16时35分]"
+        },
+        {
+          "title": "日本高官承认出轨高市让用工作弥补",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%89%BF%E8%AE%A4%E5%87%BA%E8%BD%A8%E9%AB%98%E5%B8%82%E8%AE%A9%E7%94%A8%E5%B7%A5%E4%BD%9C%E5%BC%A5%E8%A1%A5%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "日经225指数收跌1.16%，报53819.61点。 日本东证指数收跌0.6%，报3,629.03点。 韩国首尔综指收跌1.7%，报5,487.24点。",
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "日本首相高市早苗：目前暂无提高消费税的计划。",
+          "url": "https://wallstreetcn.com/livenews/3069555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "名嘴：日本若敢越雷池一步必粉身碎骨",
@@ -178,6 +189,17 @@
           "time_info": "[05时28分 ~ 06时21分]"
         },
         {
+          "title": "商务部：自2026年3月14日起，对原产于日本和加拿大的进口卤化丁基橡胶征收反倾销税。",
+          "url": "https://wallstreetcn.com/livenews/3069551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "美国内政部长道格·伯古姆将在本周访问日本期间讨论液化天然气（LNG）购销协议。伯古姆表示，美国将推动更多阿拉斯加LNG的购销协议。",
           "url": "https://flash.jin10.com/detail/20260313025006615800",
           "source": "金十数据",
@@ -211,6 +233,17 @@
           "time_info": "14时45分"
         },
         {
+          "title": "日本政府推动设立国家情报机制 引发舆论质疑",
+          "url": "https://wallstreetcn.com/livenews/3069546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "日本经济产业大臣赤泽亮正：预计日本原油进口量将在本月晚些时候出现下滑。 将灵活采取措施，以最大限度减少油价对经济的影响。 预计（释放出的）原油储备的买方为国内炼油企业。 政府正努力确保多元化的替代采购渠道。 日本私营企业正在寻找替代石油来源。 合理的油价应是伊朗冲突前的水平。",
           "url": "https://wallstreetcn.com/livenews/3069339",
           "source": "华尔街见闻-快讯",
@@ -228,7 +261,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -272,7 +305,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -305,7 +338,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -368,7 +401,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
@@ -380,8 +413,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时21分 ~ 15时42分]"
+          "appearance_count": 12,
+          "time_info": "[06时21分 ~ 16时35分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -394,6 +427,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时24分]"
+        },
+        {
+          "title": "寒武纪2025年营收暴增超450%，净利润20.6亿元强势扭亏，章建平增持40.8万股 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3767362",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[06时21分 ~ 16时35分]"
         },
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -409,19 +456,6 @@
           "time_info": "[00时31分 ~ 06时21分]"
         },
         {
-          "title": "寒武纪2025年营收暴增超450%，净利润20.6亿元强势扭亏，章建平增持40.8万股 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3767362",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时21分 ~ 15时42分]"
-        },
-        {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3767295",
           "source": "华尔街见闻",
@@ -429,8 +463,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 15时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 16时35分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
@@ -453,6 +487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "为何油价大涨美股大跌",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
@@ -572,6 +617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "Adobe美股盘前下跌9%，公司上季营收超预期创纪录，但指引平平，任期最久CEO将卸任。",
+          "url": "https://wallstreetcn.com/livenews/3069535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
@@ -589,8 +645,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时44分 ~ 15时42分]"
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 16时35分]"
+        },
+        {
+          "title": "别让你的微信隐私在裸奔",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E4%BD%A0%E7%9A%84%E5%BE%AE%E4%BF%A1%E9%9A%90%E7%A7%81%E5%9C%A8%E8%A3%B8%E5%A5%94%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            7,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 16时35分]"
         },
         {
           "title": "OpenClaw登录微信被刷走600块？不实",
@@ -616,19 +686,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时42分 ~ 13时45分]"
-        },
-        {
-          "title": "别让你的微信隐私在裸奔",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E4%BD%A0%E7%9A%84%E5%BE%AE%E4%BF%A1%E9%9A%90%E7%A7%81%E5%9C%A8%E8%A3%B8%E5%A5%94%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 15时42分]"
         },
         {
           "title": "民警教你设置微信三道锁",
@@ -738,7 +795,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -760,7 +817,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -782,7 +839,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -957,7 +1014,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "恒指低开0.52%，报25583.55点；恒生科技指数跌0.42%。理想汽车、地平线机器人、比亚迪电子等跌超1%。",
@@ -981,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 02时46分]"
+        },
+        {
+          "title": "宇树科技四足机器人新专利获授权",
+          "url": "https://wallstreetcn.com/livenews/3069537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
