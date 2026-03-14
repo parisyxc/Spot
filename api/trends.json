@@ -1,330 +1,33 @@
 {
-  "generated_at": "2026-03-14T23:23:27.819745+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-03-15T00:26:16.746633+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "人民日报评论：日本穷兵黩武，只会加速基建“塌方”",
-          "url": "https://news.ifeng.com/c/8rSyopvCWvC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时24分]"
-        },
-        {
-          "title": "日本考虑重启国内液化天然气运输船生产。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3070093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 17时27分]"
-        },
-        {
-          "title": "日本遭遇股债汇“三杀”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%81%AD%E9%81%87%E8%82%A1%E5%80%BA%E6%B1%87%E2%80%9C%E4%B8%89%E6%9D%80%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 07时24分]"
-        },
-        {
-          "title": "日本最大电力公司JERA全球首席执行官卡尼：刚刚与韩国燃气公司签署的液化天然气货物互换谅解备忘录，将有助于双方的能源供应稳定。",
-          "url": "https://flash.jin10.com/detail/20260314131715365800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时33分]"
-        },
-        {
-          "title": "美国将逾2000名海军陆战队员从日本调往中东 引发地区盟友担忧",
-          "url": "https://flash.jin10.com/detail/20260314135604302800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 16时29分]"
-        },
-        {
-          "title": "日本经济再生大臣赤泽亮正：今明两天，在东京举行“印度太平洋能源安全保障阁僚·商业论坛”。由日美两国政府共同主办，邀请各国阁僚和产业界领袖。双边会谈也接连不断。在中东局势紧张的时刻，各国的合作显得尤为重要。",
-          "url": "https://flash.jin10.com/detail/20260314092011157800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 12时07分]"
-        },
-        {
-          "title": "韩国财政部：韩国与日本财界人士赞赏韩国为改善日本机构投资者市场准入所作的努力。",
-          "url": "https://flash.jin10.com/detail/20260314160606072800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时23分]"
-        },
-        {
-          "title": "日本顶流寿司 吃完“上吐下泻”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A1%B6%E6%B5%81%E5%AF%BF%E5%8F%B8+%E5%90%83%E5%AE%8C%E2%80%9C%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 16时29分]"
-        },
-        {
-          "title": "日本首相高市早苗与不丹首相策林·托杰同意加强双边关系。",
-          "url": "https://flash.jin10.com/detail/20260314131610431800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时33分]"
-        },
-        {
-          "title": "韩国财政部：韩国与日本财长重申，将密切监测外汇市场，对过度波动和无序走势采取适当措施。",
-          "url": "https://flash.jin10.com/detail/20260314160548741800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时23分]"
-        },
-        {
-          "title": "韩国财政部：韩国与日本财政部欢迎韩国就纳入全球政府债券指数事宜与国际投资者加强沟通的努力。",
-          "url": "https://flash.jin10.com/detail/20260314160537045800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时23分]"
-        },
-        {
-          "title": "日本最大电力公司JERA全球首席执行官卡尼：如果中东冲突持续下去，我们可能需要与政府合作，考虑采取号召节约用电、重启闲置煤电站等措施。",
-          "url": "https://flash.jin10.com/detail/20260314131359513800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时33分]"
-        },
-        {
-          "title": "日本最大电力公司JERA全球首席执行官卡尼：团队正在与现有长期供应商商讨额外的液化天然气采购事宜。",
-          "url": "https://flash.jin10.com/detail/20260314131234181800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时33分]"
-        },
-        {
-          "title": "日本最大电力公司JERA全球首席执行官卡尼：尽管中东局势紧张，但液化天然气供应不会立即出现短缺。",
-          "url": "https://flash.jin10.com/detail/20260314130659038800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时33分]"
-        },
-        {
-          "title": "日本财务大臣片山皋月：将随时应对汇市波动，同时关注汇率变动对民众生活的影响。",
-          "url": "https://flash.jin10.com/detail/20260314161210787800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时23分]"
-        },
-        {
-          "title": "霍尔木兹封锁日本最先扛不住了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%B0%81%E9%94%81%E6%97%A5%E6%9C%AC%E6%9C%80%E5%85%88%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时23分]"
-        },
-        {
-          "title": "前日本驻伊朗大使：伊朗冲突逐渐演变成一场“消耗战”",
-          "url": "https://flash.jin10.com/detail/20260314121041290800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时33分]"
-        },
-        {
-          "title": "日本考虑购买俄罗斯石油",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%80%83%E8%99%91%E8%B4%AD%E4%B9%B0%E4%BF%84%E7%BD%97%E6%96%AF%E7%9F%B3%E6%B2%B9%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 23时23分]"
-        },
-        {
-          "title": "警惕！美制“战斧”巡航导弹首次交付日本",
-          "url": "https://wallstreetcn.com/livenews/3070146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时43分]"
-        },
-        {
-          "title": "学者：日本危险动向值得警惕",
-          "url": "https://www.toutiao.com/trending/7616362794099048474/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "据华尔街日报：驻扎在日本的“的黎波里”号两栖攻击舰及其配属的海军陆战队正前往中东。官员称，目前已有海军陆战队在中东地区支援针对伊朗的行动。",
-          "url": "https://flash.jin10.com/detail/20260313232917846800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 16,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
           "url": "https://wallstreetcn.com/articles/3767492",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1,
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时29分 ~ 23时23分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时24分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
           "url": "https://www.cls.cn/detail/2312848",
           "source": "财联社热门",
           "ranks": [
-            7,
-            3,
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时24分 ~ 23时23分]"
-        },
-        {
-          "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
-          "url": "https://wallstreetcn.com/articles/3767394",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时28分 ~ 07时24分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -334,293 +37,53 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 23时23分]"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260314040823519800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时24分]"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260314040819364800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时24分]"
-        },
-        {
-          "title": "美国科技股七巨头指数陷入回调区间，成分股Meta收跌3.8%，创10月30日以来最大单日跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3070003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260314003323131800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
-        },
-        {
-          "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3070022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时29分 ~ 07时24分]"
-        },
-        {
-          "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
-          "url": "https://flash.jin10.com/detail/20260314040028174800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时24分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
-          "url": "https://wallstreetcn.com/livenews/3070015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时29分 ~ 07时24分]"
-        },
-        {
-          "title": "美股三大指数集体高开 百度涨超2%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%852%25",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "美国科技股七巨头指数陷入回调区间，Meta逾四个月最大单日跌幅，微软、特斯拉、亚马逊今年已跌超10%",
-          "url": "https://wallstreetcn.com/livenews/3070003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时24分]"
-        },
-        {
-          "title": "美股延续跌势，纳斯达克指数下跌1.00%。",
-          "url": "https://flash.jin10.com/detail/20260314015012456800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260314003327722800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "纽约期金跌2%，逼近5000美元，现货白银本周跌超4.7%",
-          "url": "https://wallstreetcn.com/livenews/3070012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时24分]"
-        },
-        {
-          "title": "现货白银日内跌5.00%，现报79.69美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260314000525807800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：3月10日当周，投机者所持COMEX黄金净多头头寸增加1,381手合约，至102,236手合约，创六周新高。 所持COMEX白银净多头头寸创七个月新高，所持COMEX铜净多头头寸创五个月新低。 所持NYMEX铂金净多头头寸创八周新高，所持NYMEX钯金净多头头寸创六周新低。",
-          "url": "https://wallstreetcn.com/livenews/3069989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "纽约银日内跌幅达5.5%，报80.37美元/盎司。 现货白银日内跌幅达5.0%，报79.62美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3069925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "现货白银日内跌超4.00%，现报80.52美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260313234320780800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月13日（周五）晚盘收盘下跌1.03%报1124.86元/克；<br/>上海黄金交易所白银T+D 3月13日（周五）晚盘收盘下跌3.19%报20640.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260314023058301800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
-          "title": "机器人“保姆”何时来咱家",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E4%BF%9D%E5%A7%86%E2%80%9D%E4%BD%95%E6%97%B6%E6%9D%A5%E5%92%B1%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 09时30分]"
-        },
-        {
-          "title": "机器人正要进电梯被男子一脚踹倒",
-          "url": "https://www.toutiao.com/trending/7616283390312628266/",
+          "title": "湖北“省考”开考 人形机器人入考题",
+          "url": "https://www.toutiao.com/trending/7616976184911364146/",
           "source": "今日头条",
           "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时39分 ~ 23时23分]"
-        },
-        {
-          "title": "优必选：拟将全球品牌总部落沪 计划合作发起机器人领域的产业科技发展基金",
-          "url": "https://wallstreetcn.com/livenews/3070134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "数字货币市场周五走高，比特币涨穿7.2万美元，本周以太币涨超7.7%",
-          "url": "https://wallstreetcn.com/livenews/3069952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时28分]"
+          "time_info": "00时26分"
         },
         {
           "title": "机器人踢球800个假动作",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%A2%E7%90%83800%E4%B8%AA%E5%81%87%E5%8A%A8%E4%BD%9C",
           "source": "百度热搜",
           "ranks": [
-            26,
-            23
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "傲鲨外骨骼机器人亮相AWE2026",
-          "url": "https://www.toutiao.com/trending/7616014653279240198/",
+          "title": "机器人正要进电梯被男子一脚踹倒",
+          "url": "https://www.toutiao.com/trending/7616283390312628266/",
           "source": "今日头条",
           "ranks": [
-            29
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -630,127 +93,15 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时42分 ~ 23时23分]"
-        },
-        {
-          "title": "本周，标普500指数累跌1.6%，道指累跌2%，纳指累跌1.3%。 周五当天，标普500指数初步收跌0.6%，科技、原材料、电信板块至多跌1.3%。 纳斯达克100指数初步收跌0.6%，成分股中，奥多比Adobe初步收跌7.2%，博通跌4.1%，Meta跌3.7%，Diamondback Energy涨3.2%，西部数据涨4.1%，美光涨5%。 Salesforce初步收跌3.4%，苹果跌2.1%，英伟达跌1.7%，微软跌1.6%，领跌道指成分股，联合健康则涨1.7%，波音公司涨2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3070000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "报道：Meta计划因AI成本攀升而实施大规模裁员",
-          "url": "https://wallstreetcn.com/livenews/3070059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 12时07分]"
-        },
-        {
-          "title": "消息人士：Meta或将裁员至少20%",
-          "url": "https://flash.jin10.com/detail/20260314082411477800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "市场消息：目击者称，卡塔尔当局于周六清晨疏散了多哈的Msheireb部分区域，该区域包括政府办公机构和谷歌办公室。",
-          "url": "https://flash.jin10.com/detail/20260314081810552800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "沪指失守4100点，化工活跃，锂电爆发，恒科指跌1%，半导体大跌，人民币跌破6.9",
-          "url": "https://wallstreetcn.com/articles/3767406",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 16时29分]"
-        },
-        {
-          "title": "马斯克：超大型半导体制造工厂TeraFAB项目将在7天内启动。",
-          "url": "https://flash.jin10.com/detail/20260314214348744800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 23时23分]"
-        },
-        {
-          "title": "纳指收盘跌穿200日均线，道指本周跌约2%，半导体指数累涨超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3070000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时24分]"
-        },
-        {
-          "title": "美国三大股指悉数转跌，标普500指数跌超0.2%，纳指跌0.5%，半导体指数涨0.4%，银行指数涨0.2%，小盘股指跌超0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3069909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "别让你的微信隐私在裸奔",
-          "url": "https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9%E4%BD%A0%E7%9A%84%E5%BE%AE%E4%BF%A1%E9%9A%90%E7%A7%81%E5%9C%A8%E8%A3%B8%E5%A5%94",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时24分]"
-        },
         {
           "title": "5块钱买造假软件 微信余额能过亿",
           "url": "https://www.baidu.com/s?wd=5%E5%9D%97%E9%92%B1%E4%B9%B0%E9%80%A0%E5%81%87%E8%BD%AF%E4%BB%B6+%E5%BE%AE%E4%BF%A1%E4%BD%99%E9%A2%9D%E8%83%BD%E8%BF%87%E4%BA%BF",
@@ -758,26 +109,26 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
-      "keyword_group": "AI基础设施 算力基建 AI Agent",
+      "keyword_group": "稳定币 日本",
       "match_count": 1,
       "titles": [
         {
-          "title": "微软(MSFT.O)CEO：我们是首家部署英伟达Vera Rubin NVL72系统进行验证的云服务提供商，这是与英伟达(NVDA.O)合作构建下一代AI基础设施的又一重要里程碑。",
-          "url": "https://flash.jin10.com/detail/20260314015342167800",
-          "source": "金十数据",
+          "title": "日本考虑购买俄罗斯石油",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%80%83%E8%99%91%E8%B4%AD%E4%B9%B0%E4%BF%84%E7%BD%97%E6%96%AF%E7%9F%B3%E6%B2%B9%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时35分"
+          "time_info": "00时26分"
         }
       ]
     }
