@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T12:39:44.830056+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-03-16T14:18:52.224668+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普点名日本护航，高市早苗压力陡增",
@@ -30,24 +30,35 @@
           "time_info": "09时57分"
         },
         {
+          "title": "日本共同社报道称，日本外务大臣茂木敏充和美国国务卿鲁比奥很可能讨论美国总统特朗普关于向霍尔木兹海峡派遣护航舰艇的请求。",
+          "url": "https://flash.jin10.com/detail/20260316135643816800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "市场消息： 日本外相茂木敏充与美国国务卿鲁比奥定于周一通话。",
+          "url": "https://flash.jin10.com/detail/20260316135345899800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "越南请求日本和韩国协助获取原油",
           "url": "https://flash.jin10.com/detail/20260316121412504800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "日本：目前没有计划向霍尔木兹海峡派遣舰艇",
-          "url": "https://wallstreetcn.com/livenews/3070586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -63,6 +74,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "兵力告急,日本女兵潜艇服役",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351837&amp;topic_name=%E5%85%B5%E5%8A%9B%E5%91%8A%E6%80%A5%2C%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%85%B5%E6%BD%9C%E8%89%87%E6%9C%8D%E5%BD%B9",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 14时18分]"
+        },
+        {
           "title": "日经225指数、日本东证指数日内跌幅达1%。",
           "url": "https://wallstreetcn.com/livenews/3070505",
           "source": "华尔街见闻-快讯",
@@ -74,6 +96,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "日本40年期国债收益率上行5个基点至3.785%。",
+          "url": "https://wallstreetcn.com/livenews/3070628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "日本五年期国债收益率下跌1.5个基点，至1.665%。",
           "url": "https://flash.jin10.com/detail/20260316093117802800",
           "source": "金十数据",
@@ -83,17 +116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
-        },
-        {
-          "title": "兵力告急,日本女兵潜艇服役",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351837&amp;topic_name=%E5%85%B5%E5%8A%9B%E5%91%8A%E6%80%A5%2C%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%85%B5%E6%BD%9C%E8%89%87%E6%9C%8D%E5%BD%B9",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
         },
         {
           "title": "美国内政部长伯古姆：日本希望从美国购买更多石油。",
@@ -109,13 +131,25 @@
           "time_info": "[00时27分 ~ 02时33分]"
         },
         {
+          "title": "日本：目前没有计划向霍尔木兹海峡派遣舰艇",
+          "url": "https://wallstreetcn.com/livenews/3070586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 14时18分]"
+        },
+        {
           "title": "日本10年期国债收益率上涨1.5个基点，至2.255%。",
           "url": "https://flash.jin10.com/detail/20260316115624526800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -126,9 +160,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "穆迪分析：中东冲突与薪资疲软两头添堵 日本央行重陷僵局",
+          "url": "https://flash.jin10.com/detail/20260316130452372800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "日本防卫大臣小泉纯一郎：没有考虑向中东派遣自卫队。",
@@ -140,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "日本10年期国债收益率上涨2.5个基点，至2.265%。",
+          "url": "https://flash.jin10.com/detail/20260316124002680800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "日本民调显示超八成受访民众反对美国打击伊朗",
@@ -181,7 +237,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -249,6 +305,29 @@
           "time_info": "[07时24分 ~ 12时39分]"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 14时18分]"
+        },
+        {
+          "title": "黄金白银再现断崖式跳水",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%86%8D%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 14时18分]"
+        },
+        {
           "title": "现货白银失守79美元",
           "url": "https://flash.jin10.com/detail/20260316091407586800",
           "source": "金十数据",
@@ -260,17 +339,6 @@
           "time_info": "09时57分"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
           "title": "现货黄金周一低开近20美元，一度跌破5000美元/盎司；现货白银低开0.3美元，现报79.96美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260316060126659800",
           "source": "金十数据",
@@ -280,99 +348,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "黄金白银再现断崖式跳水",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%86%8D%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
-          "url": "https://wallstreetcn.com/articles/3767535",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 12时39分]"
-        },
-        {
-          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
-          "url": "https://wallstreetcn.com/articles/3767545",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 12时39分]"
-        },
-        {
-          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "国际油价涨超3%，美股期货小幅下跌",
-          "url": "https://wallstreetcn.com/livenews/3070410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时24分]"
-        },
-        {
-          "title": "美股三大股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20260316060258130800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——超级央行周来袭，美日英欧瑞加央行决议轮番“炸场”；阿里、腾讯等多家科技公司财报将公布",
-          "url": "https://flash.jin10.com/detail/20260315214911547800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "数字货币市场走高，比特币涨幅收窄至1%",
@@ -442,15 +423,130 @@
           "time_info": "09时57分"
         },
         {
+          "title": "加密货币走高，比特币上涨3%至73,860.55美元，以太坊上涨6%至2,263.93美元。",
+          "url": "https://wallstreetcn.com/livenews/3070607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "LG CEO：通过人工智能合作 打造能读懂生活的机器人",
           "url": "https://flash.jin10.com/detail/20260316113431620800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
+          "url": "https://wallstreetcn.com/articles/3767535",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 14时18分]"
+        },
+        {
+          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
+          "url": "https://wallstreetcn.com/articles/3767545",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 14时18分]"
+        },
+        {
+          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 14时18分]"
+        },
+        {
+          "title": "国际油价涨超3%，美股期货小幅下跌",
+          "url": "https://wallstreetcn.com/livenews/3070410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时24分]"
+        },
+        {
+          "title": "美股三大股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20260316060258130800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——超级央行周来袭，美日英欧瑞加央行决议轮番“炸场”；阿里、腾讯等多家科技公司财报将公布",
+          "url": "https://flash.jin10.com/detail/20260315214911547800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "恒生科技指数涨超2%，恒指涨超1%。比亚迪股份涨超6%，蔚来涨超5%，京东健康、小米集团、华虹半导体等涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3070573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "创业板指午后涨超1%。半导体、存储芯片板块持续走高，沪深京三市上涨个股近2600只。",
+          "url": "https://wallstreetcn.com/livenews/3070604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     },
@@ -509,25 +605,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 12时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恒生科技指数涨超2%，恒指涨超1%。比亚迪股份涨超6%，蔚来涨超5%，京东健康、小米集团、华虹半导体等涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3070573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 14时18分]"
         }
       ]
     }
