@@ -1,72 +1,84 @@
 {
-  "generated_at": "2026-03-17T03:52:26.678247+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-03-17T04:33:43.208034+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "稳定币 日本",
+      "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 4,
       "titles": [
         {
-          "title": "赖清德言论引众怒！蓝营前发言人：想当日本人，请去日本",
-          "url": "https://news.ifeng.com/c/8rXs56XKCFj",
-          "source": "凤凰网",
+          "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时33分]"
         },
         {
-          "title": "兵力告急,日本女兵潜艇服役",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351837&amp;topic_name=%E5%85%B5%E5%8A%9B%E5%91%8A%E6%80%A5%2C%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%85%B5%E6%BD%9C%E8%89%87%E6%9C%8D%E5%BD%B9",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时52分]"
-        },
-        {
-          "title": "日本一海域两船倾覆致2人死亡",
-          "url": "https://www.douyin.com/hot/2432532",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "日本考虑引进乌克兰无人机",
-          "url": "https://flash.jin10.com/detail/20260316232726101800",
+          "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260317040623869800",
           "source": "金十数据",
           "ranks": [
-            27
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "04时33分"
+        },
+        {
+          "title": "金十图示：2026年03月16日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260317040621186800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美股收盘：三大股指集体收涨 部分芯片股走强",
+          "url": "https://flash.jin10.com/detail/20260317040132511800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "标普500指数初步收涨1%，科技、可选消费、电信板块至少涨约1%，能源板块涨0.3%表现倒数第二。 纳斯达克100指数初步收涨1.1%，成分股中，Strategy初步收涨5.6%，西部数据、Arm控股、亿滋国际、Doordash、希捷科技至少涨约3.8%，新思科技涨3.3%、Meta涨2.2%表现靠前，AppLovin跌1.3%，星巴克跌1.3%，ORLY跌1.4%，CrowdStrike跌3.6%。 沃尔玛、迪士尼、美国运通、VZ、3M至多跌0.6%，在道指成分股表现垫底。",
+          "url": "https://wallstreetcn.com/livenews/3071138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
         {
           "title": "Meta将斥资高达270亿美元采购Nebius算力",
           "url": "https://wallstreetcn.com/livenews/3071131",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 04时33分]"
         },
         {
           "title": "美国参议院民主党成员Warren：调查Meta、微软、塔吉特、耐克、亚马逊的裁员行为。",
@@ -93,6 +105,57 @@
       ]
     },
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "赖清德言论引众怒！蓝营前发言人：想当日本人，请去日本",
+          "url": "https://news.ifeng.com/c/8rXs56XKCFj",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时33分]"
+        },
+        {
+          "title": "兵力告急,日本女兵潜艇服役",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351837&amp;topic_name=%E5%85%B5%E5%8A%9B%E5%91%8A%E6%80%A5%2C%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%85%B5%E6%BD%9C%E8%89%87%E6%9C%8D%E5%BD%B9",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时33分]"
+        },
+        {
+          "title": "日本一海域两船倾覆致2人死亡",
+          "url": "https://www.douyin.com/hot/2432532",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 04时33分]"
+        },
+        {
+          "title": "日本考虑引进乌克兰无人机",
+          "url": "https://flash.jin10.com/detail/20260316232726101800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -105,8 +168,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时33分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人格雷格・布罗克曼：GPT-5.4年化新增净收入达到10亿美元。",
@@ -135,8 +198,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时33分]"
         },
         {
           "title": "人形机器人“网球运动员”来了",
@@ -145,26 +208,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时52分]"
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 04时33分]"
         }
       ]
     },
@@ -181,8 +227,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时33分]"
         }
       ]
     },
@@ -214,11 +260,12 @@
           "ranks": [
             7,
             10,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时33分]"
         }
       ]
     }
