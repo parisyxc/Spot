@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T17:48:33.280017+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-03-18T18:46:27.840660+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -15,11 +15,12 @@
             3,
             6,
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 17时48分]"
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 18时46分]"
         },
         {
           "title": "日本跃跃欲试出兵中东恐沦为替死鬼",
@@ -78,6 +79,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "日本炒作中国国防预算，国防部回应",
+          "url": "https://news.ifeng.com/c/8rb6767tnIb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时46分]"
+        },
+        {
           "title": "日本3月路透短观制造业景气判断指数 18，前值13。",
           "url": "https://flash.jin10.com/detail/20260318070003030800",
           "source": "金十数据",
@@ -109,17 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "日本炒作中国国防预算，国防部回应",
-          "url": "https://news.ifeng.com/c/8rb6767tnIb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
         },
         {
           "title": "日本3月路透短观非制造业景气判断指数 25，前值25。",
@@ -167,15 +168,15 @@
           "time_info": "[14时02分 ~ 15时08分]"
         },
         {
-          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
-          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
+          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
+          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
           "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时48分"
+          "time_info": "18时46分"
         },
         {
           "title": "日本制铁：从日本国际协力银行（JBIC）、三菱日联及其他机构获得了总计约9000亿日元的贷款。筹集资金将用于偿还收购美国钢铁公司所借的过渡贷款。",
@@ -187,6 +188,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
+          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时46分]"
         },
         {
           "title": "日本商船三井CFO：在股价上涨后将考虑进行股票拆分。",
@@ -231,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "日本经济财政大臣城内实将于周四出席日本央行货币政策会议。",
+          "url": "https://flash.jin10.com/detail/20260318181521565800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "报道：Elliott持有日本商船三井大额股权",
@@ -324,7 +348,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -374,6 +398,18 @@
           "time_info": "[00时01分 ~ 09时49分]"
         },
         {
+          "title": "腾讯发布2025年财报",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%8F%91%E5%B8%832025%E5%B9%B4%E8%B4%A2%E6%8A%A5%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时46分]"
+        },
+        {
           "title": "美国SEC主席提议根据公司规模调整财报披露频率",
           "url": "https://wallstreetcn.com/livenews/3071950",
           "source": "华尔街见闻-快讯",
@@ -391,18 +427,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
-        },
-        {
-          "title": "腾讯发布2025年财报",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%8F%91%E5%B8%832025%E5%B9%B4%E8%B4%A2%E6%8A%A5%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -430,6 +455,18 @@
           "time_info": "[04时34分 ~ 05时33分]"
         },
         {
+          "title": "“芯”潮澎湃！美光市值首次突破5000亿美元 明早财报有何期待？",
+          "url": "https://www.cls.cn/detail/2316465",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时46分]"
+        },
+        {
           "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260318003210314800",
           "source": "金十数据",
@@ -452,15 +489,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "“芯”潮澎湃！美光市值首次突破5000亿美元 明早财报有何期待？",
-          "url": "https://www.cls.cn/detail/2316465",
+          "title": "【每日收评】创业板指震荡走高涨超2%，科技股集体反攻，算力链再度站上风口",
+          "url": "https://www.cls.cn/detail/2316830",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时48分"
+          "time_info": "18时46分"
         },
         {
           "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股收盘）",
@@ -541,7 +578,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -552,9 +589,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 18时46分]"
         },
         {
           "title": "金十图示：2026年03月18日（周三）白银ETF持仓报告",
@@ -577,18 +626,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "黄金价格下跌 普通人能入手吗",
-          "url": "https://www.toutiao.com/trending/7618482201037901355/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时48分]"
         },
         {
           "title": "纽约银日内跌幅达2.0%，报79.06美元/盎司。 现货白银日内跌幅达2.0%，报79.07美元/盎司。",
@@ -681,6 +718,196 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "看机器人跳一支春天的芭蕾",
+          "url": "https://www.douyin.com/hot/2433980",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时28分]"
+        },
+        {
+          "title": "宇树创始人：今年机器人会快过博尔特",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%88%9B%E5%A7%8B%E4%BA%BA%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E5%BF%AB%E8%BF%87%E5%8D%9A%E5%B0%94%E7%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 15时08分]"
+        },
+        {
+          "title": "宇树创始人称今年机器人会快过博尔特",
+          "url": "https://www.toutiao.com/trending/7617456243996885038/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 14时02分]"
+        },
+        {
+          "title": "机器人租赁平台擎天租获过亿融资，黄晓明、乐华娱乐参投",
+          "url": "https://wallstreetcn.com/livenews/3072372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "看机器人剥香蕉，大爷急疯了",
+          "url": "https://news.ifeng.com/c/8rZeUSzEwjt",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 16时42分]"
+        },
+        {
+          "title": "石景山区人形机器人数据训练中心三期将投用",
+          "url": "https://flash.jin10.com/detail/20260318181515107800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "智元机器人获颁国家高新技术企业认证",
+          "url": "https://wallstreetcn.com/livenews/3072250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
+          "url": "https://wallstreetcn.com/livenews/3071821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "韩国首尔市内地铁全线接入微信支付",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%94%E5%B8%82%E5%86%85%E5%9C%B0%E9%93%81%E5%85%A8%E7%BA%BF%E6%8E%A5%E5%85%A5%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            27,
+            19,
+            18,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时28分]"
+        },
+        {
+          "title": "微信能折叠发图了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E6%8A%98%E5%8F%A0%E5%8F%91%E5%9B%BE%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 14时02分]"
+        },
+        {
+          "title": "微信新功能获赞：分寸感一下就上来了",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%E8%8E%B7%E8%B5%9E%EF%BC%9A%E5%88%86%E5%AF%B8%E6%84%9F%E4%B8%80%E4%B8%8B%E5%B0%B1%E4%B8%8A%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时46分]"
+        },
+        {
+          "title": "腾讯QClaw宣布版本更新，微信入口升级为小程序",
+          "url": "https://wallstreetcn.com/livenews/3072033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "热搜！微信灰度测试“折叠发图”",
+          "url": "https://wallstreetcn.com/livenews/3072370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "微信灰度测试“折叠发图”新功能",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95%E2%80%9C%E6%8A%98%E5%8F%A0%E5%8F%91%E5%9B%BE%E2%80%9D%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "iOS版微信消息通知也有头像了",
+          "url": "https://s.weibo.com/weibo?q=%23iOS%E7%89%88%E5%BE%AE%E4%BF%A1%E6%B6%88%E6%81%AF%E9%80%9A%E7%9F%A5%E4%B9%9F%E6%9C%89%E5%A4%B4%E5%83%8F%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         }
       ]
     },
@@ -834,162 +1061,6 @@
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "韩国首尔市内地铁全线接入微信支付",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%94%E5%B8%82%E5%86%85%E5%9C%B0%E9%93%81%E5%85%A8%E7%BA%BF%E6%8E%A5%E5%85%A5%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            27,
-            19,
-            18,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时28分]"
-        },
-        {
-          "title": "微信能折叠发图了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E6%8A%98%E5%8F%A0%E5%8F%91%E5%9B%BE%E4%BA%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 14时02分]"
-        },
-        {
-          "title": "腾讯QClaw宣布版本更新，微信入口升级为小程序",
-          "url": "https://wallstreetcn.com/livenews/3072033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "微信新功能获赞：分寸感一下就上来了",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%E8%8E%B7%E8%B5%9E%EF%BC%9A%E5%88%86%E5%AF%B8%E6%84%9F%E4%B8%80%E4%B8%8B%E5%B0%B1%E4%B8%8A%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
-        },
-        {
-          "title": "微信灰度测试“折叠发图”新功能",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95%E2%80%9C%E6%8A%98%E5%8F%A0%E5%8F%91%E5%9B%BE%E2%80%9D%E6%96%B0%E5%8A%9F%E8%83%BD",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "iOS版微信消息通知也有头像了",
-          "url": "https://s.weibo.com/weibo?q=%23iOS%E7%89%88%E5%BE%AE%E4%BF%A1%E6%B6%88%E6%81%AF%E9%80%9A%E7%9F%A5%E4%B9%9F%E6%9C%89%E5%A4%B4%E5%83%8F%E4%BA%86%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "看机器人跳一支春天的芭蕾",
-          "url": "https://www.douyin.com/hot/2433980",
-          "source": "抖音",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时28分]"
-        },
-        {
-          "title": "宇树创始人：今年机器人会快过博尔特",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%88%9B%E5%A7%8B%E4%BA%BA%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E5%BF%AB%E8%BF%87%E5%8D%9A%E5%B0%94%E7%89%B9",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 15时08分]"
-        },
-        {
-          "title": "宇树创始人称今年机器人会快过博尔特",
-          "url": "https://www.toutiao.com/trending/7617456243996885038/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 14时02分]"
-        },
-        {
-          "title": "看机器人剥香蕉，大爷急疯了",
-          "url": "https://news.ifeng.com/c/8rZeUSzEwjt",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 16时42分]"
-        },
-        {
-          "title": "智元机器人获颁国家高新技术企业认证",
-          "url": "https://wallstreetcn.com/livenews/3072250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
-          "url": "https://wallstreetcn.com/livenews/3071821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 5,
       "titles": [
@@ -1011,7 +1082,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
