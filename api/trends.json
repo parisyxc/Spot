@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T04:49:59.445221+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-03-19T05:49:32.187933+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 05时49分]"
         },
         {
           "title": "腾讯Q4营收同比增长13%，调整后净利增17%，云业务全年实现规模化盈利 | 财报见闻",
@@ -29,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 05时49分]"
         },
         {
           "title": "【焦点复盘】科技股爆发引领情绪回暖，存储芯片股热度居高不下，化工等周期股逆势领跌",
@@ -40,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 05时49分]"
         },
         {
           "title": "美股延续跌势，纳斯达克指数下跌1.00%。",
@@ -59,22 +60,24 @@
           "url": "https://wallstreetcn.com/livenews/3072684",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时49分]"
         },
         {
           "title": "日常消费品ETF收跌超2.4%，与可选消费ETF领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3072682",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时49分]"
         },
         {
           "title": "金十图示：2026年03月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -83,7 +86,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -94,7 +97,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
@@ -112,8 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 05时49分]"
         },
         {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
@@ -123,8 +126,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 05时49分]"
+        },
+        {
+          "title": "赖清德称日本殖民台湾是为推动“东亚共荣”，外交部：对民族的可耻背叛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788558",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 05时49分]"
+        },
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 05时49分]"
         },
         {
           "title": "预计日本将在下一轮对美国投资中涉足核反应堆领域。 东芝考虑参与美国西屋Westinghouse的核反应堆建设。 三菱重工业考虑参与其中。（日经新闻）",
@@ -138,36 +164,13 @@
           "time_info": "00时05分"
         },
         {
-          "title": "赖清德称日本殖民台湾是为推动“东亚共荣”，外交部：对民族的可耻背叛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788558",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 04时49分]"
-        },
-        {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 04时49分]"
-        },
-        {
           "title": "中国、日本和英国在1月份增持美债",
           "url": "https://flash.jin10.com/detail/20260319041245843800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -178,7 +181,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
@@ -186,7 +189,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价",
@@ -196,19 +199,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 04时49分]"
-        },
-        {
-          "title": "现货白银向下触及75美元/盎司，日内跌5.31%。",
-          "url": "https://flash.jin10.com/detail/20260319043154673800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 05时49分]"
         },
         {
           "title": "黄金价格下跌 普通人能入手吗",
@@ -220,19 +212,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 05时49分]"
         },
         {
-          "title": "现货白银日内大跌5.00%，现报75.24美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260319042428712800",
+          "title": "现货白银向下触及75美元/盎司，日内跌5.31%。",
+          "url": "https://flash.jin10.com/detail/20260319043154673800",
           "source": "金十数据",
           "ranks": [
-            11
+            8,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时49分]"
         },
         {
           "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
@@ -241,9 +234,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时49分]"
+        },
+        {
+          "title": "现货白银日内大跌5.00%，现报75.24美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260319042428712800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "现货黄金跌约3.7%，纽约白银跌超5.5%，现货钯金跌超7.5%",
+          "url": "https://wallstreetcn.com/livenews/3072690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         }
       ]
     },
@@ -290,8 +305,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 05时49分]"
         },
         {
           "title": "微信新功能获赞：分寸感一下就上来了",
@@ -315,11 +330,12 @@
           "url": "https://flash.jin10.com/detail/20260319043952041800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时49分]"
         }
       ]
     },
@@ -337,6 +353,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美光科技(MU.O)CEO：预计机器人将成为科技领域最大的产品类别之一。机器人技术的发展将推动公司长期业务增长。",
+          "url": "https://flash.jin10.com/detail/20260319045205680800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         }
       ]
     }
