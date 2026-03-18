@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T07:28:22.769323+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-03-18T09:49:29.614911+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -38,8 +38,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 09时49分]"
+        },
+        {
+          "title": "美股收盘：存储股走强美光创新高 三大指数连涨两日",
+          "url": "https://www.cls.cn/detail/2316130",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时49分]"
         },
         {
           "title": "美国SEC主席提议根据公司规模调整财报披露频率",
@@ -48,20 +60,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
         {
-          "title": "美股收盘：存储股走强美光创新高 三大指数连涨两日",
-          "url": "https://www.cls.cn/detail/2316130",
-          "source": "财联社热门",
+          "title": "恒指高开0.21%，报25923.03点；恒生科技指数涨0.10%。腾讯音乐低开15%，此前发布财报。哔哩哔哩涨2.8%，华虹半导体涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3072013",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "09时49分"
         },
         {
           "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
@@ -144,8 +156,154 @@
       ]
     },
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "日本跃跃欲试出兵中东恐沦为替死鬼",
+          "url": "https://www.toutiao.com/trending/7617621838914535466/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            30,
+            26,
+            23,
+            18,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时28分]"
+        },
+        {
+          "title": "专家：警惕日本再度成亚洲战争策源地",
+          "url": "https://www.toutiao.com/trending/7617163654705807423/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            25,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 06时28分]"
+        },
+        {
+          "title": "日本制造业信心创逾四年新高 中东风险令前景承压",
+          "url": "https://flash.jin10.com/detail/20260318070634885800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "日本3月路透短观制造业景气判断指数 18，前值13。",
+          "url": "https://flash.jin10.com/detail/20260318070003030800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "日本“苦于应对”美国护航要求，石破茂回应",
+          "url": "https://news.ifeng.com/c/8raMnS8mHgb",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "日本3月路透短观非制造业景气判断指数 25，前值25。",
+          "url": "https://flash.jin10.com/detail/20260318070002150800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "日本商船三井CFO：在股价上涨后将考虑进行股票拆分。",
+          "url": "https://flash.jin10.com/detail/20260318065732962800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "日本商船三井股价大涨10%，此前报道称Elliott持有其大额股权。",
+          "url": "https://wallstreetcn.com/livenews/3072011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "报道：Elliott持有日本商船三井大额股权",
+          "url": "https://wallstreetcn.com/livenews/3072006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "俄战机携高超音速导弹飞越日本海",
+          "url": "https://www.douyin.com/hot/2434014",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "日本30年期国债收益率下行2.5个基点，至3.525%。 日本2年期国债收益率下行1.5个基点，至1.255%。",
+          "url": "https://wallstreetcn.com/livenews/3071987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "日产加入丰田、本田行列，计划将美国制造汽车出口至日本",
+          "url": "https://wallstreetcn.com/livenews/3072028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "现货白银日内下跌3.00%，现报78.25美元/盎司。",
@@ -207,6 +365,17 @@
           "time_info": "[05时33分 ~ 06时28分]"
         },
         {
+          "title": "现货白银向上触及80美元/盎司，日内涨1.02%。",
+          "url": "https://flash.jin10.com/detail/20260318090830401800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 3月17日（周二）晚盘收盘下跌0.21%报1113.31元/克；<br/>上海黄金交易所白银T+D 3月17日（周二）晚盘收盘下跌1.86%报20024.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260318023041692800",
           "source": "金十数据",
@@ -224,9 +393,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月18日（周三）早盘盘初下跌0.27%报1112.67元/克；<br/>上海黄金交易所白银T+D 3月18日（周三）早盘盘初下跌1.99%报19998.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260318090110477800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         }
       ]
     },
@@ -274,7 +454,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -303,88 +483,8 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "日本跃跃欲试出兵中东恐沦为替死鬼",
-          "url": "https://www.toutiao.com/trending/7617621838914535466/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            30,
-            26,
-            23,
-            18,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时28分]"
-        },
-        {
-          "title": "专家：警惕日本再度成亚洲战争策源地",
-          "url": "https://www.toutiao.com/trending/7617163654705807423/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            25,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时53分 ~ 06时28分]"
-        },
-        {
-          "title": "日本制造业信心创逾四年新高 中东风险令前景承压",
-          "url": "https://flash.jin10.com/detail/20260318070634885800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "日本3月路透短观制造业景气判断指数 18，前值13。",
-          "url": "https://flash.jin10.com/detail/20260318070003030800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "日本3月路透短观非制造业景气判断指数 25，前值25。",
-          "url": "https://flash.jin10.com/detail/20260318070002150800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "日本商船三井CFO：在股价上涨后将考虑进行股票拆分。",
-          "url": "https://flash.jin10.com/detail/20260318065732962800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -396,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
+          "url": "https://www.cls.cn/detail/2316213",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
@@ -434,8 +545,74 @@
       ]
     },
     {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "韩国首尔市内地铁全线接入微信支付",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%94%E5%B8%82%E5%86%85%E5%9C%B0%E9%93%81%E5%85%A8%E7%BA%BF%E6%8E%A5%E5%85%A5%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            27,
+            19,
+            18,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时28分]"
+        },
+        {
+          "title": "微信能折叠发图了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E6%8A%98%E5%8F%A0%E5%8F%91%E5%9B%BE%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "腾讯QClaw宣布版本更新，微信入口升级为小程序",
+          "url": "https://wallstreetcn.com/livenews/3072033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "微信灰度测试“折叠发图”新功能",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95%E2%80%9C%E6%8A%98%E5%8F%A0%E5%8F%91%E5%9B%BE%E2%80%9D%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "iOS版微信消息通知也有头像了",
+          "url": "https://s.weibo.com/weibo?q=%23iOS%E7%89%88%E5%BE%AE%E4%BF%A1%E6%B6%88%E6%81%AF%E9%80%9A%E7%9F%A5%E4%B9%9F%E6%9C%89%E5%A4%B4%E5%83%8F%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "看机器人跳一支春天的芭蕾",
@@ -448,6 +625,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时01分 ~ 07时28分]"
+        },
+        {
+          "title": "宇树创始人称今年机器人会快过博尔特",
+          "url": "https://www.toutiao.com/trending/7617456243996885038/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "宇树创始人：今年机器人会快过博尔特",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%88%9B%E5%A7%8B%E4%BA%BA%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E5%BF%AB%E8%BF%87%E5%8D%9A%E5%B0%94%E7%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
@@ -494,28 +693,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国首尔市内地铁全线接入微信支付",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%94%E5%B8%82%E5%86%85%E5%9C%B0%E9%93%81%E5%85%A8%E7%BA%BF%E6%8E%A5%E5%85%A5%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            27,
-            19,
-            18,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时28分]"
         }
       ]
     }
