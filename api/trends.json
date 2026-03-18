@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T21:00:41.033453+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2026-03-18T22:24:02.724477+08:00",
+  "total_titles_processed": 1944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -18,11 +18,23 @@
             9,
             12,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 21时00分]"
+          "appearance_count": 12,
+          "time_info": "[12时21分 ~ 22时24分]"
+        },
+        {
+          "title": "日本炒作中国国防预算，国防部回应",
+          "url": "https://news.ifeng.com/c/8rb6767tnIb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时48分 ~ 22时24分]"
         },
         {
           "title": "日本跃跃欲试出兵中东恐沦为替死鬼",
@@ -42,17 +54,6 @@
           "time_info": "[00时01分 ~ 07时28分]"
         },
         {
-          "title": "日本炒作中国国防预算，国防部回应",
-          "url": "https://news.ifeng.com/c/8rb6767tnIb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时48分 ~ 21时00分]"
-        },
-        {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
           "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
           "source": "凤凰网",
@@ -61,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 21时00分]"
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 22时24分]"
         },
         {
           "title": "专家：警惕日本再度成亚洲战争策源地",
@@ -122,7 +123,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -147,6 +148,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "赖清德称日本殖民台湾是为推动“东亚共荣”，外交部：对民族的可耻背叛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788558",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时42分 ~ 22时24分]"
         },
         {
           "title": "日本“苦于应对”美国护航要求，石破茂回应",
@@ -216,16 +229,15 @@
           "time_info": "14时02分"
         },
         {
-          "title": "赖清德称日本殖民台湾是为推动“东亚共荣”，外交部：对民族的可耻背叛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788558",
-          "source": "澎湃新闻",
+          "title": "日本主管教育大臣陷不伦丑闻",
+          "url": "https://www.toutiao.com/trending/7618428535308926982/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            14
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时42分 ~ 21时00分]"
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "日本商船三井CFO：在股价上涨后将考虑进行股票拆分。",
@@ -385,7 +397,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -435,6 +447,18 @@
           "time_info": "[00时01分 ~ 09时49分]"
         },
         {
+          "title": "腾讯Q4营收同比增长13%，调整后净利增17%，云业务全年实现规模化盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3767831",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 22时24分]"
+        },
+        {
           "title": "腾讯发布2025年财报",
           "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%8F%91%E5%B8%832025%E5%B9%B4%E8%B4%A2%E6%8A%A5%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -453,7 +477,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -480,15 +504,15 @@
           "time_info": "17时48分"
         },
         {
-          "title": "腾讯Q4营收同比增长13%，调整后净利增17%，云业务全年实现规模化盈利 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3767831",
+          "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
+          "url": "https://wallstreetcn.com/articles/3767807",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "恒指高开0.21%，报25923.03点；恒生科技指数涨0.10%。腾讯音乐低开15%，此前发布财报。哔哩哔哩涨2.8%，华虹半导体涨2%。",
@@ -508,7 +532,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -523,6 +547,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时33分]"
+        },
+        {
+          "title": "【焦点复盘】科技股爆发引领情绪回暖，存储芯片股热度居高不下，化工等周期股逆势领跌",
+          "url": "https://www.cls.cn/detail/2316929",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 22时24分]"
         },
         {
           "title": "“芯”潮澎湃！美光市值首次突破5000亿美元 明早财报有何期待？",
@@ -546,17 +582,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时46分 ~ 19时42分]"
-        },
-        {
-          "title": "【焦点复盘】科技股爆发引领情绪回暖，存储芯片股热度居高不下，化工等周期股逆势领跌",
-          "url": "https://www.cls.cn/detail/2316929",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
         },
         {
           "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股盘中）",
@@ -653,7 +678,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -664,7 +689,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         }
@@ -672,7 +697,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "黄金价格下跌 普通人能入手吗",
@@ -680,11 +705,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时42分 ~ 21时00分]"
+          "appearance_count": 8,
+          "time_info": "[16时42分 ~ 22时24分]"
         },
         {
           "title": "现货白银日内下跌3.00%，现报78.25美元/盎司。",
@@ -715,7 +741,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -778,6 +804,17 @@
           "time_info": "[04时34分 ~ 07时28分]"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
           "title": "金价继续持稳于5000美元整数位心理关口附近",
           "url": "https://wallstreetcn.com/livenews/3071903",
           "source": "华尔街见闻-快讯",
@@ -829,7 +866,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -884,11 +921,12 @@
           "ranks": [
             4,
             1,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时48分 ~ 21时00分]"
+          "appearance_count": 7,
+          "time_info": "[17时48分 ~ 22时24分]"
         },
         {
           "title": "微信能折叠发图了",
@@ -1073,6 +1111,177 @@
       ]
     },
     {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。",
+          "url": "https://wallstreetcn.com/livenews/3071936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "谷歌：谷歌威胁情报小组（Gtig）识别的威胁行为者已在沙特阿拉伯、土耳其、马来西亚和乌克兰对目标部署了漏洞利用链。",
+          "url": "https://flash.jin10.com/detail/20260318221601028800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "Meta Platforms Inc.：Quest头戴设备的用户们将无法再接入Horizon Worlds。",
+          "url": "https://wallstreetcn.com/livenews/3071890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：自6月15日起，用户将无法再通过Meta Quest头显创建、发布或更新虚拟现实世界，也无法访问Meta Horizo​​n Worlds。",
+          "url": "https://flash.jin10.com/detail/20260318041340481800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。 谷歌与DTE提议，为中心提供长达20年的电力供应合同。 谷歌将承担1600 MW可再生能源项目的所有成本，并承担480 MW能源存储的所有成本。",
+          "url": "https://wallstreetcn.com/livenews/3071936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "报道称：谷歌来华考察液冷设备",
+          "url": "https://wallstreetcn.com/livenews/3071795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "Meta将关停VR头显端的关键元宇宙产品",
+          "url": "https://wallstreetcn.com/livenews/3071890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
+          "url": "https://www.cls.cn/detail/2316213",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 17时48分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
+          "url": "https://wallstreetcn.com/livenews/3071811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3071904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时28分]"
+        },
+        {
+          "title": "如何评价 OpenAI 最新发布的 GPT-5.4 mini 和 GPT-5.4 Nano?",
+          "url": "https://www.zhihu.com/question/2017426077002253714",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
+          "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
+          "url": "https://flash.jin10.com/detail/20260318044954930800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "微软考虑就亚马逊与OpenAI达成的500亿美元云交易采取法律行动。 (英国金融时报)",
+          "url": "https://wallstreetcn.com/livenews/3072134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
+          "url": "https://wallstreetcn.com/livenews/3071826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 6,
       "titles": [
@@ -1141,155 +1350,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。",
-          "url": "https://wallstreetcn.com/livenews/3071936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "Meta Platforms Inc.：Quest头戴设备的用户们将无法再接入Horizon Worlds。",
-          "url": "https://wallstreetcn.com/livenews/3071890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：自6月15日起，用户将无法再通过Meta Quest头显创建、发布或更新虚拟现实世界，也无法访问Meta Horizo​​n Worlds。",
-          "url": "https://flash.jin10.com/detail/20260318041340481800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。 谷歌与DTE提议，为中心提供长达20年的电力供应合同。 谷歌将承担1600 MW可再生能源项目的所有成本，并承担480 MW能源存储的所有成本。",
-          "url": "https://wallstreetcn.com/livenews/3071936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "报道称：谷歌来华考察液冷设备",
-          "url": "https://wallstreetcn.com/livenews/3071795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "Meta将关停VR头显端的关键元宇宙产品",
-          "url": "https://wallstreetcn.com/livenews/3071890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
-          "url": "https://www.cls.cn/detail/2316213",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 17时48分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
-          "url": "https://wallstreetcn.com/livenews/3071811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3071904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
-        },
-        {
-          "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
-          "url": "https://flash.jin10.com/detail/20260318044954930800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
-          "title": "微软考虑就亚马逊与OpenAI达成的500亿美元云交易采取法律行动。 (英国金融时报)",
-          "url": "https://wallstreetcn.com/livenews/3072134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
-          "url": "https://wallstreetcn.com/livenews/3071826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
         }
       ]
     },
