@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T22:06:36.154086+08:00",
-  "total_titles_processed": 2078,
+  "generated_at": "2026-03-19T23:50:24.950004+08:00",
+  "total_titles_processed": 2184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "日本炒作中国国防预算，国防部回应",
@@ -59,6 +59,18 @@
           "time_info": "[00时05分 ~ 15时44分]"
         },
         {
+          "title": "日本防相谈日美首相会谈目标",
+          "url": "https://news.ifeng.com/c/8rcYiZNgb4c",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 23时50分]"
+        },
+        {
           "title": "中方回应美报告称日本涉台立场转变",
           "url": "https://www.toutiao.com/trending/7618865180010250281/",
           "source": "今日头条",
@@ -83,18 +95,6 @@
           "time_info": "[12时19分 ~ 15时44分]"
         },
         {
-          "title": "日本防相谈日美首相会谈目标",
-          "url": "https://news.ifeng.com/c/8rcYiZNgb4c",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时44分 ~ 22时06分]"
-        },
-        {
           "title": "麻药缺货,日本拔牙靠硬挺",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352101&amp;topic_name=%E9%BA%BB%E8%8D%AF%E7%BC%BA%E8%B4%A7%2C%E6%97%A5%E6%9C%AC%E6%8B%94%E7%89%99%E9%9D%A0%E7%A1%AC%E6%8C%BA",
           "source": "贴吧",
@@ -102,8 +102,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 22时06分]"
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 23时50分]"
         },
         {
           "title": "日本央行：油价飙升令政策判断趋难",
@@ -281,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "美国总统特朗普在白宫欢迎日本首相高市早苗。",
+          "url": "https://flash.jin10.com/detail/20260319233725629800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "日本主管教育大臣陷不伦丑闻",
@@ -559,6 +570,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "日本劫掠中国文物数量惊人",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8A%AB%E6%8E%A0%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9%E6%95%B0%E9%87%8F%E6%83%8A%E4%BA%BA%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "日本财务大臣片山皋月：汇率波动部分受投机因素驱动。 时刻准备对市场波动采取必要的行动。 高度警惕地关注金融市场。",
           "url": "https://wallstreetcn.com/livenews/3072788",
           "source": "华尔街见闻-快讯",
@@ -616,6 +638,320 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "黄金、白银跳水，原油、天然气飙升",
+          "url": "https://www.cls.cn/detail/2318063",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时37分 ~ 22时06分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 07时48分]"
+        },
+        {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            25,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时48分]"
+        },
+        {
+          "title": "滞涨预期抬头港股黄金股遭重挫 国际金价近半月已跌去600美元",
+          "url": "https://www.cls.cn/detail/2318052",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 22时06分]"
+        },
+        {
+          "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
+          "url": "https://www.cls.cn/detail/2317196",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时49分 ~ 09时50分]"
+        },
+        {
+          "title": "现货白银回落至74美元/盎司下方，日内跌1.77%。",
+          "url": "https://flash.jin10.com/detail/20260319142257957800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "贵金属全线重挫！现货黄金逼近4500美元 白银跌超13%",
+          "url": "https://www.cls.cn/detail/2318687",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "LME铜价跌破每吨12000美元，金属遭普遍抛售。",
+          "url": "https://wallstreetcn.com/livenews/3073314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "现货黄金白银暴跌",
+          "url": "https://www.toutiao.com/trending/7617925341054615606/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "非洲股市收盘播报｜南非股市两天重挫超6.2%，金价同期已跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3073460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "国投白银LOF：3月20日开市起至10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3073146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "现货白银向下触及75美元/盎司，日内跌5.31%。",
+          "url": "https://flash.jin10.com/detail/20260319043154673800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时49分]"
+        },
+        {
+          "title": "现货黄金跌约3.7%，纽约白银跌超5.5%，现货钯金跌超7.5%",
+          "url": "https://wallstreetcn.com/livenews/3072690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时28分]"
+        },
+        {
+          "title": "现货黄金白银暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时50分]"
+        },
+        {
+          "title": "现货白银日内大跌5.00%，现报75.24美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260319042428712800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "现货白银失守74美元/盎司，日内跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3072979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "LME铜价跌破每吨12000美元。",
+          "url": "https://flash.jin10.com/detail/20260319202329177800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "金十图示：2026年03月19日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260319115326190800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "现货黄金日内跌幅扩大至4%，报4623.57美元/盎司。 现货白银日内跌幅扩大至8%，报69.26美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3073302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "金价大跌 有银行金条1秒售罄",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%9C%89%E9%93%B6%E8%A1%8C%E9%87%91%E6%9D%A11%E7%A7%92%E5%94%AE%E7%BD%84",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "现货白银向下触及71美元/盎司，日内跌超5.7%。",
+          "url": "https://wallstreetcn.com/livenews/3073127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "金价暴跌抄底7天越买越套",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%8A%84%E5%BA%957%E5%A4%A9%E8%B6%8A%E4%B9%B0%E8%B6%8A%E5%A5%97%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "金价下跌能抄底吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E8%83%BD%E6%8A%84%E5%BA%95%E5%90%97%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "现货白银日内下跌1.00%，现报74.58美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3072966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "现货白银日内跌幅达5%，报71.32美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3073085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "金价有望震荡回升",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9C%89%E6%9C%9B%E9%9C%87%E8%8D%A1%E5%9B%9E%E5%8D%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "金价下跌也买不到",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%9F%E4%B9%B0%E4%B8%8D%E5%88%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 26,
       "titles": [
@@ -654,11 +990,12 @@
             10,
             11,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时19分 ~ 22时06分]"
+          "appearance_count": 13,
+          "time_info": "[12时19分 ~ 23时50分]"
         },
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
@@ -722,6 +1059,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2318602",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 23时50分]"
         },
         {
           "title": "冲突升级叠加美联储鹰派，美股、美债、黄金“三杀”！美元涨回100关口，加密货币跳水",
@@ -803,18 +1153,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时49分 ~ 06时28分]"
-        },
-        {
-          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2318602",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 22时06分]"
         },
         {
           "title": "受银价跌至逾一个月低位影响，银矿股在美股盘前走低，赫克拉矿业公司股价下跌4.9%，科尔黛伦矿业股价下跌5.7%，希尔威金属矿业下跌5.1%，奋进白银下跌6.4%。",
@@ -911,7 +1249,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -929,288 +1267,8 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "黄金、白银跳水，原油、天然气飙升",
-          "url": "https://www.cls.cn/detail/2318063",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时37分 ~ 22时06分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 07时48分]"
-        },
-        {
-          "title": "黄金价格下跌 普通人能入手吗",
-          "url": "https://www.toutiao.com/trending/7618482201037901355/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            25,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时57分 ~ 07时48分]"
-        },
-        {
-          "title": "滞涨预期抬头港股黄金股遭重挫 国际金价近半月已跌去600美元",
-          "url": "https://www.cls.cn/detail/2318052",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时35分 ~ 22时06分]"
-        },
-        {
-          "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
-          "url": "https://www.cls.cn/detail/2317196",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时49分 ~ 09时50分]"
-        },
-        {
-          "title": "现货白银回落至74美元/盎司下方，日内跌1.77%。",
-          "url": "https://flash.jin10.com/detail/20260319142257957800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时54分"
-        },
-        {
-          "title": "LME铜价跌破每吨12000美元，金属遭普遍抛售。",
-          "url": "https://wallstreetcn.com/livenews/3073314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "现货黄金白银暴跌",
-          "url": "https://www.toutiao.com/trending/7617925341054615606/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "国投白银LOF：3月20日开市起至10:30停牌",
-          "url": "https://wallstreetcn.com/livenews/3073146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "现货白银向下触及75美元/盎司，日内跌5.31%。",
-          "url": "https://flash.jin10.com/detail/20260319043154673800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时49分]"
-        },
-        {
-          "title": "现货黄金跌约3.7%，纽约白银跌超5.5%，现货钯金跌超7.5%",
-          "url": "https://wallstreetcn.com/livenews/3072690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时28分]"
-        },
-        {
-          "title": "现货白银日内大跌5.00%，现报75.24美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260319042428712800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "现货白银失守74美元/盎司，日内跌1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3072979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时54分"
-        },
-        {
-          "title": "现货黄金白银暴跌",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "LME铜价跌破每吨12000美元。",
-          "url": "https://flash.jin10.com/detail/20260319202329177800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "金十图示：2026年03月19日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260319115326190800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "现货黄金日内跌幅扩大至4%，报4623.57美元/盎司。 现货白银日内跌幅扩大至8%，报69.26美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3073302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "金价大跌 有银行金条1秒售罄",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%9C%89%E9%93%B6%E8%A1%8C%E9%87%91%E6%9D%A11%E7%A7%92%E5%94%AE%E7%BD%84",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "现货白银向下触及71美元/盎司，日内跌超5.7%。",
-          "url": "https://wallstreetcn.com/livenews/3073127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "金价下跌能抄底吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E8%83%BD%E6%8A%84%E5%BA%95%E5%90%97%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "现货白银日内下跌1.00%，现报74.58美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3072966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时54分"
-        },
-        {
-          "title": "现货白银日内跌幅达5%，报71.32美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3073085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "金价有望震荡回升",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9C%89%E6%9C%9B%E9%9C%87%E8%8D%A1%E5%9B%9E%E5%8D%87%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "金价下跌也买不到",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%9F%E4%B9%B0%E4%B8%8D%E5%88%B0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "雪宝机器人让童年照进现实",
@@ -1223,8 +1281,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时44分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[15时44分 ~ 23时50分]"
         },
         {
           "title": "“人形机器人半马”将于四月举办，参赛团队目标直指人类半马冠军纪录",
@@ -1271,16 +1329,28 @@
           "time_info": "19时32分"
         },
         {
+          "title": "机器人是否已踏入日常生活",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%A6%E5%B7%B2%E8%B8%8F%E5%85%A5%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "宇树CEO王兴兴给雷军展示机器人跳舞",
           "url": "https://www.toutiao.com/trending/7618120548547575844/",
           "source": "今日头条",
           "ranks": [
             25,
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 22时06分]"
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 23时50分]"
         },
         {
           "title": "美光科技(MU.O)CEO：预计机器人将成为科技领域最大的产品类别之一。机器人技术的发展将推动公司长期业务增长。",
@@ -1439,11 +1509,12 @@
             17,
             21,
             20,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时44分 ~ 22时06分]"
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 23时50分]"
         },
         {
           "title": "微信更新！电脑端可一键撤回所有消息",
@@ -1451,11 +1522,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 20时54分]"
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 23时50分]"
         },
         {
           "title": "我在抖音聊逐玉",
@@ -1487,6 +1559,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "三星电子或遭史上最大规模罢工，全球半导体产供链恐受冲击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793056",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时50分]"
+        },
+        {
           "title": "大胜达涨停，公司拟5.5亿元投资高性能图形处理器公司芯瞳半导体，标的公司AI系统可打造内部闭环的养虾生态。",
           "url": "https://flash.jin10.com/detail/20260319093220958800",
           "source": "金十数据",
@@ -1496,17 +1580,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "三星电子或遭史上最大规模罢工，全球半导体产供链恐受冲击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32793056",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
         },
         {
           "title": "三星电子罢工风险恐将冲击半导体产供链",
