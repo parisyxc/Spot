@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T20:54:19.888210+08:00",
-  "total_titles_processed": 1962,
+  "generated_at": "2026-03-19T22:06:36.154086+08:00",
+  "total_titles_processed": 2078,
   "failed_sources": [],
   "trends": [
     {
@@ -87,11 +87,23 @@
           "url": "https://news.ifeng.com/c/8rcYiZNgb4c",
           "source": "凤凰网",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时44分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[15时44分 ~ 22时06分]"
+        },
+        {
+          "title": "麻药缺货,日本拔牙靠硬挺",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352101&amp;topic_name=%E9%BA%BB%E8%8D%AF%E7%BC%BA%E8%B4%A7%2C%E6%97%A5%E6%9C%AC%E6%8B%94%E7%89%99%E9%9D%A0%E7%A1%AC%E6%8C%BA",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时06分]"
         },
         {
           "title": "日本央行：油价飙升令政策判断趋难",
@@ -125,17 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
-        },
-        {
-          "title": "麻药缺货,日本拔牙靠硬挺",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352101&amp;topic_name=%E9%BA%BB%E8%8D%AF%E7%BC%BA%E8%B4%A7%2C%E6%97%A5%E6%9C%AC%E6%8B%94%E7%89%99%E9%9D%A0%E7%A1%AC%E6%8C%BA",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "日本央行行长植田和男将于十分钟后召开货币政策新闻发布会。",
@@ -616,7 +617,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "腾讯Q4营收同比增长13%，调整后净利增17%，云业务全年实现规模化盈利 | 财报见闻",
@@ -656,8 +657,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时19分 ~ 20时54分]"
+          "appearance_count": 12,
+          "time_info": "[12时19分 ~ 22时06分]"
         },
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
@@ -751,7 +752,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -786,7 +787,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -808,11 +809,12 @@
           "url": "https://www.cls.cn/detail/2318602",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时06分]"
         },
         {
           "title": "受银价跌至逾一个月低位影响，银矿股在美股盘前走低，赫克拉矿业公司股价下跌4.9%，科尔黛伦矿业股价下跌5.7%，希尔威金属矿业下跌5.1%，奋进白银下跌6.4%。",
@@ -843,7 +845,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -903,6 +905,17 @@
           "time_info": "19时32分"
         },
         {
+          "title": "美股三大股指集体低开，贵金属概念股大跌",
+          "url": "https://wallstreetcn.com/livenews/3073382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "美股盘前，存储芯片股多数下跌，闪迪跌超3%，西部数据跌超1%；美光科技跌超4%，公司预计2027年资本开支增幅可能会达到100亿美元。",
           "url": "https://wallstreetcn.com/livenews/3073087",
           "source": "华尔街见闻-快讯",
@@ -917,7 +930,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "黄金、白银跳水，原油、天然气飙升",
@@ -929,8 +942,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时37分 ~ 20时54分]"
+          "appearance_count": 7,
+          "time_info": "[16时37分 ~ 22时06分]"
         },
         {
           "title": "金价",
@@ -956,6 +969,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时57分 ~ 07时48分]"
+        },
+        {
+          "title": "滞涨预期抬头港股黄金股遭重挫 国际金价近半月已跌去600美元",
+          "url": "https://www.cls.cn/detail/2318052",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 22时06分]"
         },
         {
           "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
@@ -987,22 +1013,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
         {
-          "title": "滞涨预期抬头港股黄金股遭重挫 国际金价近半月已跌去600美元",
-          "url": "https://www.cls.cn/detail/2318052",
-          "source": "财联社热门",
+          "title": "现货黄金白银暴跌",
+          "url": "https://www.toutiao.com/trending/7617925341054615606/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            10,
-            9
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 20时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "国投白银LOF：3月20日开市起至10:30停牌",
@@ -1062,13 +1086,24 @@
           "time_info": "14时54分"
         },
         {
+          "title": "现货黄金白银暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "LME铜价跌破每吨12000美元。",
           "url": "https://flash.jin10.com/detail/20260319202329177800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1090,7 +1125,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1148,6 +1183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "金价有望震荡回升",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9C%89%E6%9C%9B%E9%9C%87%E8%8D%A1%E5%9B%9E%E5%8D%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "金价下跌也买不到",
@@ -1225,6 +1271,18 @@
           "time_info": "19时32分"
         },
         {
+          "title": "宇树CEO王兴兴给雷军展示机器人跳舞",
+          "url": "https://www.toutiao.com/trending/7618120548547575844/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时06分]"
+        },
+        {
           "title": "美光科技(MU.O)CEO：预计机器人将成为科技领域最大的产品类别之一。机器人技术的发展将推动公司长期业务增长。",
           "url": "https://flash.jin10.com/detail/20260319045205680800",
           "source": "金十数据",
@@ -1278,17 +1336,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
-        },
-        {
-          "title": "宇树CEO王兴兴给雷军展示机器人跳舞",
-          "url": "https://www.toutiao.com/trending/7618120548547575844/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "武术女王大战龙虾机器人",
@@ -1395,8 +1442,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时44分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[15时44分 ~ 22时06分]"
         },
         {
           "title": "微信更新！电脑端可一键撤回所有消息",
@@ -1437,7 +1484,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "大胜达涨停，公司拟5.5亿元投资高性能图形处理器公司芯瞳半导体，标的公司AI系统可打造内部闭环的养虾生态。",
@@ -1449,6 +1496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "三星电子或遭史上最大规模罢工，全球半导体产供链恐受冲击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793056",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "三星电子罢工风险恐将冲击半导体产供链",
