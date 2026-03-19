@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T09:50:46.347752+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-03-19T12:20:10.386616+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
         {
           "title": "日本炒作中国国防预算，国防部回应",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 12时20分]"
         },
         {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 12时20分]"
         },
         {
           "title": "赖清德称日本殖民台湾是为推动“东亚共荣”，外交部：对民族的可耻背叛",
@@ -40,19 +40,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 12时20分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 12时20分]"
         },
         {
           "title": "路透日本企业调查：超过80%的日本企业预期2026/27财年的净利润将增长或保持稳定。对于高市早苗提出的暂停食品消费税的计划，日本企业意见不一。日本企业预计石油供应中断和能源成本上升将成为主要担忧因素。",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "日本劫掠的中国文物，该归还了！",
+          "url": "https://news.ifeng.com/c/8rc3CeBoDe1",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
         },
         {
           "title": "白宫：美国总统特朗普将于周四美东时间11:15会见到访的日本首相高市早苗。 双方随后将在19:15共同进餐。",
@@ -106,7 +118,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -123,13 +135,35 @@
           "time_info": "[04时49分 ~ 07时48分]"
         },
         {
+          "title": "女足亚洲杯日本队大胜韩国队",
+          "url": "https://www.toutiao.com/trending/7618195487775506474/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
+        },
+        {
+          "title": "市场消息：日本众议院周四批准了首相高市早苗提名的两名货币政策鸽派人士加入央行理事会，他们分别是浅田統一郎（Toichiro Asada）和佐藤绫野（Ayano Sato），此举可能会影响央行对进一步加息的时机和步伐的决策。",
+          "url": "https://flash.jin10.com/detail/20260319120040079800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "金十整理：机构前瞻日本央行利率决议——3月按兵不动成共识，中东冲突或成后续加息的最大变数",
           "url": "https://flash.jin10.com/detail/20260319092740261800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -145,13 +179,46 @@
           "time_info": "04时49分"
         },
         {
+          "title": "日本央行利率决议过后，美元/日元短线小幅走高。",
+          "url": "https://wallstreetcn.com/livenews/3072880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "日本央行：受中东冲突影响，金融市场正呈现不稳定走势。 原油价格大幅上涨，未来发展值得高度警惕。 核心消费者物价指数（CPI）同比涨幅可能暂时放缓至2%以下，但受油价上涨影响将再次加速。 日本很可能维持工资与物价同步温和上涨的机制。 必须高度警惕原油价格上涨对潜在通胀可能产生的影响。 日本经济前景面临的风险包括中东局势、油价走势以及包括外汇在内的市场动态。",
+          "url": "https://wallstreetcn.com/livenews/3072879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "日本央行维持利率在0.75%不变，符合市场预期，投票比例为8-1。 日本央行审议委员高田创建议将短期利率目标从0.75%上调至1.0%，其表示价格稳定目标已基本实现，受海外局势引发的价格上涨二轮效应影响，日本物价风险偏向上行。",
+          "url": "https://wallstreetcn.com/livenews/3072876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "日本内阁官房长官木原稔：很难全面评估中东局势的影响，将继续密切监控其对物价的冲击。 具体的货币政策应该留待日本央行作出。 汽油紧急补贴措施今日开始实施。",
           "url": "https://wallstreetcn.com/livenews/3072793",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -162,9 +229,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "在美以伊战争持续的背景下，美联储、日本央行均维持利率在原水平不动。美元保持强势，黄金一度逼近4800美元关口。美、布两油价差扩大，后市市场情绪如何？",
+          "url": "https://flash.jin10.com/detail/20260319113613805800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "日本10年期国债收益率上行4.5个基点至2.260%。",
@@ -173,7 +251,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -184,15 +262,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "日本央行利率决议看点",
+          "url": "https://wallstreetcn.com/livenews/3072863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "腾讯Q4营收同比增长13%，调整后净利增17%，云业务全年实现规模化盈利 | 财报见闻",
@@ -203,8 +292,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 07时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 12时20分]"
         },
         {
           "title": "【焦点复盘】科技股爆发引领情绪回暖，存储芯片股热度居高不下，化工等周期股逆势领跌",
@@ -241,8 +330,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时47分 ~ 09时50分]"
+          "appearance_count": 5,
+          "time_info": "[07时47分 ~ 12时20分]"
+        },
+        {
+          "title": "腾讯财报实锤,鸣潮闷声收割",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352047&amp;topic_name=%E8%85%BE%E8%AE%AF%E8%B4%A2%E6%8A%A5%E5%AE%9E%E9%94%A4%2C%E9%B8%A3%E6%BD%AE%E9%97%B7%E5%A3%B0%E6%94%B6%E5%89%B2",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -251,7 +351,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -351,7 +451,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价",
@@ -426,13 +526,24 @@
           "time_info": "04时49分"
         },
         {
+          "title": "金十图示：2026年03月19日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260319115326190800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "金价大跌 有银行金条1秒售罄",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%9C%89%E9%93%B6%E8%A1%8C%E9%87%91%E6%9D%A11%E7%A7%92%E5%94%AE%E7%BD%84",
           "source": "百度热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -510,7 +621,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -533,7 +644,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -550,7 +661,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -561,7 +672,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -584,8 +695,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 12时20分]"
         },
         {
           "title": "微信新功能获赞：分寸感一下就上来了",
