@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T13:56:21.777007+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-03-19T14:54:49.098922+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "日本炒作中国国防预算，国防部回应",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 13时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时05分 ~ 14时54分]"
         },
         {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 13时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时05分 ~ 14时54分]"
         },
         {
           "title": "赖清德称日本殖民台湾是为推动“东亚共荣”，外交部：对民族的可耻背叛",
@@ -38,11 +38,12 @@
             14,
             13,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 13时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时05分 ~ 14时54分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -50,11 +51,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 13时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时05分 ~ 14时54分]"
         },
         {
           "title": "日本劫掠的中国文物，该归还了！",
@@ -64,8 +66,41 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 14时54分]"
+        },
+        {
+          "title": "日本央行如期按兵不动，分析师：若薪资谈判结果乐观 未来几个月可能加息",
+          "url": "https://flash.jin10.com/detail/20260319142258028800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "日本央行行长植田和男：油价上涨将恶化日本的贸易条件，并对经济造成下行压力。 重要的是关注中东局势对国内经济的影响。 由于伊朗冲突，难以明确表示应更侧重抑制通胀还是支持经济。 关于未来加息时机将在每次会议上进行评估，这一立场没有变化。 将评估油价飙升对经济造成影响的程度。 油价飙升可能推高通胀预期和基础通胀。",
+          "url": "https://wallstreetcn.com/livenews/3072993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "日本央行行长植田和男将于十分钟后召开货币政策新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260319142000000800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "路透日本企业调查：超过80%的日本企业预期2026/27财年的净利润将增长或保持稳定。对于高市早苗提出的暂停食品消费税的计划，日本企业意见不一。日本企业预计石油供应中断和能源成本上升将成为主要担忧因素。",
@@ -90,13 +125,24 @@
           "time_info": "00时05分"
         },
         {
+          "title": "日本央行行长植田和男：实际利率处于显著低位。 如果经济和物价表现符合预期，并且经济、物价持续改善，将继续上调政策利率。 通胀趋势的判断将变得更加困难。 正在重新评估我们对潜在增长率和供需缺口的预测。 正在根据最新数据重新评估中性利率。 将公布更详细的核心CPI数据。",
+          "url": "https://wallstreetcn.com/livenews/3072991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "日本电力企业集团负责人：随着全球形势的发展，在资源匮乏的日本，核能的重要性很可能会进一步提升。",
           "url": "https://flash.jin10.com/detail/20260319135029972800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -112,6 +158,17 @@
           "time_info": "07时48分"
         },
         {
+          "title": "日经225指数收跌3.4%，报53,372.53点。 日本东证指数收跌2.9%，报3,609.40点。",
+          "url": "https://wallstreetcn.com/livenews/3072988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "日本首相：暂无向霍尔木兹海峡派遣自卫队计划",
           "url": "https://m.thepaper.cn/newsDetail_forward_32787346",
           "source": "澎湃新闻",
@@ -122,6 +179,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时47分 ~ 09时50分]"
+        },
+        {
+          "title": "日本央行行长植田和男：日本经济有望继续温和增长。 全球市场波动，中东局势紧张导致原油价格大幅上涨。 需要关注中东局势的进一步发展。 由于油价上涨，预计通胀增速将面临上行压力。 预计基础通胀将在预测期后半段达到与价格目标一致的水平。 风险因素包括中东局势、油价、金融和外汇市场动态。 需要关注这些风险对日本经济和物价的影响。",
+          "url": "https://wallstreetcn.com/livenews/3072986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "日本40年期国债收益率上涨3.0个基点，至3.740%。",
@@ -164,7 +232,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -186,7 +254,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -252,7 +320,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -274,7 +342,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -285,7 +353,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -359,8 +427,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时05分 ~ 13时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时05分 ~ 14时54分]"
         },
         {
           "title": "【焦点复盘】科技股爆发引领情绪回暖，存储芯片股热度居高不下，化工等周期股逆势领跌",
@@ -406,11 +474,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 14时54分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -487,11 +556,12 @@
           "url": "https://www.cls.cn/detail/2317643",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 14时54分]"
         },
         {
           "title": "美光科技(MU.O)美股盘后跌超5%。",
@@ -530,7 +600,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "金价",
@@ -570,6 +640,17 @@
           "time_info": "[04时49分 ~ 09时50分]"
         },
         {
+          "title": "现货白银回落至74美元/盎司下方，日内跌1.77%。",
+          "url": "https://flash.jin10.com/detail/20260319142257957800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "现货白银向下触及75美元/盎司，日内跌5.31%。",
           "url": "https://flash.jin10.com/detail/20260319043154673800",
           "source": "金十数据",
@@ -605,6 +686,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "现货白银失守74美元/盎司，日内跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3072979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "金十图示：2026年03月19日（周四）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260319115326190800",
           "source": "金十数据",
@@ -627,13 +719,24 @@
           "time_info": "09时50分"
         },
         {
+          "title": "现货白银日内下跌1.00%，现报74.58美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3072966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "金价下跌也买不到",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%9F%E4%B9%B0%E4%B8%8D%E5%88%B0%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         }
@@ -757,19 +860,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 13时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时05分 ~ 14时54分]"
         },
         {
           "title": "我在抖音聊逐玉",
           "url": "https://www.douyin.com/hot/2435299",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 14时54分]"
         },
         {
           "title": "微信新功能获赞：分寸感一下就上来了",
@@ -813,6 +917,34 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美光科技(MU.O)CEO：预计机器人将成为科技领域最大的产品类别之一。机器人技术的发展将推动公司长期业务增长。",
+          "url": "https://flash.jin10.com/detail/20260319045205680800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "禾赛为追觅生态割草机器人独家供应1000万颗激光雷达",
+          "url": "https://flash.jin10.com/detail/20260319140729588800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -826,23 +958,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美光科技(MU.O)CEO：预计机器人将成为科技领域最大的产品类别之一。机器人技术的发展将推动公司长期业务增长。",
-          "url": "https://flash.jin10.com/detail/20260319045205680800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
         }
       ]
     }
