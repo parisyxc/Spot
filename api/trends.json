@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T22:23:48.380397+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2026-03-22T23:21:56.617618+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗外长称伊朗有意允许日本船只通行霍尔木兹海峡，如何看待此番表态？背后有何考量？",
@@ -59,11 +59,12 @@
             20,
             22,
             14,
-            4
+            4,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时15分 ~ 22时23分]"
+          "appearance_count": 15,
+          "time_info": "[12时15分 ~ 23时21分]"
         },
         {
           "title": "肥料卡脖子,日本农业遭重",
@@ -79,8 +80,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时23分 ~ 22时23分]"
+          "appearance_count": 28,
+          "time_info": "[00时23分 ~ 23时21分]"
+        },
+        {
+          "title": "日本外相还在找补：提“珍珠港偷袭”，不奇怪",
+          "url": "https://news.ifeng.com/c/8rhhF4Xu9ka",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 23时21分]"
         },
         {
           "title": "炼油仙人登场,日本吃上地沟油",
@@ -96,8 +109,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时23分 ~ 22时23分]"
+          "appearance_count": 28,
+          "time_info": "[00时23分 ~ 23时21分]"
         },
         {
           "title": "麻药缺货,日本拔牙靠硬挺",
@@ -114,18 +127,6 @@
           "time_info": "[00时23分 ~ 15时36分]"
         },
         {
-          "title": "日本外相还在找补：提“珍珠港偷袭”，不奇怪",
-          "url": "https://news.ifeng.com/c/8rhhF4Xu9ka",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 22时23分]"
-        },
-        {
           "title": "日媒称中国车企全球销量 20 多年来首次超越日本位居榜首，这一排名更迭意味着什么？",
           "url": "https://www.zhihu.com/question/2018838561324048538",
           "source": "知乎",
@@ -135,8 +136,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 22时23分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 23时21分]"
         },
         {
           "title": "日媒：中国车企全球销量20多年来首次超日本居榜首",
@@ -149,6 +150,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时35分 ~ 20时39分]"
+        },
+        {
+          "title": "起底！这个怂恿台湾出兵霍尔木兹的“日本人”，什么来头？",
+          "url": "https://news.ifeng.com/c/8rhti65s1B3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时21分]"
         },
         {
           "title": "卢特尼克：已在俄亥俄州启动价值330亿美元的日本投资项目",
@@ -164,17 +176,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时29分 ~ 07时20分]"
-        },
-        {
-          "title": "起底！这个怂恿台湾出兵霍尔木兹的“日本人”，什么来头？",
-          "url": "https://news.ifeng.com/c/8rhti65s1B3",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时23分]"
         },
         {
           "title": "日本队获得女足亚洲杯冠军",
@@ -240,6 +241,17 @@
           "time_info": "09时49分"
         },
         {
+          "title": "全球惊现 4 月加息预期，欧盟、美国、日本均现鹰派特征，这将如何改变当下金融市场定价逻辑？",
+          "url": "https://www.zhihu.com/question/2018242086940472752",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "日媒：中国车企全球销量20多年来首次超日本居榜首",
           "url": "https://flash.jin10.com/detail/20260321232102265800",
           "source": "金十数据",
@@ -266,7 +278,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金价",
@@ -304,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "国际金价连续八个交易日下跌",
+          "url": "https://www.douyin.com/hot/2439701",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "金价八连跌消费者还是不敢买",
@@ -557,6 +580,24 @@
           "time_info": "[00时23分 ~ 07时20分]"
         },
         {
+          "title": "全网给U航机器人写剧本",
+          "url": "https://www.douyin.com/hot/2439561",
+          "source": "抖音",
+          "ranks": [
+            12,
+            10,
+            22,
+            18,
+            19,
+            24,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时35分 ~ 23时21分]"
+        },
+        {
           "title": "浙江一社区食堂引入智能炒菜机器人，油盐配比精准到克，你会去尝试吗？机器人炒的菜会有「锅气」吗？",
           "url": "https://www.zhihu.com/question/2013207584849486050",
           "source": "知乎",
@@ -568,23 +609,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 07时20分]"
-        },
-        {
-          "title": "全网给U航机器人写剧本",
-          "url": "https://www.douyin.com/hot/2439561",
-          "source": "抖音",
-          "ranks": [
-            12,
-            10,
-            22,
-            18,
-            19,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时35分 ~ 22时23分]"
         },
         {
           "title": "我国自主研发的人形机器人能打网球了，拥有毫秒级的判断和响应，有哪些技术值得关注？它的网球水平如何？",
@@ -606,11 +630,24 @@
           "ranks": [
             18,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 22时23分]"
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 23时21分]"
+        },
+        {
+          "title": "跑马拉松护航的民警居然是AI机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时21分]"
         },
         {
           "title": "比特币再次跌穿68500美元，逼近北京时间08:02刷新的日低68254.41美元。 07:06，比特币出现一波跳水行情，从70095美元下挫。",
@@ -623,17 +660,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时39分 ~ 21时41分]"
-        },
-        {
-          "title": "跑马拉松护航的民警居然是AI机器人",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时23分]"
         }
       ]
     },
@@ -695,11 +721,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时21分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国成品油调价、博鳌亚洲论坛、港股重磅财报、欧美PMI数据",
