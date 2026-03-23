@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T22:22:31.201562+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2026-03-23T23:56:42.535799+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
@@ -43,6 +43,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[18时48分 ~ 22时22分]"
+        },
+        {
+          "title": "金价为何跌？避险光环失灵了？黄金曾有六次大跳水",
+          "url": "https://www.cls.cn/detail/2321752",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 23时56分]"
         },
         {
           "title": "国投白银LOF：将于2026年3月24日开市起至当日10:30停牌，自2026年3月24日10:30复牌。",
@@ -137,18 +150,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "金价为何跌？避险光环失灵了？黄金曾有六次大跳水",
-          "url": "https://www.cls.cn/detail/2321752",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时22分]"
         },
         {
           "title": "现货白银日内跌逾5%，现报64.35美元/盎司。",
@@ -330,6 +331,17 @@
           "time_info": "20时56分"
         },
         {
+          "title": "金价急跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "现货白银日内涨超2.00%，现报69.21美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260323062847248800",
           "source": "金十数据",
@@ -339,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "金价接连失守4500、4400、4300、4200、4100美元，避险功能为何“失灵”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32814959",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "现货白银日内跌幅达10.0%，报61.01美元/盎司。 纽约银日内跌幅达12.0%，报61.24美元/盎司。",
@@ -380,7 +403,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -421,7 +444,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "日媒称中国车企全球销量 20 多年来首次超越日本位居榜首，这一排名更迭意味着什么？",
@@ -484,6 +507,17 @@
           "time_info": "[00时24分 ~ 09时51分]"
         },
         {
+          "title": "金与正：朝鲜与日本没有什么可谈的事情",
+          "url": "https://news.ifeng.com/c/8rjQPuVOs1z",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时48分 ~ 23时56分]"
+        },
+        {
           "title": "金与正：朝鲜与日本没什么可谈的",
           "url": "https://www.toutiao.com/trending/7620146449682645035/",
           "source": "今日头条",
@@ -505,17 +539,6 @@
             8,
             7,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时48分 ~ 22时22分]"
-        },
-        {
-          "title": "金与正：朝鲜与日本没有什么可谈的事情",
-          "url": "https://news.ifeng.com/c/8rjQPuVOs1z",
-          "source": "凤凰网",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -556,11 +579,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时48分 ~ 22时22分]"
+          "appearance_count": 8,
+          "time_info": "[18时48分 ~ 23时56分]"
         },
         {
           "title": "金与正：朝鲜与日本没什么可谈的",
@@ -568,11 +592,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时22分]"
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 23时56分]"
         },
         {
           "title": "日本教授中国旅游后感叹日本变态",
@@ -608,6 +633,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时30分 ~ 02时31分]"
+        },
+        {
+          "title": "朝鲜称与日本没什么可谈的",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E7%A7%B0%E4%B8%8E%E6%97%A5%E6%9C%AC%E6%B2%A1%E4%BB%80%E4%B9%88%E5%8F%AF%E8%B0%88%E7%9A%84%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "报道：日本自卫队大幅扩充太空部队规模",
+          "url": "https://wallstreetcn.com/livenews/3075303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "经济学家：短期内日本10年期国债收益率仍有进一步上升空间",
@@ -801,7 +848,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
@@ -853,7 +900,30 @@
           "time_info": "[20时55分 ~ 20时56分]"
         },
         {
+          "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
+          "url": "https://www.cls.cn/detail/2321917",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 23时56分]"
+        },
+        {
           "title": "美伊“撕扯”全球市场，美股大幅高开，科技股普涨，原油跌幅收窄，金属齐涨",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
           "ranks": [
@@ -861,18 +931,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
-          "url": "https://www.cls.cn/detail/2321917",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
+          "time_info": "23时56分"
         },
         {
           "title": "美股期指金银快速反弹",
@@ -880,11 +939,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时22分]"
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 23时56分]"
         },
         {
           "title": "国际油价回吐涨幅，布油、WTI原油期货转跌。 美股期货收复失地，标普500指数期货转为基本持平。",
@@ -921,6 +981,30 @@
           "time_info": "[19时41分 ~ 20时56分]"
         },
         {
+          "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2321966",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 23时56分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 23时56分]"
+        },
+        {
           "title": "美股三大股指期货突然拉升",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E6%9C%9F%E8%B4%A7%E7%AA%81%E7%84%B6%E6%8B%89%E5%8D%87%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -938,18 +1022,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2321966",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -982,7 +1055,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -993,7 +1066,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1018,17 +1091,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
         }
       ]
     },
@@ -1132,6 +1194,56 @@
       ]
     },
     {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌旗下Wing将在旧金山湾区开始无人机送货服务",
+          "url": "https://wallstreetcn.com/livenews/3075306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "据华尔街日报：知情人士称，Meta Platforms(META.O)员工们已开始使用像My Claw这样的个人代理工具，这些工具可以访问他们的聊天记录和工作文件，并能代表他们与同事（或同事的个人代理）进行交流。",
+          "url": "https://flash.jin10.com/detail/20260323064346734800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "据华尔街日报：Meta Platforms(META.O)CEO扎克伯格正在打造一个CEO人工智能代理，以帮助他处理工作事务。",
+          "url": "https://flash.jin10.com/detail/20260323064200733800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "OpenAI聘请前Meta广告高管Davedugan负责广告销售。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3075178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 3,
       "titles": [
@@ -1170,45 +1282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据华尔街日报：知情人士称，Meta Platforms(META.O)员工们已开始使用像My Claw这样的个人代理工具，这些工具可以访问他们的聊天记录和工作文件，并能代表他们与同事（或同事的个人代理）进行交流。",
-          "url": "https://flash.jin10.com/detail/20260323064346734800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "据华尔街日报：Meta Platforms(META.O)CEO扎克伯格正在打造一个CEO人工智能代理，以帮助他处理工作事务。",
-          "url": "https://flash.jin10.com/detail/20260323064200733800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "OpenAI聘请前Meta广告高管Davedugan负责广告销售。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3075178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
         }
       ]
     },
@@ -1254,11 +1327,12 @@
           "ranks": [
             18,
             12,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时40分 ~ 22时22分]"
+          "appearance_count": 6,
+          "time_info": "[19时40分 ~ 23时56分]"
         },
         {
           "title": "这届年轻人都在抖音colorwalk",
