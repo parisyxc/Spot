@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T06:25:44.322233+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-03-25T07:28:17.982241+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "李大霄解读美股反弹",
@@ -53,19 +53,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
-          "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
-          "url": "https://wallstreetcn.com/livenews/3076219",
-          "source": "华尔街见闻-快讯",
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时28分"
         },
         {
           "title": "非美货币多数在美股盘后走高",
@@ -80,15 +80,38 @@
           "time_info": "[05时34分 ~ 06时25分]"
         },
         {
+          "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
+          "url": "https://www.cls.cn/detail/2323617",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "美债收益率在美股盘后急剧回吐涨幅，投资者紧盯伊朗局势的动态",
           "url": "https://wallstreetcn.com/livenews/3076177",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
+          "url": "https://wallstreetcn.com/livenews/3076219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时28分]"
         },
         {
           "title": "美元指数周二涨约0.3%，美股收盘后急剧跳水，日元美股盘后瞬间拉升",
@@ -220,7 +243,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -383,6 +406,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "OpenAI首席财务官：本轮融资总额达1200亿美元",
+          "url": "https://flash.jin10.com/detail/20260325064051929800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "据华尔街日报：OpenAI也将停止提供面向开发者的Sora版本，并且不会在ChatGPT中支持视频功能。",
           "url": "https://flash.jin10.com/detail/20260325035809155800",
           "source": "金十数据",
@@ -394,6 +428,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "OpenAI首席财务官弗里尔：我们必须打造一家为上市做好准备的公司，此轮融资是为了降低相关风险。",
+          "url": "https://flash.jin10.com/detail/20260325063733355800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "据华尔街日报 ：此举是OpenAI在今年第四季度可能进行首次公开募股之前，为重新聚焦于商业和编程业务而采取的众多措施之一。",
           "url": "https://flash.jin10.com/detail/20260325034535690800",
           "source": "金十数据",
@@ -403,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "OpenAI将停止Sora AI视频生成服务，精简产品线",
+          "url": "https://wallstreetcn.com/livenews/3076223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "据华尔街日报 ：OpenAI公司表示，计划停止其Sora视频平台的应用程序。该产品去年发布时曾风光一时，但此后便从公众视野中淡出。",
@@ -419,7 +475,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "日本拟将中日关系定位降级，中方回应",
@@ -429,8 +485,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "自称日本自卫队现役官员强闯中国驻日本大使馆，外交部：严正交涉，强烈抗议",
@@ -440,8 +496,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "偷袭的、阿谀的、军国的日本“回来了”",
@@ -451,19 +507,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "中方回应日本人强闯中使馆威胁杀人",
           "url": "https://www.toutiao.com/trending/7620126060876906550/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "中方回应日本自卫队闯驻日使馆",
@@ -473,31 +530,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "外交部回应一名日本自卫队人员闯入中国驻日本大使馆，要求日方立即彻查，具体情况如何？",
           "url": "https://www.zhihu.com/question/2019814614259427027",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时25分]"
-        },
-        {
-          "title": "闯中国使馆的日本自卫队人员已被捕",
-          "url": "https://www.baidu.com/s?wd=%E9%97%AF%E4%B8%AD%E5%9B%BD%E4%BD%BF%E9%A6%86%E7%9A%84%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E4%BA%BA%E5%91%98%E5%B7%B2%E8%A2%AB%E6%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "快评｜日本自卫队现役官员强闯中国使馆，专家：不应视为个案，日本加速右倾很危险",
@@ -507,11 +553,25 @@
             17,
             13,
             12,
-            10
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
+        },
+        {
+          "title": "闯中国使馆的日本自卫队人员已被捕",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AF%E4%B8%AD%E5%9B%BD%E4%BD%BF%E9%A6%86%E7%9A%84%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E4%BA%BA%E5%91%98%E5%B7%B2%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            8,
+            13
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时25分]"
+          "time_info": "[01时52分 ~ 07时28分]"
         },
         {
           "title": "日本",
@@ -527,6 +587,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时52分 ~ 06时25分]"
+        },
+        {
+          "title": "【早报】美方提出含“15项条件”的和谈方案，特朗普：伊朗同意“永不拥核”；日本拟将中日关系定位降级，中方回应",
+          "url": "https://www.cls.cn/detail/2323637",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "黑石集团未来三年将对日本投资150亿美元。（日经新闻）",
@@ -571,12 +642,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "携刀闯中使馆日本男子身份披露",
+          "url": "https://www.toutiao.com/trending/7620754972015378470/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "日本被曝多年搞反华教育",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%A4%9A%E5%B9%B4%E6%90%9E%E5%8F%8D%E5%8D%8E%E6%95%99%E8%82%B2%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Meta公司：将与ARM合作开发多代CPU。",
@@ -611,6 +704,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时25分]"
+        },
+        {
+          "title": "Anduril、Palantir向美国总统特朗普提倡的“金穹”反导系统提供软件支持。 这两家公司是“金穹”软件团体的一部分。 谷歌公司参与投资的Aalyria Tech和Scale AI也对此有贡献。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3076237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "Arm将首次销售自有芯片：拥有至多136核，台积电代工，Meta是首个大客户",
@@ -659,6 +763,57 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "现货白银日内涨幅扩大至1.00%，现报71.77美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260325071651693800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "现货白银日内涨幅达3.00%，现报71.20美元/盎司。现货黄金报4480美元/盎司，涨幅1.6%。",
+          "url": "https://flash.jin10.com/detail/20260325045446531800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时25分]"
+        },
+        {
+          "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
+          "url": "https://www.cls.cn/detail/2323307",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时36分 ~ 06时25分]"
+        },
+        {
+          "title": "金价大跌金饰店不再人山人海",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%87%91%E9%A5%B0%E5%BA%97%E4%B8%8D%E5%86%8D%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 2,
       "titles": [
@@ -687,31 +842,19 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
+      "keyword_group": "AI基础设施 算力基建 AI Agent",
+      "match_count": 1,
       "titles": [
         {
-          "title": "现货白银日内涨幅达3.00%，现报71.20美元/盎司。现货黄金报4480美元/盎司，涨幅1.6%。",
-          "url": "https://flash.jin10.com/detail/20260325045446531800",
-          "source": "金十数据",
+          "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
+          "url": "https://wallstreetcn.com/articles/3768225",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            13
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时25分]"
-        },
-        {
-          "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
-          "url": "https://www.cls.cn/detail/2323307",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 06时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         }
       ]
     },
@@ -725,11 +868,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时52分 ~ 06时25分]"
+          "appearance_count": 6,
+          "time_info": "[03时52分 ~ 07时28分]"
         }
       ]
     },
