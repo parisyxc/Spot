@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T13:57:22.534540+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-03-24T15:02:20.871254+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "金与正：朝鲜与日本没有什么可谈的事情",
@@ -45,6 +45,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时54分 ~ 09时43分]"
+        },
+        {
+          "title": "警惕！日本海上自卫队大规模改组，细节披露",
+          "url": "https://news.ifeng.com/c/8rkcSV48KmM",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 15时02分]"
         },
         {
           "title": "日本2月核心CPI年率将于十分钟后公布。",
@@ -98,17 +110,6 @@
           "time_info": "06时27分"
         },
         {
-          "title": "日本央行行长植田和男：预计基础通胀将温和上升。 取消食品销售税对通胀的影响将很小。 将实施政策以实现工资增长下的价格稳定。",
-          "url": "https://wallstreetcn.com/livenews/3075679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
           "title": "钟声：国防泡沫挽救不了日本经济",
           "url": "https://www.toutiao.com/trending/7620607656276790834/",
           "source": "今日头条",
@@ -121,18 +122,6 @@
           "time_info": "[09时43分 ~ 12时14分]"
         },
         {
-          "title": "警惕！日本海上自卫队大规模改组，细节披露",
-          "url": "https://news.ifeng.com/c/8rkcSV48KmM",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时57分]"
-        },
-        {
           "title": "日本40年期国债标售投标倍数为2.54，上次为2.76。",
           "url": "https://flash.jin10.com/detail/20260324113631619800",
           "source": "金十数据",
@@ -142,6 +131,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "日本央行行长植田和男：预计基础通胀将温和上升。 取消食品销售税对通胀的影响将很小。 将实施政策以实现工资增长下的价格稳定。",
+          "url": "https://wallstreetcn.com/livenews/3075679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时02分]"
+        },
+        {
+          "title": "日经225指数收涨1.4%，报52252.28点。 日本东证指数收涨2.1%，报3559.67点。 韩国首尔综指收涨2.7%，报5553.92点。",
+          "url": "https://wallstreetcn.com/livenews/3075699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "日本政府表示，日本政府将于周四开始释放价值约5400亿日元的原油储备，相当于一个月的供应量。",
+          "url": "https://wallstreetcn.com/livenews/3075664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时02分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：将于六月左右举行债券发行听证会。 对日本债券发行细节不作评论。",
+          "url": "https://wallstreetcn.com/livenews/3075663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时02分]"
         },
         {
           "title": "日本汽车惨败但中国就“赢”了吗",
@@ -179,15 +215,15 @@
           "time_info": "12时14分"
         },
         {
-          "title": "日本政府表示，日本政府将于周四开始释放价值约5400亿日元的原油储备，相当于一个月的供应量。",
-          "url": "https://wallstreetcn.com/livenews/3075664",
-          "source": "华尔街见闻-快讯",
+          "title": "人民日报钟声：“国防泡沫”挽救不了日本经济",
+          "url": "https://www.cls.cn/detail/2322233",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "15时02分"
         },
         {
           "title": "日本国际事务副大臣：北美西海岸的能源供应在日本备受关注。",
@@ -199,17 +235,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：将于六月左右举行债券发行听证会。 对日本债券发行细节不作评论。",
-          "url": "https://wallstreetcn.com/livenews/3075663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
         },
         {
           "title": "日本将于26日开始释放国家石油储备",
@@ -240,7 +265,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -273,7 +298,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -317,7 +342,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -407,6 +432,31 @@
           "time_info": "[00时54分 ~ 05时32分]"
         },
         {
+          "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
+          "url": "https://www.cls.cn/detail/2322200",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 15时02分]"
+        },
+        {
+          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 15时02分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -421,30 +471,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时28分]"
-        },
-        {
-          "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
-          "url": "https://www.cls.cn/detail/2322200",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 13时57分]"
-        },
-        {
-          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 13时57分]"
         },
         {
           "title": "美股期指金银快速反弹",
@@ -480,9 +506,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时02分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -522,17 +548,6 @@
           "time_info": "07时28分"
         },
         {
-          "title": "港股蜜雪集团午后涨超8%，财报显示，蜜雪集团2025年营收、净利润高于预期。",
-          "url": "https://wallstreetcn.com/livenews/3075666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
           "title": "美股收盘：三大股指涨超1% 蔚来、小鹏涨7%",
           "url": "https://flash.jin10.com/detail/20260324040119124800",
           "source": "金十数据",
@@ -556,6 +571,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时32分]"
+        },
+        {
+          "title": "港股蜜雪集团午后涨超8%，财报显示，蜜雪集团2025年营收、净利润高于预期。",
+          "url": "https://wallstreetcn.com/livenews/3075666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时02分]"
         },
         {
           "title": "数字货币市场在美股盘前短线拉升，比特币、以太币目前涨超3%",
@@ -606,7 +633,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "金价为何跌？避险光环失灵了？黄金曾有六次大跳水",
@@ -654,7 +681,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -707,6 +734,18 @@
           "time_info": "[12时14分 ~ 13时57分]"
         },
         {
+          "title": "现货白银日内跌幅扩大至4%，报66.29美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3075665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时02分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 3月23日（周一）晚盘收盘上涨0.04%报978.0元/克；<br/>上海黄金交易所白银T+D 3月23日（周一）晚盘收盘上涨4.83%报17094.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260324023109854800",
           "source": "金十数据",
@@ -716,17 +755,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
-        },
-        {
-          "title": "现货白银日内跌幅扩大至4%，报66.29美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3075665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
         },
         {
           "title": "金价大跌没人扫货了",
@@ -760,6 +788,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "投行金价目标打架，潜在分水岭其实在...",
+          "url": "https://flash.jin10.com/detail/20260324143946173800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "现货白银日内跌超3%，跌破67美元/盎司。纽约期银日内跌超3%，现报67.26美元/盎司。",
@@ -801,7 +840,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
@@ -953,11 +992,12 @@
             14,
             11,
             26,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 13时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时54分 ~ 15时02分]"
         },
         {
           "title": "微信接入龙虾透露什么趋势",
@@ -1022,7 +1062,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -1033,7 +1073,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
