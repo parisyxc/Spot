@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T15:04:11.849204+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-03-25T16:43:50.552371+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "日本拟将中日关系定位降级，中方回应",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 15时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 16时43分]"
         },
         {
           "title": "外交部回应一名日本自卫队人员闯入中国驻日本大使馆，要求日方立即彻查，具体情况如何？",
@@ -82,8 +82,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 15时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 16时43分]"
         },
         {
           "title": "中方回应日本自卫队闯驻日使馆",
@@ -93,11 +93,12 @@
             5,
             7,
             17,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 15时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 16时43分]"
         },
         {
           "title": "【早报】美方提出含“15项条件”的和谈方案，特朗普：伊朗同意“永不拥核”；日本拟将中日关系定位降级，中方回应",
@@ -127,17 +128,6 @@
           "time_info": "[01时52分 ~ 09时48分]"
         },
         {
-          "title": "日本警方称将对中使馆24小时警戒",
-          "url": "https://www.toutiao.com/trending/7621012675912388142/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 15时04分]"
-        },
-        {
           "title": "强闯中使馆日本男子身份披露",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352312&amp;topic_name=%E5%BC%BA%E9%97%AF%E4%B8%AD%E4%BD%BF%E9%A6%86%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BB%BD%E6%8A%AB%E9%9C%B2",
           "source": "贴吧",
@@ -146,8 +136,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 15时04分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 16时43分]"
+        },
+        {
+          "title": "日本警方称将对中使馆24小时警戒",
+          "url": "https://www.toutiao.com/trending/7621012675912388142/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 16时43分]"
         },
         {
           "title": "日本不法之徒身份公布",
@@ -155,11 +157,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 15时04分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 16时43分]"
         },
         {
           "title": "日本",
@@ -209,9 +212,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "日本海上自卫队情报作战集团成立",
+          "url": "https://wallstreetcn.com/livenews/3076548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "黑石集团未来三年将对日本投资150亿美元。（日经新闻）",
@@ -234,6 +248,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "日本警方：将对中使馆24小时警戒",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%B0%86%E5%AF%B9%E4%B8%AD%E4%BD%BF%E9%A6%8624%E5%B0%8F%E6%97%B6%E8%AD%A6%E6%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 16时43分]"
         },
         {
           "title": "闯入中国大使馆的日本自卫队人员已被逮捕",
@@ -261,6 +287,19 @@
           "time_info": "[09时48分 ~ 15时04分]"
         },
         {
+          "title": "日本将在外交报告中下调对中日关系的表述，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819694",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 16时43分]"
+        },
+        {
           "title": "日本被曝多年搞反华教育",
           "url": "https://www.toutiao.com/trending/7619920945708417074/",
           "source": "今日头条",
@@ -282,18 +321,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 09时48分]"
-        },
-        {
-          "title": "日本将在外交报告中下调对中日关系的表述，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819694",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 15时04分]"
         },
         {
           "title": "日本对现役军人冲击中国使馆冷处理",
@@ -320,15 +347,15 @@
           "time_info": "[12时16分 ~ 13时58分]"
         },
         {
-          "title": "日本警方：将对中使馆24小时警戒",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%B0%86%E5%AF%B9%E4%B8%AD%E4%BD%BF%E9%A6%8624%E5%B0%8F%E6%97%B6%E8%AD%A6%E6%88%92",
-          "source": "百度热搜",
+          "title": "日本海上自卫队情报作战集团成立",
+          "url": "https://flash.jin10.com/detail/20260325162104483800",
+          "source": "金十数据",
           "ranks": [
-            17
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "日本首相要求国际能源署做好必要时进一步释放储备石油的准备",
@@ -337,9 +364,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "让日本的年轻一代了解历史真相",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%97%A5%E6%9C%AC%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%B8%80%E4%BB%A3%E4%BA%86%E8%A7%A3%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "日本福岛第一核电站2025财年排放核污染水5.5万吨",
@@ -351,6 +389,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "日本外相：今天将前往法国出席G7外长会议。将在G7会议中认真讨论以期尽早平息伊朗局势。同时，我们将就确保霍尔木兹海峡航行安全及能源安全保障等问题，确认各方合作意向。",
+          "url": "https://flash.jin10.com/detail/20260325161851394800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "观察｜日本大幅扩充太空战部队规模，强化太空战能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32822267",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "闯入中国大使馆的日本自卫队人员已被逮捕",
@@ -392,7 +452,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -406,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "越来越多日本女性为供养牛郎跨境卖淫",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%80%A7%E4%B8%BA%E4%BE%9B%E5%85%BB%E7%89%9B%E9%83%8E%E8%B7%A8%E5%A2%83%E5%8D%96%E6%B7%AB%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "据日本读卖新闻：日本东曹（Tosoh）宣布上调聚乙烯树脂价格，理由是中东冲突。",
@@ -425,7 +496,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -436,7 +507,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -488,7 +559,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -513,6 +584,18 @@
           "time_info": "[00时02分 ~ 06时25分]"
         },
         {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 16时43分]"
+        },
+        {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2323371",
           "source": "财联社热门",
@@ -525,17 +608,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 09时48分]"
-        },
-        {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 15时04分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -560,11 +632,12 @@
             14,
             23,
             21,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 15时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 16时43分]"
         },
         {
           "title": "非美货币多数在美股盘后走高",
@@ -588,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。 Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中心，料年收入150亿。 美股三大股指期货走高，均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3076543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
@@ -728,6 +812,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "美股太空概念股盘前上扬，DXYZ大涨近15%，Rocket Lab、AST SpaceMobile、Redwire、Planet Labs涨超3%，Destiny Tech100上涨17.7%，消息称SpaceX据悉最快本周递表。",
+          "url": "https://flash.jin10.com/detail/20260325161629723800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "美股收盘：三大股指收跌 Circle大跌20%",
           "url": "https://flash.jin10.com/detail/20260325040120661800",
           "source": "金十数据",
@@ -745,9 +840,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "港股科技股尾盘持续拉升，美团涨超15%，京东、阿里巴巴涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3076523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "美股最稳“接盘侠”转向？散户时隔1年半首次净卖出个股",
@@ -797,8 +903,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 15时04分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 16时43分]"
         },
         {
           "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
@@ -810,8 +916,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 15时04分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 16时43分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            18,
+            19,
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 16时43分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -823,20 +944,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            18,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 15时04分]"
         },
         {
           "title": "OpenAI为何关停Sora",
@@ -1068,7 +1175,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "文件披露显示，Meta Platforms(META.O)向首席运营官Javier Olivan授予股票期权和限制性股票单位。",
@@ -1147,6 +1254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "Arm(ARM.O)盘前涨超10%，Arm宣布推出首款自研处理器，并确认Meta为首批客户之一。",
+          "url": "https://flash.jin10.com/detail/20260325161248882800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "Meta任命Andrew Bosworth负责AI原生业务，负责管理“AI for Work”项目。 首席技术官（CTO）Bosworth将主管内部使用的AI工具。（华尔街日报）",
@@ -1403,7 +1521,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "张雪峰还在抢救时，病历就微信群中被广泛传播，这样是泄露患者隐私吗？普通人转发病历是否也构成侵权呢？",
@@ -1420,13 +1538,24 @@
           "time_info": "[03时52分 ~ 09时48分]"
         },
         {
+          "title": "泡泡玛特：小红书渠道11个月上涨近10倍",
+          "url": "https://wallstreetcn.com/livenews/3076546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "泡泡玛特：小红书渠道将从内容电商独立",
           "url": "https://flash.jin10.com/detail/20260325143027203800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         }
