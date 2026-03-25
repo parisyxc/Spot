@@ -1,11 +1,265 @@
 {
-  "generated_at": "2026-03-25T07:28:17.982241+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-03-25T09:48:48.812520+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
+          "url": "https://flash.jin10.com/detail/20260325043011532800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "OpenAI Nonprofit任命了多位领导人，希望在2026年开支10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3076075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260325041357943800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时25分]"
+        },
+        {
+          "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
+          "url": "https://wallstreetcn.com/livenews/3076185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时25分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "OpenAI 计划从MGX、Coatue和Thrive等公司融资约100亿美元",
+          "url": "https://flash.jin10.com/detail/20260325021945780800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 03时52分]"
+        },
+        {
+          "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
+          "url": "https://wallstreetcn.com/livenews/3076134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 03时52分]"
+        },
+        {
+          "title": "微软将租用美国得州被甲骨文和OpenAI抛弃的数据中心。 微软和英伟达宣布，就核能展开AI合作。",
+          "url": "https://wallstreetcn.com/livenews/3076067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "市场消息：OpenAI拟从MGX、Coatue、Thrive处筹集约100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260325021429443800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼将专注于筹集资金、供应链和“以前所未有的规模建设数据中心”。",
+          "url": "https://flash.jin10.com/detail/20260325040206836800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "OpenAI料将不再维护文生视频平台Sora的APP。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3076172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "OpenAI：发布基于提示的安全策略，帮助开发者为青少年打造适龄保护措施。",
+          "url": "https://flash.jin10.com/detail/20260325020915604800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼已放弃对公司安全与保障团队的直接监管。",
+          "url": "https://flash.jin10.com/detail/20260325040133911800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "OpenAI首席财务官：本轮融资总额达1200亿美元",
+          "url": "https://flash.jin10.com/detail/20260325064051929800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI也将停止提供面向开发者的Sora版本，并且不会在ChatGPT中支持视频功能。",
+          "url": "https://flash.jin10.com/detail/20260325035809155800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "OpenAI首席财务官弗里尔：我们必须打造一家为上市做好准备的公司，此轮融资是为了降低相关风险。",
+          "url": "https://flash.jin10.com/detail/20260325063733355800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "据华尔街日报 ：此举是OpenAI在今年第四季度可能进行首次公开募股之前，为重新聚焦于商业和编程业务而采取的众多措施之一。",
+          "url": "https://flash.jin10.com/detail/20260325034535690800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "OpenAI将停止Sora AI视频生成服务，精简产品线",
+          "url": "https://wallstreetcn.com/livenews/3076223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "据华尔街日报 ：OpenAI公司表示，计划停止其Sora视频平台的应用程序。该产品去年发布时曾风光一时，但此后便从公众视野中淡出。",
+          "url": "https://flash.jin10.com/detail/20260325034504235800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -36,11 +290,12 @@
           "ranks": [
             11,
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 09时48分]"
         },
         {
           "title": "李大霄解读美股反弹",
@@ -53,8 +308,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 09时48分]"
         },
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -63,9 +318,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时48分]"
+        },
+        {
+          "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
+          "url": "https://www.cls.cn/detail/2323617",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时48分]"
         },
         {
           "title": "非美货币多数在美股盘后走高",
@@ -78,17 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时25分]"
-        },
-        {
-          "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
-          "url": "https://www.cls.cn/detail/2323617",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
         },
         {
           "title": "美债收益率在美股盘后急剧回吐涨幅，投资者紧盯伊朗局势的动态",
@@ -238,244 +493,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
-          "url": "https://flash.jin10.com/detail/20260325043011532800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         },
         {
-          "title": "OpenAI Nonprofit任命了多位领导人，希望在2026年开支10亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3076075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
-          "url": "https://flash.jin10.com/detail/20260325041357943800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3076186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时36分 ~ 06时25分]"
-        },
-        {
-          "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
-          "url": "https://wallstreetcn.com/livenews/3076185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时36分 ~ 06时25分]"
-        },
-        {
-          "title": "OpenAI 计划从MGX、Coatue和Thrive等公司融资约100亿美元",
-          "url": "https://flash.jin10.com/detail/20260325021945780800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3076139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时52分]"
-        },
-        {
-          "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
-          "url": "https://wallstreetcn.com/livenews/3076134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时52分]"
-        },
-        {
-          "title": "微软将租用美国得州被甲骨文和OpenAI抛弃的数据中心。 微软和英伟达宣布，就核能展开AI合作。",
-          "url": "https://wallstreetcn.com/livenews/3076067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "市场消息：OpenAI拟从MGX、Coatue、Thrive处筹集约100亿美元。",
-          "url": "https://flash.jin10.com/detail/20260325021429443800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "据The Information：OpenAI创始人奥尔特曼将专注于筹集资金、供应链和“以前所未有的规模建设数据中心”。",
-          "url": "https://flash.jin10.com/detail/20260325040206836800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "OpenAI料将不再维护文生视频平台Sora的APP。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3076172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "OpenAI：发布基于提示的安全策略，帮助开发者为青少年打造适龄保护措施。",
-          "url": "https://flash.jin10.com/detail/20260325020915604800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "据The Information：OpenAI创始人奥尔特曼已放弃对公司安全与保障团队的直接监管。",
-          "url": "https://flash.jin10.com/detail/20260325040133911800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "OpenAI首席财务官：本轮融资总额达1200亿美元",
-          "url": "https://flash.jin10.com/detail/20260325064051929800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI也将停止提供面向开发者的Sora版本，并且不会在ChatGPT中支持视频功能。",
-          "url": "https://flash.jin10.com/detail/20260325035809155800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "OpenAI首席财务官弗里尔：我们必须打造一家为上市做好准备的公司，此轮融资是为了降低相关风险。",
-          "url": "https://flash.jin10.com/detail/20260325063733355800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "据华尔街日报 ：此举是OpenAI在今年第四季度可能进行首次公开募股之前，为重新聚焦于商业和编程业务而采取的众多措施之一。",
-          "url": "https://flash.jin10.com/detail/20260325034535690800",
+          "title": "美股最稳“接盘侠”转向？散户时隔1年半首次净卖出个股",
+          "url": "https://flash.jin10.com/detail/20260325092506883800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "OpenAI将停止Sora AI视频生成服务，精简产品线",
-          "url": "https://wallstreetcn.com/livenews/3076223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "据华尔街日报 ：OpenAI公司表示，计划停止其Sora视频平台的应用程序。该产品去年发布时曾风光一时，但此后便从公众视野中淡出。",
-          "url": "https://flash.jin10.com/detail/20260325034504235800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "09时48分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "日本拟将中日关系定位降级，中方回应",
@@ -485,8 +519,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 09时48分]"
         },
         {
           "title": "自称日本自卫队现役官员强闯中国驻日本大使馆，外交部：严正交涉，强烈抗议",
@@ -496,8 +530,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 09时48分]"
         },
         {
           "title": "偷袭的、阿谀的、军国的日本“回来了”",
@@ -507,8 +541,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 09时48分]"
         },
         {
           "title": "中方回应日本人强闯中使馆威胁杀人",
@@ -519,19 +553,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 09时48分]"
         },
         {
           "title": "中方回应日本自卫队闯驻日使馆",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352285&amp;topic_name=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E9%97%AF%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 09时48分]"
         },
         {
           "title": "外交部回应一名日本自卫队人员闯入中国驻日本大使馆，要求日方立即彻查，具体情况如何？",
@@ -539,11 +574,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 09时48分]"
         },
         {
           "title": "快评｜日本自卫队现役官员强闯中国使馆，专家：不应视为个案，日本加速右倾很危险",
@@ -554,11 +590,12 @@
             13,
             12,
             10,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 09时48分]"
         },
         {
           "title": "闯中国使馆的日本自卫队人员已被捕",
@@ -567,11 +604,12 @@
           "ranks": [
             9,
             8,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时52分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[01时52分 ~ 09时48分]"
         },
         {
           "title": "日本",
@@ -593,11 +631,12 @@
           "url": "https://www.cls.cn/detail/2323637",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时48分]"
         },
         {
           "title": "黑石集团未来三年将对日本投资150亿美元。（日经新闻）",
@@ -622,6 +661,30 @@
           "time_info": "00时02分"
         },
         {
+          "title": "携刀闯中使馆日本男子身份披露",
+          "url": "https://www.toutiao.com/trending/7620754972015378470/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时48分]"
+        },
+        {
+          "title": "日本被曝多年搞反华教育",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%A4%9A%E5%B9%B4%E6%90%9E%E5%8F%8D%E5%8D%8E%E6%95%99%E8%82%B2%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时48分]"
+        },
+        {
           "title": "日本福岛第一核电站2025财年排放核污染水5.5万吨",
           "url": "https://wallstreetcn.com/livenews/3076063",
           "source": "华尔街见闻-快讯",
@@ -633,6 +696,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "携刀强闯中使馆日本男子身份披露",
+          "url": "https://www.baidu.com/s?wd=%E6%90%BA%E5%88%80%E5%BC%BA%E9%97%AF%E4%B8%AD%E4%BD%BF%E9%A6%86%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BB%BD%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "闯入中国大使馆的日本自卫队人员已被逮捕",
           "url": "https://flash.jin10.com/detail/20260324233254062800",
           "source": "金十数据",
@@ -642,35 +716,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "携刀闯中使馆日本男子身份披露",
-          "url": "https://www.toutiao.com/trending/7620754972015378470/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "日本被曝多年搞反华教育",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%A4%9A%E5%B9%B4%E6%90%9E%E5%8F%8D%E5%8D%8E%E6%95%99%E8%82%B2%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "文件披露显示，Meta Platforms(META.O)向首席运营官Javier Olivan授予股票期权和限制性股票单位。",
+          "url": "https://flash.jin10.com/detail/20260325094314150800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "文件披露显示，Meta Platforms(META.O)向首席法务官马奥尼（Mahoney）及总裁迪娜·鲍威尔（Dina Powell）授予股票期权。",
+          "url": "https://flash.jin10.com/detail/20260325094155186800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
         {
           "title": "Meta公司：将与ARM合作开发多代CPU。",
           "url": "https://flash.jin10.com/detail/20260325011659076800",
@@ -712,7 +786,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -764,7 +838,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货白银日内涨幅扩大至1.00%，现报71.77美元/盎司。",
@@ -773,9 +847,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "A股贵金属板块集体走强，晓程科技涨近10%，湖南白银、盛达资源、山金国际、中金黄金、赤峰黄金、山东黄金等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3076310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "现货白银日内涨幅达3.00%，现报71.20美元/盎司。现货黄金报4480美元/盎司，涨幅1.6%。",
@@ -801,15 +886,37 @@
           "time_info": "[04时36分 ~ 06时25分]"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "金价大跌金饰店不再人山人海",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%87%91%E9%A5%B0%E5%BA%97%E4%B8%8D%E5%86%8D%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "A股小金属概念板块竞价活跃，云南锗业、湖南白银均高开超7%，兴业银锡、招金黄金、白银有色、盛达资源、湖南黄金等多股高开5%。",
+          "url": "https://flash.jin10.com/detail/20260325092831439800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
@@ -842,6 +949,34 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比特币跌2%，失守7万美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3076104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "华科大老校长称机器人发展搞错重点",
+          "url": "https://www.toutiao.com/trending/7619844115865419818/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI基础设施 算力基建 AI Agent",
       "match_count": 1,
       "titles": [
@@ -850,11 +985,12 @@
           "url": "https://wallstreetcn.com/articles/3768225",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时48分]"
         }
       ]
     },
@@ -869,28 +1005,12 @@
           "ranks": [
             9,
             10,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时52分 ~ 07时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比特币跌2%，失守7万美元整数位心理关口",
-          "url": "https://wallstreetcn.com/livenews/3076104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
+          "appearance_count": 7,
+          "time_info": "[03时52分 ~ 09时48分]"
         }
       ]
     }
