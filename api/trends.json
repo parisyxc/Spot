@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-03-26T16:01:53.246289+08:00",
-  "total_titles_processed": 1300,
-  "failed_sources": [
-    "cls-hot",
-    "weibo",
-    "zhihu"
-  ],
+  "generated_at": "2026-03-26T17:03:55.795058+08:00",
+  "total_titles_processed": 1417,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
@@ -60,11 +56,12 @@
           "ranks": [
             7,
             10,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时05分 ~ 16时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时05分 ~ 17时03分]"
         },
         {
           "title": "日本警方称将对中使馆24小时警戒",
@@ -80,6 +77,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时05分 ~ 07时31分]"
+        },
+        {
+          "title": "日本警方：强闯中国大使馆的自卫队嫌疑人被送交检方",
+          "url": "https://news.ifeng.com/c/8rnmlXZ5Skv",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 17时03分]"
         },
         {
           "title": "观察｜日本大幅扩充太空战部队规模，强化太空战能力",
@@ -120,27 +128,15 @@
           "time_info": "[00时05分 ~ 09时55分]"
         },
         {
-          "title": "日本警方：强闯中国大使馆的自卫队嫌疑人被送交检方",
-          "url": "https://news.ifeng.com/c/8rnmlXZ5Skv",
-          "source": "凤凰网",
+          "title": "日本导弹部署紧挨幼儿园",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352362&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%AF%BC%E5%BC%B9%E9%83%A8%E7%BD%B2%E7%B4%A7%E6%8C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD",
+          "source": "贴吧",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 16时01分]"
-        },
-        {
-          "title": "二战后首次！日本自卫队将登陆菲律宾",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%88%98%E5%90%8E%E9%A6%96%E6%AC%A1%EF%BC%81%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E5%B0%86%E7%99%BB%E9%99%86%E8%8F%B2%E5%BE%8B%E5%AE%BE",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时10分 ~ 16时01分]"
+          "time_info": "[15时59分 ~ 17时03分]"
         },
         {
           "title": "是什么让日本自卫官敢对中使馆举刀",
@@ -156,6 +152,19 @@
           "time_info": "[09时54分 ~ 14时10分]"
         },
         {
+          "title": "二战后首次！日本自卫队将登陆菲律宾",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%88%98%E5%90%8E%E9%A6%96%E6%AC%A1%EF%BC%81%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E5%B0%86%E7%99%BB%E9%99%86%E8%8F%B2%E5%BE%8B%E5%AE%BE",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时10分 ~ 17时03分]"
+        },
+        {
           "title": "研究员：“更危险的日本”正在冒头",
           "url": "https://www.toutiao.com/trending/7621334200951701547/",
           "source": "今日头条",
@@ -165,17 +174,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 09时55分]"
-        },
-        {
-          "title": "日本导弹部署紧挨幼儿园",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352362&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%AF%BC%E5%BC%B9%E9%83%A8%E7%BD%B2%E7%B4%A7%E6%8C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 16时01分]"
         },
         {
           "title": "爱立信将扩大并现升级软银在日本的核心网络。（彭博）",
@@ -209,9 +207,23 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
+        },
+        {
+          "title": "日本东京警视厅将强闯中国驻日使馆的陆上自卫队嫌疑人送交检方",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32833539",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 17时03分]"
         },
         {
           "title": "日本40年期国债收益率下行5个基点至3.67%。",
@@ -225,30 +237,18 @@
           "time_info": "12时32分"
         },
         {
-          "title": "日本东京警视厅将强闯中国驻日使馆的陆上自卫队嫌疑人送交检方",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32833539",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 16时01分]"
-        },
-        {
           "title": "日本民众冒雨参加反战集会",
           "url": "https://www.douyin.com/hot/2443820",
           "source": "抖音",
           "ranks": [
             14,
             15,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 16时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 17时03分]"
         },
         {
           "title": "据日本放送协会NHK：日本临时预算总额预计约为8.6万亿日元。",
@@ -380,7 +380,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
         },
@@ -432,8 +432,19 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时30分 ~ 17时03分]"
+        },
         {
           "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
           "url": "https://www.cls.cn/detail/2324750",
@@ -445,17 +456,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时05分 ~ 09时55分]"
-        },
-        {
-          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时30分 ~ 16时01分]"
         },
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -477,8 +477,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时30分 ~ 16时01分]"
+          "appearance_count": 9,
+          "time_info": "[07时30分 ~ 17时03分]"
         },
         {
           "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
@@ -630,6 +630,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "美股存储板块盘前走低，美光科技跌近3%，闪迪跌近4%，西部数据跌近3%，希捷科技跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3077269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
           "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260326040606409800",
           "source": "金十数据",
@@ -665,6 +676,135 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
+          "url": "https://www.cls.cn/detail/2324799",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时05分 ~ 09时55分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月25日（周三）晚盘收盘上涨0.43%报1013.48元/克；<br/>上海黄金交易所白银T+D 3月25日（周三）晚盘收盘下跌0.58%报17912.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260326023054990800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "现货白银日内跌超1.00%，现报70.47美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260326070256475800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "纽约期银日内重挫6.00%，现报68.28美元/盎司。现货白银日内重挫3美元，现报68.16美元/盎司，跌幅4.25%。",
+          "url": "https://flash.jin10.com/detail/20260326163913630800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "WTI原油日内涨幅达4.0%，报93.94美元/桶；布伦特原油日内涨幅达3.5%，报100.7美元/桶。 纽约银日内跌幅达6.0%，报68.28美元/盎司；现货白银跌超4%，报68.19美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3077285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "现货黄金短线走低，日内跌0.5%，报4483.06美元/盎司。 现货白银跌近1%，报70.51美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3077145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "现货白银日内大跌4.00%，现报68.34美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260326163201720800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月26日（周四）收盘下跌1.96%报989.31元/克；<br/>上海黄金交易所白银T+D 3月26日（周四）收盘下跌4.09%报17280.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260326153048036800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
+          "title": "白银黄金集体大涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E9%BB%84%E9%87%91%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "金价修复成果还在，但能否站稳还得看这三点！",
+          "url": "https://flash.jin10.com/detail/20260326113954655800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "凤形股份：筹划发行股份购白银华鑫75%股权 交易仍存不确定性",
+          "url": "https://flash.jin10.com/detail/20260326162305699800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 8,
       "titles": [
@@ -677,8 +817,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 16时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 17时03分]"
+        },
+        {
+          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
+          "url": "https://www.cls.cn/detail/2325322",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 17时03分]"
         },
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
@@ -701,17 +853,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
-          "url": "https://www.cls.cn/detail/2325322",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -762,94 +903,20 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
-          "url": "https://www.cls.cn/detail/2324799",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 09时55分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月25日（周三）晚盘收盘上涨0.43%报1013.48元/克；<br/>上海黄金交易所白银T+D 3月25日（周三）晚盘收盘下跌0.58%报17912.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260326023054990800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "现货白银日内跌超1.00%，现报70.47美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260326070256475800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "现货黄金短线走低，日内跌0.5%，报4483.06美元/盎司。 现货白银跌近1%，报70.51美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3077145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月26日（周四）收盘下跌1.96%报989.31元/克；<br/>上海黄金交易所白银T+D 3月26日（周四）收盘下跌4.09%报17280.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260326153048036800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时01分"
-        },
-        {
-          "title": "白银黄金集体大涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E9%BB%84%E9%87%91%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "金价修复成果还在，但能否站稳还得看这三点！",
-          "url": "https://flash.jin10.com/detail/20260326113954655800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 6,
       "titles": [
+        {
+          "title": "俄乌战场惊现持枪机器人",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E6%88%98%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 17时03分]"
+        },
         {
           "title": "俄乌战场惊现持枪人形机器人",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E6%88%98%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%8C%81%E6%9E%AA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=1&Refer=top",
@@ -861,17 +928,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时10分 ~ 15时59分]"
-        },
-        {
-          "title": "俄乌战场惊现持枪机器人",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E6%88%98%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 16时01分]"
         },
         {
           "title": "俄乌战场现持枪机器人",
@@ -903,7 +959,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
         },
@@ -914,7 +970,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
         }
@@ -997,11 +1053,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%9C%89%E5%B7%B2%E8%AF%BB%E5%8A%9F%E8%83%BD",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 16时01分]"
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 17时03分]"
         },
         {
           "title": "微信聊天为什么会出现对方正在输入",
@@ -1009,11 +1066,12 @@
           "source": "微博",
           "ranks": [
             21,
-            18
+            18,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 15时59分]"
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 17时03分]"
         }
       ]
     },
@@ -1033,8 +1091,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时05分 ~ 16时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时05分 ~ 17时03分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
