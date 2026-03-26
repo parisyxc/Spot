@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T12:32:29.944353+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-03-26T14:10:52.928784+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "外交部称强闯使馆事反映出日本「新型军国主义」成势为患，对自卫队失管失教，有何警示信号？",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时05分 ~ 14时10分]"
         },
         {
           "title": "日本警方披露强闯中国驻日使馆者身份信息",
@@ -54,11 +54,12 @@
             11,
             10,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时05分 ~ 14时10分]"
         },
         {
           "title": "日本警方称将对中使馆24小时警戒",
@@ -114,16 +115,28 @@
           "time_info": "[00时05分 ~ 09时55分]"
         },
         {
+          "title": "日本警方：强闯中国大使馆的自卫队嫌疑人被送交检方",
+          "url": "https://news.ifeng.com/c/8rnmlXZ5Skv",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 14时10分]"
+        },
+        {
           "title": "是什么让日本自卫官敢对中使馆举刀",
           "url": "https://www.baidu.com/s?wd=%E6%98%AF%E4%BB%80%E4%B9%88%E8%AE%A9%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E5%AE%98%E6%95%A2%E5%AF%B9%E4%B8%AD%E4%BD%BF%E9%A6%86%E4%B8%BE%E5%88%80",
           "source": "百度热搜",
           "ranks": [
             8,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 14时10分]"
         },
         {
           "title": "研究员：“更危险的日本”正在冒头",
@@ -137,15 +150,15 @@
           "time_info": "[09时54分 ~ 09时55分]"
         },
         {
-          "title": "日本警方：强闯中国大使馆的自卫队嫌疑人被送交检方",
-          "url": "https://news.ifeng.com/c/8rnmlXZ5Skv",
-          "source": "凤凰网",
+          "title": "爱立信将扩大并现升级软银在日本的核心网络。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3077168",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "日本不法之徒身份公布",
@@ -168,9 +181,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "二战后首次！日本自卫队将登陆菲律宾",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%88%98%E5%90%8E%E9%A6%96%E6%AC%A1%EF%BC%81%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E5%B0%86%E7%99%BB%E9%99%86%E8%8F%B2%E5%BE%8B%E5%AE%BE",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "据日本放送协会NHK：日本临时预算总额预计约为8.6万亿日元。",
@@ -197,6 +221,30 @@
           "time_info": "[05时34分 ~ 06时31分]"
         },
         {
+          "title": "日本东京警视厅将强闯中国驻日使馆的陆上自卫队嫌疑人送交检方",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32833539",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 14时10分]"
+        },
+        {
+          "title": "日本民众冒雨参加反战集会",
+          "url": "https://www.douyin.com/hot/2443820",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 14时10分]"
+        },
+        {
           "title": "日本数千民众集会抗议高市修宪企图",
           "url": "https://www.toutiao.com/trending/7620426957763608582/",
           "source": "今日头条",
@@ -219,28 +267,6 @@
           "time_info": "[01时54分 ~ 01时55分]"
         },
         {
-          "title": "日本民众冒雨参加反战集会",
-          "url": "https://www.douyin.com/hot/2443820",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "日本东京警视厅将强闯中国驻日使馆的陆上自卫队嫌疑人送交检方",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32833539",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
           "title": "日本2年期国债收益率自1996年以来首次升至1.315%。",
           "url": "https://wallstreetcn.com/livenews/3077009",
           "source": "华尔街见闻-快讯",
@@ -258,7 +284,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -269,7 +295,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -283,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "日本5年期国债收益率上升3.0个基点至1.745%。",
+          "url": "https://wallstreetcn.com/livenews/3077140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "日本2年期国债收益率升至1.315%，创1996年以来新高。",
@@ -305,6 +342,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "日本央行称，将每月发布核心CPI指标。",
+          "url": "https://wallstreetcn.com/livenews/3077123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "日本富士山“随时可能喷发”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AF%8C%E5%A3%AB%E5%B1%B1%E2%80%9C%E9%9A%8F%E6%97%B6%E5%8F%AF%E8%83%BD%E5%96%B7%E5%8F%91%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "日本东京警视厅将强行闯入中国驻日本大使馆的陆上自卫队嫌疑人村田晃大送交检方。",
@@ -376,8 +435,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 14时10分]"
         },
         {
           "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
@@ -388,8 +447,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 14时10分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -400,8 +459,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 14时10分]"
         },
         {
           "title": "美伊谈判存疑，美股指涨幅收窄，存储板块走低，现货黄金涨2%，原油跌幅收窄",
@@ -433,7 +492,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -580,6 +639,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
+          "url": "https://wallstreetcn.com/articles/3768419",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 14时10分]"
+        },
+        {
           "title": "美国陪审团就涉及谷歌、Meta公司的青少年社交媒体成瘾案作出裁决。陪审团裁定Meta在社交媒体审判中因疏忽而承担责任。",
           "url": "https://flash.jin10.com/detail/20260326012111021800",
           "source": "金十数据",
@@ -589,17 +659,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
-          "url": "https://wallstreetcn.com/articles/3768419",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -632,7 +691,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -651,7 +710,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
@@ -689,13 +748,35 @@
           "time_info": "07时31分"
         },
         {
+          "title": "现货黄金短线走低，日内跌0.5%，报4483.06美元/盎司。 现货白银跌近1%，报70.51美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3077145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "白银黄金集体大涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E9%BB%84%E9%87%91%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "金价修复成果还在，但能否站稳还得看这三点！",
           "url": "https://flash.jin10.com/detail/20260326113954655800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
@@ -703,7 +784,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "标普500指数收涨35.53点，涨幅0.54%，报6591.90点。 道琼斯工业平均指数收涨305.43点，涨幅0.66%，报46429.49点。 纳斯达克综合指数（纳指）收涨167.931点，涨幅0.77%，报21929.825点。 纳斯达克100指数收涨160.528点，涨幅0.67%，报24162.976点。 费城半导体指数收涨1.21%，报7967.745点。 费城证交所KBW银行指数收涨0.48%，报154.11点。 纳斯达克生物科技指数收涨2.64%，报5729.51点。",
@@ -717,13 +798,24 @@
           "time_info": "04时40分"
         },
         {
+          "title": "恒生科技指数午后跌3%，恒生指数跌1.85%，快手跌超13%，泡泡玛特跌超9%，华虹半导体跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3077142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "恒生科技指数日内跌幅扩大至2%，恒指跌1.4%，快手跌超13%，地平线机器人、阿里巴巴、华虹半导体、腾讯音乐跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3077061",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -741,43 +833,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            16,
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 12时32分]"
-        },
-        {
-          "title": "OpenAI推出安全漏洞赏金计划。",
-          "url": "https://wallstreetcn.com/livenews/3076838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "俄乌战场惊现持枪人形机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E6%88%98%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%8C%81%E6%9E%AA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
         {
           "title": "俄乌战场现持枪机器人",
           "url": "https://www.toutiao.com/trending/7620829717026455558/",
@@ -804,8 +873,42 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            16,
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时05分 ~ 14时10分]"
+        },
+        {
+          "title": "OpenAI推出安全漏洞赏金计划。",
+          "url": "https://wallstreetcn.com/livenews/3076838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 03时43分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "冬去春来抖音追剧团",
@@ -824,6 +927,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时05分 ~ 12时32分]"
+        },
+        {
+          "title": "微信聊天为什么会出现对方正在输入",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%87%BA%E7%8E%B0%E5%AF%B9%E6%96%B9%E6%AD%A3%E5%9C%A8%E8%BE%93%E5%85%A5%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         }
       ]
     }
