@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T15:58:06.987117+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2026-03-27T16:53:58.710578+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "外交部郑重提醒：中国公民近期避免前往日本",
@@ -58,11 +58,12 @@
             13,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 15时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 16时53分]"
         },
         {
           "title": "日本导弹部署紧挨幼儿园",
@@ -73,11 +74,12 @@
             10,
             13,
             16,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 15时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 16时53分]"
         },
         {
           "title": "扎哈罗娃警告日本勿向乌提供武器",
@@ -120,6 +122,19 @@
           "time_info": "[00时59分 ~ 07时28分]"
         },
         {
+          "title": "如何看待外交部和中国驻日本使领馆郑重提醒中国公民近期避免前往日本？目前当地情况如何？",
+          "url": "https://www.zhihu.com/question/2020555834497745376",
+          "source": "知乎",
+          "ranks": [
+            16,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 16时53分]"
+        },
+        {
           "title": "日网痛批日本小学午餐",
           "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E7%BD%91%E7%97%9B%E6%89%B9%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%AD%A6%E5%8D%88%E9%A4%90&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -144,19 +159,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 09时55分]"
-        },
-        {
-          "title": "如何看待外交部和中国驻日本使领馆郑重提醒中国公民近期避免前往日本？目前当地情况如何？",
-          "url": "https://www.zhihu.com/question/2020555834497745376",
-          "source": "知乎",
-          "ranks": [
-            16,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 15时58分]"
         },
         {
           "title": "日本东京发生命案",
@@ -193,6 +195,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "日本前央行行长黑田东彦：日本正处于非常适当且稳定的增长轨道上，无需进一步实施货币宽松政策。",
+          "url": "https://flash.jin10.com/detail/20260327164557125800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "据英国金融时报：在苹果(AAPL.O)CEO库克推动将部分供应链迁回美国、减少对亚洲过度依赖的举措下，苹果将从日本TDK公司采购美国制造的零部件。",
           "url": "https://flash.jin10.com/detail/20260327140645809800",
           "source": "金十数据",
@@ -215,17 +228,6 @@
           "time_info": "09时55分"
         },
         {
-          "title": "日本要求批发商改用布伦特原油价格。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3078030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
           "title": "日本东丽：将对包括树脂和碳纤维在内的部分产品引入附加费机制，以迅速反映原材料成本波动。",
           "url": "https://flash.jin10.com/detail/20260327140217504800",
           "source": "金十数据",
@@ -235,6 +237,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32837538",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 16时53分]"
+        },
+        {
+          "title": "日本前央行行长黑田东彦：明年年底前将政策利率上调3至4次至约1.5%并无问题。",
+          "url": "https://flash.jin10.com/detail/20260327164244571800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "日本30年期国债收益率上升14个基点至3.66%。 日本20年期国债收益率上升10个基点至3.22%。",
@@ -254,7 +281,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -281,17 +308,29 @@
           "time_info": "12时31分"
         },
         {
-          "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32837538",
-          "source": "澎湃新闻",
+          "title": "日本要求批发商改用布伦特原油价格。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3078030",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 16时53分]"
+        },
+        {
+          "title": "中国使馆遭持刀强闯 六问日本当局",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%BF%E9%A6%86%E9%81%AD%E6%8C%81%E5%88%80%E5%BC%BA%E9%97%AF+%E5%85%AD%E9%97%AE%E6%97%A5%E6%9C%AC%E5%BD%93%E5%B1%80",
+          "source": "百度热搜",
+          "ranks": [
             15,
-            13
+            24,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时31分 ~ 15时58分]"
+          "time_info": "[14时10分 ~ 16时53分]"
         },
         {
           "title": "日本人为何对中国汽车“一无所知”",
@@ -304,18 +343,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 06时24分]"
-        },
-        {
-          "title": "中国使馆遭持刀强闯 六问日本当局",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%BF%E9%A6%86%E9%81%AD%E6%8C%81%E5%88%80%E5%BC%BA%E9%97%AF+%E5%85%AD%E9%97%AE%E6%97%A5%E6%9C%AC%E5%BD%93%E5%B1%80",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时10分 ~ 15时58分]"
         },
         {
           "title": "日本据传考虑做空原油救日元 全球分析师集体打出问号",
@@ -360,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "就持刀强闯我使馆六问日本当局",
+          "url": "https://www.douyin.com/hot/2445642",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "日本30年期国债收益率上升14个基点，至3.66%。",
@@ -424,6 +462,18 @@
           "time_info": "[00时59分 ~ 06时24分]"
         },
         {
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 16时53分]"
+        },
+        {
           "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
           "url": "https://www.cls.cn/detail/2326270",
           "source": "财联社热门",
@@ -436,23 +486,25 @@
           "time_info": "[07时28分 ~ 15时58分]"
         },
         {
+          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
+          "url": "https://wallstreetcn.com/articles/3768527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 16时53分]"
+        },
+        {
           "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
           "url": "https://www.cls.cn/detail/2326291",
           "source": "财联社热门",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 15时58分]"
-        },
-        {
-          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -481,19 +533,6 @@
           "time_info": "[00时59分 ~ 04时32分]"
         },
         {
-          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
-          "url": "https://wallstreetcn.com/articles/3768527",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 15时58分]"
-        },
-        {
           "title": "巨盈变巨亏！美团2025年调整后净亏损186亿元，核心本地商业经营亏损69亿元 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3768460",
           "source": "华尔街见闻",
@@ -502,8 +541,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时10分 ~ 15时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时10分 ~ 16时53分]"
         },
         {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
@@ -597,6 +636,18 @@
           "time_info": "[04时32分 ~ 05时32分]"
         },
         {
+          "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
+          "url": "https://www.cls.cn/detail/2326356",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 16时53分]"
+        },
+        {
           "title": "美股大跳水",
           "url": "https://www.douyin.com/hot/2445212",
           "source": "抖音",
@@ -607,17 +658,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时10分 ~ 15时58分]"
-        },
-        {
-          "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
-          "url": "https://www.cls.cn/detail/2326356",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "恒指低开0.35%，报24768.66点；恒生科技指数跌0.44%。美团财报过后高开0.5%，比亚迪股份涨2.7%。蔚来、哔哩哔哩跌超2%。",
@@ -634,7 +674,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -658,8 +698,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 16时53分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -668,22 +708,24 @@
           "ranks": [
             2,
             12,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 15时58分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 16时53分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 16时53分]"
         },
         {
           "title": "Meta将对El Paso数据中心的投资增加至100亿美元。",
@@ -707,6 +749,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时32分]"
+        },
+        {
+          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
+          "url": "https://www.cls.cn/detail/2326397",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -787,11 +840,12 @@
           "ranks": [
             7,
             8,
-            12
+            12,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 16时53分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少104.21吨，当前持仓量为15409.46吨。欢迎点击查看数据中心……",
@@ -855,7 +909,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -983,8 +1037,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 16时53分]"
         },
         {
           "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
@@ -996,8 +1050,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 16时53分]"
         },
         {
           "title": "比特币略微走高，特朗普称：伊朗要求七天，“我给了他们十天”",
@@ -1045,11 +1099,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 16时53分]"
         },
         {
           "title": "标普500指数收跌114.74点，跌幅1.74%，报6477.16点。 道琼斯工业平均指数收跌469.38点，跌幅1.01%，报45960.11点。 纳斯达克综合指数（纳指）收跌521.744点，跌幅2.38%，报21408.081点。 纳斯达克100指数收跌575.981点，跌幅2.38%，报23586.995点。 费城半导体指数收跌4.79%，报7585.871点。 费城证交所KBW银行指数收跌1.13%，报152.37点。 纳斯达克生物科技指数收跌0.22%，报5716.64点。",
