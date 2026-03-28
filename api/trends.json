@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T14:53:36.374551+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-03-28T15:42:19.749249+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 15时42分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -63,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 15时42分]"
         },
         {
           "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
@@ -84,11 +84,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时42分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时16分 ~ 14时53分]"
+          "time_info": "[13时54分 ~ 15时42分]"
         },
         {
           "title": "“口头干预”失效，美油重返百元关口，美股道指、纳指跌入修正区间，VIX突破30",
@@ -111,17 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
-        },
-        {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时53分]"
         },
         {
           "title": "美股“七姐妹”技术性崩坏正在提速",
@@ -174,6 +176,17 @@
           "time_info": "[04时33分 ~ 05时31分]"
         },
         {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
           "url": "https://www.zhihu.com/question/2020984478156239784",
           "source": "知乎",
@@ -183,8 +196,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时42分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
@@ -289,8 +302,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 14时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 15时42分]"
         },
         {
           "title": "日本商场发生持刀伤人事件致2死",
@@ -339,19 +352,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时42分]"
         },
         {
           "title": "东风导弹射程覆盖全日本",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E%E5%AF%BC%E5%BC%B9%E5%B0%84%E7%A8%8B%E8%A6%86%E7%9B%96%E5%85%A8%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 15时42分]"
         },
         {
           "title": "媒体：闯中使馆日本人绝非凭空冒出来",
@@ -382,7 +396,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -439,8 +453,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 15时42分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -452,8 +466,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时42分]"
         },
         {
           "title": "标普500指数跌1%，道指跌1%，纳指跌1.4%，半导体指数跌0.9%，银行指数跌1.5%。 美国向盟友发出信号，暂无入侵伊朗的紧急计划。 国务卿卢比奥敦促七国集团（G7）就伊朗问题做出“最大程度的伙伴贡献”。",
@@ -537,8 +551,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 14时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 15时42分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -551,11 +565,12 @@
             17,
             16,
             21,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 14时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 15时42分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -567,11 +582,12 @@
             15,
             13,
             14,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 14时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 15时42分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -761,49 +777,8 @@
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "于东来公园偶遇当地市长 互加微信",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%85%AC%E5%9B%AD%E5%81%B6%E9%81%87%E5%BD%93%E5%9C%B0%E5%B8%82%E9%95%BF+%E4%BA%92%E5%8A%A0%E5%BE%AE%E4%BF%A1",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时53分]"
-        },
-        {
-          "title": "于东来偶遇汝州市长现场互加微信",
-          "url": "https://www.toutiao.com/trending/7621592928099762218/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时53分]"
-        },
-        {
-          "title": "小红书上假货丝滑流转 谁在开绿灯",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%B8%8A%E5%81%87%E8%B4%A7%E4%B8%9D%E6%BB%91%E6%B5%81%E8%BD%AC+%E8%B0%81%E5%9C%A8%E5%BC%80%E7%BB%BF%E7%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特斯拉辟谣Model 3标准版在华上市：暂无引入计划",
@@ -824,11 +799,65 @@
             2,
             12,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 14时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 15时42分]"
+        },
+        {
+          "title": "特斯拉55座超充站落地重庆高速",
+          "url": "https://flash.jin10.com/detail/20260328145650511800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "于东来公园偶遇当地市长 互加微信",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%85%AC%E5%9B%AD%E5%81%B6%E9%81%87%E5%BD%93%E5%9C%B0%E5%B8%82%E9%95%BF+%E4%BA%92%E5%8A%A0%E5%BE%AE%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 15时42分]"
+        },
+        {
+          "title": "于东来偶遇汝州市长现场互加微信",
+          "url": "https://www.toutiao.com/trending/7621592928099762218/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 15时42分]"
+        },
+        {
+          "title": "小红书上假货丝滑流转 谁在开绿灯",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%B8%8A%E5%81%87%E8%B4%A7%E4%B8%9D%E6%BB%91%E6%B5%81%E8%BD%AC+%E8%B0%81%E5%9C%A8%E5%BC%80%E7%BB%BF%E7%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     }
