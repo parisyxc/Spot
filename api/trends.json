@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T00:28:32.430871+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-29T01:25:23.940886+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -48,19 +48,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
         },
         {
           "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
           "url": "https://www.zhihu.com/question/2020984478156239784",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
         }
       ]
     },
@@ -69,17 +70,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "F1日本站排位赛战报",
-          "url": "https://search.bilibili.com/all?keyword=F1%E6%97%A5%E6%9C%AC%E7%AB%99%E6%8E%92%E4%BD%8D%E8%B5%9B%E6%88%98%E6%8A%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
           "title": "日本17岁高中生偷大米被抓",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352448&amp;topic_name=%E6%97%A5%E6%9C%AC17%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%B7%E5%A4%A7%E7%B1%B3%E8%A2%AB%E6%8A%93",
           "source": "贴吧",
@@ -87,30 +77,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
         },
         {
           "title": "日本被要求：尽快向中方道歉",
           "url": "https://www.cls.cn/detail/2327928",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
+        },
+        {
+          "title": "F1日本站排位赛战报",
+          "url": "https://search.bilibili.com/all?keyword=F1%E6%97%A5%E6%9C%AC%E7%AB%99%E6%8E%92%E4%BD%8D%E8%B5%9B%E6%88%98%E6%8A%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
         },
         {
           "title": "没肉没蔬菜,日本小学午餐寒酸",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352438&amp;topic_name=%E6%B2%A1%E8%82%89%E6%B2%A1%E8%94%AC%E8%8F%9C%2C%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%AD%A6%E5%8D%88%E9%A4%90%E5%AF%92%E9%85%B8",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
         },
         {
           "title": "日本搞大杀器妄图“覆盖中国全境”",
@@ -134,22 +138,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -159,8 +165,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
         }
       ]
     },
@@ -176,19 +182,54 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
           "url": "https://www.cls.cn/detail/2327720",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：欧洲人一定会喜欢特斯拉(TSLA.O)的自动驾驶功能。由于欧盟的监管负担极其沉重，这通常会扼杀欧洲的创新，因此，那里的特斯拉车主至今只能使用基本的车道跟随功能。",
+          "url": "https://flash.jin10.com/detail/20260329010123344800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价急速飙涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E9%80%9F%E9%A3%99%E6%B6%A8%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         }
       ]
     }
