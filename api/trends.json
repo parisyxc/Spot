@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-28T16:34:06.975161+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-03-28T17:33:07.801054+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 21,
       "titles": [
+        {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 17时33分]"
+        },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
           "url": "https://wallstreetcn.com/articles/3768527",
@@ -20,6 +31,17 @@
           "time_info": "[00时48分 ~ 07时28分]"
         },
         {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时28分 ~ 17时33分]"
+        },
+        {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
           "url": "https://wallstreetcn.com/articles/3768430",
           "source": "华尔街见闻",
@@ -29,28 +51,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时48分 ~ 07时28分]"
-        },
-        {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时28分 ~ 16时34分]"
-        },
-        {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 16时34分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -74,11 +74,25 @@
             8,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 17时33分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 17时33分]"
         },
         {
           "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
@@ -93,19 +107,6 @@
           "time_info": "[01时45分 ~ 09时47分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 16时34分]"
-        },
-        {
           "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
           "url": "https://www.zhihu.com/question/2020984478156239784",
           "source": "知乎",
@@ -113,11 +114,12 @@
             18,
             12,
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 17时33分]"
         },
         {
           "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
@@ -127,8 +129,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时34分]"
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 17时33分]"
         },
         {
           "title": "“口头干预”失效，美油重返百元关口，美股道指、纳指跌入修正区间，VIX突破30",
@@ -263,7 +265,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
@@ -277,6 +279,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时48分 ~ 07时28分]"
+        },
+        {
+          "title": "日本17岁高中生偷大米被抓",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352448&amp;topic_name=%E6%97%A5%E6%9C%AC17%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%B7%E5%A4%A7%E7%B1%B3%E8%A2%AB%E6%8A%93",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 17时33分]"
         },
         {
           "title": "就持刀强闯我使馆六问日本当局",
@@ -303,23 +317,12 @@
             13,
             15,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 16时34分]"
-        },
-        {
-          "title": "日本17岁高中生偷大米被抓",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352448&amp;topic_name=%E6%97%A5%E6%9C%AC17%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%B7%E5%A4%A7%E7%B1%B3%E8%A2%AB%E6%8A%93",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 16时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时48分 ~ 17时33分]"
         },
         {
           "title": "日本商场发生持刀伤人事件致2死",
@@ -374,6 +377,29 @@
           "time_info": "[13时54分 ~ 16时34分]"
         },
         {
+          "title": "李昌钰曾拒绝日本邀请",
+          "url": "https://www.toutiao.com/trending/7622216853825408538/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
+          "title": "安东内利夺F1日本站杆位",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9%E5%A4%BAF1%E6%97%A5%E6%9C%AC%E7%AB%99%E6%9D%86%E4%BD%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 17时33分]"
+        },
+        {
           "title": "日本欲在距台110公里岛屿部署导弹",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AC%B2%E5%9C%A8%E8%B7%9D%E5%8F%B0110%E5%85%AC%E9%87%8C%E5%B2%9B%E5%B1%BF%E9%83%A8%E7%BD%B2%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -385,6 +411,28 @@
           "time_info": "[16时33分 ~ 16时34分]"
         },
         {
+          "title": "李昌钰曾拒绝日本邀请",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%8C%E9%92%B0%E6%9B%BE%E6%8B%92%E7%BB%9D%E6%97%A5%E6%9C%AC%E9%82%80%E8%AF%B7",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
+          "title": "日本搞大杀器妄图覆盖中国全境",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%90%9E%E5%A4%A7%E6%9D%80%E5%99%A8%E5%A6%84%E5%9B%BE%E8%A6%86%E7%9B%96%E4%B8%AD%E5%9B%BD%E5%85%A8%E5%A2%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
           "title": "媒体：闯中使馆日本人绝非凭空冒出来",
           "url": "https://www.toutiao.com/trending/7620992354468380715/",
           "source": "今日头条",
@@ -394,17 +442,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 03时39分]"
-        },
-        {
-          "title": "安东内利夺F1日本站杆位",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9%E5%A4%BAF1%E6%97%A5%E6%9C%AC%E7%AB%99%E6%9D%86%E4%BD%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "媒体：持刀伤人案暴露日本社会危机",
@@ -462,6 +499,19 @@
           "time_info": "[00时48分 ~ 12时16分]"
         },
         {
+          "title": "中东战火下半导体供应链受阻：氦气之外 这些光刻工艺材料也受影响",
+          "url": "https://www.cls.cn/detail/2327729",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 17时33分]"
+        },
+        {
           "title": "美伊前景未明，纳指100跌幅扩大至1%，半导体股、网安股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
           "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
@@ -473,18 +523,6 @@
           "time_info": "[01时45分 ~ 06时28分]"
         },
         {
-          "title": "中东战火下半导体供应链受阻：氦气之外 这些光刻工艺材料也受影响",
-          "url": "https://www.cls.cn/detail/2327729",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 16时34分]"
-        },
-        {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
           "url": "https://www.cls.cn/detail/2327720",
           "source": "财联社热门",
@@ -494,8 +532,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 17时33分]"
         },
         {
           "title": "标普500指数跌1%，道指跌1%，纳指跌1.4%，半导体指数跌0.9%，银行指数跌1.5%。 美国向盟友发出信号，暂无入侵伊朗的紧急计划。 国务卿卢比奥敦促七国集团（G7）就伊朗问题做出“最大程度的伙伴贡献”。",
@@ -547,7 +585,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
@@ -579,8 +617,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 16时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时48分 ~ 17时33分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -598,8 +636,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 16时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时48分 ~ 17时33分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -616,8 +654,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 16时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时48分 ~ 17时33分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -641,6 +679,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 09时47分]"
+        },
+        {
+          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
+          "url": "https://www.zhihu.com/question/2020455049218712383",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -820,11 +869,12 @@
             18,
             20,
             23,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 17时33分]"
         },
         {
           "title": "特斯拉辟谣Model 3标准版在华上市：暂无引入计划",
@@ -862,11 +912,12 @@
           "ranks": [
             24,
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 17时33分]"
         },
         {
           "title": "于东来偶遇汝州市长现场互加微信",
