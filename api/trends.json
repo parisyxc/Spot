@@ -1,76 +1,11 @@
 {
-  "generated_at": "2026-03-29T03:27:37.306567+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-03-29T04:25:09.853132+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
-          "url": "https://wallstreetcn.com/articles/3768635",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
-        },
-        {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
-        },
-        {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
-        },
-        {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
-        },
-        {
-          "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
-          "url": "https://www.zhihu.com/question/2020984478156239784",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "稳定币 日本",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "日本17岁高中生偷大米被抓",
@@ -80,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "日本被要求：尽快向中方道歉",
@@ -92,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "F1日本站排位赛战报",
@@ -103,11 +38,12 @@
             4,
             13,
             7,
-            30
+            30,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "没肉没蔬菜,日本小学午餐寒酸",
@@ -118,8 +54,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
+        },
+        {
+          "title": "维斯塔潘止步日本大奖赛Q2",
+          "url": "https://www.douyin.com/hot/2446811",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 04时25分]"
         },
         {
           "title": "日本搞大杀器妄图“覆盖中国全境”",
@@ -135,6 +82,72 @@
       ]
     },
     {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
+        },
+        {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
+        },
+        {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
+        },
+        {
+          "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
+          "url": "https://www.zhihu.com/question/2020984478156239784",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            12,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 3,
       "titles": [
@@ -145,11 +158,12 @@
           "ranks": [
             17,
             15,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -159,11 +173,12 @@
             21,
             23,
             22,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -171,11 +186,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         }
       ]
     },
@@ -191,8 +207,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -203,8 +219,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         }
       ]
     },
