@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T18:47:15.668274+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-03-30T19:53:40.006342+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "日本民众举行集会高呼中国对不起",
@@ -72,11 +72,12 @@
             15,
             16,
             19,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 18时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 19时53分]"
         },
         {
           "title": "安东内利日本站再夺魁",
@@ -87,11 +88,12 @@
             22,
             17,
             19,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 18时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 19时53分]"
         },
         {
           "title": "日本17岁高中生偷大米被抓",
@@ -146,8 +148,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 18时47分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 19时53分]"
+        },
+        {
+          "title": "中方反制日本国会众议员古屋圭司",
+          "url": "https://www.douyin.com/hot/2448381",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 19时53分]"
         },
         {
           "title": "右翼的《产经新闻》都承认：中方向日本抗议理所应当",
@@ -163,16 +177,18 @@
           "time_info": "[05时27分 ~ 14时29分]"
         },
         {
-          "title": "中方反制日本国会众议员古屋圭司",
-          "url": "https://www.douyin.com/hot/2448381",
-          "source": "抖音",
+          "title": "中方决定对日本国会众议员古屋圭司采取反制措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860602",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            10
+            13,
+            12,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时47分]"
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 19时53分]"
         },
         {
           "title": "日本拟动用外储做空国际原油，以挽救日元汇率，如何看待？会重演 96 年「住友铜事件」吗？",
@@ -254,19 +270,6 @@
           "time_info": "14时29分"
         },
         {
-          "title": "中方决定对日本国会众议员古屋圭司采取反制措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860602",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 18时47分]"
-        },
-        {
           "title": "20年期日本国债收益率上升4.5个基点，至3.305%。",
           "url": "https://flash.jin10.com/detail/20260330140133037800",
           "source": "金十数据",
@@ -333,6 +336,17 @@
           "time_info": "14时29分"
         },
         {
+          "title": "中方决定对日本国会众议员古屋圭司采取反制措施",
+          "url": "https://news.ifeng.com/c/8ruYQEhDxBO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 19时53分]"
+        },
+        {
           "title": "中方反制日本国会众议员古屋圭司",
           "url": "https://www.toutiao.com/trending/7622873076497629203/",
           "source": "今日头条",
@@ -355,17 +369,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时26分]"
-        },
-        {
-          "title": "中方决定对日本国会众议员古屋圭司采取反制措施",
-          "url": "https://news.ifeng.com/c/8ruYQEhDxBO",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时47分]"
         },
         {
           "title": "日本警察厅就自卫队员强闯中国使馆事件召开会议",
@@ -445,6 +448,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "日媒：中方向日本抗议理所应当",
+          "url": "https://www.toutiao.com/trending/7621916297358082098/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "标普：鉴于日本拥有约八个月用量的庞大石油储备，相信日本有充足能力抵御供应短缺。",
           "url": "https://flash.jin10.com/detail/20260330133818823800",
           "source": "金十数据",
@@ -517,7 +531,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         }
@@ -525,7 +539,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -549,8 +563,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 18时47分]"
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 19时53分]"
         },
         {
           "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
@@ -574,6 +588,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 14时29分]"
+        },
+        {
+          "title": "中东局势升级，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "中东局势升级，日韩股市收跌约3%，美股期货续跌跌势，布油一度涨破115美元、铝价上涨5%",
@@ -607,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "美股期货走高，纳斯达克100指数期货涨0.7%，道指期货涨0.7%，标普500指数期货涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3079300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
@@ -690,7 +726,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -704,6 +740,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "“下个月比赛 机器人将跑得比人快”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8B%E4%B8%AA%E6%9C%88%E6%AF%94%E8%B5%9B+%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%86%E8%B7%91%E5%BE%97%E6%AF%94%E4%BA%BA%E5%BF%AB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 06时26分]"
+        },
+        {
+          "title": "智元机器人第10000台产品下线",
+          "url": "https://flash.jin10.com/detail/20260330094809150800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "节卡机器人获新一轮股权融资 临港数科基金领投",
+          "url": "https://wallstreetcn.com/livenews/3079291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "智元第10000台通用具身机器人下线",
+          "url": "https://wallstreetcn.com/livenews/3078924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         }
       ]
     },
@@ -740,8 +827,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 18时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 19时53分]"
         },
         {
           "title": "带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
@@ -750,49 +837,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“下个月比赛 机器人将跑得比人快”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8B%E4%B8%AA%E6%9C%88%E6%AF%94%E8%B5%9B+%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%86%E8%B7%91%E5%BE%97%E6%AF%94%E4%BA%BA%E5%BF%AB%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 06时26分]"
-        },
-        {
-          "title": "智元机器人第10000台产品下线",
-          "url": "https://flash.jin10.com/detail/20260330094809150800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "智元第10000台通用具身机器人下线",
-          "url": "https://wallstreetcn.com/livenews/3078924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
         }
       ]
     },
@@ -822,11 +869,12 @@
           "url": "https://www.douyin.com/hot/2448717",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 18时47分]"
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 19时53分]"
         }
       ]
     }
