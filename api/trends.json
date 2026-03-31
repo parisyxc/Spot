@@ -1,140 +1,12 @@
 {
-  "generated_at": "2026-03-31T22:58:04.477177+08:00",
-  "total_titles_processed": 1811,
+  "generated_at": "2026-04-01T00:04:57.266490+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 33,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时31分 ~ 22时58分]"
-        },
-        {
-          "title": "科技股暴跌释放反转信号 华尔街吹响“抄底”号角",
-          "url": "https://www.cls.cn/detail/2329636",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 09时56分]"
-        },
-        {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2329476",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 07时31分]"
-        },
-        {
-          "title": "中际旭创2025年营收大增60%，净利润翻一倍，拟每10股派10元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3768766",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时31分 ~ 19时04分]"
-        },
-        {
-          "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 04时40分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
-          "url": "https://www.cls.cn/detail/2329769",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时31分 ~ 14时14分]"
-        },
-        {
-          "title": "美股后续会怎么走",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            4,
-            20,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 21时06分]"
-        },
-        {
-          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时05分 ~ 06时31分]"
-        },
-        {
-          "title": "特朗普释放停战信号，美股期指涨幅扩大，金银油齐涨，伦铝月内涨近10%",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 21时06分]"
-        },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
           "url": "https://wallstreetcn.com/articles/3768819",
@@ -143,966 +15,48 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时57分 ~ 22时58分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         },
         {
-          "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，油价回吐涨幅，伦铝月内涨近10%",
-          "url": "https://wallstreetcn.com/articles/3768819",
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时04分]"
-        },
-        {
-          "title": "WTI原油期货价格延续涨势，涨破106美元/桶，日内涨超3%，之前科威特油轮被袭击。 美股期货走低，标普500指数期货现跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3079624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3080182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        },
-        {
-          "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260331032001591800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "Centessa Pharmaceuticals美股盘前涨超54%，报道称礼来（Lilly）将以每股38美元加CVR（或有价值权）收购Centessa Pharmaceuticals。",
-          "url": "https://wallstreetcn.com/livenews/3080106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时04分"
+          "time_info": "00时04分"
         },
         {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时57分 ~ 22时58分]"
-        },
-        {
-          "title": "金十图示：2026年03月30日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260331031910310800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "长鑫科技IPO审核状态变更为“中止” 系财报更新技术性暂停非“终止”",
-          "url": "https://flash.jin10.com/detail/20260331172837724800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
-          "url": "https://wallstreetcn.com/livenews/3079573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时31分]"
-        },
-        {
-          "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3079569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时31分]"
+          "time_info": "00时04分"
         },
         {
           "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2330950",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时05分 ~ 22时58分]"
-        },
-        {
-          "title": "美股三大指数高开 爱奇艺涨超12%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%88%B1%E5%A5%87%E8%89%BA%E6%B6%A8%E8%B6%8512%25",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 03时53分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周一（3月30日），美国科技股七巨头（Magnificent 7）指数跌0.35%，报176.37点。 “超大”市值科技股指数跌0.49%，报336.14点。",
-          "url": "https://wallstreetcn.com/livenews/3079578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时05分 ~ 06时31分]"
-        },
-        {
-          "title": "纳指科技股指数收跌约1.3%，半导体指数跌超4.2%，小盘股指跌超1.4%",
-          "url": "https://wallstreetcn.com/livenews/3079560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时05分 ~ 06时31分]"
-        },
-        {
-          "title": "IPO排队企业掀“中止潮”，蓝箭航天、长鑫科技等财报待更新",
-          "url": "https://flash.jin10.com/detail/20260331203915055800",
-          "source": "金十数据",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时06分"
-        },
-        {
-          "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260331040539391800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "美股存储芯片指数收跌超6.9%，Rambus跌超11%，美光重挫约10%",
-          "url": "https://wallstreetcn.com/livenews/3079581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "金十图示：2026年03月30日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260331040537263800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "如祺出行2025年财报：盈利能力显著提升全年利润大幅改善48.1%，毛利率翻倍升至11.9%",
-          "url": "https://wallstreetcn.com/livenews/3080155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 美光大跌近10%",
-          "url": "https://flash.jin10.com/detail/20260331040226554800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "据港交所文件：深圳市晶存科技股份有限公司向港交所提交上市申请书。",
-          "url": "https://flash.jin10.com/detail/20260331221952118800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        },
-        {
-          "title": "美股涨幅扩大，纳指涨超2%，标普500指数涨1.6%，道指涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3080226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "中方反制日本国会众议员古屋圭司",
-          "url": "https://www.douyin.com/hot/2448381",
-          "source": "抖音",
-          "ranks": [
-            6,
-            2,
-            4,
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 09时56分]"
-        },
-        {
-          "title": "中方决定对日本国会众议员古屋圭司采取反制措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860602",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 09时56分]"
-        },
-        {
-          "title": "F1日本站赛后报告",
-          "url": "https://search.bilibili.com/all?keyword=F1%E6%97%A5%E6%9C%AC%E7%AB%99%E8%B5%9B%E5%90%8E%E6%8A%A5%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 07时31分]"
-        },
-        {
-          "title": "警惕！日本完成两地远程导弹部署，装备性能披露",
-          "url": "https://news.ifeng.com/c/8rwYkJBehUX",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时06分 ~ 22时58分]"
-        },
-        {
-          "title": "中方决定对日本国会众议员古屋圭司采取反制措施",
-          "url": "https://news.ifeng.com/c/8ruYQEhDxBO",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 09时56分]"
-        },
-        {
-          "title": "安东内利日本站再夺魁",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9%E6%97%A5%E6%9C%AC%E7%AB%99%E5%86%8D%E5%A4%BA%E9%AD%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            16,
-            14,
-            29,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时09分 ~ 14时14分]"
-        },
-        {
-          "title": "日本抗议者高喊中国对不起",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352475&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE%E8%80%85%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 09时56分]"
-        },
-        {
-          "title": "外交部揭底自卫队官员为何持刀闯入中国驻日本大使馆",
-          "url": "https://news.ifeng.com/c/8rwYhiZofOp",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时06分 ~ 21时06分]"
-        },
-        {
-          "title": "俄方拒绝给日本供油",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%96%B9%E6%8B%92%E7%BB%9D%E7%BB%99%E6%97%A5%E6%9C%AC%E4%BE%9B%E6%B2%B9%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时05分 ~ 22时58分]"
-        },
-        {
-          "title": "日本民众：不要挑起战争的首相",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%8C%91%E8%B5%B7%E6%88%98%E4%BA%89%E7%9A%84%E9%A6%96%E7%9B%B8",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            15,
-            25,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时04分 ~ 07时31分]"
-        },
-        {
-          "title": "日本央行：计划在4月至6月期间每月两次购买750亿日元、期限超过25年的日本政府债券（此前为每次750亿日元，每月两次）。",
-          "url": "https://flash.jin10.com/detail/20260331160313678800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "日本陆上自卫队在两地部署远程导弹",
-          "url": "https://wallstreetcn.com/livenews/3079737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "日本央行在第二季度按计划减少债券购买规模。",
-          "url": "https://wallstreetcn.com/livenews/3079979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "日本两年期国债收益率下跌1.0个基点，至1.345%。",
-          "url": "https://flash.jin10.com/detail/20260331122058238800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "日本央行：计划在4月至6月期间每月三次购买1至3年期日本政府债券，每次2550亿日元（此前为2700亿日元，每月三次）。",
-          "url": "https://flash.jin10.com/detail/20260331160139841800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "“看我怎样用中国制造干掉日本制造”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%8B%E6%88%91%E6%80%8E%E6%A0%B7%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%B9%B2%E6%8E%89%E6%97%A5%E6%9C%AC%E5%88%B6%E9%80%A0%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 12时34分]"
-        },
-        {
-          "title": "中东战火推高燃料成本 日本现货电价创三年新高",
-          "url": "https://flash.jin10.com/detail/20260331140932596800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
-          "title": "干预与加息都失灵，日本还能靠什么挽救日元？",
-          "url": "https://flash.jin10.com/detail/20260330233600402800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：七国集团讨论了石油问题和原油期货市场。",
-          "url": "https://wallstreetcn.com/livenews/3079727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "日本金属生产商三菱材料株式会社将收购美国印第安纳州ReElement Technologies Corp.的股份，旨在使稀土成为自己的一个核心业务。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3079974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "中方批日本自卫官强闯中国使馆",
-          "url": "https://www.toutiao.com/trending/7622367345923080211/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 21时06分]"
-        },
-        {
-          "title": "日本拍卖两年期国债，认购倍数3.54，过去12个月均值3.59。",
-          "url": "https://wallstreetcn.com/livenews/3079810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "除了中东，我们还忽略了日本这颗雷？",
-          "url": "https://flash.jin10.com/detail/20260331120225404800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "印度尼西亚总统： 印尼邀请日本在关键矿产、稀土、可再生能源及核能领域开展合作。",
-          "url": "https://wallstreetcn.com/livenews/3079798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "20年期日本国债收益率下跌5.0个基点，至3.255%。",
-          "url": "https://flash.jin10.com/detail/20260331120048595800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "日本首相高市早苗：与印度尼西亚签署了关键矿产协议。 印度尼西亚是重要的合作伙伴，双方已就加强经济和安全合作达成一致。 与印度尼西亚达成一致，将在能源安全方面保持密切联系。",
-          "url": "https://wallstreetcn.com/livenews/3079796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "外交部：日本自卫队右倾化、日本“再军事化”值得国际社会高度警惕",
-          "url": "https://wallstreetcn.com/livenews/3079950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "日本30年期国债收益率下行10个基点至3.69%。",
-          "url": "https://wallstreetcn.com/livenews/3079845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：（被问及是否可能干预原油期货市场时）不予置评。",
-          "url": "https://flash.jin10.com/detail/20260331093746882800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "日本巨头联手注资 非洲风投赛道迎来东瀛财团",
-          "url": "https://flash.jin10.com/detail/20260331155013777800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "金价下跌刚需客户下手了",
-          "url": "https://www.toutiao.com/trending/7621876876252217380/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            24,
-            28,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时53分 ~ 07时31分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月30日（周一）晚盘收盘上涨0.42%报1008.05元/克；<br/>上海黄金交易所白银T+D 3月30日（周一）晚盘收盘上涨0.68%报17640.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260331023106687800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时53分]"
-        },
-        {
-          "title": "A股黄金板块异动拉升，湖南白银涨超3%，招金黄金、中金黄金、西部黄金、潮宏基跟涨。消息面上，现货黄金向上触及4600美元/盎司，日内涨1.98%。",
-          "url": "https://flash.jin10.com/detail/20260331094424987800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "现货白银日内涨幅达5.5%，报73.96美元/盎司。 纽约银日内涨幅达5.0%，报74.15美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3080236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        },
-        {
-          "title": "鲍威尔暂时压制失控预期，金价这次反抽成色如何？",
-          "url": "https://flash.jin10.com/detail/20260331115806519800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少121.1吨，当前持仓量为15288.36吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260331060643281800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "金十图示：2026年03月31日（周二）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260331115322609800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "现货白银站上74美元/盎司，日内涨5.65%。",
-          "url": "https://flash.jin10.com/detail/20260331221527002800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "半导体指数跌超4%，相干公司跌约10%，美光跌超8%",
-          "url": "https://wallstreetcn.com/livenews/3079527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时04分 ~ 03时53分]"
-        },
-        {
-          "title": "标普500指数收跌25.13点，跌幅0.39%，报6343.72点。 道琼斯工业平均指数收涨49.50点，涨幅0.11%，报45216.14点。 纳斯达克综合指数（纳指）收跌153.716点，跌幅0.73%，报20794.641点。 纳斯达克100指数收跌179.394点，跌幅0.78%，报22953.378点。 费城半导体指数收跌4.23%，报7142.334点。 费城证交所KBW银行指数收涨0.19%，报149.04点。 道琼斯KBW地区银行指数收涨0.33%，报123.52点。 纳斯达克生物科技指数收涨0.63%，报5584.44点。",
-          "url": "https://wallstreetcn.com/livenews/3079560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "中东冲突震动全球半导体供应链，氦气现货暴涨超 50%，为什么会这样？氦气涨价，会影响什么？",
-          "url": "https://www.zhihu.com/question/2021584407622940446",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "涨价周期开启，半导体产业迎量价齐升新阶段",
-          "url": "https://wallstreetcn.com/livenews/3079605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "印度总理莫迪：周一与荷兰首相进行了通话，讨论了加强双边关系的途径，重点推进半导体和绿色氢能合作。",
-          "url": "https://flash.jin10.com/detail/20260330232608458800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "创业板指跌超2%，沪指跌0.2%。煤炭、油气、农业、化工、半导体等方向跌幅居前，个股跌多涨少，沪深京三市下跌个股超3500只。",
-          "url": "https://wallstreetcn.com/livenews/3079794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "据港交所文件：中微半导体（ 深圳）股份有限公司向港交所提交上市申请书。",
-          "url": "https://wallstreetcn.com/livenews/3079471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32862408",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            10,
-            8,
-            6,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时09分 ~ 19时04分]"
-        },
-        {
-          "title": "优必选：2025年收入同比增加53.3%至人民币20.01亿元；其中，全尺寸具身智能人形机器人产品及解决方案收入快速增长约2,203.7%到人民币8.21亿元，成为最大的收入来源。",
-          "url": "https://wallstreetcn.com/livenews/3080157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        },
-        {
-          "title": "A股机器人概念股探底回升，通力科技、襄阳轴承双双涨停，南方精工、长盛轴承、中大力德等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3079861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
-          "title": "智元机器人用于具身模型测评相关专利公布",
-          "url": "https://flash.jin10.com/detail/20260331114923456800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.11%，暂报2441.68点。 MarketVectorTM数字资产100中盘指数涨2.33%，报2786.56点。 MarketVector数字资产100指数涨2.18%，报13671.07点。 目前，Solana涨3.63%，狗狗币涨2.76%，XRP涨2.25%。 比特币涨2.06%，暂报67699美元；以太坊涨4.17%，暂报2078美元。",
-          "url": "https://wallstreetcn.com/livenews/3079502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            18,
-            21,
-            20,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 07时31分]"
-        },
-        {
-          "title": "苹果、微软、谷歌等回吐涨幅，伊朗对18家美国科技公司发出打击警告",
-          "url": "https://wallstreetcn.com/livenews/3080254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        },
-        {
-          "title": "伊朗称将打击中东地区与美高科技公司有关的企业，包括惠普、苹果、谷歌、特斯拉、微软等公司",
-          "url": "https://wallstreetcn.com/livenews/3080253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        },
-        {
-          "title": "Meta Platforms(META.O)开始测试Instagram高级订阅服务。",
-          "url": "https://flash.jin10.com/detail/20260331021635334800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时53分]"
+          "time_info": "00时04分"
         }
       ]
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "抖音荒野垂钓季",
-          "url": "https://www.douyin.com/hot/2448717",
-          "source": "抖音",
-          "ranks": [
-            23,
-            15,
-            14,
-            12,
-            13,
-            19,
-            18,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时09分 ~ 22时58分]"
-        },
-        {
-          "title": "你是否在抖音上刷到过一只酱板鸭",
-          "url": "https://www.douyin.com/hot/2449243",
-          "source": "抖音",
-          "ranks": [
-            21,
-            30,
-            22,
-            19,
-            24,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时56分 ~ 22时58分]"
-        },
         {
           "title": "和新来的领导互加了微信，几天后由于好奇点开他的朋友圈，结果一条横线，同事说他屏蔽我了，为什么呢？",
           "url": "https://www.zhihu.com/question/2021862824255693111",
@@ -1111,19 +65,86 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时05分 ~ 22时58分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         },
         {
-          "title": "新来的领导互加了微信，几天后由于好奇点开他的朋友圈，结果一条横线，我同事说他屏蔽你了，为什么呢？",
-          "url": "https://www.zhihu.com/question/2021862824255693111",
-          "source": "知乎",
+          "title": "抖音发布“未来导演扶持计划”",
+          "url": "https://wallstreetcn.com/livenews/3080260",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时04分"
+          "time_info": "00时04分"
+        },
+        {
+          "title": "抖音荒野垂钓季",
+          "url": "https://www.douyin.com/hot/2448717",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果、微软、谷歌等回吐涨幅，伊朗对18家美国科技公司发出打击警告",
+          "url": "https://wallstreetcn.com/livenews/3080254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "伊朗称将打击中东地区与美高科技公司有关的企业，包括惠普、苹果、谷歌、特斯拉、微软等公司",
+          "url": "https://wallstreetcn.com/livenews/3080253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "警惕！日本完成两地远程导弹部署，装备性能披露",
+          "url": "https://news.ifeng.com/c/8rwYkJBehUX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "俄方拒绝给日本供油",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%96%B9%E6%8B%92%E7%BB%9D%E7%BB%99%E6%97%A5%E6%9C%AC%E4%BE%9B%E6%B2%B9%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
         }
       ]
     }
