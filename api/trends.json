@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T16:06:26.559246+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-03-31T18:02:31.134801+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
@@ -102,13 +102,35 @@
           "time_info": "[02时04分 ~ 07时31分]"
         },
         {
+          "title": "警惕！日本完成两地远程导弹部署，装备性能披露",
+          "url": "https://news.ifeng.com/c/8rwYkJBehUX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 18时02分]"
+        },
+        {
+          "title": "外交部揭底自卫队官员为何持刀闯入中国驻日本大使馆",
+          "url": "https://news.ifeng.com/c/8rwYhiZofOp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 18时02分]"
+        },
+        {
           "title": "日本央行：计划在4月至6月期间每月两次购买750亿日元、期限超过25年的日本政府债券（此前为每次750亿日元，每月两次）。",
           "url": "https://flash.jin10.com/detail/20260331160313678800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -130,18 +152,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "警惕！日本完成两地远程导弹部署，装备性能披露",
-          "url": "https://news.ifeng.com/c/8rwYkJBehUX",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -163,7 +174,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -178,17 +189,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时56分 ~ 12时34分]"
-        },
-        {
-          "title": "外交部揭底自卫队官员为何持刀闯入中国驻日本大使馆",
-          "url": "https://news.ifeng.com/c/8rwYhiZofOp",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
         },
         {
           "title": "中东战火推高燃料成本 日本现货电价创三年新高",
@@ -230,7 +230,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -296,7 +296,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -329,7 +329,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         }
@@ -337,7 +337,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "科技股暴跌释放反转信号 华尔街吹响“抄底”号角",
@@ -384,11 +384,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时31分 ~ 16时06分]"
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 18时02分]"
         },
         {
           "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
@@ -400,6 +401,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时09分 ~ 04时40分]"
+        },
+        {
+          "title": "中际旭创2025年营收大增60%，净利润翻一倍，拟每10股派10元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3768766",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 18时02分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
@@ -416,17 +430,18 @@
           "time_info": "[06时31分 ~ 14时14分]"
         },
         {
-          "title": "中际旭创2025年营收大增60%，净利润翻一倍，拟每10股派10元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3768766",
-          "source": "华尔街见闻",
+          "title": "美股后续会怎么走",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            8,
-            9
+            9,
+            4,
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时31分 ~ 16时06分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 18时02分]"
         },
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -438,19 +453,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 06时31分]"
-        },
-        {
-          "title": "美股后续会怎么走",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时06分]"
         },
         {
           "title": "WTI原油期货价格延续涨势，涨破106美元/桶，日内涨超3%，之前科威特油轮被袭击。 美股期货走低，标普500指数期货现跌0.3%。",
@@ -484,6 +486,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，油价回吐涨幅，伦铝月内涨近10%",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "长鑫科技IPO审核状态变更为“中止” 系财报更新技术性暂停非“终止”",
+          "url": "https://flash.jin10.com/detail/20260331172837724800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
@@ -771,11 +795,12 @@
             8,
             6,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时09分 ~ 16时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 18时02分]"
         },
         {
           "title": "A股机器人概念股探底回升，通力科技、襄阳轴承双双涨停，南方精工、长盛轴承、中大力德等纷纷冲高。",
@@ -879,8 +904,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 16时06分]"
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 18时02分]"
         }
       ]
     }
