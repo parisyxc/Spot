@@ -1,8 +1,151 @@
 {
-  "generated_at": "2026-04-01T03:53:43.619732+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-04-01T04:39:11.487833+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 04时39分]"
+        },
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 04时39分]"
+        },
+        {
+          "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 04时39分]"
+        },
+        {
+          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2330950",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 04时39分]"
+        },
+        {
+          "title": "半导体ETF收涨超5.7%，在3月份收官日领跑美股行业ETF，一季度能源业ETF涨37.9%",
+          "url": "https://wallstreetcn.com/livenews/3080358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "美股后续会怎么走",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 03时53分]"
+        },
+        {
+          "title": "美股创下去年5月以来的最大单日涨幅 月线仍跌约5%",
+          "url": "https://flash.jin10.com/detail/20260401040945485800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "金十图示：2026年03月31日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260401040550571800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "3月份，标普累跌约5.1%、能源板块涨10%，道指跌约5.5%，纳指跌4.8%，半导体指数跌6.5%，银行指数跌3.1%，科技股七巨头指数跌7.9%。 一季度，标普累跌4.6%，道指累跌3.7%，纳指累跌7.2%。 周二当天，标普500指数初步收 %，电信板块涨4.3%，科技板块涨4.1%，可选消费板块涨3.2%，能源板块跌1.2%。 纳斯达克100指数初步收 %，成分股中，迈威尔科技/美满科技涨12.8%，Arm控股涨10.5%，MPWR涨9.3%，希捷科技涨8%，西部数据涨7.5%，T-Mobile跌1.8%，特许通讯跌2.3%，核电股CEG跌6.5%。",
+          "url": "https://wallstreetcn.com/livenews/3080350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "金十图示：2026年03月31日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260401040516716800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "美股收盘：三大股指大涨 纳指涨3.8%",
+          "url": "https://flash.jin10.com/detail/20260401040119992800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "纽约银日内涨幅达7.0%，报75.52美元/盎司。 临近美股收盘，纳斯达克100指数涨幅扩大至3.5%，标普500指数涨3%，道指涨1152点、涨幅2.55%，纳指涨超3.9%，生物科技指数涨4.65%，半导体指数涨6.1%，银行指数涨3.6%，罗素2000指数涨3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3080348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        }
+      ]
+    },
     {
       "keyword_group": "稳定币 日本",
       "match_count": 6,
@@ -15,8 +158,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 04时39分]"
         },
         {
           "title": "日本防卫省：055编队穿越对马海峡",
@@ -24,33 +167,36 @@
           "source": "今日头条",
           "ranks": [
             7,
-            29
+            29,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 03时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 04时39分]"
         },
         {
           "title": "美联储副主席巴尔在监管机构制定规则之际预警稳定币风险",
           "url": "https://wallstreetcn.com/livenews/3080336",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时39分]"
         },
         {
           "title": "俄方拒绝给日本供油",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%96%B9%E6%8B%92%E7%BB%9D%E7%BB%99%E6%97%A5%E6%9C%AC%E4%BE%9B%E6%B2%B9%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 04时39分]"
         },
         {
           "title": "据日经新闻：法国与日本政府拟于年底在法国西南部启动公私合作项目，该项目将提纯用于电动汽车电机及其他技术的重稀土。",
@@ -77,68 +223,52 @@
       ]
     },
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 5,
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
       "titles": [
         {
-          "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
+          "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
+          "url": "https://flash.jin10.com/detail/20260401041908272800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         },
         {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
+          "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
+          "url": "https://flash.jin10.com/detail/20260401041102848800",
+          "source": "金十数据",
           "ranks": [
-            5,
             6
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         },
         {
-          "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
+          "title": "市场消息：OpenAI完成1220亿美元融资，估值达8520亿美元。",
+          "url": "https://flash.jin10.com/detail/20260401041014408800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8
+            7
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         },
         {
-          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2330950",
-          "source": "财联社热门",
+          "title": "OpenAI完成1220亿美元融资，估值8520亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3080357",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            10,
-            9
+            7
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时53分]"
-        },
-        {
-          "title": "美股后续会怎么走",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 03时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         }
       ]
     },
@@ -154,8 +284,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 04时39分]"
         },
         {
           "title": "你是否在抖音上刷到过一只酱板鸭",
@@ -167,8 +297,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 03时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 04时39分]"
         },
         {
           "title": "抖音荒野垂钓季",
