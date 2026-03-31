@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T05:35:12.790382+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-04-01T06:58:39.410701+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 05时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 06时58分]"
         },
         {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
@@ -53,8 +53,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 05时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 06时58分]"
+        },
+        {
+          "title": "美伊结束冲突信号提振华尔街，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
+          "url": "https://www.cls.cn/detail/2331315",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "黄金ETF收跌将近3.8%，领跌美股大类资产类ETF，一季度布油基金涨超83%",
@@ -63,9 +85,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
+          "url": "https://www.cls.cn/detail/2331277",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 06时58分]"
         },
         {
           "title": "美股后续会怎么走",
@@ -78,6 +112,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时52分 ~ 03时53分]"
+        },
+        {
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "美股创下去年5月以来的最大单日涨幅 月线仍跌约5%",
@@ -112,17 +157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时35分]"
-        },
-        {
-          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
-          "url": "https://www.cls.cn/detail/2331277",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 05时35分]"
         },
         {
           "title": "3月份，标普累跌约5.1%、能源板块涨10%，道指跌约5.5%，纳指跌4.8%，半导体指数跌6.5%，银行指数跌3.1%，科技股七巨头指数跌7.9%。 一季度，标普累跌4.6%，道指累跌3.7%，纳指累跌7.2%。 周二当天，标普500指数初步收 %，电信板块涨4.3%，科技板块涨4.1%，可选消费板块涨3.2%，能源板块跌1.2%。 纳斯达克100指数初步收 %，成分股中，迈威尔科技/美满科技涨12.8%，Arm控股涨10.5%，MPWR涨9.3%，希捷科技涨8%，西部数据涨7.5%，T-Mobile跌1.8%，特许通讯跌2.3%，核电股CEG跌6.5%。",
@@ -167,12 +201,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "WTI原油、现货黄金周三小幅高开，美股股指期货微跌。",
+          "url": "https://flash.jin10.com/detail/20260401060049918800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "警惕！日本完成两地远程导弹部署，装备性能披露",
@@ -193,11 +238,12 @@
             7,
             29,
             10,
-            22
+            22,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时52分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[01时52分 ~ 06时58分]"
         },
         {
           "title": "私募股权对日本快餐业的胃口正不断增长",
@@ -206,7 +252,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -217,11 +263,23 @@
           "ranks": [
             16,
             25,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时58分]"
+        },
+        {
+          "title": "俄副外长：俄方将不向日本等设置价格上限的国家供油",
+          "url": "https://wallstreetcn.com/livenews/3080420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "美联储副主席巴尔在监管机构制定规则之际预警稳定币风险",
@@ -315,7 +373,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         }
@@ -343,11 +401,12 @@
           "ranks": [
             19,
             22,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时52分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[01时52分 ~ 06时58分]"
         },
         {
           "title": "抖音荒野垂钓季",
@@ -359,8 +418,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时58分]"
         },
         {
           "title": "抖音发布“未来导演扶持计划”",
@@ -416,6 +475,46 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 3月31日（周二）晚盘收盘上涨1.67%报1035.5元/克；<br/>上海黄金交易所白银T+D 3月31日（周二）晚盘收盘上涨3.93%报18825.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260401023033444800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 03时53分]"
+        },
+        {
+          "title": "佣金价格战逼近极限，券商打起“靓号”牌",
+          "url": "https://wallstreetcn.com/livenews/3080413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少14.08吨，当前持仓量为15274.28吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260401060953827800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 1,
       "titles": [
@@ -429,24 +528,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 3月31日（周二）晚盘收盘上涨1.67%报1035.5元/克；<br/>上海黄金交易所白银T+D 3月31日（周二）晚盘收盘上涨3.93%报18825.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260401023033444800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 03时53分]"
         }
       ]
     },
