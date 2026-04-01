@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T02:55:08.817031+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-04-02T03:56:37.199782+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时56分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时56分]"
         },
         {
           "title": "美伊释放停战信号，纳指涨超1%，科技股普涨，布油跌超2%，美元小幅走软，黄金日内涨2%",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时56分]"
         },
         {
           "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
@@ -60,11 +60,12 @@
           "ranks": [
             17,
             16,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时56分]"
         },
         {
           "title": "【每日收评】三大指数均涨超1%，医药板块持续爆发，科技股集体回暖",
@@ -125,8 +126,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 03时56分]"
         },
         {
           "title": "外交部回应日本强行部署远程导弹",
@@ -138,8 +139,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时56分]"
         },
         {
           "title": "泰国泡面先吃后付,日本人怒了",
@@ -149,8 +150,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时56分]"
         },
         {
           "title": "马克龙访问日本",
@@ -158,11 +159,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时56分]"
         },
         {
           "title": "日本1:0英格兰",
@@ -182,27 +184,29 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "上海黄金交易所黄金T+D 4月1日（周三）晚盘收盘上涨1.43%报1054.1元/克；<br/>上海黄金交易所白银T+D 4月1日（周三）晚盘收盘上涨0.24%报18700.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260402023103711800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
           "title": "金价急速上涨",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E9%80%9F%E4%B8%8A%E6%B6%A8%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 03时56分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月1日（周三）晚盘收盘上涨1.43%报1054.1元/克；<br/>上海黄金交易所白银T+D 4月1日（周三）晚盘收盘上涨0.24%报18700.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260402023103711800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 03时56分]"
         },
         {
           "title": "现货白银日内涨幅达1.0%，报75.83美元/盎司。",
@@ -239,11 +243,12 @@
           "source": "微博",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时56分]"
         },
         {
           "title": "白日提灯抖音追剧团",
