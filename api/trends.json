@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T00:34:59.186251+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-04T01:31:13.369482+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时31分]"
         },
         {
           "title": "钟声：日本将自己推上危险的刀锋",
@@ -26,30 +26,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时31分]"
         },
         {
           "title": "据日经新闻：日本首相寻求就加强稀土元素供应链及在霍尔木兹海峡开展安全航行合作与澳方进行讨论。",
           "url": "https://flash.jin10.com/detail/20260403233430389800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时31分]"
         },
         {
           "title": "据日经新闻：日本首相高市早苗计划访澳商讨稀土事宜。",
           "url": "https://flash.jin10.com/detail/20260403233257046800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时31分]"
         }
       ]
     },
@@ -58,26 +60,28 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "商务部回应Meta收购Manus",
-          "url": "https://search.bilibili.com/all?keyword=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94Meta%E6%94%B6%E8%B4%ADManus",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
           "title": "谷歌官方发布最新模型Gemma4",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时31分]"
+        },
+        {
+          "title": "商务部回应Meta收购Manus",
+          "url": "https://search.bilibili.com/all?keyword=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94Meta%E6%94%B6%E8%B4%ADManus",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时31分]"
         }
       ]
     },
@@ -90,11 +94,12 @@
           "url": "https://wallstreetcn.com/livenews/3082268",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时31分]"
         }
       ]
     }
