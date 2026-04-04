@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T19:25:50.208242+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-04-04T20:42:53.183173+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "钟声：日本将自己推上危险的刀锋",
@@ -64,6 +64,17 @@
           "time_info": "[15时46分 ~ 17时33分]"
         },
         {
+          "title": "王曼昱战日本选手冲击4强",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%88%98%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E5%86%B2%E5%87%BB4%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "美国或延期完成日本战斧导弹订单",
           "url": "https://flash.jin10.com/detail/20260404115139708800",
           "source": "金十数据",
@@ -114,6 +125,19 @@
           "time_info": "[17时33分 ~ 19时25分]"
         },
         {
+          "title": "又一艘日本相关运输船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3082418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时42分]"
+        },
+        {
           "title": "据日经新闻：日本首相寻求就加强稀土元素供应链及在霍尔木兹海峡开展安全航行合作与澳方进行讨论。",
           "url": "https://flash.jin10.com/detail/20260403233430389800",
           "source": "金十数据",
@@ -124,18 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "又一艘日本相关运输船通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3082418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时25分]"
         },
         {
           "title": "据日经新闻：日本首相高市早苗计划访澳商讨稀土事宜。",
@@ -167,7 +179,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
@@ -269,7 +281,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：3月31日当周，投机者所持COMEX黄金净多头头寸增加1,097手合约，至93,872手合约。 所持COMEX白银净多头头寸降低至10,816手合约。 所持COMEX铜净多头头寸增加至39,292手合约。 所持NYMEX铂金净多头头寸增加至12,304手合约，创最近15周新高。 所持NYMEX钯金净空头头寸增加至2,000手合约，创大约六个月新高。",
@@ -286,6 +298,17 @@
           "time_info": "[04时31分 ~ 07时29分]"
         },
         {
+          "title": "一周展望：战争第六周特朗普的剧本要崩、CPI将爆，金价又要出大戏？",
+          "url": "https://flash.jin10.com/detail/20260404201515638800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至3月31日当周，COMEX黄金投机者净多头头寸增加1,098手，至93,872手。COMEX白银投机者将净多头持仓减少99手至10,816手。",
           "url": "https://flash.jin10.com/detail/20260404033203530800",
           "source": "金十数据",
@@ -299,6 +322,18 @@
           "time_info": "[04时31分 ~ 07时29分]"
         },
         {
+          "title": "媒体人：金价在夹缝中求生存",
+          "url": "https://www.toutiao.com/trending/7624817366836186643/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时42分]"
+        },
+        {
           "title": "油价暴涨金价大跌",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E6%9A%B4%E6%B6%A8%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -308,17 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "媒体人：金价在夹缝中求生存",
-          "url": "https://www.toutiao.com/trending/7624817366836186643/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         }
       ]
     },
@@ -326,6 +350,17 @@
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 4,
       "titles": [
+        {
+          "title": "“没中国，美国机器人就动不了”",
+          "url": "https://news.ifeng.com/c/8s3Cgdlzylx",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时33分 ~ 20时42分]"
+        },
         {
           "title": "比特币目前跌0.15%，持稳于66800美元上方。 据NBC报道，美国A-10战斗机在搜救之间坠毁飞机的过程中被伊朗击中。 A-10飞行员在科威特空域内弹射，目前是安全的。",
           "url": "https://wallstreetcn.com/livenews/3082330",
@@ -338,17 +373,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时29分]"
-        },
-        {
-          "title": "“没中国，美国机器人就动不了”",
-          "url": "https://news.ifeng.com/c/8s3Cgdlzylx",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 19时25分]"
         },
         {
           "title": "比特币目前跌0.1%，暂报66872美元。 伊朗Press TV援引伊朗官员报道称，伊朗可以在霍尔木兹海峡封闭状态下维持多年，并将切断美国的军事后勤支持。",
@@ -430,8 +454,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时53分 ~ 19时25分]"
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 20时42分]"
         }
       ]
     },
