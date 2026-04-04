@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T07:29:42.732514+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-04-04T09:47:40.332430+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 09时47分]"
         },
         {
           "title": "钟声：日本将自己推上危险的刀锋",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 09时47分]"
         },
         {
           "title": "日本欲开发低成本导弹以加强“反击能力”",
@@ -53,11 +53,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 09时47分]"
         },
         {
           "title": "据日经新闻：日本首相寻求就加强稀土元素供应链及在霍尔木兹海峡开展安全航行合作与澳方进行讨论。",
@@ -101,8 +102,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 09时47分]"
         },
         {
           "title": "商务部回应Meta收购Manus",
@@ -117,8 +118,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 09时47分]"
         },
         {
           "title": "Meta Platforms Inc.超级智能实验室正在组建硬件团队。（Business Insider）",
@@ -141,11 +142,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 09时47分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -165,7 +167,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：3月31日当周，投机者所持COMEX黄金净多头头寸增加1,097手合约，至93,872手合约。 所持COMEX白银净多头头寸降低至10,816手合约。 所持COMEX铜净多头头寸增加至39,292手合约。 所持NYMEX铂金净多头头寸增加至12,304手合约，创最近15周新高。 所持NYMEX钯金净空头头寸增加至2,000手合约，创大约六个月新高。",
@@ -193,6 +195,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时29分]"
+        },
+        {
+          "title": "油价暴涨金价大跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E6%9A%B4%E6%B6%A8%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
@@ -224,6 +237,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亲人离世后微信QQ零钱怎么提取",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%B2%E4%BA%BA%E7%A6%BB%E4%B8%96%E5%90%8E%E5%BE%AE%E4%BF%A1QQ%E9%9B%B6%E9%92%B1%E6%80%8E%E4%B9%88%E6%8F%90%E5%8F%96",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     }
