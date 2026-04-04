@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-04T09:47:40.332430+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-04-04T12:13:49.632242+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待日本埼玉县拉面店贴出「用餐时禁止看手机，违者驱逐且不退款」？",
           "url": "https://www.zhihu.com/question/2023060151108641565",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 12时13分]"
         },
         {
           "title": "钟声：日本将自己推上危险的刀锋",
@@ -46,6 +47,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时40分 ~ 06时28分]"
+        },
+        {
+          "title": "美国或延期完成日本战斧导弹订单",
+          "url": "https://flash.jin10.com/detail/20260404115139708800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "IMF呼吁日本央行继续加息",
@@ -99,11 +111,12 @@
             18,
             15,
             19,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 12时13分]"
         },
         {
           "title": "商务部回应Meta收购Manus",
@@ -115,11 +128,12 @@
             16,
             21,
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 12时13分]"
         },
         {
           "title": "Meta Platforms Inc.超级智能实验室正在组建硬件团队。（Business Insider）",
@@ -203,7 +217,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -211,7 +225,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "比特币目前跌0.15%，持稳于66800美元上方。 据NBC报道，美国A-10战斗机在搜救之间坠毁飞机的过程中被伊朗击中。 A-10飞行员在科威特空域内弹射，目前是安全的。",
@@ -237,6 +251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时31分]"
+        },
+        {
+          "title": "中国机器人公司日薪50万招人",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%AC%E5%8F%B8%E6%97%A5%E8%96%AA50%E4%B8%87%E6%8B%9B%E4%BA%BA%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     },
@@ -251,7 +276,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
