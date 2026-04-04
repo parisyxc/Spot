@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T17:33:33.262564+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-04-04T18:29:10.794890+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "钟声：日本将自己推上危险的刀锋",
@@ -101,6 +101,18 @@
           "time_info": "[15时46分 ~ 16时36分]"
         },
         {
+          "title": "日本温泉烧不起水了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B8%A9%E6%B3%89%E7%83%A7%E4%B8%8D%E8%B5%B7%E6%B0%B4%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 18时29分]"
+        },
+        {
           "title": "据日经新闻：日本首相寻求就加强稀土元素供应链及在霍尔木兹海峡开展安全航行合作与澳方进行讨论。",
           "url": "https://flash.jin10.com/detail/20260403233430389800",
           "source": "金十数据",
@@ -125,15 +137,26 @@
           "time_info": "[00时34分 ~ 01时31分]"
         },
         {
-          "title": "日本温泉烧不起水了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B8%A9%E6%B3%89%E7%83%A7%E4%B8%8D%E8%B5%B7%E6%B0%B4%E4%BA%86",
-          "source": "百度热搜",
+          "title": "又一艘日本相关运输船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3082418",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时33分"
+          "time_info": "18时29分"
+        },
+        {
+          "title": "又一艘日本相关运输船通过霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260404171754769800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
@@ -267,9 +290,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 18时29分]"
         },
         {
           "title": "中国机器人公司日薪50万招人",
@@ -293,22 +316,24 @@
           "url": "https://wallstreetcn.com/livenews/3082412",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时29分]"
         },
         {
           "title": "特斯拉超级充电桩全球突破80000根",
           "url": "https://flash.jin10.com/detail/20260404163036906800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时29分]"
         },
         {
           "title": "特斯拉股价为何暴跌",
@@ -317,7 +342,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         }
@@ -380,8 +405,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 17时33分]"
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 18时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI在冲刺IPO的关键时刻，高管层大重组",
+          "url": "https://wallstreetcn.com/livenews/3082422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
