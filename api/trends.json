@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T06:24:46.210449+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-04-05T07:27:23.690870+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             19,
             18,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 07时27分]"
         },
         {
           "title": "评论员：日本正修宽通往战争的道路",
@@ -36,6 +37,23 @@
       ]
     },
     {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "前雷曼交易员：私募信贷是“这一周期的次贷”，远离“拥挤”的科技股，拥抱“稀缺”的资源股",
+          "url": "https://wallstreetcn.com/articles/3769253",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 1,
       "titles": [
@@ -47,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时27分]"
         }
       ]
     }
