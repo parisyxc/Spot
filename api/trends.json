@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T14:13:22.898278+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-04-05T15:53:54.377289+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
@@ -33,19 +33,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 14时13分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 15时53分]"
         },
         {
-          "title": "伊朗籍男子在日本被殴打致死",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "伊朗籍男子在日本被围殴致死，警方介入",
+          "url": "https://news.ifeng.com/c/8s4WZn1d5ud",
+          "source": "凤凰网",
           "ranks": [
-            1
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 15时53分]"
         },
         {
           "title": "日本选手被王曼昱“打”哭",
@@ -60,37 +60,52 @@
           "time_info": "[09时59分 ~ 14时13分]"
         },
         {
-          "title": "伊朗籍男子在日本被围殴致死，警方介入",
-          "url": "https://news.ifeng.com/c/8s4WZn1d5ud",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 14时13分]"
-        },
-        {
           "title": "前自卫官：日本正走向“可实战”的军事体系",
           "url": "https://news.ifeng.com/c/8s4W1u8Prf8",
           "source": "凤凰网",
           "ranks": [
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 15时53分]"
+        },
+        {
+          "title": "伊朗籍男子在日本被殴打致死",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时40分 ~ 14时13分]"
+          "time_info": "[14时13分 ~ 15时53分]"
         },
         {
           "title": "伊朗籍男子在日本被殴打致死",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 15时53分]"
+        },
+        {
+          "title": "一名伊朗籍男子在日本被殴打致死",
+          "url": "https://www.toutiao.com/trending/7625104501129707526/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时40分 ~ 14时13分]"
+          "time_info": "[14时13分 ~ 15时53分]"
         },
         {
           "title": "评论员：日本正修宽通往战争的道路",
@@ -102,17 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时30分]"
-        },
-        {
-          "title": "一名伊朗籍男子在日本被殴打致死",
-          "url": "https://www.toutiao.com/trending/7625104501129707526/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
         },
         {
           "title": "日本前自卫官：日本正走向“可实战”的军事体系",
@@ -132,7 +136,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         }
@@ -171,6 +175,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "油价暴涨金价大跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E6%9A%B4%E6%B6%A8%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         }
       ]
     },
