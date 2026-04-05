@@ -1,343 +1,72 @@
 {
-  "generated_at": "2026-04-05T23:28:00.660901+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-04-06T00:31:45.665028+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 17,
+      "match_count": 3,
       "titles": [
         {
-          "title": "玉渊谭天丨警惕！日本再军事化举措落地中",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32903028",
+          "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32907660",
           "source": "澎湃新闻",
           "ranks": [
-            9,
-            4,
-            3,
-            2,
-            1
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 20时45分]"
-        },
-        {
-          "title": "前自卫官：日本正走向“可实战”的军事体系",
-          "url": "https://news.ifeng.com/c/8s4W1u8Prf8",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时40分 ~ 23时28分]"
-        },
-        {
-          "title": "无人继承的巨额遗产或在拖垮日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E7%BB%A7%E6%89%BF%E7%9A%84%E5%B7%A8%E9%A2%9D%E9%81%97%E4%BA%A7%E6%88%96%E5%9C%A8%E6%8B%96%E5%9E%AE%E6%97%A5%E6%9C%AC%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            19,
-            18,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 07时27分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "一名伊朗籍男子在日本被殴打致死",
           "url": "https://www.toutiao.com/trending/7625104501129707526/",
           "source": "今日头条",
           "ranks": [
-            12,
-            18,
-            21,
-            24
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时13分 ~ 23时28分]"
-        },
-        {
-          "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32907660",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时34分 ~ 23时28分]"
-        },
-        {
-          "title": "伊朗籍男子在日本被围殴致死，警方介入",
-          "url": "https://news.ifeng.com/c/8s4WZn1d5ud",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 17时35分]"
-        },
-        {
-          "title": "伊朗籍男子在日本被殴打致死",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            16,
-            10,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时13分 ~ 18时29分]"
-        },
-        {
-          "title": "日本选手被王曼昱“打”哭",
-          "url": "https://www.toutiao.com/trending/7623943690548936747/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 14时13分]"
-        },
-        {
-          "title": "日本政府考虑5月追加释放国家石油储备",
-          "url": "https://wallstreetcn.com/livenews/3082626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时45分 ~ 22时32分]"
-        },
-        {
-          "title": "伊朗籍男子在日本被殴打致死",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 16时38分]"
-        },
-        {
-          "title": "日本首相称石脑油供应可覆盖四个月需求",
-          "url": "https://flash.jin10.com/detail/20260405192935133800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时51分]"
-        },
-        {
-          "title": "日本首相高市早苗声称：日本已确保足以覆盖至少四个月需求的石脑油供应。 政府正寻求缓解潜在供应紧张的担忧。 这些供应包括约两个月的海外采购运输量和国内炼厂产量，以及约两个月由石脑油衍生的中间化工产品库存，例如聚乙烯。",
-          "url": "https://wallstreetcn.com/livenews/3082617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时51分]"
-        },
-        {
-          "title": "评论员：日本正修宽通往战争的道路",
-          "url": "https://www.toutiao.com/trending/7624873205446082603/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "日本整形医生性侵猥亵21名女性获刑",
-          "url": "https://www.toutiao.com/trending/7624432537618333738/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%95%B4%E5%BD%A2%E5%8C%BB%E7%94%9F%E6%80%A7%E4%BE%B5%E7%8C%A5%E4%BA%B521%E5%90%8D%E5%A5%B3%E6%80%A7%E8%8E%B7%E5%88%91",
+          "source": "百度热搜",
           "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时27分 ~ 23时28分]"
-        },
-        {
-          "title": "日本政府考虑5月追加释放国家石油储备",
-          "url": "https://flash.jin10.com/detail/20260405202247610800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
-          "title": "日本前自卫官：日本正走向“可实战”的军事体系",
-          "url": "https://wallstreetcn.com/livenews/3082521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "日媒：日本海上保安厅巡逻船突发离奇人命案，一船员死在弹药库内",
-          "url": "https://wallstreetcn.com/livenews/3082541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一周展望：战争第六周特朗普的剧本要崩、CPI将爆，金价又要出大戏？",
-          "url": "https://flash.jin10.com/detail/20260405200932018800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时51分]"
-        },
-        {
-          "title": "金价卷到老祖宗那边了吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8D%B7%E5%88%B0%E8%80%81%E7%A5%96%E5%AE%97%E9%82%A3%E8%BE%B9%E4%BA%86%E5%90%97%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时26分]"
-        },
-        {
-          "title": "油价暴涨金价大跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E6%9A%B4%E6%B6%A8%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 16时38分]"
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "“没中国，美国机器人就动不了”",
-          "url": "https://news.ifeng.com/c/8s3Cgdlzylx",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 09时59分]"
-        },
         {
           "title": "比特币跌幅收窄至大约0.6%，暂报66876美元。 据福克斯新闻报道，美国总统特朗普此前企图向伊朗抗议者们发放枪支弹药。 特朗普认为，库尔德截留了美方向伊朗抗议者们输送的武器。 特朗普宣称，很有可能会在明天（下周一）达成伊朗协议。",
           "url": "https://wallstreetcn.com/livenews/3082650",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            15
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 23时28分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "比特币维持0.7%的跌幅，暂报66786美元。 福克斯新闻披露的电话采访信息显示，美国总统特朗普声称，如果不达成伊朗协议，将攫取伊朗石油。 特朗普可以在明天（结束）之前与伊朗达成协议。 伊朗的谈判人员们暂时获得（被美国和以色列杀害的）“赦免”。 如果不“迅速”达成伊朗协议，考虑“破坏一切”。",
           "url": "https://wallstreetcn.com/livenews/3082644",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 23时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "前雷曼交易员：私募信贷是“这一周期的次贷”，远离“拥挤”的科技股，拥抱“稀缺”的资源股",
-          "url": "https://wallstreetcn.com/articles/3769253",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 14时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网传OpenAI“股权结构表”：微软“130亿美元投资”已升至“2283亿美元”",
-          "url": "https://wallstreetcn.com/articles/3769250",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "00时31分"
         }
       ]
     }
