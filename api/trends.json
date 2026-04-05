@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T21:51:51.952636+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-04-05T22:32:34.934133+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时40分 ~ 21时51分]"
+          "appearance_count": 12,
+          "time_info": "[12时40分 ~ 22时32分]"
         },
         {
           "title": "无人继承的巨额遗产或在拖垮日本",
@@ -62,8 +62,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时13分 ~ 21时51分]"
+          "appearance_count": 11,
+          "time_info": "[14时13分 ~ 22时32分]"
         },
         {
           "title": "伊朗籍男子在日本被围殴致死，警方介入",
@@ -75,6 +75,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时40分 ~ 17时35分]"
+        },
+        {
+          "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32907660",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时34分 ~ 22时32分]"
         },
         {
           "title": "伊朗籍男子在日本被殴打致死",
@@ -90,19 +103,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时13分 ~ 18时29分]"
-        },
-        {
-          "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32907660",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时34分 ~ 21时51分]"
         },
         {
           "title": "日本选手被王曼昱“打”哭",
@@ -122,11 +122,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时51分]"
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时32分]"
         },
         {
           "title": "伊朗籍男子在日本被殴打致死",
@@ -183,7 +184,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -253,6 +254,45 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“没中国，美国机器人就动不了”",
+          "url": "https://news.ifeng.com/c/8s3Cgdlzylx",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时59分]"
+        },
+        {
+          "title": "比特币跌幅收窄至大约0.6%，暂报66876美元。 据福克斯新闻报道，美国总统特朗普此前企图向伊朗抗议者们发放枪支弹药。 特朗普认为，库尔德截留了美方向伊朗抗议者们输送的武器。 特朗普宣称，很有可能会在明天（下周一）达成伊朗协议。",
+          "url": "https://wallstreetcn.com/livenews/3082650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "比特币维持0.7%的跌幅，暂报66786美元。 福克斯新闻披露的电话采访信息显示，美国总统特朗普声称，如果不达成伊朗协议，将攫取伊朗石油。 特朗普可以在明天（结束）之前与伊朗达成协议。 伊朗的谈判人员们暂时获得（被美国和以色列杀害的）“赦免”。 如果不“迅速”达成伊朗协议，考虑“破坏一切”。",
+          "url": "https://wallstreetcn.com/livenews/3082644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 1,
       "titles": [
@@ -285,23 +325,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“没中国，美国机器人就动不了”",
-          "url": "https://news.ifeng.com/c/8s3Cgdlzylx",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 09时59分]"
         }
       ]
     }
