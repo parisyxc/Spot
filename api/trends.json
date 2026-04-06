@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T06:31:41.321153+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-04-07T07:31:22.076383+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时31分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -39,6 +39,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "三星电子在盘前交易中上涨5%，此前发布一季度财报。",
+          "url": "https://wallstreetcn.com/livenews/3083013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
+          "url": "https://wallstreetcn.com/articles/3769329",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "联合健康美股盘后中行那个11%，CVS涨8.6%。 美国医疗保险局（Medicare）最终确定，2027年上调私人保险公司2.48%的费率。",
@@ -129,7 +151,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -150,17 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时31分]"
-        },
-        {
-          "title": "博通与谷歌达成长期协议，合作开发并供应TPU",
-          "url": "https://flash.jin10.com/detail/20260407054343855800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         },
         {
           "title": "美媒：Meta将发布其下一代AI模型的开源版本",
@@ -187,6 +198,18 @@
           "time_info": "[01时40分 ~ 02时52分]"
         },
         {
+          "title": "博通与谷歌达成长期协议，合作开发并供应TPU",
+          "url": "https://flash.jin10.com/detail/20260407054343855800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
           "title": "英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装",
           "url": "https://wallstreetcn.com/livenews/3082940",
           "source": "华尔街见闻-快讯",
@@ -205,7 +228,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -216,7 +239,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -224,7 +247,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "俄外交部：日本与乌克兰无人机合作是公开敌对行为",
@@ -234,8 +257,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时31分]"
         },
         {
           "title": "日本计划本月松绑杀伤性武器出口",
@@ -270,6 +293,78 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时40分]"
+        },
+        {
+          "title": "日本首相高市早苗寻求与伊朗总统通电话。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3083005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "日本最大规模海上兵力改编",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B5%B7%E4%B8%8A%E5%85%B5%E5%8A%9B%E6%94%B9%E7%BC%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
+          "url": "https://wallstreetcn.com/livenews/3083014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "高盛：对于2026/2027年之后，仍然坚持认为铜价将在2035年上涨至15000美元。",
+          "url": "https://flash.jin10.com/detail/20260407053740657800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "高盛：短期内预计铜价将继续保持波动，市场仍在评估中东局势对全球经济增长的影响。",
+          "url": "https://flash.jin10.com/detail/20260407053632131800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "高盛预计2026年铜价平均为12,650美元，此前预期为12,850美元。高盛预计2026年全球铜市场将出现49万吨的供应过剩，此前预期为38万吨。",
+          "url": "https://flash.jin10.com/detail/20260407053630952800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         }
       ]
     },
@@ -317,17 +412,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI敦促加州和特拉华州调查马斯克的“反竞争行为”。",
-          "url": "https://flash.jin10.com/detail/20260407054852467800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
           "title": "报道：OpenAI计划最早今年四季度IPO",
           "url": "https://wallstreetcn.com/livenews/3082897",
           "source": "华尔街见闻-快讯",
@@ -340,6 +424,18 @@
           "time_info": "[00时41分 ~ 01时40分]"
         },
         {
+          "title": "OpenAI敦促加州和特拉华州调查马斯克的“反竞争行为”。",
+          "url": "https://flash.jin10.com/detail/20260407054852467800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
           "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
           "url": "https://flash.jin10.com/detail/20260407000320677800",
           "source": "金十数据",
@@ -349,45 +445,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "高盛：对于2026/2027年之后，仍然坚持认为铜价将在2035年上涨至15000美元。",
-          "url": "https://flash.jin10.com/detail/20260407053740657800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "高盛：短期内预计铜价将继续保持波动，市场仍在评估中东局势对全球经济增长的影响。",
-          "url": "https://flash.jin10.com/detail/20260407053632131800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "高盛预计2026年铜价平均为12,650美元，此前预期为12,850美元。高盛预计2026年全球铜市场将出现49万吨的供应过剩，此前预期为38万吨。",
-          "url": "https://flash.jin10.com/detail/20260407053630952800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         }
       ]
     },
@@ -404,11 +461,12 @@
             12,
             18,
             28,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时31分]"
         },
         {
           "title": "以太坊短线从2160美元上方回落至接近2131美元的水平，日内涨幅收窄至3.4%。",
