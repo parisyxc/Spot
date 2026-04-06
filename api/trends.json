@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T18:05:46.360021+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-04-06T19:44:34.269247+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
@@ -84,17 +84,6 @@
           "time_info": "[05时28分 ~ 07时29分]"
         },
         {
-          "title": "日本最大规模海上兵力改编",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B5%B7%E4%B8%8A%E5%85%B5%E5%8A%9B%E6%94%B9%E7%BC%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 18时05分]"
-        },
-        {
           "title": "日本20年期国债收益率升至3.325%。",
           "url": "https://flash.jin10.com/detail/20260406091244725800",
           "source": "金十数据",
@@ -117,6 +106,18 @@
           "time_info": "14时29分"
         },
         {
+          "title": "日本最大规模海上兵力改编",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B5%B7%E4%B8%8A%E5%85%B5%E5%8A%9B%E6%94%B9%E7%BC%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 19时44分]"
+        },
+        {
           "title": "日本央行官员：报告主要基于截至3月下旬对企业进行的访谈。",
           "url": "https://flash.jin10.com/detail/20260406132107477800",
           "source": "金十数据",
@@ -126,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "日本民众集会抗议政府为武器出口松绑",
+          "url": "https://wallstreetcn.com/livenews/3082809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "日本40年期国债收益率上行9.5个基点至3.965%。",
@@ -406,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐与日本外相茂木敏充进行了电话交谈，讨论了双边关系的最新状况以及地区和国际局势。",
+          "url": "https://flash.jin10.com/detail/20260406184342998800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
@@ -442,7 +465,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -499,7 +522,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -527,7 +550,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -536,11 +559,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E5%9B%9E%E8%90%BD%E4%B8%8B%E8%B7%8C",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 18时05分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 19时44分]"
         },
         {
           "title": "金价",
@@ -549,7 +573,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -571,7 +595,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         }
@@ -579,8 +603,20 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "机器人保姆“上岗”了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 19时44分]"
+        },
         {
           "title": "比特币跌幅收窄至大约0.6%，暂报66876美元。 据福克斯新闻报道，美国总统特朗普此前企图向伊朗抗议者们发放枪支弹药。 特朗普认为，库尔德截留了美方向伊朗抗议者们输送的武器。 特朗普宣称，很有可能会在明天（下周一）达成伊朗协议。",
           "url": "https://wallstreetcn.com/livenews/3082650",
@@ -594,17 +630,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 06时26分]"
-        },
-        {
-          "title": "机器人保姆“上岗”了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
         },
         {
           "title": "比特币维持0.7%的跌幅，暂报66786美元。 福克斯新闻披露的电话采访信息显示，美国总统特朗普声称，如果不达成伊朗协议，将攫取伊朗石油。 特朗普可以在明天（结束）之前与伊朗达成协议。 伊朗的谈判人员们暂时获得（被美国和以色列杀害的）“赦免”。 如果不“迅速”达成伊朗协议，考虑“破坏一切”。",
@@ -625,15 +650,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
+        },
+        {
+          "title": "比特币过去24小时内涨4.42%",
+          "url": "https://www.toutiao.com/trending/7625094854578176019/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
@@ -658,6 +694,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时26分]"
+        },
+        {
+          "title": "OpenAI发布文章 提出AI时代产业政策建议",
+          "url": "https://wallstreetcn.com/livenews/3082798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
@@ -706,8 +753,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 18时05分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 19时44分]"
         }
       ]
     },
@@ -722,7 +769,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         }
