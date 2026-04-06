@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-04-07T03:50:04.611148+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-04-07T04:34:33.088021+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时34分]"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260407003239064800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260407003200754800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260407040534288800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260407040513015800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
+          "url": "https://flash.jin10.com/detail/20260407040042993800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        }
+      ]
+    },
     {
       "keyword_group": "稳定币 日本",
       "match_count": 4,
@@ -15,8 +87,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 03时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "日本计划本月松绑杀伤性武器出口",
@@ -55,45 +127,6 @@
       ]
     },
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
-          "url": "https://wallstreetcn.com/articles/3769300",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 03时50分]"
-        },
-        {
-          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260407003239064800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260407003200754800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 3,
       "titles": [
@@ -102,22 +135,12 @@
           "url": "https://flash.jin10.com/detail/20260407030914594800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装",
-          "url": "https://wallstreetcn.com/livenews/3082940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时34分]"
         },
         {
           "title": "Meta Platforms将发布其下一代AI模型的开源版本。（Axios）",
@@ -130,6 +153,57 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时52分]"
+        },
+        {
+          "title": "英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装",
+          "url": "https://wallstreetcn.com/livenews/3082940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
+          "url": "https://flash.jin10.com/detail/20260407003113861800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "标普500指数初步收涨0.4%，可选消费板块涨0.7%，日用品、金融、能源板块涨0.6%，科技板块涨0.3%，保健板块跌0.5%。 纳斯达克100指数初步收涨0.6%，成分股中，AppLovin初步收涨6.8%，Strategy涨6.5%，希捷科技涨5.5%，星巴克涨4.9%，特斯拉跌2.1%，Datadog跌3.3%。 思科、波音、美国运通、联合健康、家得宝至少涨1.5%，领跑道指成分股，IBM、强生则跌0.8%，Salesforce跌1.1%，安进跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3082956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "马斯克：特斯拉(TSLA.O)的自动驾驶技术拯救了众多生命——相关数据无可争辩地证明了这一点。当然，这并不意味着它就是完美的。即使我们将安全性提升10倍，挽救了每年因车祸丧生的100万人中的90%，特斯拉仍会因那10%的遇难者而面临诉讼。而那90%幸存者中，大多数人甚至都不会知道是特斯拉救了他们。尽管如此，（自动驾驶技术）这是正确的事情。",
+          "url": "https://flash.jin10.com/detail/20260407024258088800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
         }
       ]
     },
@@ -174,34 +248,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
-          "url": "https://flash.jin10.com/detail/20260407003113861800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "马斯克：特斯拉(TSLA.O)的自动驾驶技术拯救了众多生命——相关数据无可争辩地证明了这一点。当然，这并不意味着它就是完美的。即使我们将安全性提升10倍，挽救了每年因车祸丧生的100万人中的90%，特斯拉仍会因那10%的遇难者而面临诉讼。而那90%幸存者中，大多数人甚至都不会知道是特斯拉救了他们。尽管如此，（自动驾驶技术）这是正确的事情。",
-          "url": "https://flash.jin10.com/detail/20260407024258088800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
         }
       ]
     },
