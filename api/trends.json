@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T14:29:46.352188+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-04-06T16:21:59.647544+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
@@ -84,17 +84,6 @@
           "time_info": "[05时28分 ~ 07时29分]"
         },
         {
-          "title": "日本40年期国债收益率上行9.5个基点至3.965%。",
-          "url": "https://wallstreetcn.com/livenews/3082746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "日本20年期国债收益率升至3.325%。",
           "url": "https://flash.jin10.com/detail/20260406091244725800",
           "source": "金十数据",
@@ -106,15 +95,37 @@
           "time_info": "10时01分"
         },
         {
+          "title": "据知情人士透露，三井住友金融集团和日本生命保险公司正在洽谈设立一只私人信贷基金，初始资本至少为5000亿日元（约合31亿美元）。这些日本金融巨头希望借此抓住企业交易激增的机遇。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3082771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "日本央行在季度报告中维持对全部9个地区的评估不变。 部分地区表示，中东冲突的影响已经通过油价飙升和供应中断显现出来。 部分地区担忧能源价格上涨和通胀会带来更广泛的供应链中断风险，并损害家庭及企业的信心。 许多地区表示，包括小型企业在内的公司，在2026财年的工资上调幅度可能会接近去年的水平。 部分地区表示，受中东局势发展影响，企业在加薪方面可能会变得谨慎。 许多地区表示，公司仍在继续转嫁不断上涨的劳动力及物流成本。 部分地区表示，受近期日元走软及油价飙升影响，已有企业正在酝酿或宣布提价。",
           "url": "https://wallstreetcn.com/livenews/3082743",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "日本最大规模海上兵力改编",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B5%B7%E4%B8%8A%E5%85%B5%E5%8A%9B%E6%94%B9%E7%BC%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "日本央行官员：报告主要基于截至3月下旬对企业进行的访谈。",
@@ -123,9 +134,21 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "日本40年期国债收益率上行9.5个基点至3.965%。",
+          "url": "https://wallstreetcn.com/livenews/3082746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 16时21分]"
         },
         {
           "title": "日本福岛第二核电站1号机组燃料池冷却系统停止运行",
@@ -170,9 +193,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "日本央行释放微妙信号，避免在4月会议前承诺加息",
+          "url": "https://flash.jin10.com/detail/20260406155800774800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "日本20年期国债收益率上升4.0个基点，至3.305%。",
@@ -203,7 +237,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -225,7 +259,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -247,7 +281,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -258,7 +292,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -329,6 +363,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "日本央行名古屋分行行长：该地区部分企业担心，外汇市场波动及中东冲突带来的不确定性会通过恶化家庭和企业信心而损害经济。",
+          "url": "https://flash.jin10.com/detail/20260406151611439800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "日本首相高市早苗：我们将灵活应对中东局势及其对需求造成的压力，不排除任何可能性。",
           "url": "https://flash.jin10.com/detail/20260406081858849800",
           "source": "金十数据",
@@ -338,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "日经225指数收涨0.5%，报53413.68点。 日本东证指数收跌0.01%，报3644.80点。 韩国首尔综指收涨1.4%，报5450.33点。",
+          "url": "https://wallstreetcn.com/livenews/3082748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "10年期日本国债收益率达新高",
@@ -354,8 +410,41 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "维珍银河(SPCE.N)美股盘前大涨12.6%。",
+          "url": "https://flash.jin10.com/detail/20260406160708669800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "“快被逼疯了！”美股2000亿崩盘制造者急探中东，真相令人心惊",
+          "url": "https://flash.jin10.com/detail/20260406160347144800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "美股三大股指期货小幅上涨，标普500指数期货上涨0.2%，纳斯达克100指数期货上涨0.4%，道琼斯指数期货上涨0.1%",
+          "url": "https://flash.jin10.com/detail/20260406160221787800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
         {
           "title": "美股期货周一亚市盘初走低，标普500指数期货跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/3082682",
@@ -435,6 +524,34 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价再度回落下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E5%9B%9E%E8%90%BD%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "特朗普威胁升级军事行动 金价承压",
+          "url": "https://flash.jin10.com/detail/20260406082712632800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 2,
       "titles": [
@@ -445,11 +562,12 @@
           "ranks": [
             1,
             2,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 16时21分]"
         },
         {
           "title": "微信宣布这项功能将全面停运",
@@ -458,7 +576,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         }
@@ -509,25 +627,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 14时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普威胁升级军事行动 金价承压",
-          "url": "https://flash.jin10.com/detail/20260406082712632800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 16时21分]"
         }
       ]
     }
