@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T22:12:46.774195+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-04-06T23:41:50.123749+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
@@ -72,6 +72,19 @@
           "time_info": "[01时26分 ~ 07时29分]"
         },
         {
+          "title": "日本最大规模海上兵力改编",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B5%B7%E4%B8%8A%E5%85%B5%E5%8A%9B%E6%94%B9%E7%BC%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 23时41分]"
+        },
+        {
           "title": "日本福岛第二核电站1号机组燃料池冷却系统停止运行",
           "url": "https://wallstreetcn.com/livenews/3082678",
           "source": "华尔街见闻-快讯",
@@ -82,19 +95,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时28分 ~ 07时29分]"
-        },
-        {
-          "title": "日本最大规模海上兵力改编",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B5%B7%E4%B8%8A%E5%85%B5%E5%8A%9B%E6%94%B9%E7%BC%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 22时12分]"
         },
         {
           "title": "日本20年期国债收益率升至3.325%。",
@@ -140,6 +140,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 16时21分]"
+        },
+        {
+          "title": "俄外交部：日本与乌克兰无人机合作是公开敌对行为",
+          "url": "https://news.ifeng.com/c/8s6xNxIYCzU",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "据知情人士透露，三井住友金融集团和日本生命保险公司正在洽谈设立一只私人信贷基金，初始资本至少为5000亿日元（约合31亿美元）。这些日本金融巨头希望借此抓住企业交易激增的机遇。（彭博）",
@@ -318,7 +329,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -447,8 +458,19 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
         {
           "title": "维珍银河(SPCE.N)美股盘前大涨12.6%。",
           "url": "https://flash.jin10.com/detail/20260406160708669800",
@@ -467,7 +489,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -489,7 +511,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -568,7 +590,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -590,7 +612,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         }
@@ -608,11 +630,12 @@
             2,
             1,
             4,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 22时12分]"
+          "appearance_count": 5,
+          "time_info": "[18时05分 ~ 23时41分]"
         },
         {
           "title": "比特币跌幅收窄至大约0.6%，暂报66876美元。 据福克斯新闻报道，美国总统特朗普此前企图向伊朗抗议者们发放枪支弹药。 特朗普认为，库尔德截留了美方向伊朗抗议者们输送的武器。 特朗普宣称，很有可能会在明天（下周一）达成伊朗协议。",
@@ -780,6 +803,34 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国国家公路交通安全管理局：已结束对估计约259万辆在美特斯拉车辆的初步评估，该评估此前启动旨在调查“Actually Smart Summon”功能的使用情况。",
+          "url": "https://flash.jin10.com/detail/20260406171938277800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "摩根大通下调对特斯拉的盈利预测 该公司发布的一季度交付量不及预期",
+          "url": "https://wallstreetcn.com/livenews/3082868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 2,
       "titles": [
@@ -826,23 +877,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时01分 ~ 19时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国国家公路交通安全管理局：已结束对估计约259万辆在美特斯拉车辆的初步评估，该评估此前启动旨在调查“Actually Smart Summon”功能的使用情况。",
-          "url": "https://flash.jin10.com/detail/20260406171938277800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
         }
       ]
     }
