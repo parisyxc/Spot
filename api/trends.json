@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T01:55:32.167860+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-04-08T02:57:49.225944+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时57分]"
         },
         {
           "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
@@ -26,8 +26,37 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "央行抛售引发金价地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%8A%9B%E5%94%AE%E5%BC%95%E5%8F%91%E9%87%91%E4%BB%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 01时55分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月7日（周二）晚盘收盘上涨0.41%报1034.01元/克；<br/>上海黄金交易所白银T+D 4月7日（周二）晚盘收盘下跌0.98%报17741.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260408023324744800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         }
       ]
     },
@@ -44,26 +73,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "央行抛售引发金价地震",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%8A%9B%E5%94%AE%E5%BC%95%E5%8F%91%E9%87%91%E4%BB%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时57分]"
         }
       ]
     },
