@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T12:32:05.123406+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-04-07T14:18:12.638963+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 12时32分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 14时18分]"
         },
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 14时18分]"
         },
         {
           "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 14时18分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "全球首款纯内存芯片ETF近日在美股上市",
+          "url": "https://wallstreetcn.com/livenews/3083181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "联合健康美股盘后中行那个11%，CVS涨8.6%。 美国医疗保险局（Medicare）最终确定，2027年上调私人保险公司2.48%的费率。",
@@ -174,7 +185,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "俄外交部：日本与乌克兰无人机合作是公开敌对行为",
@@ -196,8 +207,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 14时18分]"
         },
         {
           "title": "日本拍卖30年期国债，认购倍数3.12，过去12个月均值为3.36。",
@@ -206,7 +217,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -256,6 +267,17 @@
           "time_info": "[12时31分 ~ 12时32分]"
         },
         {
+          "title": "日本央行前审议委员：由于物价压力加大 央行可能在7月前加息",
+          "url": "https://flash.jin10.com/detail/20260407133955137800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "日本首相高市早苗寻求与伊朗总统通电话。（NHK）",
           "url": "https://wallstreetcn.com/livenews/3083005",
           "source": "华尔街见闻-快讯",
@@ -267,6 +289,39 @@
           "time_info": "07时31分"
         },
         {
+          "title": "日本20年期国债收益率下行1.5个基点至3.315%。",
+          "url": "https://wallstreetcn.com/livenews/3083162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "日本2月同步指标初值 116.3，预期 116.4，前值 117.9。",
+          "url": "https://wallstreetcn.com/livenews/3083158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "日本2月领先指标初值 112.4，预期 112.4，前值 112.1。",
+          "url": "https://wallstreetcn.com/livenews/3083157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "日本最大规模海上兵力改编",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B5%B7%E4%B8%8A%E5%85%B5%E5%8A%9B%E6%94%B9%E7%BC%96",
           "source": "bilibili 热搜",
@@ -276,6 +331,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
+          "url": "https://wallstreetcn.com/livenews/3083014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "金十图示：2026年04月07日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260407120243783800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "高盛警告：铜价暴跌风险加剧，海峡封锁或成“最后一根稻草”！",
+          "url": "https://flash.jin10.com/detail/20260407134136540800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "伊朗冲突威胁全球经济增长 高盛警告称铜价面临进一步下跌风险",
+          "url": "https://flash.jin10.com/detail/20260407115507902800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "高盛：对于2026/2027年之后，仍然坚持认为铜价将在2035年上涨至15000美元。",
+          "url": "https://flash.jin10.com/detail/20260407053740657800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "高盛：短期内预计铜价将继续保持波动，市场仍在评估中东局势对全球经济增长的影响。",
+          "url": "https://flash.jin10.com/detail/20260407053632131800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "高盛预计2026年铜价平均为12,650美元，此前预期为12,850美元。高盛预计2026年全球铜市场将出现49万吨的供应过剩，此前预期为38万吨。",
+          "url": "https://flash.jin10.com/detail/20260407053630952800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "“最后期限”压顶，金价何时才能夺回主动权？",
+          "url": "https://flash.jin10.com/detail/20260407131130814800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     },
@@ -368,78 +517,6 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
-          "url": "https://wallstreetcn.com/livenews/3083014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "金十图示：2026年04月07日（周二）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260407120243783800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "伊朗冲突威胁全球经济增长 高盛警告称铜价面临进一步下跌风险",
-          "url": "https://flash.jin10.com/detail/20260407115507902800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "高盛：对于2026/2027年之后，仍然坚持认为铜价将在2035年上涨至15000美元。",
-          "url": "https://flash.jin10.com/detail/20260407053740657800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "高盛：短期内预计铜价将继续保持波动，市场仍在评估中东局势对全球经济增长的影响。",
-          "url": "https://flash.jin10.com/detail/20260407053632131800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "高盛预计2026年铜价平均为12,650美元，此前预期为12,850美元。高盛预计2026年全球铜市场将出现49万吨的供应过剩，此前预期为38万吨。",
-          "url": "https://flash.jin10.com/detail/20260407053630952800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 INTEL",
       "match_count": 4,
       "titles": [
@@ -490,6 +567,63 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "机器人保姆“上岗”了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            12,
+            18,
+            28,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时31分]"
+        },
+        {
+          "title": "宇树科技移动机器人专利获授权 发明人为王兴兴等",
+          "url": "https://wallstreetcn.com/livenews/3083180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "以太坊短线从2160美元上方回落至接近2131美元的水平，日内涨幅收窄至3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3082908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时52分]"
+        },
+        {
+          "title": "数字货币市场至少涨超3.4%，比特币涨超4%突破7万美元关口，以太币维持超过4%的涨幅",
+          "url": "https://wallstreetcn.com/livenews/3082905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时52分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -527,52 +661,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "机器人保姆“上岗”了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            12,
-            18,
-            28,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时31分]"
-        },
-        {
-          "title": "以太坊短线从2160美元上方回落至接近2131美元的水平，日内涨幅收窄至3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3082908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时52分]"
-        },
-        {
-          "title": "数字货币市场至少涨超3.4%，比特币涨超4%突破7万美元关口，以太币维持超过4%的涨幅",
-          "url": "https://wallstreetcn.com/livenews/3082905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时52分]"
         }
       ]
     }
