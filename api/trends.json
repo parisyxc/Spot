@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T09:57:21.170902+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2026-04-07T12:32:05.123406+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 09时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 12时32分]"
         },
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -25,11 +25,24 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 09时57分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 12时32分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
+          "url": "https://www.cls.cn/detail/2335967",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时32分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -74,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
-        },
-        {
-          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
-          "url": "https://www.cls.cn/detail/2335967",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股收盘）",
@@ -167,6 +169,113 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "俄外交部：日本与乌克兰无人机合作是公开敌对行为",
+          "url": "https://news.ifeng.com/c/8s6xNxIYCzU",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时57分]"
+        },
+        {
+          "title": "国际观察丨日本历史教科书中了怎样的毒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914128",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时32分]"
+        },
+        {
+          "title": "日本拍卖30年期国债，认购倍数3.12，过去12个月均值为3.36。",
+          "url": "https://wallstreetcn.com/livenews/3083134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "日本计划本月松绑杀伤性武器出口",
+          "url": "https://flash.jin10.com/detail/20260407001237155800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "美国总统特朗普：韩国、澳大利亚和日本没有帮助美国。",
+          "url": "https://flash.jin10.com/detail/20260407023039176800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "日本计划本月松绑杀伤性武器出口",
+          "url": "https://wallstreetcn.com/livenews/3082900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时40分]"
+        },
+        {
+          "title": "谁给日本历史教科书下了“毒”",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%81%E7%BB%99%E6%97%A5%E6%9C%AC%E5%8E%86%E5%8F%B2%E6%95%99%E7%A7%91%E4%B9%A6%E4%B8%8B%E4%BA%86%E2%80%9C%E6%AF%92%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
+        },
+        {
+          "title": "日本首相高市早苗寻求与伊朗总统通电话。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3083005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "日本最大规模海上兵力改编",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B5%B7%E4%B8%8A%E5%85%B5%E5%8A%9B%E6%94%B9%E7%BC%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -259,86 +368,74 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 7,
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 6,
       "titles": [
         {
-          "title": "俄外交部：日本与乌克兰无人机合作是公开敌对行为",
-          "url": "https://news.ifeng.com/c/8s6xNxIYCzU",
-          "source": "凤凰网",
+          "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
+          "url": "https://wallstreetcn.com/livenews/3083014",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 09时57分]"
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
-          "title": "国际观察丨日本历史教科书中了怎样的毒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32914128",
-          "source": "澎湃新闻",
+          "title": "金十图示：2026年04月07日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260407120243783800",
+          "source": "金十数据",
           "ranks": [
-            9
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "12时32分"
         },
         {
-          "title": "日本计划本月松绑杀伤性武器出口",
-          "url": "https://flash.jin10.com/detail/20260407001237155800",
+          "title": "伊朗冲突威胁全球经济增长 高盛警告称铜价面临进一步下跌风险",
+          "url": "https://flash.jin10.com/detail/20260407115507902800",
           "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "12时32分"
         },
         {
-          "title": "美国总统特朗普：韩国、澳大利亚和日本没有帮助美国。",
-          "url": "https://flash.jin10.com/detail/20260407023039176800",
+          "title": "高盛：对于2026/2027年之后，仍然坚持认为铜价将在2035年上涨至15000美元。",
+          "url": "https://flash.jin10.com/detail/20260407053740657800",
           "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "日本计划本月松绑杀伤性武器出口",
-          "url": "https://wallstreetcn.com/livenews/3082900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时40分]"
-        },
-        {
-          "title": "日本首相高市早苗寻求与伊朗总统通电话。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3083005",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "06时31分"
         },
         {
-          "title": "日本最大规模海上兵力改编",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B5%B7%E4%B8%8A%E5%85%B5%E5%8A%9B%E6%94%B9%E7%BC%96",
-          "source": "bilibili 热搜",
+          "title": "高盛：短期内预计铜价将继续保持波动，市场仍在评估中东局势对全球经济增长的影响。",
+          "url": "https://flash.jin10.com/detail/20260407053632131800",
+          "source": "金十数据",
           "ranks": [
-            29
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "06时31分"
+        },
+        {
+          "title": "高盛预计2026年铜价平均为12,650美元，此前预期为12,850美元。高盛预计2026年全球铜市场将出现49万吨的供应过剩，此前预期为38万吨。",
+          "url": "https://flash.jin10.com/detail/20260407053630952800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         }
       ]
     },
@@ -375,7 +472,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -389,56 +486,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
-          "url": "https://wallstreetcn.com/livenews/3083014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "高盛：对于2026/2027年之后，仍然坚持认为铜价将在2035年上涨至15000美元。",
-          "url": "https://flash.jin10.com/detail/20260407053740657800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "高盛：短期内预计铜价将继续保持波动，市场仍在评估中东局势对全球经济增长的影响。",
-          "url": "https://flash.jin10.com/detail/20260407053632131800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "高盛预计2026年铜价平均为12,650美元，此前预期为12,850美元。高盛预计2026年全球铜市场将出现49万吨的供应过剩，此前预期为38万吨。",
-          "url": "https://flash.jin10.com/detail/20260407053630952800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         }
       ]
     },
