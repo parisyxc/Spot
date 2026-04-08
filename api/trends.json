@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T16:11:15.663228+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-04-08T18:04:40.538107+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 16时11分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 18时04分]"
         },
         {
           "title": "美伊接受巴基斯坦停火提议 美股期货贵金属暴涨、油价重挫 | 环球市场",
@@ -88,9 +88,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，金价重上4830关口，油价创近六年最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "美股三大股指短线小幅拉升，跌幅收窄。",
@@ -123,7 +134,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -366,19 +377,8 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "美军大批F35将入驻日本三泽基地",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%A4%A7%E6%89%B9F35%E5%B0%86%E5%85%A5%E9%A9%BB%E6%97%A5%E6%9C%AC%E4%B8%89%E6%B3%BD%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
-        },
         {
           "title": "国际观察丨日本历史教科书中了怎样的毒",
           "url": "https://m.thepaper.cn/newsDetail_forward_32914128",
@@ -400,6 +400,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "美军大批F-35将入驻日本三泽基地",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%A4%A7%E6%89%B9F-35%E5%B0%86%E5%85%A5%E9%A9%BB%E6%97%A5%E6%9C%AC%E4%B8%89%E6%B3%BD%E5%9F%BA%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "美军大批F35将入驻日本三泽基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%A4%A7%E6%89%B9F35%E5%B0%86%E5%85%A5%E9%A9%BB%E6%97%A5%E6%9C%AC%E4%B8%89%E6%B3%BD%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时04分]"
         },
         {
           "title": "日本20年期国债收益率下跌7.5个基点，至3.255%。",
@@ -424,6 +447,17 @@
           "time_info": "14时19分"
         },
         {
+          "title": "美军大批F35将入驻日本三泽基地",
+          "url": "https://www.toutiao.com/trending/7625807325827809334/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "日本能源化工公司考虑重启卡塔尔LNG项目建设",
           "url": "https://flash.jin10.com/detail/20260408122803424800",
           "source": "金十数据",
@@ -433,12 +467,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "日本炼油商改用小型油轮经巴拿马运河抢运美油",
+          "url": "https://flash.jin10.com/detail/20260408173828512800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "日本首相高市早苗：对美伊停火协议表示欢迎。 要求伊朗确保所有通过霍尔木兹海峡船只的安全。",
+          "url": "https://wallstreetcn.com/livenews/3084191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "恒生科技指数涨超4%。华虹半导体涨超10%，中芯国际涨超8%。",
@@ -450,6 +506,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "三星电子中国业务陷重组传闻，重心转向半导体",
+          "url": "https://wallstreetcn.com/livenews/3084225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "九州一轨：筹划增资江苏通用半导体有限公司相关事宜存在不确定性",
+          "url": "https://flash.jin10.com/detail/20260408174327351800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "标普500指数收涨5.02点，涨幅0.08%，报6616.85点。 道琼斯工业平均指数收跌85.42点，跌幅0.18%，报46584.46点。 纳斯达克综合指数（纳指）收涨21.512点，涨幅0.10，报22017.849点。 纳斯达克100指数收涨10.206点，涨幅0.04%，报24202.372点。 费城半导体指数收涨1.11%，报8003.867点。 费城证交所KBW银行指数收涨0.24%，报158.35点。 纳斯达克生物科技指数收跌0.21%，报5814.20点。",
@@ -502,8 +580,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时06分 ~ 16时11分]"
+          "appearance_count": 15,
+          "time_info": "[01时06分 ~ 18时04分]"
         }
       ]
     },
