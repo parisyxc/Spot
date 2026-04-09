@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T18:09:02.400938+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-04-09T19:52:26.843904+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时15分 ~ 07时34分]"
+        },
+        {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 19时52分]"
         },
         {
           "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
@@ -34,18 +46,6 @@
           "time_info": "[01时15分 ~ 09时50分]"
         },
         {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 18时09分]"
-        },
-        {
           "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
@@ -55,6 +55,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时15分 ~ 05时38分]"
+        },
+        {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 19时52分]"
         },
         {
           "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
@@ -81,19 +94,6 @@
           "time_info": "[01时15分 ~ 07时34分]"
         },
         {
-          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
-          "url": "https://www.cls.cn/detail/2338764",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 18时09分]"
-        },
-        {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
@@ -111,7 +111,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -298,12 +298,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "CoreWeave美股盘前涨超7%，公司与Meta签署210亿美元AI基础设施协议",
+          "url": "https://wallstreetcn.com/livenews/3085038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "日本老人在华求职,月薪要5w",
@@ -313,11 +324,12 @@
             4,
             6,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时15分 ~ 18时09分]"
+          "appearance_count": 17,
+          "time_info": "[01时15分 ~ 19时52分]"
         },
         {
           "title": "日本73岁老人来中国求职",
@@ -340,11 +352,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 18时09分]"
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 19时52分]"
         },
         {
           "title": "为什么中国历史上没有出现如欧洲的纹章、日本的家徽一类的标识？",
@@ -382,15 +395,15 @@
           "time_info": "12时31分"
         },
         {
-          "title": "人民日报：日本必须放弃军事化道路",
-          "url": "https://www.toutiao.com/trending/7625838194420776979/",
-          "source": "今日头条",
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://www.douyin.com/hot/2460761",
+          "source": "抖音",
           "ranks": [
-            10
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "日本拍卖5年期国债，认购倍数3.58，过去12个月均值为3.49。",
@@ -402,6 +415,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "人民日报：日本必须放弃军事化道路",
+          "url": "https://www.toutiao.com/trending/7625838194420776979/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 19时52分]"
         },
         {
           "title": "日本考虑就确保石油供应问题支持亚洲“本土”企业。（NHK）",
@@ -416,6 +441,17 @@
           "time_info": "[06时35分 ~ 07时34分]"
         },
         {
+          "title": "日媒炒作“中文喧哗声”，日学者：没素质的日本人比比皆是",
+          "url": "https://news.ifeng.com/c/8sBW0WWtfmd",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 19时52分]"
+        },
+        {
           "title": "国防部：日本军事扩张野心暴露无遗",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0%E9%87%8E%E5%BF%83%E6%9A%B4%E9%9C%B2%E6%97%A0%E9%81%97",
           "source": "百度热搜",
@@ -425,17 +461,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时17分 ~ 18时09分]"
-        },
-        {
-          "title": "日媒炒作“中文喧哗声”，日学者：没素质的日本人比比皆是",
-          "url": "https://news.ifeng.com/c/8sBW0WWtfmd",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
         },
         {
           "title": "国防部回应日本对敌部署远程导弹",
@@ -579,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "日本媒体夸孙颖莎是“绝对女王”",
+          "url": "https://www.toutiao.com/trending/7626612431775072299/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
@@ -607,7 +643,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -618,7 +654,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -641,7 +677,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -652,7 +688,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -663,7 +699,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -682,7 +718,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗战争丨伊朗被曝要求油轮用比特币支付海峡通行费",
@@ -705,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "被张家界天门山的机器人硬控住了",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%A4%A9%E9%97%A8%E5%B1%B1%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A1%AC%E6%8E%A7%E4%BD%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "《纽约时报》称英国密码学家亚当·巴克或为比特币发明者中本聪，可信度高吗？若坐实，意味着什么？",
@@ -754,7 +801,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2026年04月09日（周四）白银ETF持仓报告",
@@ -799,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "湖南白银：2025年净利润3.4亿元，同比增长100.38%。",
+          "url": "https://wallstreetcn.com/livenews/3085030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "澳新银行：能源转型和数据中心增长带动需求韧性，将使市场保持4%至5%的供应缺口，从而支撑铜价。",
@@ -954,7 +1012,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "冰湖重生抖音追剧团",
@@ -967,11 +1025,12 @@
             25,
             15,
             19,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时15分 ~ 18时09分]"
+          "appearance_count": 17,
+          "time_info": "[01时15分 ~ 19时52分]"
         },
         {
           "title": "小红书电商：每天3900万用户有明确商品求购行为，产生1.4亿人次主动求购",
@@ -983,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "抖音第0届拼豆大赛",
+          "url": "https://www.douyin.com/hot/2460553",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
