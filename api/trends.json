@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-09T19:52:26.843904+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2026-04-09T21:15:17.881462+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时34分 ~ 21时15分]"
+        },
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
           "url": "https://wallstreetcn.com/articles/3769370",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时15分 ~ 07时34分]"
-        },
-        {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时34分 ~ 19时52分]"
         },
         {
           "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
@@ -175,6 +175,17 @@
           "time_info": "[04时39分 ~ 05时38分]"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3085123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "美股股指期货周四开盘微跌，WTI原油微涨，现货黄金高开0.15%。",
           "url": "https://flash.jin10.com/detail/20260409060126125800",
           "source": "金十数据",
@@ -234,6 +245,17 @@
           "time_info": "04时39分"
         },
         {
+          "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2339594",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "美股三大股指期货短线走低，纳指期货跌幅扩大至0.4%，标普500指数期货跌0.41%，道指期货跌0.38%。",
           "url": "https://wallstreetcn.com/livenews/3084906",
           "source": "华尔街见闻-快讯",
@@ -289,6 +311,17 @@
           "time_info": "06时35分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-09）",
+          "url": "https://flash.jin10.com/detail/20260409205949123800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "新兴市场ETF收涨约5.5%，领跑美股大类资产类ETF，布油基金跌约10.3%",
           "url": "https://wallstreetcn.com/livenews/3084629",
           "source": "华尔街见闻-快讯",
@@ -306,7 +339,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         }
@@ -314,7 +347,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "日本老人在华求职,月薪要5w",
@@ -325,11 +358,12 @@
             6,
             9,
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时15分 ~ 19时52分]"
+          "appearance_count": 18,
+          "time_info": "[01时15分 ~ 21时15分]"
         },
         {
           "title": "日本73岁老人来中国求职",
@@ -353,11 +387,12 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 19时52分]"
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 21时15分]"
         },
         {
           "title": "为什么中国历史上没有出现如欧洲的纹章、日本的家徽一类的标识？",
@@ -384,6 +419,18 @@
           "time_info": "12时31分"
         },
         {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://www.douyin.com/hot/2460761",
+          "source": "抖音",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时15分]"
+        },
+        {
           "title": "日本考虑释放额外20天的石油储备。（共同社）",
           "url": "https://wallstreetcn.com/livenews/3084764",
           "source": "华尔街见闻-快讯",
@@ -396,14 +443,25 @@
         },
         {
           "title": "国防部回应日本部署远程导弹",
-          "url": "https://www.douyin.com/hot/2460761",
-          "source": "抖音",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "21时15分"
+        },
+        {
+          "title": "日本 73 岁工程师向中国车企投递简历，这份活到老干到老的劲头带来哪些触动？HR 公开其简历侵犯隐私了吗？",
+          "url": "https://www.zhihu.com/question/2025327406819407576",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "日本拍卖5年期国债，认购倍数3.58，过去12个月均值为3.49。",
@@ -448,8 +506,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时08分 ~ 19时52分]"
+          "appearance_count": 4,
+          "time_info": "[18时08分 ~ 21时15分]"
         },
         {
           "title": "国防部：日本军事扩张野心暴露无遗",
@@ -505,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "媒体谈国防部用“恶虎出笼”比喻日本",
+          "url": "https://www.toutiao.com/trending/7626716626427772982/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "日本央行前官员：日本央行可能在4月份加息",
@@ -612,7 +681,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         }
@@ -747,11 +816,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%A4%A9%E9%97%A8%E5%B1%B1%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A1%AC%E6%8E%A7%E4%BD%8F%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时15分]"
         },
         {
           "title": "《纽约时报》称英国密码学家亚当·巴克或为比特币发明者中本聪，可信度高吗？若坐实，意味着什么？",
@@ -854,7 +924,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -868,6 +938,128 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3084479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "谷歌云：推出GKE云存储FUSE配置文件，旨在自动化性能调优，加速AI/ML工作负载的数据访问。",
+          "url": "https://flash.jin10.com/detail/20260409004336024800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "英特尔与谷歌宣布就人工智能计算展开多年合作。",
+          "url": "https://flash.jin10.com/detail/20260409210152170800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "Meta Platforms(META.O)股价最新涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260409002428071800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：Instagram上针对青少年的AI体验已更新，灵感来自针对13岁及以上人群的电影分级，这意味着AI不应给出不符合年龄的回复。",
+          "url": "https://flash.jin10.com/detail/20260409153725917800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "乘联分会：特斯拉公司3月出口29563辆中国制造车辆。",
+          "url": "https://flash.jin10.com/detail/20260409160118305800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "欣旺达成为特斯拉全球第五家动力电池供应商",
+          "url": "https://wallstreetcn.com/livenews/3085133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "欣旺达成为特斯拉全球第五家动力电池供应商",
+          "url": "https://flash.jin10.com/detail/20260409210354401800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "报道称特斯拉Cybercab量产启动",
+          "url": "https://wallstreetcn.com/livenews/3084726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "马斯克：特斯拉V15自动驾驶在完全无监督和复杂情况下的安全性远超人类水平。",
+          "url": "https://flash.jin10.com/detail/20260409112415456800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
@@ -922,95 +1114,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3084479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "谷歌云：推出GKE云存储FUSE配置文件，旨在自动化性能调优，加速AI/ML工作负载的数据访问。",
-          "url": "https://flash.jin10.com/detail/20260409004336024800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "Meta Platforms(META.O)股价最新涨超7%。",
-          "url": "https://flash.jin10.com/detail/20260409002428071800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：Instagram上针对青少年的AI体验已更新，灵感来自针对13岁及以上人群的电影分级，这意味着AI不应给出不符合年龄的回复。",
-          "url": "https://flash.jin10.com/detail/20260409153725917800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "乘联分会：特斯拉公司3月出口29563辆中国制造车辆。",
-          "url": "https://flash.jin10.com/detail/20260409160118305800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "报道称特斯拉Cybercab量产启动",
-          "url": "https://wallstreetcn.com/livenews/3084726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "马斯克：特斯拉V15自动驾驶在完全无监督和复杂情况下的安全性远超人类水平。",
-          "url": "https://flash.jin10.com/detail/20260409112415456800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 3,
       "titles": [
@@ -1033,6 +1136,18 @@
           "time_info": "[01时15分 ~ 19时52分]"
         },
         {
+          "title": "抖音第0届拼豆大赛",
+          "url": "https://www.douyin.com/hot/2460553",
+          "source": "抖音",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时15分]"
+        },
+        {
           "title": "小红书电商：每天3900万用户有明确商品求购行为，产生1.4亿人次主动求购",
           "url": "https://wallstreetcn.com/livenews/3084696",
           "source": "华尔街见闻-快讯",
@@ -1042,24 +1157,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "抖音第0届拼豆大赛",
-          "url": "https://www.douyin.com/hot/2460553",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
         }
       ]
     },
     {
       "keyword_group": "AI基础设施 算力基建 AI Agent",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "英特尔与谷歌深化合作以推动AI基础设施发展。",
+          "url": "https://wallstreetcn.com/livenews/3085130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
         {
           "title": "A股午评：三大股指水下盘整 PCB、CPO等算力基建板块维持强势",
           "url": "https://flash.jin10.com/detail/20260409113353760800",
