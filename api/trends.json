@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T03:40:42.382168+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-11T04:31:29.192727+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时31分]"
         },
         {
           "title": "中方回应“日本降级中日关系”",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时31分]"
         },
         {
           "title": "外交部回应日本“降级”日中关系",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时31分]"
         },
         {
           "title": "汇丰、渣打获得香港首批稳定币牌照，汇丰计划2026年下半年推出港币稳定币",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时31分]"
         },
         {
           "title": "外交部回应日本「降级」日中关系，表示日方应以实际行动维护中日关系政治基础，如何看待日本这一举动？",
@@ -59,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时31分]"
         },
         {
           "title": "日籍男留华安居,笑谈日本烂透",
@@ -70,8 +70,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时31分]"
         },
         {
           "title": "香港首批稳定币牌照出炉 初期应用场景和发展路向明晰 后续整体牌照数量预计有限",
@@ -82,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 03时40分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 04时31分]"
         },
         {
           "title": "日本“新型军国主义”亮出吃人獠牙",
@@ -111,48 +111,31 @@
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 5,
       "titles": [
         {
-          "title": "男子微信群多次侮辱全红婵被拘",
-          "url": "https://www.toutiao.com/trending/7626258069320155172/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时40分]"
-        },
-        {
-          "title": "男子微信群多次侮辱全红婵被拘",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%A4%9A%E6%AC%A1%E4%BE%AE%E8%BE%B1%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A2%AB%E6%8B%98%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041025716800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
-          "title": "男子微信群多次侮辱某运动员被拘",
-          "url": "https://www.douyin.com/hot/2462172",
-          "source": "抖音",
+          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041023502800",
+          "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 2,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260411003357698800",
@@ -176,13 +159,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时43分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
+          "url": "https://flash.jin10.com/detail/20260411040442253800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
+          "url": "https://wallstreetcn.com/livenews/3086079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
           "url": "https://flash.jin10.com/detail/20260411023746377800",
@@ -202,9 +207,89 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月10日（周五）晚盘收盘上涨0.07%报1048.5元/克；<br/>上海黄金交易所白银T+D 4月10日（周五）晚盘收盘上涨1.45%报18832.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260411023054951800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 03时40分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：4月7日当周，投机者所持COMEX黄金净多头头寸减少1,759手合约，至92,113手合约，创两年新低。 所持COMEX白银净多头头寸创三周新低。 所持NYMEX铂金净多头头寸创16周月新高。 所持NYMEX钯金净空头头寸创六个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3086067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月7日当周，COMEX白银期货投机性净多头头寸减少777手至10,039手。",
+          "url": "https://flash.jin10.com/detail/20260411033835234800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "男子微信群多次侮辱全红婵被拘",
+          "url": "https://www.toutiao.com/trending/7626258069320155172/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时31分]"
+        },
+        {
+          "title": "男子微信群多次侮辱全红婵被拘",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%A4%9A%E6%AC%A1%E4%BE%AE%E8%BE%B1%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A2%AB%E6%8B%98%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时31分]"
+        },
+        {
+          "title": "男子微信群多次侮辱某运动员被拘",
+          "url": "https://www.douyin.com/hot/2462172",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时31分]"
         }
       ]
     },
@@ -220,26 +305,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 4月10日（周五）晚盘收盘上涨0.07%报1048.5元/克；<br/>上海黄金交易所白银T+D 4月10日（周五）晚盘收盘上涨1.45%报18832.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260411023054951800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时31分]"
         }
       ]
     },
