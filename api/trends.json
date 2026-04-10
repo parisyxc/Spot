@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T13:20:52.852895+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-04-10T15:34:08.097993+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "国防部回应日本部署远程导弹",
@@ -41,11 +41,12 @@
           "ranks": [
             12,
             15,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 13时20分]"
+          "appearance_count": 13,
+          "time_info": "[01时42分 ~ 15时34分]"
         },
         {
           "title": "日本老人在华求职,月薪要5w",
@@ -54,11 +55,12 @@
           "ranks": [
             19,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 13时20分]"
+          "appearance_count": 13,
+          "time_info": "[01时42分 ~ 15时34分]"
         },
         {
           "title": "霍尔木兹海峡迟迟不开 日本扛不住了：考虑5月追加释放石油储备",
@@ -80,9 +82,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "外交部回应日本“降级”日中关系：日方应以实际行动维护中日关系政治基础",
+          "url": "https://wallstreetcn.com/livenews/3085675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "香港首批稳定币牌照今天下午公布",
@@ -91,9 +104,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "日本“再军事化”来到危险临界点",
+          "url": "https://www.toutiao.com/trending/7626996831783751187/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 15时34分]"
         },
         {
           "title": "钟声：必须警惕日本黩武冒险躁动",
@@ -157,7 +181,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -190,7 +214,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -210,11 +234,34 @@
           "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%BA%BA%E6%B0%91%E5%B8%81%E6%84%9F%E5%8F%97%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 15时34分]"
+        },
+        {
+          "title": "媒体：日本“降级”中日关系",
+          "url": "https://www.douyin.com/hot/2461796",
+          "source": "抖音",
+          "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 15时34分]"
+        },
+        {
+          "title": "香港首批稳定币牌照将公布",
+          "url": "https://www.douyin.com/hot/2461749",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 15时34分]"
         },
         {
           "title": "日本财务大臣片山皋月：对外汇水平不予置评。",
@@ -261,6 +308,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "日经225指数收涨1.8%，报56,924.11点。 日本东证指数收跌0.04%，报3,739.85点。 韩国首尔综指收涨1.4%，报5,858.87点。",
+          "url": "https://wallstreetcn.com/livenews/3085644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "日本自卫队420人登上菲律宾",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F420%E4%BA%BA%E7%99%BB%E4%B8%8A%E8%8F%B2%E5%BE%8B%E5%AE%BE%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -289,7 +347,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         }
@@ -297,7 +355,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -312,6 +370,19 @@
           "time_info": "[01时42分 ~ 10时02分]"
         },
         {
+          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
+          "url": "https://www.cls.cn/detail/2339795",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时36分 ~ 15时34分]"
+        },
+        {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
@@ -324,19 +395,6 @@
           "time_info": "[01时42分 ~ 06时37分]"
         },
         {
-          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
-          "url": "https://www.cls.cn/detail/2339795",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时36分 ~ 13时20分]"
-        },
-        {
           "title": "房利美股价涨幅迅速扩大至19%，房地美也涨16%。",
           "url": "https://wallstreetcn.com/livenews/3085300",
           "source": "华尔街见闻-快讯",
@@ -346,6 +404,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时02分]"
+        },
+        {
+          "title": "停火也拦不住美股散户卖出",
+          "url": "https://wallstreetcn.com/articles/3769606",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 15时34分]"
         },
         {
           "title": "现货金银、WTI原油周五小幅高开，美股三大股指期货微跌。",
@@ -464,69 +533,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "以黎会谈计划提振停火预期，标普七连涨，半导体指数再新高，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3769555",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 13时20分]"
-        },
-        {
-          "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
-          "url": "https://wallstreetcn.com/articles/3769555",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 06时37分]"
-        },
-        {
-          "title": "沪指涨幅扩大至1%，时隔14个交易日重返4000点上方，深成指涨1.96%，创业板指涨2.75%，新能源电池、半导体芯片、证券等方向涨幅居前，沪深京三市上涨个股近4700只。",
-          "url": "https://wallstreetcn.com/livenews/3085479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.61%，深成指涨1.33%，电池、券商、半导体芯片等方向领涨，沪深京三市上涨个股近4300只。",
-          "url": "https://wallstreetcn.com/livenews/3085460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "A股开盘：上证指数涨0.49% 半导体走强",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0%E6%B6%A80.49%25+%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%B0%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊停火协议难止冲突，纳指涨0.06%，标普跌0.05%，油价强势反弹，金价4720美元震荡",
@@ -539,6 +547,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时42分 ~ 05时42分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）上海金午盘价为1045.68元/克，较国际金价(1042.32元/克)，高3.36元/克",
+          "url": "https://flash.jin10.com/detail/20260410150418852800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "现货黄金涨1%没能守住4800美元，现货白银涨约1.6%",
@@ -564,13 +583,24 @@
           "time_info": "[03时46分 ~ 04时02分]"
         },
         {
+          "title": "挂单报告：国际现货黄金下方多单占优 国际现货白银上方空单密集",
+          "url": "https://flash.jin10.com/detail/20260410150408108800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "金价从抢修复到验成色，今晚CPI会否再补一刀？",
           "url": "https://flash.jin10.com/detail/20260410122730427800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -584,6 +614,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "以黎会谈计划提振停火预期，标普七连涨，半导体指数再新高，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3769555",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 15时34分]"
+        },
+        {
+          "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
+          "url": "https://wallstreetcn.com/articles/3769555",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 06时37分]"
+        },
+        {
+          "title": "沪指涨幅扩大至1%，时隔14个交易日重返4000点上方，深成指涨1.96%，创业板指涨2.75%，新能源电池、半导体芯片、证券等方向涨幅居前，沪深京三市上涨个股近4700只。",
+          "url": "https://wallstreetcn.com/livenews/3085479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）富时中国A50指数成分股今日收盘行情一览：银行股全线下跌，保险、证券、半导体、通信设备等板块全线上涨",
+          "url": "https://flash.jin10.com/detail/20260410150402236800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.61%，深成指涨1.33%，电池、券商、半导体芯片等方向领涨，沪深京三市上涨个股近4300只。",
+          "url": "https://wallstreetcn.com/livenews/3085460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股开盘：上证指数涨0.49% 半导体走强",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0%E6%B6%A80.49%25+%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
@@ -683,7 +785,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         }
@@ -691,8 +793,19 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "中国机器人为何“扎堆”新加坡",
+          "url": "https://www.toutiao.com/trending/7626978037543977001/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 15时34分]"
+        },
         {
           "title": "起亚将在美国启用机器人，并首推软件汽车与混动皮卡",
           "url": "https://wallstreetcn.com/livenews/3085358",
@@ -720,7 +833,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "CoreWeave Inc.发行17.5亿美元高收益（垃圾级）债券和30亿美元2031年到期可转债。 此前，该公司宣布，与扎克伯格旗下Meta Platforms Inc.围绕AI计算达成扩大化长期合作协议，有效期持续至2032年，金额大约210亿美元。",
@@ -732,6 +845,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时02分]"
+        },
+        {
+          "title": "CoreWeave拿下Meta210亿美元大单，锁定至2032年算力供应",
+          "url": "https://wallstreetcn.com/articles/3769586",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 15时34分]"
         }
       ]
     },
@@ -746,7 +870,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         }
