@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T09:52:10.104457+08:00",
-  "total_titles_processed": 749,
+  "generated_at": "2026-04-11T12:18:06.216732+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "稳定币牌照公布，牛市旗手闻声大涨，券商股还有哪些利好？",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 12时18分]"
         },
         {
           "title": "外交部回应日本“降级”日中关系",
@@ -60,23 +60,12 @@
           "ranks": [
             1,
             11,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时52分]"
-        },
-        {
-          "title": "日籍男留华安居,笑谈日本烂透",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353000&amp;topic_name=%E6%97%A5%E7%B1%8D%E7%94%B7%E7%95%99%E5%8D%8E%E5%AE%89%E5%B1%85%2C%E7%AC%91%E8%B0%88%E6%97%A5%E6%9C%AC%E7%83%82%E9%80%8F",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 12时18分]"
         },
         {
           "title": "香港首批稳定币牌照出炉 初期应用场景和发展路向明晰 后续整体牌照数量预计有限",
@@ -89,8 +78,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时43分 ~ 09时52分]"
+          "appearance_count": 11,
+          "time_info": "[01时43分 ~ 12时18分]"
+        },
+        {
+          "title": "日籍男留华安居,笑谈日本烂透",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353000&amp;topic_name=%E6%97%A5%E7%B1%8D%E7%94%B7%E7%95%99%E5%8D%8E%E5%AE%89%E5%B1%85%2C%E7%AC%91%E8%B0%88%E6%97%A5%E6%9C%AC%E7%83%82%E9%80%8F",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时52分]"
         },
         {
           "title": "日本“新型军国主义”亮出吃人獠牙",
@@ -106,6 +107,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
+          "title": "日本漠视民众,控产死保粮价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353080&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%BC%A0%E8%A7%86%E6%B0%91%E4%BC%97%2C%E6%8E%A7%E4%BA%A7%E6%AD%BB%E4%BF%9D%E7%B2%AE%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
         },
         {
           "title": "日本将于5月追加释放石油储备",
@@ -132,9 +144,130 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 12时18分]"
+        },
+        {
+          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
+          "url": "https://flash.jin10.com/detail/20260411023746377800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 03时40分]"
+        },
+        {
+          "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
+          "url": "https://wallstreetcn.com/livenews/3086079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时33分]"
+        },
+        {
+          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
+          "url": "https://wallstreetcn.com/livenews/3086151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
+          "url": "https://flash.jin10.com/detail/20260411094848579800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
+          "url": "https://flash.jin10.com/detail/20260411094831132800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "OpenAI：自5月8日起，较旧版本的macOS桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
+          "url": "https://flash.jin10.com/detail/20260411094803513800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "OpenAI就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵",
+          "url": "https://flash.jin10.com/detail/20260411094510379800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
+          "url": "https://flash.jin10.com/detail/20260411024613347800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 7,
       "titles": [
+        {
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 12时18分]"
+        },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260411041025716800",
@@ -160,18 +293,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时31分 ~ 09时52分]"
-        },
-        {
-          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
-          "url": "https://www.cls.cn/detail/2341126",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 09时52分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -223,59 +344,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
-          "url": "https://flash.jin10.com/detail/20260411023746377800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 03时40分]"
-        },
-        {
-          "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
-          "url": "https://wallstreetcn.com/livenews/3086079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时33分]"
-        },
-        {
-          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3086136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 09时52分]"
-        },
-        {
-          "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
-          "url": "https://flash.jin10.com/detail/20260411024613347800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
       "match_count": 4,
       "titles": [
@@ -309,7 +377,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -327,6 +395,58 @@
       ]
     },
     {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "男子微信群多次侮辱某运动员被拘",
+          "url": "https://www.douyin.com/hot/2462172",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 12时18分]"
+        },
+        {
+          "title": "男子微信群多次侮辱全红婵被拘",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%A4%9A%E6%AC%A1%E4%BE%AE%E8%BE%B1%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A2%AB%E6%8B%98%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 12时17分]"
+        },
+        {
+          "title": "男子微信群多次侮辱全红婵被拘",
+          "url": "https://www.toutiao.com/trending/7626258069320155172/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
+        },
+        {
+          "title": "全抖音都在问广西三月三怎么玩",
+          "url": "https://www.douyin.com/hot/2461983",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 4,
       "titles": [
@@ -338,8 +458,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 12时18分]"
+        },
+        {
+          "title": "郑丽文访清华附中：想带机器人回台湾",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%E8%AE%BF%E6%B8%85%E5%8D%8E%E9%99%84%E4%B8%AD%EF%BC%9A%E6%83%B3%E5%B8%A6%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%8F%B0%E6%B9%BE",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 12时18分]"
         },
         {
           "title": "比特币上探7.3万美元，和以太币最近七天涨超9%",
@@ -364,63 +496,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 09时52分]"
-        },
-        {
-          "title": "郑丽文访清华附中：想带机器人回台湾",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%E8%AE%BF%E6%B8%85%E5%8D%8E%E9%99%84%E4%B8%AD%EF%BC%9A%E6%83%B3%E5%B8%A6%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%8F%B0%E6%B9%BE",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "男子微信群多次侮辱全红婵被拘",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%A4%9A%E6%AC%A1%E4%BE%AE%E8%BE%B1%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A2%AB%E6%8B%98%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时52分]"
-        },
-        {
-          "title": "男子微信群多次侮辱某运动员被拘",
-          "url": "https://www.douyin.com/hot/2462172",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时52分]"
-        },
-        {
-          "title": "男子微信群多次侮辱全红婵被拘",
-          "url": "https://www.toutiao.com/trending/7626258069320155172/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时32分]"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "以黎会谈计划提振停火预期，标普七连涨，半导体指数再新高，原油冲高回落",
@@ -441,8 +522,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 12时18分]"
+        },
+        {
+          "title": "脑机接口融资新世相：机构抢份额 明星项目估值“一周一变” 投半导体、具身智能的机构也来了！",
+          "url": "https://www.cls.cn/detail/2341164",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "time_info": "[12时17分 ~ 12时18分]"
         }
       ]
     },
@@ -455,11 +547,12 @@
           "url": "https://flash.jin10.com/detail/20260411093731360800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 12时18分]"
         },
         {
           "title": "特斯拉：“受监督的全自动驾驶”（FSD Supervised）已在荷兰获批，并将很快在该国开始推行。",
