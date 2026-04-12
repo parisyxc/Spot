@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T19:31:45.989440+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-04-12T20:52:18.201467+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "水军机器人走错片场露马脚",
@@ -18,8 +18,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 19时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 20时52分]"
         },
         {
           "title": "宇树机器人百米冲刺 10 米每秒，逼近博尔特记录，这个速度是什么水平？能应用到哪些现实场景？",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时08分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[15时08分 ~ 20时52分]"
         },
         {
           "title": "机器人短跑破纪录有什么用",
@@ -44,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 19时31分]"
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 20时52分]"
         },
         {
           "title": "人形机器人半马完成全流程测试",
@@ -56,8 +56,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 19时31分]"
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 20时52分]"
+        },
+        {
+          "title": "机器人闪电展现提速能力",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%97%AA%E7%94%B5%E5%B1%95%E7%8E%B0%E6%8F%90%E9%80%9F%E8%83%BD%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            18,
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 20时52分]"
         },
         {
           "title": "机器人坐车里休息 一只脚搭在车架上",
@@ -72,20 +86,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时19分 ~ 17时41分]"
-        },
-        {
-          "title": "机器人闪电展现提速能力",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%97%AA%E7%94%B5%E5%B1%95%E7%8E%B0%E6%8F%90%E9%80%9F%E8%83%BD%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            18,
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 19时31分]"
         },
         {
           "title": "宇树科技人形机器人跑出10米/秒",
@@ -105,11 +105,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 20时52分]"
         },
         {
           "title": "磁吸爬壁、多场景作业 我国特种机器人迈上具身智能新台阶",
@@ -176,6 +177,31 @@
           "time_info": "[10时04分 ~ 15时08分]"
         },
         {
+          "title": "美伊局势再陷“迷雾”？万斯宣布“无果返美”，比特币跌破72000关口！",
+          "url": "https://www.cls.cn/detail/2341419",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 20时52分]"
+        },
+        {
+          "title": "人形机器人跑步姿势像成龙",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E5%A7%BF%E5%8A%BF%E5%83%8F%E6%88%90%E9%BE%99",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 20时52分]"
+        },
+        {
           "title": "宇树机器人百米冲刺10米每秒",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E5%86%B2%E5%88%BA10%E7%B1%B3%E6%AF%8F%E7%A7%92%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -188,29 +214,6 @@
           "time_info": "[10时04分 ~ 13时19分]"
         },
         {
-          "title": "美伊局势再陷“迷雾”？万斯宣布“无果返美”，比特币跌破72000关口！",
-          "url": "https://www.cls.cn/detail/2341419",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时31分]"
-        },
-        {
-          "title": "人形机器人跑步姿势像成龙",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E5%A7%BF%E5%8A%BF%E5%83%8F%E6%88%90%E9%BE%99",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时31分]"
-        },
-        {
           "title": "2026机器人半马完成全流程测试",
           "url": "https://search.bilibili.com/all?keyword=2026%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%AE%8C%E6%88%90%E5%85%A8%E6%B5%81%E7%A8%8B%E6%B5%8B%E8%AF%95",
           "source": "bilibili 热搜",
@@ -221,6 +224,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时08分 ~ 19时31分]"
+        },
+        {
+          "title": "荣耀自研机器人“闪电”“元气仔”将出征北京亦庄马拉松",
+          "url": "https://wallstreetcn.com/livenews/3086407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "「机器人三定律」现实可行吗？",
@@ -270,7 +284,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "女子从日本背回244本淫秽漫画获刑",
@@ -300,8 +314,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 19时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 20时52分]"
         },
         {
           "title": "san值狂掉,日本活虫笔走红",
@@ -311,8 +325,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 19时31分]"
+          "appearance_count": 5,
+          "time_info": "[17时41分 ~ 20时52分]"
         },
         {
           "title": "日本3月机床订单额增长28% 海外订单增40%",
@@ -352,9 +366,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "朝鲜媒体发文多角度批驳日本",
+          "url": "https://wallstreetcn.com/livenews/3086418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "据日本共同社：日本五十铃汽车将推迟推出其与本田合作开发、原计划于2027年上市的燃料电池卡车。",
@@ -379,6 +404,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
+          "title": "香港金融管理局公布首批稳定币牌照名单，汇丰银行、渣打银行入选，从金融角度你怎么看？",
+          "url": "https://www.zhihu.com/question/2025984181235119816",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "日本一企业推出“活寄生虫”笔",
@@ -434,11 +470,12 @@
             29,
             20,
             13,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时08分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[15时08分 ~ 20时52分]"
         },
         {
           "title": "马斯克的“西方微信”要上线了",
@@ -484,8 +521,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 19时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 20时52分]"
         },
         {
           "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
@@ -495,8 +532,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 20时52分]"
         }
       ]
     },
@@ -516,8 +553,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 19时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 20时52分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -582,7 +619,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         }
