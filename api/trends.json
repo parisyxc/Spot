@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-04-12T10:04:41.591425+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-04-12T13:19:31.837104+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "水军机器人走错片场露马脚",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353086&amp;topic_name=%E6%B0%B4%E5%86%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E9%94%99%E7%89%87%E5%9C%BA%E9%9C%B2%E9%A9%AC%E8%84%9A",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 13时19分]"
         },
         {
-          "title": "宇树机器人跑出10米/秒逼近人类巅峰",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E5%87%BA10%E7%B1%B3%2F%E7%A7%92%E9%80%BC%E8%BF%91%E4%BA%BA%E7%B1%BB%E5%B7%85%E5%B3%B0",
-          "source": "百度热搜",
+          "title": "宇树科技人形机器人跑出10米/秒",
+          "url": "https://www.toutiao.com/trending/7627639296832327218/",
+          "source": "今日头条",
           "ranks": [
-            1
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时19分]"
         },
         {
           "title": "宇树H1人形机器人奔跑速度再破纪录",
@@ -44,15 +46,15 @@
           "time_info": "[02时37分 ~ 07时29分]"
         },
         {
-          "title": "宇树科技人形机器人跑出10米/秒",
-          "url": "https://www.toutiao.com/trending/7627639296832327218/",
-          "source": "今日头条",
+          "title": "机器人坐车里休息 一只脚搭在车架上",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9D%90%E8%BD%A6%E9%87%8C%E4%BC%91%E6%81%AF+%E4%B8%80%E5%8F%AA%E8%84%9A%E6%90%AD%E5%9C%A8%E8%BD%A6%E6%9E%B6%E4%B8%8A",
+          "source": "百度热搜",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时19分"
         },
         {
           "title": "机器人闪电展现提速能力",
@@ -61,20 +63,45 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "宇树机器人跑出10米/秒逼近人类巅峰",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E5%87%BA10%E7%B1%B3%2F%E7%A7%92%E9%80%BC%E8%BF%91%E4%BA%BA%E7%B1%BB%E5%B7%85%E5%B3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时19分]"
         },
         {
           "title": "宇树科技宣布人形机器人跑出10米/秒，逼近人类巅峰水平",
           "url": "https://wallstreetcn.com/livenews/3086307",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时19分]"
+        },
+        {
+          "title": "宇树机器人百米冲刺10米每秒",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E5%86%B2%E5%88%BA10%E7%B1%B3%E6%AF%8F%E7%A7%92%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时19分]"
         },
         {
           "title": "人形机器人半马备赛姿势五花八门",
@@ -83,26 +110,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
         {
-          "title": "宇树机器人百米冲刺10米每秒",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E5%86%B2%E5%88%BA10%E7%B1%B3%E6%AF%8F%E7%A7%92%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "宇树科技H1人形机器人奔跑速度打破人形机器人世界纪录",
+          "url": "https://flash.jin10.com/detail/20260412105716390800",
+          "source": "金十数据",
           "ranks": [
-            25
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时19分"
+        },
+        {
+          "title": "人形机器人半马完成全流程全要素测试",
+          "url": "https://www.toutiao.com/trending/7626527243027972137/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "女子从日本背回244本淫秽漫画获刑",
@@ -125,11 +163,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353080&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%BC%A0%E8%A7%86%E6%B0%91%E4%BC%97%2C%E6%8E%A7%E4%BA%A7%E6%AD%BB%E4%BF%9D%E7%B2%AE%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 13时19分]"
         },
         {
           "title": "日本一企业推出“活寄生虫”笔",
@@ -146,6 +185,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时37分 ~ 07时29分]"
+        },
+        {
+          "title": "日本3月机床订单额增长28% 海外订单增40%",
+          "url": "https://wallstreetcn.com/livenews/3086334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "日本一企业推出“活寄生虫”笔",
@@ -171,11 +221,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 13时19分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -189,8 +240,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 13时19分]"
         }
       ]
     },
@@ -204,11 +255,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 13时19分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -237,11 +289,12 @@
           "ranks": [
             1,
             2,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 13时19分]"
         },
         {
           "title": "水豚噜噜抖音小火人联动",
@@ -255,8 +308,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 13时19分]"
         }
       ]
     },
@@ -275,6 +328,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度新政开启白银再货币化，全球金银定价加速东移",
+          "url": "https://wallstreetcn.com/premium/articles/3769749?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     }
