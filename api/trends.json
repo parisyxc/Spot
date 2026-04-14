@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-04-15T05:45:49.677209+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-04-15T06:41:07.469052+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "5天暴涨45% 张小泉被炒成“科技股”",
+          "url": "https://www.baidu.com/s?wd=5%E5%A4%A9%E6%9A%B4%E6%B6%A845%25+%E5%BC%A0%E5%B0%8F%E6%B3%89%E8%A2%AB%E7%82%92%E6%88%90%E2%80%9C%E7%A7%91%E6%8A%80%E8%82%A1%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时41分]"
+        },
+        {
+          "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 06时41分]"
+        },
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
           "url": "https://wallstreetcn.com/articles/3769897",
@@ -17,29 +41,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 04时03分]"
-        },
-        {
-          "title": "5天暴涨45% 张小泉被炒成“科技股”",
-          "url": "https://www.baidu.com/s?wd=5%E5%A4%A9%E6%9A%B4%E6%B6%A845%25+%E5%BC%A0%E5%B0%8F%E6%B3%89%E8%A2%AB%E7%82%92%E6%88%90%E2%80%9C%E7%A7%91%E6%8A%80%E8%82%A1%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时45分]"
-        },
-        {
-          "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
         },
         {
           "title": "10年期美债收益率跌超4个基点，美股开盘以来持续走低",
@@ -53,15 +54,27 @@
           "time_info": "04时03分"
         },
         {
+          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 06时41分]"
+        },
+        {
           "title": "华尔街“免疫”美伊战局 市场重心重回财报及基本面",
           "url": "https://flash.jin10.com/detail/20260415044524138800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时41分]"
         },
         {
           "title": "金十图示：2026年04月14日（周二）美股热门股票行情一览（美股盘中）",
@@ -92,7 +105,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -103,7 +116,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         }
@@ -114,28 +127,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
-          "url": "https://wallstreetcn.com/livenews/3087988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
-          "url": "https://flash.jin10.com/detail/20260415045655489800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
           "title": "微软将接管挪威Stargate Data Center（星际之门数据中心），该项目原本是为OpenAI准备的。",
           "url": "https://wallstreetcn.com/livenews/3087885",
           "source": "华尔街见闻-快讯",
@@ -145,6 +136,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
+          "url": "https://wallstreetcn.com/livenews/3087988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时41分]"
+        },
+        {
+          "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
+          "url": "https://flash.jin10.com/detail/20260415045655489800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时41分]"
         },
         {
           "title": "微软接手OpenAI挪威数据中心租约",
@@ -164,7 +179,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -186,29 +201,44 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32958985",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时45分]"
-        },
-        {
           "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
           "url": "https://www.cls.cn/detail/2344095",
           "source": "财联社热门",
           "ranks": [
             9,
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时45分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时41分]"
+        },
+        {
+          "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958985",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时41分]"
+        },
+        {
+          "title": "机器人跑马拉松也穿跑鞋了",
+          "url": "https://www.douyin.com/hot/2466169",
+          "source": "抖音",
+          "ranks": [
+            16,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时41分]"
         },
         {
           "title": "比特币一度涨穿7.6万美元，以太币目前涨超3.7%",
@@ -221,18 +251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时11分]"
-        },
-        {
-          "title": "机器人跑马拉松也穿跑鞋了",
-          "url": "https://www.douyin.com/hot/2466169",
-          "source": "抖音",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时45分]"
         },
         {
           "title": "据美国《财富》杂志：Anthropic因其 Claude AI聊天机器人出现性能下降而面临用户强烈不满。据多位开发者和重度用户反映，Claude人工智能模型近期性能明显下滑，表现为越来越难以遵循指令、在某些情况下选择不恰当的捷径，并在复杂工作流程中出现更多错误。",
@@ -252,9 +270,73 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "日本饿熊袭人,开启猎杀新赛季",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353194&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%A5%BF%E7%86%8A%E8%A2%AD%E4%BA%BA%2C%E5%BC%80%E5%90%AF%E7%8C%8E%E6%9D%80%E6%96%B0%E8%B5%9B%E5%AD%A3",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时41分]"
+        },
+        {
+          "title": "日本警方再次逮捕强闯中国使馆自卫官",
+          "url": "https://www.toutiao.com/trending/7628432827289239588/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            22,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 06时41分]"
+        },
+        {
+          "title": "日本将赋予那些基于石油的产品“特别重要性”。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3088002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：不理解稳定币的商业案例。",
+          "url": "https://wallstreetcn.com/livenews/3087994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "IMF：日本央行等主要央行暂无迫切必要加息",
+          "url": "https://wallstreetcn.com/livenews/3087867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     },
@@ -267,11 +349,12 @@
           "url": "https://wallstreetcn.com/livenews/3087983",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时41分]"
         },
         {
           "title": "谷歌：在Chrome中推出“技能”（Skills）功能，用于保存AI提示词。",
@@ -291,7 +374,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         }
@@ -306,22 +389,24 @@
           "url": "https://wallstreetcn.com/livenews/3087980",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时41分]"
         },
         {
           "title": "金价涨超2%，收复4800美元之后持续扩大涨幅",
           "url": "https://wallstreetcn.com/livenews/3087977",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时41分]"
         },
         {
           "title": "现货白银日内涨幅达5.0%，报79.32美元/盎司。",
@@ -348,11 +433,12 @@
             22,
             24,
             15,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时45分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时41分]"
         },
         {
           "title": "微信余额不满三百不给面试，劳务中介：担心员工做几天就离职",
@@ -362,8 +448,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时45分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时41分]"
         },
         {
           "title": "微信新功能：不加好友面对面传图",
@@ -372,52 +458,12 @@
           "ranks": [
             23,
             21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 05时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "日本饿熊袭人,开启猎杀新赛季",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353194&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%A5%BF%E7%86%8A%E8%A2%AD%E4%BA%BA%2C%E5%BC%80%E5%90%AF%E7%8C%8E%E6%9D%80%E6%96%B0%E8%B5%9B%E5%AD%A3",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时45分]"
-        },
-        {
-          "title": "日本警方再次逮捕强闯中国使馆自卫官",
-          "url": "https://www.toutiao.com/trending/7628432827289239588/",
-          "source": "今日头条",
-          "ranks": [
-            20,
             22,
-            7
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 05时45分]"
-        },
-        {
-          "title": "IMF：日本央行等主要央行暂无迫切必要加息",
-          "url": "https://wallstreetcn.com/livenews/3087867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 06时41分]"
         }
       ]
     }
