@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T06:41:07.469052+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-04-15T07:39:17.074881+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时39分]"
         },
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -43,6 +43,18 @@
           "time_info": "[01时01分 ~ 04时03分]"
         },
         {
+          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时40分 ~ 07时39分]"
+        },
+        {
           "title": "10年期美债收益率跌超4个基点，美股开盘以来持续走低",
           "url": "https://wallstreetcn.com/livenews/3087937",
           "source": "华尔街见闻-快讯",
@@ -52,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
-        },
-        {
-          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 06时41分]"
         },
         {
           "title": "华尔街“免疫”美伊战局 市场重心重回财报及基本面",
@@ -119,6 +120,93 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "日本饿熊袭人,开启猎杀新赛季",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353194&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%A5%BF%E7%86%8A%E8%A2%AD%E4%BA%BA%2C%E5%BC%80%E5%90%AF%E7%8C%8E%E6%9D%80%E6%96%B0%E8%B5%9B%E5%AD%A3",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时39分]"
+        },
+        {
+          "title": "日本警方再次逮捕强闯中国使馆自卫官",
+          "url": "https://www.toutiao.com/trending/7628432827289239588/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            22,
+            7,
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时11分 ~ 07时39分]"
+        },
+        {
+          "title": "日本4月路透短观制造业景气判断指数 7，前值18。",
+          "url": "https://flash.jin10.com/detail/20260415070002253800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "日本将赋予那些基于石油的产品“特别重要性”。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3088002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "日本4月路透短观非制造业景气判断指数 31，前值25。",
+          "url": "https://flash.jin10.com/detail/20260415070002187800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：不理解稳定币的商业案例。",
+          "url": "https://wallstreetcn.com/livenews/3087994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "IMF：日本央行等主要央行暂无迫切必要加息",
+          "url": "https://wallstreetcn.com/livenews/3087867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     },
@@ -208,11 +296,12 @@
             9,
             8,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时39分]"
         },
         {
           "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
@@ -224,8 +313,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时39分]"
         },
         {
           "title": "机器人跑马拉松也穿跑鞋了",
@@ -234,11 +323,12 @@
           "ranks": [
             16,
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时39分]"
         },
         {
           "title": "比特币一度涨穿7.6万美元，以太币目前涨超3.7%",
@@ -273,70 +363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "日本饿熊袭人,开启猎杀新赛季",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353194&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%A5%BF%E7%86%8A%E8%A2%AD%E4%BA%BA%2C%E5%BC%80%E5%90%AF%E7%8C%8E%E6%9D%80%E6%96%B0%E8%B5%9B%E5%AD%A3",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时41分]"
-        },
-        {
-          "title": "日本警方再次逮捕强闯中国使馆自卫官",
-          "url": "https://www.toutiao.com/trending/7628432827289239588/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            22,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时11分 ~ 06时41分]"
-        },
-        {
-          "title": "日本将赋予那些基于石油的产品“特别重要性”。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3088002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：不理解稳定币的商业案例。",
-          "url": "https://wallstreetcn.com/livenews/3087994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "IMF：日本央行等主要央行暂无迫切必要加息",
-          "url": "https://wallstreetcn.com/livenews/3087867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
         }
       ]
     },
@@ -426,6 +452,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "微信余额不满三百不给面试，劳务中介：担心员工做几天就离职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32966461",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时39分]"
+        },
+        {
           "title": "微信余额没三五百元不给面试引争议",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E4%BD%99%E9%A2%9D%E6%B2%A1%E4%B8%89%E4%BA%94%E7%99%BE%E5%85%83%E4%B8%8D%E7%BB%99%E9%9D%A2%E8%AF%95%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -441,17 +479,6 @@
           "time_info": "[01时01分 ~ 06时41分]"
         },
         {
-          "title": "微信余额不满三百不给面试，劳务中介：担心员工做几天就离职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32966461",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时41分]"
-        },
-        {
           "title": "微信新功能：不加好友面对面传图",
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%EF%BC%9A%E4%B8%8D%E5%8A%A0%E5%A5%BD%E5%8F%8B%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%A0%E5%9B%BE",
           "source": "百度热搜",
@@ -459,11 +486,12 @@
             23,
             21,
             22,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时11分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[02时11分 ~ 07时39分]"
         }
       ]
     }
