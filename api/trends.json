@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T07:39:17.074881+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-04-15T10:01:50.294617+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "5天暴涨45% 张小泉被炒成“科技股”",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 04时03分]"
+        },
+        {
+          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
@@ -100,6 +111,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "美股收盘：中概股集体大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
           "url": "https://wallstreetcn.com/livenews/3087965",
           "source": "华尔街见闻-快讯",
@@ -109,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "港股开盘，恒指开涨1.14%，科指开涨2.26%。百度(09888.HK)涨近5%，阿里巴巴(09988.HK)涨4%。科技股领涨，影视股、锂电池板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260415092052639800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "美股存储芯片指数收涨超2.4%，继续创收盘历史新高",
@@ -125,18 +158,19 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "日本饿熊袭人,开启猎杀新赛季",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353194&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%A5%BF%E7%86%8A%E8%A2%AD%E4%BA%BA%2C%E5%BC%80%E5%90%AF%E7%8C%8E%E6%9D%80%E6%96%B0%E8%B5%9B%E5%AD%A3",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 10时01分]"
         },
         {
           "title": "日本警方再次逮捕强闯中国使馆自卫官",
@@ -147,11 +181,12 @@
             22,
             7,
             4,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时11分 ~ 07时39分]"
+          "appearance_count": 7,
+          "time_info": "[02时11分 ~ 10时01分]"
         },
         {
           "title": "日本4月路透短观制造业景气判断指数 7，前值18。",
@@ -160,7 +195,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -182,7 +217,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -196,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "日本“新军国主义”正构成现实威胁",
+          "url": "https://www.toutiao.com/trending/7628474832447963146/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "IMF：日本央行等主要央行暂无迫切必要加息",
@@ -285,6 +331,80 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "LME铜价涨0.5%，抹去伊朗战争爆发以来的所有跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3088094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "周二（4月14日）纽约尾盘，现货白银涨5.30%，报79.6131美元/盎司，全天持续上涨。 COMEX白银期货涨5.42%，报79.765美元/盎司。 COMEX铜期货涨1.60%，报6.146美元/磅。 现货铂金涨1.52%，现货钯金涨0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3087980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时41分]"
+        },
+        {
+          "title": "金价涨超2%，收复4800美元之后持续扩大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3087977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时41分]"
+        },
+        {
+          "title": "现货白银日内涨幅达5.0%，报79.32美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3087874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "现货白银突破80美元/盎司，为3月18日以来首次，日内涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3088067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "现货白银日内涨超1.00%，现报80.36美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260415091732588800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 6,
       "titles": [
@@ -300,8 +420,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 10时01分]"
         },
         {
           "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
@@ -324,11 +444,12 @@
             16,
             19,
             17,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 10时01分]"
         },
         {
           "title": "比特币一度涨穿7.6万美元，以太币目前涨超3.7%",
@@ -407,47 +528,6 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周二（4月14日）纽约尾盘，现货白银涨5.30%，报79.6131美元/盎司，全天持续上涨。 COMEX白银期货涨5.42%，报79.765美元/盎司。 COMEX铜期货涨1.60%，报6.146美元/磅。 现货铂金涨1.52%，现货钯金涨0.74%。",
-          "url": "https://wallstreetcn.com/livenews/3087980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 06时41分]"
-        },
-        {
-          "title": "金价涨超2%，收复4800美元之后持续扩大涨幅",
-          "url": "https://wallstreetcn.com/livenews/3087977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 06时41分]"
-        },
-        {
-          "title": "现货白银日内涨幅达5.0%，报79.32美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3087874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 3,
       "titles": [
@@ -457,11 +537,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 10时01分]"
         },
         {
           "title": "微信余额没三五百元不给面试引争议",
