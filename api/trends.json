@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T13:26:59.447590+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-04-16T15:25:20.144904+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "中国钨出口管制对日本影响几何",
@@ -51,11 +51,12 @@
           "url": "https://www.toutiao.com/trending/7629135516709178926/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 15时25分]"
         },
         {
           "title": "中国U20女足0-2日本无缘决赛",
@@ -82,6 +83,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 06时39分]"
+        },
+        {
+          "title": "日本物价狂飙,买菜得贷款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353297&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E7%8B%82%E9%A3%99%2C%E4%B9%B0%E8%8F%9C%E5%BE%97%E8%B4%B7%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 15时25分]"
         },
         {
           "title": "IMF：日本央行可忽略中东冲突带来的通胀冲击",
@@ -161,24 +173,13 @@
           "time_info": "07时38分"
         },
         {
-          "title": "日本物价狂飙,买菜得贷款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353297&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E7%8B%82%E9%A3%99%2C%E4%B9%B0%E8%8F%9C%E5%BE%97%E8%B4%B7%E6%AC%BE",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
           "title": "日本财务大臣与美国财长会晤后放话：已准备好“大胆行动”稳日元",
           "url": "https://flash.jin10.com/detail/20260416131648173800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -192,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "日本央行宣布将于5月21日至22日召开债券市场参与者会议。",
+          "url": "https://flash.jin10.com/detail/20260416150950405800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "日本财务大臣片山皋月：石油市场趋势正在影响外汇市场。",
@@ -213,8 +225,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 15时25分]"
         },
         {
           "title": "日本、英国2月增持美债",
@@ -306,6 +318,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "日经225指数收涨2.4%，报59,518.34点，创历史新高，抹去伊朗战争带来的跌幅。 日本东证指数收涨1.2%，报3,814.46点。 韩国首尔综指收涨2.2%，报6,226.05点。",
+          "url": "https://wallstreetcn.com/livenews/3089066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "日本财务大臣片山皋月：与美国财政部长贝森特进行了关于货币的讨论。",
           "url": "https://flash.jin10.com/detail/20260416002310178800",
           "source": "金十数据",
@@ -315,6 +338,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "台积电：鉴于中东局势，正谨慎进行业务规划。 人工智能需求依然“极为强劲”。 客户向我们传递了非常强烈的需求信号。 公司产能依然紧张。 关注组件价格上涨带来的影响。 N2工艺已进入大规模量产。 为满足强劲的AI需求，正在加大资本支出以提升N3产能。 正在提升日本和德国的成熟制程产能。 计划逐步关闭6英寸晶圆厂。 将继续优化我们的产能策略。",
+          "url": "https://wallstreetcn.com/livenews/3089060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "日本高级官员：私人信贷可以作为杠杆收购贷款的资金来源。",
+          "url": "https://flash.jin10.com/detail/20260416150107710800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
@@ -367,8 +412,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 15时25分]"
+        },
+        {
+          "title": "宁德时代Q1营收同比增长52%创新高，净利润增长48%，拟10派69.57元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770044",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 15时25分]"
         },
         {
           "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨",
@@ -381,18 +438,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时38分]"
-        },
-        {
-          "title": "宁德时代Q1营收同比增长52%创新高，净利润增长48%，拟10派69.57元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770044",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时26分]"
         },
         {
           "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
@@ -446,6 +491,18 @@
           "time_info": "[05时01分 ~ 06时39分]"
         },
         {
+          "title": "如何看待美股新高",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E6%96%B0%E9%AB%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 15时25分]"
+        },
+        {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260416040543220800",
           "source": "金十数据",
@@ -456,17 +513,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时57分]"
-        },
-        {
-          "title": "如何看待美股新高",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E6%96%B0%E9%AB%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
         },
         {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股盘中）",
@@ -565,8 +611,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 15时25分]"
         },
         {
           "title": "机器人切除肿瘤两年后患者去世",
@@ -667,38 +713,20 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
-          "url": "https://wallstreetcn.com/articles/3770049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时26分]"
-        },
-        {
-          "title": "特斯拉股价上涨7.9%，有望创下九个多月以来的最大单日涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3088654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金价这一宽幅整理区间，究竟说明了什么？",
+          "url": "https://flash.jin10.com/detail/20260416151238132800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少35.19吨，当前持仓量为15254.64吨。欢迎点击查看数据中心…",
           "url": "https://flash.jin10.com/detail/20260416061700376800",
@@ -718,9 +746,61 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）上海金午盘价为1058.62元/克，较国际金价(1057.54元/克)，高1.08元/克",
+          "url": "https://flash.jin10.com/detail/20260416150149486800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
+          "url": "https://wallstreetcn.com/articles/3770049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 15时25分]"
+        },
+        {
+          "title": "台积电：英特尔和特斯拉既是我们的客户，也是竞争对手，英特尔是非常强大的竞争对手。 我们理解竞争对手提供的技术非常有吸引力。 我们对自身技术地位非常有信心。 正在建设COPOS试验生产线。",
+          "url": "https://wallstreetcn.com/livenews/3089068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "特斯拉股价上涨7.9%，有望创下九个多月以来的最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3088654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
         }
       ]
     },
@@ -749,7 +829,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         }
