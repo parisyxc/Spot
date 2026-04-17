@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T13:24:02.170912+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-04-17T15:26:08.307866+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "单季利润超2024年全年！中际旭创Q1净利57亿元，同比大增262% | 财报见闻",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时09分 ~ 13时24分]"
+          "appearance_count": 13,
+          "time_info": "[01时09分 ~ 15时26分]"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -60,6 +60,30 @@
           "time_info": "[01时09分 ~ 10时04分]"
         },
         {
+          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
+          "url": "https://www.cls.cn/detail/2346842",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时35分 ~ 15时26分]"
+        },
+        {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 15时26分]"
+        },
+        {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
@@ -70,30 +94,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时09分 ~ 05时39分]"
-        },
-        {
-          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
-          "url": "https://www.cls.cn/detail/2346842",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时35分 ~ 13时24分]"
-        },
-        {
-          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
-          "url": "https://wallstreetcn.com/articles/3770109",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时24分]"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，原油两连涨，美债下挫，美元终结连跌趋势",
@@ -119,6 +119,18 @@
           "time_info": "[07时36分 ~ 13时24分]"
         },
         {
+          "title": "【午报】三大指数涨跌不一，算力硬件持续爆发，源杰科技股价跃居A股首位",
+          "url": "https://www.cls.cn/detail/2347163",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时26分]"
+        },
+        {
           "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
           "url": "https://wallstreetcn.com/articles/3770147",
           "source": "华尔街见闻",
@@ -126,19 +138,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
-        },
-        {
-          "title": "【午报】三大指数涨跌不一，算力硬件持续爆发，源杰科技股价跃居A股首位",
-          "url": "https://www.cls.cn/detail/2347163",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时26分]"
         },
         {
           "title": "港股低开低走，恒生科技指数跌1%，恒指跌0.74%，科技股回调，商汤(00020.HK)、美团(03690.HK)跌超3%。",
@@ -249,6 +250,17 @@
           "time_info": "[04时43分 ~ 05时39分]"
         },
         {
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 金龙指数涨1.7%",
           "url": "https://flash.jin10.com/detail/20260417040204226800",
           "source": "金十数据",
@@ -297,7 +309,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国驻日本大使馆接连遭受到恐怖威胁，包括有人称在使馆内安装远距离遥控炸弹等，哪些信息值得关注？",
@@ -319,11 +331,12 @@
             15,
             14,
             10,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时09分 ~ 13时24分]"
+          "appearance_count": 13,
+          "time_info": "[01时09分 ~ 15时26分]"
         },
         {
           "title": "日本物价狂飙,买菜得贷款",
@@ -332,11 +345,12 @@
           "ranks": [
             16,
             18,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时09分 ~ 13时24分]"
+          "appearance_count": 13,
+          "time_info": "[01时09分 ~ 15时26分]"
         },
         {
           "title": "环球时报社评：文物返还，法国的做法值得日本学习",
@@ -351,6 +365,29 @@
           "time_info": "[01时09分 ~ 07时36分]"
         },
         {
+          "title": "日本民众集会抗议解禁杀伤性武器出口 不希望日本成为“死亡商人”",
+          "url": "https://wallstreetcn.com/livenews/3089863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "日本药耗紧缺,医院彻底顶不住",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353357&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%8D%AF%E8%80%97%E7%B4%A7%E7%BC%BA%2C%E5%8C%BB%E9%99%A2%E5%BD%BB%E5%BA%95%E9%A1%B6%E4%B8%8D%E4%BD%8F",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时26分]"
+        },
+        {
           "title": "日本财务大臣片山皋月：日本国际协力银行（JBIC）将设立一个规模高达6000亿日元的新投资窗口，以帮助亚洲国家确保能源供应。",
           "url": "https://flash.jin10.com/detail/20260417071814745800",
           "source": "金十数据",
@@ -360,17 +397,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
-        },
-        {
-          "title": "日本药耗紧缺,医院彻底顶不住",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353357&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%8D%AF%E8%80%97%E7%B4%A7%E7%BC%BA%2C%E5%8C%BB%E9%99%A2%E5%BD%BB%E5%BA%95%E9%A1%B6%E4%B8%8D%E4%BD%8F",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "强闯我使馆的日本人所持刀具曝光",
@@ -410,6 +436,17 @@
           "time_info": "[05时39分 ~ 06时36分]"
         },
         {
+          "title": "张本智和主动将日本乒乓球「一哥」位置让给 18 岁松岛，将如何影响未来格局？",
+          "url": "https://www.zhihu.com/question/2028063440061646773",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
           "title": "日本计划在2030年起的十年占据全球自动驾驶汽车市场25%的份额。",
           "url": "https://flash.jin10.com/detail/20260417094318507800",
           "source": "金十数据",
@@ -421,6 +458,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "澳大利亚将签署数十亿美元的日本护卫舰采购协议",
+          "url": "https://flash.jin10.com/detail/20260417143943303800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "日本东证指数日内跌幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3089668",
           "source": "华尔街见闻-快讯",
@@ -430,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "日经225指数收跌1.8%，报58,475.90点。 日本东证指数收跌1.4%，报3,760.81点。",
+          "url": "https://wallstreetcn.com/livenews/3089832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "媒体：日本拒不返还文物是反面典型",
@@ -468,7 +527,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "印度突然叫停黄金白银进口！5吨黄金+8吨白银卡在海关",
@@ -477,9 +536,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金上探4800后回落 国际现货白银下方多单较远",
+          "url": "https://flash.jin10.com/detail/20260417145926398800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "现货白银日内涨超1%，现报79.20美元/盎司。",
@@ -488,7 +558,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -499,9 +569,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "原油溢价有序回落，金价高位步入震荡休整｜市场赔率数据表",
+          "url": "https://flash.jin10.com/detail/20260417145338865800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "周四（4月16日）纽约尾盘，现货白银跌0.69%，报78.4150美元/盎司，北京时间13:30刷新日高至80.8585美元，22:00之前短线显著跳水。 COMEX白银期货跌1.49%，报78.455美元/盎司。 COMEX铜期货跌0.73%，报6.100美元/磅。 现货铂金跌1.07%，现货钯金跌0.88%。",
@@ -533,7 +614,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -555,7 +636,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -566,7 +647,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -577,7 +658,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -588,7 +669,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
@@ -599,6 +680,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "Meta上调VR头显价格 原油反弹铝价升至多年新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2346898",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 15时26分]"
+        },
+        {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
           "url": "https://flash.jin10.com/detail/20260417005843333800",
           "source": "金十数据",
@@ -608,18 +702,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
-        },
-        {
-          "title": "Meta上调VR头显价格 原油反弹铝价升至多年新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2346898",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时24分]"
         },
         {
           "title": "美国证交会文件显示：Meta公司首席执行官扎克伯格2025年总薪酬为2510万美元。",
@@ -659,6 +741,68 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "机器人马拉松排位赛大赏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8E%92%E4%BD%8D%E8%B5%9B%E5%A4%A7%E8%B5%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时26分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.99%，暂报2636.68点，整体持续走高，北京时间21:27以来出现一波尖锐的V形走势。 MarketVectorTM数字资产100中盘指数涨4.54%，报2910.95点。 MarketVector数字资产100指数涨0.44%，报14848.38点。 目前，Solana涨0.60%，狗狗币涨0.90%，XRP涨1.65%。 比特币跌0.98%，暂报74240美元；以太坊跌2.34%，暂报2318.11美元。",
+          "url": "https://wallstreetcn.com/livenews/3089502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "起猛了 看到机器人交警在指挥交通",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E7%9C%8B%E5%88%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%A4%E8%AD%A6%E5%9C%A8%E6%8C%87%E6%8C%A5%E4%BA%A4%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 13时24分]"
+        },
+        {
+          "title": "2026人形机器人半马周末开跑 赛事规则发布",
+          "url": "https://wallstreetcn.com/livenews/3089853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "哈工大赵杰：双臂类人技能作业能力是决定人形机器人落地的核心技术",
+          "url": "https://wallstreetcn.com/livenews/3089764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -671,8 +815,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 15时26分]"
         },
         {
           "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
@@ -710,87 +854,8 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "机器人马拉松排位赛大赏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8E%92%E4%BD%8D%E8%B5%9B%E5%A4%A7%E8%B5%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.99%，暂报2636.68点，整体持续走高，北京时间21:27以来出现一波尖锐的V形走势。 MarketVectorTM数字资产100中盘指数涨4.54%，报2910.95点。 MarketVector数字资产100指数涨0.44%，报14848.38点。 目前，Solana涨0.60%，狗狗币涨0.90%，XRP涨1.65%。 比特币跌0.98%，暂报74240美元；以太坊跌2.34%，暂报2318.11美元。",
-          "url": "https://wallstreetcn.com/livenews/3089502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "起猛了 看到机器人交警在指挥交通",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E7%9C%8B%E5%88%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%A4%E8%AD%A6%E5%9C%A8%E6%8C%87%E6%8C%A5%E4%BA%A4%E9%80%9A",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时24分]"
-        },
-        {
-          "title": "哈工大赵杰：双臂类人技能作业能力是决定人形机器人落地的核心技术",
-          "url": "https://wallstreetcn.com/livenews/3089764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年04月16日（周四）富时中国A50指数成分股午盘收盘行情一览：白酒、金属、电池等多板块走弱，通讯设备、半导体板块明显上涨",
-          "url": "https://flash.jin10.com/detail/20260417125643981800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "英特尔(INTC.O)：已聘请三星半导体制造业资深人士Shawn Han协助代工业务发展。",
-          "url": "https://flash.jin10.com/detail/20260417023154546800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "蜜语纪抖音追剧团",
@@ -818,6 +883,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时43分 ~ 05时39分]"
+        },
+        {
+          "title": "丁程鑫跳完直接就发抖音",
+          "url": "https://www.douyin.com/hot/2469287",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年04月16日（周四）富时中国A50指数成分股午盘收盘行情一览：白酒、金属、电池等多板块走弱，通讯设备、半导体板块明显上涨",
+          "url": "https://flash.jin10.com/detail/20260417125643981800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "英特尔(INTC.O)：已聘请三星半导体制造业资深人士Shawn Han协助代工业务发展。",
+          "url": "https://flash.jin10.com/detail/20260417023154546800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         }
       ]
     }
