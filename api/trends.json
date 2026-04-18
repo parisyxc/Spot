@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T14:11:27.270708+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-04-18T15:58:00.053621+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 15时57分]"
         },
         {
           "title": "4 月 17 日 A 股「股王」易位，源杰科技股价超越贵州茅台，109 只股票创历史新高，如何看待当下行情？",
@@ -64,11 +64,12 @@
             10,
             5,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 14时11分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 15时57分]"
         },
         {
           "title": "CTA史诗级回补美股：单周860亿美元扫货，未来一周再加700亿",
@@ -267,8 +268,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 14时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 15时57分]"
         },
         {
           "title": "韩媒警告：日本已着手战备举措",
@@ -321,8 +322,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 14时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 15时57分]"
         },
         {
           "title": "日本叫嚣击沉中国航母",
@@ -391,8 +392,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 14时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 15时57分]"
         },
         {
           "title": "日本萝莉毕业,V圈地震",
@@ -400,11 +401,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 14时11分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 15时57分]"
         },
         {
           "title": "法国给日本上了一课",
@@ -413,11 +415,12 @@
           "ranks": [
             5,
             16,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 14时11分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 15时57分]"
         },
         {
           "title": "日本财务省大臣：投机行为是外汇市场波动的主要原因。",
@@ -450,11 +453,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 14时11分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 15时57分]"
         },
         {
           "title": "新华社：日本暴露复活军国主义野心",
@@ -480,6 +484,18 @@
           "time_info": "[12时29分 ~ 12时30分]"
         },
         {
+          "title": "日本走上危险道路 或重蹈二战覆辙",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%B5%B0%E4%B8%8A%E5%8D%B1%E9%99%A9%E9%81%93%E8%B7%AF+%E6%88%96%E9%87%8D%E8%B9%88%E4%BA%8C%E6%88%98%E8%A6%86%E8%BE%99",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时57分]"
+        },
+        {
           "title": "日本财务大臣片山皋月：（谈及日元反弹）近期的波动在很大程度上是由投机交易驱动的。",
           "url": "https://flash.jin10.com/detail/20260418032524835800",
           "source": "金十数据",
@@ -497,18 +513,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
-          "title": "日本走上危险道路 或重蹈二战覆辙",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%B5%B0%E4%B8%8A%E5%8D%B1%E9%99%A9%E9%81%93%E8%B7%AF+%E6%88%96%E9%87%8D%E8%B9%88%E4%BA%8C%E6%88%98%E8%A6%86%E8%BE%99",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         }
@@ -516,7 +521,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "机器人马拉松排位赛大赏",
@@ -530,8 +535,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 14时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 15时57分]"
         },
         {
           "title": "机器人马拉松拼的是什么",
@@ -541,19 +546,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 14时11分]"
-        },
-        {
-          "title": "机器人马拉松跑姿大赏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B7%91%E5%A7%BF%E5%A4%A7%E8%B5%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 15时57分]"
         },
         {
           "title": "三月三机器人来广西也要跳竹竿舞",
@@ -563,30 +557,57 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 15时57分]"
+        },
+        {
+          "title": "机器人马拉松跑姿大赏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B7%91%E5%A7%BF%E5%A4%A7%E8%B5%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时29分 ~ 14时11分]"
+          "time_info": "[12时29分 ~ 15时57分]"
+        },
+        {
+          "title": "人形机器人半马明日开跑，这份比赛看点和队伍解析请收好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32993801",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 15时57分]"
         },
         {
           "title": "智元携手Hitch Open发起全球首个AI自主决策机器人乒乓球赛",
           "url": "https://wallstreetcn.com/livenews/3090407",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时57分]"
         },
         {
           "title": "黑龙江：到2028年底力争全省智能机器人产业规模突破百亿元",
           "url": "https://wallstreetcn.com/livenews/3090406",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时57分]"
         },
         {
           "title": "美国AI聊天机器人续开精神类处方药引质疑",
@@ -599,18 +620,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时54分]"
-        },
-        {
-          "title": "人形机器人半马明日开跑，这份比赛看点和队伍解析请收好",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32993801",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 14时11分]"
         },
         {
           "title": "人形机器人半马最新“剧透”来了",
@@ -653,9 +662,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
+        },
+        {
+          "title": "人形机器人先烧钱再谈“打工”",
+          "url": "https://www.toutiao.com/trending/7629753652017758251/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         }
       ]
     },
@@ -681,11 +701,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 14时11分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 15时57分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加42.24吨，当前持仓量为15310.95吨。欢迎点击查看数据中心...",
@@ -752,9 +773,70 @@
           "ranks": [
             16
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "劳务中介称「微信余额不足 300 不给面试」，这种招聘门槛是否合理？",
+          "url": "https://www.zhihu.com/question/2027401585177674207",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 12时30分]"
+        },
+        {
+          "title": "拼多多美团京东淘天抖音被罚35亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%BE%8E%E5%9B%A2%E4%BA%AC%E4%B8%9C%E6%B7%98%E5%A4%A9%E6%8A%96%E9%9F%B3%E8%A2%AB%E7%BD%9A35%E4%BA%BF%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            10,
+            9,
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 07时35分]"
+        },
+        {
+          "title": "上抖音看斯诺克世锦赛",
+          "url": "https://www.douyin.com/hot/2469742",
+          "source": "抖音",
+          "ranks": [
+            9,
+            18,
+            21,
+            5,
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时45分 ~ 14时11分]"
+        },
+        {
+          "title": "观察｜怎么注册微信、绑支付宝？海外用户集体“疯抢”国产大模型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32993608",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时11分"
+          "time_info": "15时57分"
         }
       ]
     },
@@ -809,11 +891,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 14时11分]"
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 15时57分]"
         },
         {
           "title": "马斯克：特斯拉工程团队从物理学第一原理出发，重新设计了锂提炼工艺。",
@@ -836,56 +919,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "劳务中介称「微信余额不足 300 不给面试」，这种招聘门槛是否合理？",
-          "url": "https://www.zhihu.com/question/2027401585177674207",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时30分]"
-        },
-        {
-          "title": "拼多多美团京东淘天抖音被罚35亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%BE%8E%E5%9B%A2%E4%BA%AC%E4%B8%9C%E6%B7%98%E5%A4%A9%E6%8A%96%E9%9F%B3%E8%A2%AB%E7%BD%9A35%E4%BA%BF%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            10,
-            9,
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 07时35分]"
-        },
-        {
-          "title": "上抖音看斯诺克世锦赛",
-          "url": "https://www.douyin.com/hot/2469742",
-          "source": "抖音",
-          "ranks": [
-            9,
-            18,
-            21,
-            5,
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时45分 ~ 14时11分]"
         }
       ]
     },
