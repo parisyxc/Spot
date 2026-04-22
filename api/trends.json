@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T13:28:22.954333+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-04-22T15:26:05.492958+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "日本7.7级强震影响有多大",
@@ -104,11 +104,12 @@
           "ranks": [
             16,
             18,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 13时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 15时26分]"
         },
         {
           "title": "日本火锅肉薄如纸,1盘不够塞牙",
@@ -172,6 +173,17 @@
           "time_info": "[00时55分 ~ 07时31分]"
         },
         {
+          "title": "日本一日之内犯下两大恶行",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%97%A5%E4%B9%8B%E5%86%85%E7%8A%AF%E4%B8%8B%E4%B8%A4%E5%A4%A7%E6%81%B6%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 15时26分]"
+        },
+        {
           "title": "女子拍下日本地震时画面",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%8B%8D%E4%B8%8B%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E6%97%B6%E7%94%BB%E9%9D%A2&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -190,22 +202,35 @@
           "url": "https://www.toutiao.com/trending/7631114562909552691/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 15时26分]"
         },
         {
-          "title": "日本一日之内犯下两大恶行",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%97%A5%E4%B9%8B%E5%86%85%E7%8A%AF%E4%B8%8B%E4%B8%A4%E5%A4%A7%E6%81%B6%E8%A1%8C",
-          "source": "百度热搜",
+          "title": "马斯克算法撕开日本遮羞布",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
+          "source": "贴吧",
           "ranks": [
-            1
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 15时26分]"
+        },
+        {
+          "title": "日本126名议员集体“拜鬼”！恬不知耻咧嘴大笑",
+          "url": "https://v.ifeng.com/c/8sTsWXsXUhP",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 15时26分]"
         },
         {
           "title": "外交部谈日本允许杀伤性武器出口：坚决抵制日本“新型军国主义”妄动",
@@ -224,11 +249,39 @@
           "url": "https://www.toutiao.com/trending/7630736917771881990/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 15时26分]"
+        },
+        {
+          "title": "日本126名议员集体参拜靖国神社",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC126%E5%90%8D%E8%AE%AE%E5%91%98%E9%9B%86%E4%BD%93%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时24分 ~ 15时26分]"
+        },
+        {
+          "title": "日本自卫队训练时发生爆炸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%AE%AD%E7%BB%83%E6%97%B6%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            28,
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 15时26分]"
         },
         {
           "title": "日本财务大臣将就AI模型威胁与银行业会面",
@@ -242,51 +295,28 @@
           "time_info": "10时25分"
         },
         {
-          "title": "马斯克算法撕开日本遮羞布",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
-          "source": "贴吧",
+          "title": "释新闻｜日本松绑出口杀伤性武器的两个关键问题：卖什么？谁会买？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020491",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            16,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "日本126名议员集体“拜鬼”！恬不知耻咧嘴大笑",
-          "url": "https://v.ifeng.com/c/8sTsWXsXUhP",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 15时26分]"
         },
         {
           "title": "日本126名议员集体参拜靖国神社",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC126%E5%90%8D%E8%AE%AE%E5%91%98%E9%9B%86%E4%BD%93%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE",
-          "source": "百度热搜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33024618",
+          "source": "澎湃新闻",
           "ranks": [
-            15,
-            16
+            19,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时24分 ~ 13时28分]"
-        },
-        {
-          "title": "日本自卫队训练时发生爆炸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%AE%AD%E7%BB%83%E6%97%B6%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 13时28分]"
+          "time_info": "[13时28分 ~ 15时26分]"
         },
         {
           "title": "日本126名议员集体参拜靖国神社",
@@ -311,6 +341,17 @@
           "time_info": "[10时24分 ~ 10时25分]"
         },
         {
+          "title": "日本石油勘探公司总裁：在美国，我们希望收购新的油气资产，并担任运营方。",
+          "url": "https://flash.jin10.com/detail/20260422151010338800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "日本126名议员集体参拜靖国神社",
           "url": "https://wallstreetcn.com/livenews/3092207",
           "source": "华尔街见闻-快讯",
@@ -320,17 +361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
-        },
-        {
-          "title": "释新闻｜日本松绑出口杀伤性武器的两个关键问题：卖什么？谁会买？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020491",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "澳新银行：日本央行料会继续强化紧缩政策，但不会调整利率",
@@ -344,15 +374,15 @@
           "time_info": "10时25分"
         },
         {
-          "title": "日本126名议员集体参拜靖国神社",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33024618",
-          "source": "澎湃新闻",
+          "title": "日本石油勘探公司总裁：在未来十年内，110万亿日元的海外勘探与生产投资中，美国预计将占超过一半。",
+          "url": "https://flash.jin10.com/detail/20260422150844152800",
+          "source": "金十数据",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "15时26分"
         },
         {
           "title": "日本5年期国债收益率上行2个基点至1.825%。 日本30年期国债收益率上行1.5个基点至3.570%。",
@@ -372,7 +402,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -386,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "日经225指数收涨0.4%，报59585.86点。 日本东证指数收跌0.7%，报3744.99点。 韩国首尔综指收涨0.5%，报6417.93点。",
+          "url": "https://wallstreetcn.com/livenews/3092353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     },
@@ -419,6 +460,18 @@
           "time_info": "[00时55分 ~ 07时31分]"
         },
         {
+          "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
+          "url": "https://www.cls.cn/detail/2351396",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时35分 ~ 15时26分]"
+        },
+        {
           "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
           "url": "https://www.cls.cn/detail/2351256",
           "source": "财联社热门",
@@ -432,16 +485,27 @@
           "time_info": "[00时55分 ~ 10时25分]"
         },
         {
-          "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
-          "url": "https://www.cls.cn/detail/2351396",
-          "source": "财联社热门",
+          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时35分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时26分]"
+        },
+        {
+          "title": "黄金量价齐升，紫金矿业Q1营收逼近千亿关口，归母净利润翻番 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时26分]"
         },
         {
           "title": "美伊僵局持续，企业盈利提振市场，纳指新高，科技股普涨，油价续跌",
@@ -464,29 +528,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时44分 ~ 06时35分]"
-        },
-        {
-          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 13时28分]"
-        },
-        {
-          "title": "黄金量价齐升，紫金矿业Q1营收逼近千亿关口，归母净利润翻番 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770515",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 13时28分]"
         },
         {
           "title": "金十图示：2026年04月21日（周二）美股热门股票行情一览（美股收盘）",
@@ -517,7 +558,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -605,7 +646,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年04月22日（周三）上海金早盘价为1046.07元/克，较国际金价(1043.67元/克)，高2.4元/克",
@@ -674,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "金十图示：2026年04月22日（周三）上海金午盘价为1048.93元/克，较国际金价(1046.45元/克)，高2.48元/克",
+          "url": "https://flash.jin10.com/detail/20260422150936230800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月21日（周二）晚盘收盘下跌1.58%报1036.0元/克；<br/>上海黄金交易所白银T+D 4月21日（周二）晚盘收盘下跌3.11%报19102.0元/千克。",
@@ -839,7 +891,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -879,7 +931,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -908,51 +960,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "江苏冲出一个千亿半导体IPO",
-          "url": "https://www.toutiao.com/trending/7631196205749374515/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            29,
-            19,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 07时31分]"
-        },
-        {
-          "title": "A股半导体产业链持续拉升，路维光电20cm涨停，先导基电午后封板，和林微纳、欧莱新材涨超10%，燕东微、清溢光电、天岳先进涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3092312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "A股半导体产业链持续拉升，路维光电20cm涨停，先导基电午后封板，和林微纳、欧莱新材涨超10%，燕东微、清溢光电、天岳先进涨超6%。",
-          "url": "https://flash.jin10.com/detail/20260422131309219800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微信宣布5国可用微信支付",
@@ -994,7 +1003,61 @@
           "ranks": [
             18
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "抖音生活服务发布多条AIGC创作规范",
+          "url": "https://wallstreetcn.com/livenews/3092357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "江苏冲出一个千亿半导体IPO",
+          "url": "https://www.toutiao.com/trending/7631196205749374515/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            29,
+            19,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 07时31分]"
+        },
+        {
+          "title": "A股半导体产业链持续拉升，路维光电20cm涨停，先导基电午后封板，和林微纳、欧莱新材涨超10%，燕东微、清溢光电、天岳先进涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3092312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "A股半导体产业链持续拉升，路维光电20cm涨停，先导基电午后封板，和林微纳、欧莱新材涨超10%，燕东微、清溢光电、天岳先进涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260422131309219800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         }
@@ -1022,7 +1085,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         }
