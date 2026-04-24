@@ -1,1386 +1,278 @@
 {
-  "generated_at": "2026-04-24T23:04:56.206473+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2026-04-25T00:51:03.256624+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 32,
-      "titles": [
-        {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时08分 ~ 23时04分]"
-        },
-        {
-          "title": "停火延长叠加强劲财报，标普、纳指收创新高，芯片股创最长连涨天数，原油三连涨",
-          "url": "https://wallstreetcn.com/articles/3770587",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 06时39分]"
-        },
-        {
-          "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2353918",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 10时08分]"
-        },
-        {
-          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770645",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 06时39分]"
-        },
-        {
-          "title": "“CPU重归AI核心地位”！英特尔财报会实录：半导体市场规模已近万亿美元",
-          "url": "https://www.cls.cn/detail/2354408",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 19时03分]"
-        },
-        {
-          "title": "美股收盘：中东局势不确定性升温叠加财报分化 三大指数震荡收跌",
-          "url": "https://www.cls.cn/detail/2354164",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时39分 ~ 13时31分]"
-        },
-        {
-          "title": "普华永道同意就虚假财报向恒大股东赔偿10亿港元，另遭罚款3亿港元及停业6个月",
-          "url": "https://wallstreetcn.com/articles/3770705",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时40分 ~ 17时27分]"
-        },
-        {
-          "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时46分]"
-        },
-        {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英伟达盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 07时41分]"
-        },
-        {
-          "title": "伊朗局势搅动市场，美股震荡收跌，软件股重挫，芯片逆市连涨17日，原油三连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时39分]"
-        },
-        {
-          "title": "英特尔Q1财报 ，狠狠打了华尔街的脸",
-          "url": "https://wallstreetcn.com/articles/3770776",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时12分]"
-        },
-        {
-          "title": "MaxLinear美股盘后涨29%，该公司二季度营收指引超过市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3093517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3094098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "MaxLinear美股盘后涨幅扩大至33%。",
-          "url": "https://wallstreetcn.com/livenews/3093569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
-          "url": "https://wallstreetcn.com/articles/3770804",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "斯伦贝谢第一季度营收87.2亿美元，预估86.6亿美元。 第一季度调整后每股收益52美分，预估52美分。 第一季度调整后EBITDA为17.7亿美元，预估18.3亿美元。 第一季度资本支出3.43亿美元，预估4.674亿美元。 斯伦贝谢仍预计全年资本投资约25亿美元。 斯伦贝谢美股盘前跌近3%。",
-          "url": "https://wallstreetcn.com/livenews/3093996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
-          "title": "英特尔美股盘前大涨超30%",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E7%89%B9%E5%B0%94%E7%BE%8E%E8%82%A1%E7%9B%98%E5%89%8D%E5%A4%A7%E6%B6%A8%E8%B6%8530%25",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时12分]"
-        },
-        {
-          "title": "周四（4月23日），美股存储芯片与硬件供应链指数跌0.20%，报144.48点，在震荡上行行情中，北京时间23:42刷新日高至148.53点，随后震荡下行，01:46刷新日低至142.59点。 信息科技指数跌1.24%，报329.36点。 人工智能（AI）赢家指数跌0.92%，报348.16点。 AI软件先驱指数跌6.81%，报95.68点，跳空低开后持续低位窄幅震荡，形成长尾L形走势。",
-          "url": "https://wallstreetcn.com/livenews/3093542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时39分]"
-        },
-        {
-          "title": "美股开盘：英特尔涨约23%创新高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%8B%B1%E7%89%B9%E5%B0%94%E6%B6%A8%E7%BA%A623%25%E5%88%9B%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "新易盛Q1净利润环比回落市场“炸锅” 去年净利同比增长236% |财报解读",
-          "url": "https://www.cls.cn/detail/2354227",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "豆神教育：澄清一季度财报不实信息，报告尚在编制中",
-          "url": "https://wallstreetcn.com/livenews/3094090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "德国思爱普Sap一季度非IFRS营收95.6亿欧元，分析师预期95.3亿欧元。 一季度非IFRS云/软件营收85.5亿欧元，分析师预期84.7亿欧元。 一季度非IFRS云营收59.6亿欧元，分析师预期59亿欧元。 一季度云订单积压219亿欧元，分析师预期216.5亿欧元。 维持全年云营收预期在258亿-262亿欧元不变，维持非IFRS运营利润预期在119亿–123亿欧元不变。 预计2026年云营收（剔除汇率因素）将为258亿-262亿欧元。 预计2026年云/软件营收（剔除汇率因素）将为363亿-368亿欧元。 Sap ADR美股盘后涨11%。",
-          "url": "https://wallstreetcn.com/livenews/3093516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时41分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周四（4月23日），美国科技股七巨头（Magnificent 7）指数跌1.32%，报208.83点，北京时间23:24-01:46持续扩大跌幅。 “超大”市值科技股指数跌1.63%，报409点。",
-          "url": "https://wallstreetcn.com/livenews/3093539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时39分]"
-        },
-        {
-          "title": "英特尔一季度营收135.8亿美元，分析师预期123.6亿美元。 一季度数据中心、AI营收50.5亿美元，分析师预期44.1亿美元。 一季度客户计算营收77.3亿美元，分析师预期 一季度英特尔代工（Intel Foundry）营收54.2亿美元，分析师预期48.1亿美元。 一季度调整后每股收益（EPS）为0.29美元，分析师预期0.01美元。 预计二季度营收138亿-148亿美元，分析师预期130.4亿美元。 预计二季度调整后EPS为0.20美元，分析师预期0.086美元。 英特尔美股盘后狂飙17%。",
-          "url": "https://wallstreetcn.com/livenews/3093507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "英特尔财报大超预期盘前涨超30% 最新工作站CPU、GPU发布 高管预计缺货仍将持续",
-          "url": "https://www.cls.cn/detail/2355357",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "英特尔(INTC.O)美股盘后大涨13%。",
-          "url": "https://flash.jin10.com/detail/20260424041652714800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "财报向好，英特尔(INTC.O)美股盘后涨幅扩大至18%，Arm(ARM.O)和AMD(AMD.O)跟涨6%。",
-          "url": "https://flash.jin10.com/detail/20260424052017447800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "英特尔 Q1 营收超 136 亿美元，净利暴涨 156%，美股 CPU 板块能复刻 GPU 和内存的超级周期么？",
-          "url": "https://www.zhihu.com/question/2030925174657258157",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "据上交所官网显示，深圳核心医疗科技股份有限公司IPO审核状态变更为“已问询”。",
-          "url": "https://flash.jin10.com/detail/20260424170343652800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "通信片上系统（SOC）供应商MaxLinear美股盘后涨29%，该公司二季度营收指引超过市场预期。 该公司一季度净营收1.372亿美元，分析师预期1.345亿美元。 一季度调整后EPS为0.22美元，分析师预期0.18美元。 一季度调整后毛利润率59.5%，分析师预期59.5%。 预计二季度营收1.60亿-1.70亿美元，分析师预期1.371亿美元。 预计二季度调整后毛利率58%-61%，分析师预期59.6%。",
-          "url": "https://wallstreetcn.com/livenews/3093517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "亚马逊美股盘前涨近2%，Meta Platforms已与亚马逊AWS签署一项数十亿美元规模的协议，这家社交媒体巨头将租用亚马逊数十万枚芯片，用于其人工智能研发。",
-          "url": "https://wallstreetcn.com/livenews/3094072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "礼来美股盘前一度跌近4%，公司新型减肥药在追赶诺和诺德的竞争中开局缓慢",
-          "url": "https://wallstreetcn.com/livenews/3094070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 32,
-      "titles": [
-        {
-          "title": "“特高课”又要重现？起底日本“新战前情报体系”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33037895",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            12,
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时40分 ~ 23时04分]"
-        },
-        {
-          "title": "马斯克算法撕开日本遮羞布",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 10时08分]"
-        },
-        {
-          "title": "臭名昭著的日本“特高课”或要重现",
-          "url": "https://www.toutiao.com/trending/7631915491263561754/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            14,
-            25,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时31分 ~ 23时04分]"
-        },
-        {
-          "title": "石破茂：日本不能“盲目跟着美国跑”",
-          "url": "https://news.ifeng.com/c/8sZFDagj9Cb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 15时54分]"
-        },
-        {
-          "title": "媒体：日本破罐子破摔 中国怎么办",
-          "url": "https://www.toutiao.com/trending/7631437051548565540/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
-        },
-        {
-          "title": "臭名昭著的日本“特高课”或要重现",
-          "url": "https://www.baidu.com/s?wd=%E8%87%AD%E5%90%8D%E6%98%AD%E8%91%97%E7%9A%84%E6%97%A5%E6%9C%AC%E2%80%9C%E7%89%B9%E9%AB%98%E8%AF%BE%E2%80%9D%E6%88%96%E8%A6%81%E9%87%8D%E7%8E%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            2,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 17时27分]"
-        },
-        {
-          "title": "日本3月CPI(除生鲜食品及能源)同比 2.4%，预期 2.4%，前值 2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3093576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "日本3月CPI(除生鲜食品)同比 1.8%，预期 1.7%，前值 1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3093575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "日本经济产业省：因伊朗危机，日本将释放580万千升国家石油储备，将于5月1日起开始释放部分石油储备。",
-          "url": "https://flash.jin10.com/detail/20260424130734803800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "日本3月CPI同比 1.5%，预期 1.4%，前值 1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3093574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "中方：绝不允许日本军国主义死灰复燃",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%AD%BB%E7%81%B0%E5%A4%8D%E7%87%83",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时03分]"
-        },
-        {
-          "title": "日本卖的是战舰 澳大利亚买的是祸害",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8D%96%E7%9A%84%E6%98%AF%E6%88%98%E8%88%B0+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%B9%B0%E7%9A%84%E6%98%AF%E7%A5%B8%E5%AE%B3",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 19时03分]"
-        },
-        {
-          "title": "日本3月全国未季调CPI月率 0.4%，前值-0.6%。",
-          "url": "https://flash.jin10.com/detail/20260424073053248800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "日本经济产业省：受伊朗危机影响，将自5月1日起开始释放580万千升国家石油储备。",
-          "url": "https://wallstreetcn.com/livenews/3093720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "日本破罐子破摔 中国怎么办",
-          "url": "https://www.toutiao.com/trending/7631437051548565540/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "日本3月全国CPI年率 1.5%，预期1.40%，前值1.30%。",
-          "url": "https://flash.jin10.com/detail/20260424073002772800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "日本3月核心CPI年率 1.8%，预期1.8%，前值1.60%。",
-          "url": "https://flash.jin10.com/detail/20260424073002766800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "日本3月核心CPI年率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260424072000000800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "我使馆提醒公民近期避免前往日本",
-          "url": "https://www.toutiao.com/trending/7631708169336848427/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时54分]"
-        },
-        {
-          "title": "中方三个“绝不”回应日本涉军动向",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%B8%89%E4%B8%AA%E2%80%9C%E7%BB%9D%E4%B8%8D%E2%80%9D%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%B6%89%E5%86%9B%E5%8A%A8%E5%90%91",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时12分 ~ 23时04分]"
-        },
-        {
-          "title": "日本军事妄动不断 多国“亮剑”示警",
-          "url": "https://www.toutiao.com/trending/7632085337808486446/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 07时41分]"
-        },
-        {
-          "title": "凯投宏观：日本央行最早可能在6月加息",
-          "url": "https://flash.jin10.com/detail/20260424093905417800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "日本成立Mythos工作小组 以保障金融系统网络安全",
-          "url": "https://wallstreetcn.com/livenews/3093811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "澳大利亚LNG工厂工人支持罢工 恐影响日本能源供应",
-          "url": "https://flash.jin10.com/detail/20260424171152220800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "日本推进将航空自卫队整编为“航空宇宙自卫队”",
-          "url": "https://wallstreetcn.com/livenews/3093704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "媒体：日本正重演二战前行径",
-          "url": "https://www.toutiao.com/trending/7632286822210945060/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "日本强震后已发生28次有感地震",
-          "url": "https://flash.jin10.com/detail/20260424124621846800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "机构：日本央行的举措将取决于通胀是否蔓延至除能源以外的其他领域",
-          "url": "https://flash.jin10.com/detail/20260424123952160800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "石破茂：日本不能“盲目跟着美国跑”",
-          "url": "https://www.toutiao.com/trending/7631816452584407103/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：目前看来没有必要追加预算，必要时可动用储备资金。",
-          "url": "https://wallstreetcn.com/livenews/3093602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "日本首相高市早苗：敦促内阁寻求新的石油进口来源。 5月约60%的原油进口将绕开霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3093874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "菲律宾总统将访问日本",
-          "url": "https://www.toutiao.com/trending/7632271215973154859/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "港股芯片股午后持续走高，华虹半导体涨超17%，中芯国际涨超10%，天数智芯涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/3093721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "胜科纳米：拟定增募资不超12.07亿元，用于半导体检测分析大模型研发平台建设等项目",
-          "url": "https://flash.jin10.com/detail/20260424204459177800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "A股半导体产业链涨势扩大，华虹公司、海光信息、盛科通信均涨超10%，大普微、灿芯股份、芯海科技涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3093718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "17连阳！全球半导体“晴雨表”创史上最长连涨 德银警示氦气供应风险",
-          "url": "https://www.cls.cn/detail/2354489",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "标普500指数收跌29.50点，跌幅0.41%，报7108.40点。 道琼斯工业平均指数收跌179.71点，跌幅0.36%，报49310.32点。 纳斯达克综合指数（纳指）收跌219.063点，跌幅0.89%，报24438.504点。 纳斯达克100指数收跌154.65点，跌幅0.57%，报26782.625点。 费城半导体指数收涨169.306点，涨幅1.71%，报10078.572点。",
-          "url": "https://wallstreetcn.com/livenews/3093506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "半导体产业链盘初活跃，富瀚微逼近20cm涨停，圣邦股份、芯海科技、晶丰明源、海光信息、澜起科技均涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3093621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "中东断供危机蔓延至半导体",
-          "url": "https://www.toutiao.com/trending/7631248234406248498/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "恒生科技指数转涨，华虹半导体大涨逾12%，中芯国际涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3093699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "A股半导体产业链盘初活跃，富瀚微逼近20cm涨停，圣邦股份、芯海科技、晶丰明源、海光信息、澜起科技均涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260424093151111800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "A股收评：三大股指午后回升 锂电、芯片产业链集体走强",
-          "url": "https://flash.jin10.com/detail/20260424150411335800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "宇树人形机器人解锁轮子形态",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A7%A3%E9%94%81%E8%BD%AE%E5%AD%90%E5%BD%A2%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 07时41分]"
-        },
-        {
-          "title": "当机器人的脚变成轮子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%84%9A%E5%8F%98%E6%88%90%E8%BD%AE%E5%AD%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            7,
-            17,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 23时04分]"
-        },
-        {
-          "title": "高校演出机器人突然拥抱女生",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%BC%94%E5%87%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AA%81%E7%84%B6%E6%8B%A5%E6%8A%B1%E5%A5%B3%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            5,
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 21时12分]"
-        },
-        {
-          "title": "机器人上岗劝阻挖婆婆丁",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%B2%97%E5%8A%9D%E9%98%BB%E6%8C%96%E5%A9%86%E5%A9%86%E4%B8%81",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时54分]"
-        },
-        {
-          "title": "中国电网开启近100亿具身智能设备采购与投资，机器人应用打开新空间",
-          "url": "https://www.cls.cn/detail/2354279",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时27分]"
-        },
-        {
-          "title": "小鹏飞行汽车和人形机器人将于今年量产",
-          "url": "https://wallstreetcn.com/livenews/3093625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "英特尔(INTC.O)CEO：人工智能正通过物理人工智能、机器人和边缘人工智能进入现实世界。CPU重新成为人工智能的基础。",
-          "url": "https://flash.jin10.com/detail/20260424051740128800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "小鹏飞行汽车和人形机器人将于今年量产",
-          "url": "https://flash.jin10.com/detail/20260424093141666800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "机器人跑马拉松难在哪",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E9%9A%BE%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "张予曦与荣耀机器人“闪电”赛跑",
-          "url": "https://www.toutiao.com/trending/7631400162364850217/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "OpenAI深夜王炸！GPT-5.5正式发布：更会编程和使用计算机的最强模型",
-          "url": "https://www.cls.cn/detail/2354272",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时54分]"
-        },
-        {
-          "title": "如何评价 OpenAI 最新发布的 GPT-5.5 模型？",
-          "url": "https://www.zhihu.com/question/2030834616181970293",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "微软：OpenAI的GPT-5.5将于明天在微软Foundry正式发布。",
-          "url": "https://flash.jin10.com/detail/20260424064650416800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.5",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT-5.5",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "OpenAI：将很快把GPT‑5.5和GPT‑5.5 PRO引入 API。",
-          "url": "https://flash.jin10.com/detail/20260424020703790800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "OpenAI：GPT‑5.5 PRO正在向ChatGPT的专业版、商业版和企业用户推出。",
-          "url": "https://flash.jin10.com/detail/20260424020634954800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "OpenAI发布新模型GPT 5.5，能更好地帮助科学家们、简化软件开发、执行更复杂的任务。",
-          "url": "https://wallstreetcn.com/livenews/3093466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "OpenAI：发布GPT‑5.5，并配备迄今为止最强大的一套安全防护措施。",
-          "url": "https://flash.jin10.com/detail/20260424020613042800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "OpenAI：推出 GPT‑5.5，这是我们迄今为止最智能、最直观易用的模型，也是迈向在电脑上完成工作的全新方式的下一步。",
-          "url": "https://flash.jin10.com/detail/20260424020534371800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 4月23日（周四）晚盘收盘下跌0.18%报1037.83元/克；<br/>上海黄金交易所白银T+D 4月23日（周四）晚盘收盘下跌0.95%报18907.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260424023104176800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "国际金价银价下跌",
-          "url": "https://www.douyin.com/hot/2477037",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 23时04分]"
-        },
-        {
-          "title": "金价跌破神话了吗",
-          "url": "https://www.toutiao.com/trending/7632294513389604393/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "金价何时迎来阶段性反弹",
-          "url": "https://www.toutiao.com/trending/7631763306449518635/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时03分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少64.76吨，当前持仓量为15137.79吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260424064132721800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "金十图示：2026年04月24日（周五）上海金午盘价为1030.62元/克，较国际金价(1028.39元/克)，高2.23元/克",
-          "url": "https://flash.jin10.com/detail/20260424150905165800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "纽蒙特矿业承诺：黄金价格出现史无前例的上涨行情，公司打算回购60亿美元股票。",
-          "url": "https://wallstreetcn.com/livenews/3093522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "中东和平前景急转直下 油价涨幅扩大，金价走低",
-          "url": "https://flash.jin10.com/detail/20260424014532179800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 07时41分]"
-        },
-        {
-          "title": "英特尔(INTC.O)CEO：英特尔与特斯拉交易的细节仍在敲定。",
-          "url": "https://flash.jin10.com/detail/20260424042800843800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
-          "url": "https://www.cls.cn/detail/2353290",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "英特尔：AI产品的“脊柱”是CPU。 代工业务（Intel Foundry）将是一个漫长的旅程。",
-          "url": "https://wallstreetcn.com/livenews/3093533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时39分]"
-        },
-        {
-          "title": "特斯拉一季度净利润 4.77 亿美元，同比增长 17%，交付量 35.8 万辆，同比增长 6.5%，如何解读？",
-          "url": "https://www.zhihu.com/question/2030579939343380868",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 13时31分]"
-        },
-        {
-          "title": "英特尔(INTC.O)CEO：将通过特斯拉CEO埃隆·马斯克的Terafab项目寻找非常规方式提升制造能力。",
-          "url": "https://flash.jin10.com/detail/20260424052524927800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "员工用私人微信创建 600 多个客户群，离职后认为该账号应属自己拒绝交接，这种情况账号该归属谁？",
-          "url": "https://www.zhihu.com/question/2030684528214111076",
-          "source": "知乎",
-          "ranks": [
-            6,
-            3,
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 21时12分]"
-        },
-        {
-          "title": "好一个抖音新中式武术",
-          "url": "https://www.douyin.com/hot/2477202",
-          "source": "抖音",
-          "ranks": [
-            11,
-            15,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 23时04分]"
-        },
-        {
-          "title": "设计师办公室猝死微信定格在凌晨3点",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%8C%9D%E6%AD%BB%E5%BE%AE%E4%BF%A1%E5%AE%9A%E6%A0%BC%E5%9C%A8%E5%87%8C%E6%99%A83%E7%82%B9%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 17时27分]"
-        },
-        {
-          "title": "据蓝箭航天微信公众号，朱雀三号遥二火箭正在进行出厂前准备，将再次挑战一子级回收复用。",
-          "url": "https://wallstreetcn.com/livenews/3093607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "bilibili洛神杯选人之夜",
-          "url": "https://search.bilibili.com/all?keyword=bilibili%E6%B4%9B%E7%A5%9E%E6%9D%AF%E9%80%89%E4%BA%BA%E4%B9%8B%E5%A4%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "硅谷“裁员风暴”：Meta要裁10%员工，微软向7%员工首提“买断”",
           "url": "https://wallstreetcn.com/articles/3770746",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 23时04分]"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "Meta 强制监控员工的鼠标和键盘用于训练 AI，如何看待这种强制「蒸馏」行为？涉嫌违法吗？",
-          "url": "https://www.zhihu.com/question/2030615939436077697",
-          "source": "知乎",
+          "title": "谷歌计划向Anthropic投资高达400亿美元",
+          "url": "https://flash.jin10.com/detail/20260424235901530800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "谷歌计划向Anthropic投资高达400亿美元",
+          "url": "https://wallstreetcn.com/livenews/3094203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "据日经新闻：竞标方将为软银美国数据中心项目选择客户。谷歌和微软将成为竞标方之一。",
+          "url": "https://flash.jin10.com/detail/20260424235828766800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "市场消息：谷歌将向Anthropic提供至少5吉瓦算力。",
+          "url": "https://flash.jin10.com/detail/20260424235156900800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "市场消息：谷歌(GOOG.O)最初承诺向Anthropic投资100亿美元现金，若达成目标，谷歌还将向Anthropic追加最多300亿美元投资。",
+          "url": "https://flash.jin10.com/detail/20260424235142904800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "市场消息：谷歌计划向Anthropic投资高达400亿美元。",
+          "url": "https://flash.jin10.com/detail/20260424235037826800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
+          "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260425003044610800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
+          "url": "https://wallstreetcn.com/articles/3770804",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
+          "title": "英特尔财报大超预期盘前涨超30% 最新工作站CPU、GPU发布 高管预计缺货仍将持续",
+          "url": "https://www.cls.cn/detail/2355357",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "Meta内部宣布将裁员10%来提升效率，弥补AI方面高额支出",
-          "url": "https://wallstreetcn.com/livenews/3093456",
+          "title": "美股期指涨跌不一 英特尔盘前一度大涨30% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2355325",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【每日收评】沪指午后探底回升小幅收跌，锂电、芯片产业链逆势爆发，算力硬件股持续调整",
+          "url": "https://www.cls.cn/detail/2354867",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至1.5%，标普涨超0.4%，纳指涨约1.1%，道指仍然跌超0.3%。半导体指数涨幅重新收窄至3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3094188",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "00时51分"
+        },
+        {
+          "title": "贝莱德：AI热潮中看好半导体和硬件股",
+          "url": "https://wallstreetcn.com/livenews/3094185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际金价银价下跌",
+          "url": "https://www.douyin.com/hot/2477037",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
+          "title": "金价跌破神话了吗",
+          "url": "https://www.toutiao.com/trending/7632294513389604393/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "臭名昭著的日本“特高课”或要重现",
+          "url": "https://www.toutiao.com/trending/7631915491263561754/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
+          "title": "中方三个“绝不”回应日本涉军动向",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%B8%89%E4%B8%AA%E2%80%9C%E7%BB%9D%E4%B8%8D%E2%80%9D%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%B6%89%E5%86%9B%E5%8A%A8%E5%90%91",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "好一个抖音新中式武术",
+          "url": "https://www.douyin.com/hot/2477202",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "当机器人的脚变成轮子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%84%9A%E5%8F%98%E6%88%90%E8%BD%AE%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         }
       ]
     }
