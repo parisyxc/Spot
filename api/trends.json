@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T19:03:11.104837+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-04-24T21:12:27.842780+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "“特高课”又要重现？起底日本“新战前情报体系”",
@@ -16,11 +16,12 @@
             12,
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时40分 ~ 19时03分]"
+          "appearance_count": 9,
+          "time_info": "[07时40分 ~ 21时12分]"
         },
         {
           "title": "马斯克算法撕开日本遮羞布",
@@ -33,6 +34,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时15分 ~ 10时08分]"
+        },
+        {
+          "title": "臭名昭著的日本“特高课”或要重现",
+          "url": "https://www.toutiao.com/trending/7631915491263561754/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            14,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 21时12分]"
         },
         {
           "title": "石破茂：日本不能“盲目跟着美国跑”",
@@ -80,20 +95,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
-        },
-        {
-          "title": "臭名昭著的日本“特高课”或要重现",
-          "url": "https://www.toutiao.com/trending/7631915491263561754/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            14,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 19时03分]"
         },
         {
           "title": "日本3月CPI(除生鲜食品)同比 1.8%，预期 1.7%，前值 1.6%。",
@@ -176,6 +177,17 @@
           "time_info": "13时31分"
         },
         {
+          "title": "日本破罐子破摔 中国怎么办",
+          "url": "https://www.toutiao.com/trending/7631437051548565540/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "日本3月全国CPI年率 1.5%，预期1.40%，前值1.30%。",
           "url": "https://flash.jin10.com/detail/20260424073002772800",
           "source": "金十数据",
@@ -230,6 +242,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时40分 ~ 07时41分]"
+        },
+        {
+          "title": "中方三个“绝不”回应日本涉军动向",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%B8%89%E4%B8%AA%E2%80%9C%E7%BB%9D%E4%B8%8D%E2%80%9D%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%B6%89%E5%86%9B%E5%8A%A8%E5%90%91",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "凯投宏观：日本央行最早可能在6月加息",
@@ -334,7 +357,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -347,8 +370,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 19时03分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 21时12分]"
         },
         {
           "title": "停火延长叠加强劲财报，标普、纳指收创新高，芯片股创最长连涨天数，原油三连涨",
@@ -463,6 +486,17 @@
           "time_info": "[05时41分 ~ 06时39分]"
         },
         {
+          "title": "英特尔Q1财报 ，狠狠打了华尔街的脸",
+          "url": "https://wallstreetcn.com/articles/3770776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时12分]"
+        },
+        {
           "title": "MaxLinear美股盘后涨29%，该公司二季度营收指引超过市场预期。",
           "url": "https://wallstreetcn.com/livenews/3093517",
           "source": "华尔街见闻-快讯",
@@ -474,26 +508,15 @@
           "time_info": "04时46分"
         },
         {
-          "title": "英特尔美股盘前大涨超30%",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E7%89%B9%E5%B0%94%E7%BE%8E%E8%82%A1%E7%9B%98%E5%89%8D%E5%A4%A7%E6%B6%A8%E8%B6%8530%25",
-          "source": "百度热搜",
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3094098",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
-        },
-        {
-          "title": "英特尔Q1财报 ，狠狠打了华尔街的脸",
-          "url": "https://wallstreetcn.com/articles/3770776",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "MaxLinear美股盘后涨幅扩大至33%。",
@@ -513,9 +536,21 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "英特尔美股盘前大涨超30%",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E7%89%B9%E5%B0%94%E7%BE%8E%E8%82%A1%E7%9B%98%E5%89%8D%E5%A4%A7%E6%B6%A8%E8%B6%8530%25",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时12分]"
         },
         {
           "title": "周四（4月23日），美股存储芯片与硬件供应链指数跌0.20%，报144.48点，在震荡上行行情中，北京时间23:42刷新日高至148.53点，随后震荡下行，01:46刷新日低至142.59点。 信息科技指数跌1.24%，报329.36点。 人工智能（AI）赢家指数跌0.92%，报348.16点。 AI软件先驱指数跌6.81%，报95.68点，跳空低开后持续低位窄幅震荡，形成长尾L形走势。",
@@ -539,6 +574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
+        },
+        {
+          "title": "豆神教育：澄清一季度财报不实信息，报告尚在编制中",
+          "url": "https://wallstreetcn.com/livenews/3094090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "德国思爱普Sap一季度非IFRS营收95.6亿欧元，分析师预期95.3亿欧元。 一季度非IFRS云/软件营收85.5亿欧元，分析师预期84.7亿欧元。 一季度非IFRS云营收59.6亿欧元，分析师预期59亿欧元。 一季度云订单积压219亿欧元，分析师预期216.5亿欧元。 维持全年云营收预期在258亿-262亿欧元不变，维持非IFRS运营利润预期在119亿–123亿欧元不变。 预计2026年云营收（剔除汇率因素）将为258亿-262亿欧元。 预计2026年云/软件营收（剔除汇率因素）将为363亿-368亿欧元。 Sap ADR美股盘后涨11%。",
@@ -629,6 +675,133 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "亚马逊美股盘前涨近2%，Meta Platforms已与亚马逊AWS签署一项数十亿美元规模的协议，这家社交媒体巨头将租用亚马逊数十万枚芯片，用于其人工智能研发。",
+          "url": "https://wallstreetcn.com/livenews/3094072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "礼来美股盘前一度跌近4%，公司新型减肥药在追赶诺和诺德的竞争中开局缓慢",
+          "url": "https://wallstreetcn.com/livenews/3094070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "港股芯片股午后持续走高，华虹半导体涨超17%，中芯国际涨超10%，天数智芯涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3093721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "胜科纳米：拟定增募资不超12.07亿元，用于半导体检测分析大模型研发平台建设等项目",
+          "url": "https://flash.jin10.com/detail/20260424204459177800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "A股半导体产业链涨势扩大，华虹公司、海光信息、盛科通信均涨超10%，大普微、灿芯股份、芯海科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3093718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "17连阳！全球半导体“晴雨表”创史上最长连涨 德银警示氦气供应风险",
+          "url": "https://www.cls.cn/detail/2354489",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "标普500指数收跌29.50点，跌幅0.41%，报7108.40点。 道琼斯工业平均指数收跌179.71点，跌幅0.36%，报49310.32点。 纳斯达克综合指数（纳指）收跌219.063点，跌幅0.89%，报24438.504点。 纳斯达克100指数收跌154.65点，跌幅0.57%，报26782.625点。 费城半导体指数收涨169.306点，涨幅1.71%，报10078.572点。",
+          "url": "https://wallstreetcn.com/livenews/3093506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "半导体产业链盘初活跃，富瀚微逼近20cm涨停，圣邦股份、芯海科技、晶丰明源、海光信息、澜起科技均涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3093621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "恒生科技指数转涨，华虹半导体大涨逾12%，中芯国际涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3093699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "A股半导体产业链盘初活跃，富瀚微逼近20cm涨停，圣邦股份、芯海科技、晶丰明源、海光信息、澜起科技均涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260424093151111800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股收评：三大股指午后回升 锂电、芯片产业链集体走强",
+          "url": "https://flash.jin10.com/detail/20260424150411335800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         }
       ]
     },
@@ -760,11 +933,12 @@
           "ranks": [
             27,
             5,
-            8
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 19时03分]"
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 21时12分]"
         },
         {
           "title": "当机器人的脚变成轮子",
@@ -774,11 +948,12 @@
             1,
             7,
             17,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 21时12分]"
         },
         {
           "title": "机器人上岗劝阻挖婆婆丁",
@@ -851,100 +1026,6 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "港股芯片股午后持续走高，华虹半导体涨超17%，中芯国际涨超10%，天数智芯涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/3093721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "A股半导体产业链涨势扩大，华虹公司、海光信息、盛科通信均涨超10%，大普微、灿芯股份、芯海科技涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3093718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "17连阳！全球半导体“晴雨表”创史上最长连涨 德银警示氦气供应风险",
-          "url": "https://www.cls.cn/detail/2354489",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "标普500指数收跌29.50点，跌幅0.41%，报7108.40点。 道琼斯工业平均指数收跌179.71点，跌幅0.36%，报49310.32点。 纳斯达克综合指数（纳指）收跌219.063点，跌幅0.89%，报24438.504点。 纳斯达克100指数收跌154.65点，跌幅0.57%，报26782.625点。 费城半导体指数收涨169.306点，涨幅1.71%，报10078.572点。",
-          "url": "https://wallstreetcn.com/livenews/3093506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "半导体产业链盘初活跃，富瀚微逼近20cm涨停，圣邦股份、芯海科技、晶丰明源、海光信息、澜起科技均涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3093621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "恒生科技指数转涨，华虹半导体大涨逾12%，中芯国际涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3093699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "A股半导体产业链盘初活跃，富瀚微逼近20cm涨停，圣邦股份、芯海科技、晶丰明源、海光信息、澜起科技均涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260424093151111800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "A股收评：三大股指午后回升 锂电、芯片产业链集体走强",
-          "url": "https://flash.jin10.com/detail/20260424150411335800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
       "match_count": 7,
       "titles": [
@@ -960,23 +1041,24 @@
           "time_info": "03时02分"
         },
         {
-          "title": "金价何时迎来阶段性反弹",
-          "url": "https://www.toutiao.com/trending/7631763306449518635/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时03分]"
-        },
-        {
           "title": "国际金价银价下跌",
           "url": "https://www.douyin.com/hot/2477037",
           "source": "抖音",
           "ranks": [
             21,
-            22
+            22,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 21时12分]"
+        },
+        {
+          "title": "金价何时迎来阶段性反弹",
+          "url": "https://www.toutiao.com/trending/7631763306449518635/",
+          "source": "今日头条",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1114,11 +1196,25 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 19时03分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 21时12分]"
+        },
+        {
+          "title": "好一个抖音新中式武术",
+          "url": "https://www.douyin.com/hot/2477202",
+          "source": "抖音",
+          "ranks": [
+            11,
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 21时12分]"
         },
         {
           "title": "设计师办公室猝死微信定格在凌晨3点",
@@ -1131,18 +1227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时54分 ~ 17时27分]"
-        },
-        {
-          "title": "好一个抖音新中式武术",
-          "url": "https://www.douyin.com/hot/2477202",
-          "source": "抖音",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时03分]"
         },
         {
           "title": "据蓝箭航天微信公众号，朱雀三号遥二火箭正在进行出厂前准备，将再次挑战一子级回收复用。",
@@ -1170,8 +1254,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时03分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 21时12分]"
         },
         {
           "title": "Meta 强制监控员工的鼠标和键盘用于训练 AI，如何看待这种强制「蒸馏」行为？涉嫌违法吗？",
