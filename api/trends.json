@@ -1,363 +1,11 @@
 {
-  "generated_at": "2026-04-24T21:12:27.842780+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2026-04-24T23:04:56.206473+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "“特高课”又要重现？起底日本“新战前情报体系”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33037895",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            12,
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时40分 ~ 21时12分]"
-        },
-        {
-          "title": "马斯克算法撕开日本遮羞布",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 10时08分]"
-        },
-        {
-          "title": "臭名昭著的日本“特高课”或要重现",
-          "url": "https://www.toutiao.com/trending/7631915491263561754/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            14,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时31分 ~ 21时12分]"
-        },
-        {
-          "title": "石破茂：日本不能“盲目跟着美国跑”",
-          "url": "https://news.ifeng.com/c/8sZFDagj9Cb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 15时54分]"
-        },
-        {
-          "title": "媒体：日本破罐子破摔 中国怎么办",
-          "url": "https://www.toutiao.com/trending/7631437051548565540/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
-        },
-        {
-          "title": "臭名昭著的日本“特高课”或要重现",
-          "url": "https://www.baidu.com/s?wd=%E8%87%AD%E5%90%8D%E6%98%AD%E8%91%97%E7%9A%84%E6%97%A5%E6%9C%AC%E2%80%9C%E7%89%B9%E9%AB%98%E8%AF%BE%E2%80%9D%E6%88%96%E8%A6%81%E9%87%8D%E7%8E%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            2,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 17时27分]"
-        },
-        {
-          "title": "日本3月CPI(除生鲜食品及能源)同比 2.4%，预期 2.4%，前值 2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3093576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "日本3月CPI(除生鲜食品)同比 1.8%，预期 1.7%，前值 1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3093575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "日本经济产业省：因伊朗危机，日本将释放580万千升国家石油储备，将于5月1日起开始释放部分石油储备。",
-          "url": "https://flash.jin10.com/detail/20260424130734803800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "日本3月CPI同比 1.5%，预期 1.4%，前值 1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3093574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "中方：绝不允许日本军国主义死灰复燃",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%AD%BB%E7%81%B0%E5%A4%8D%E7%87%83",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时03分]"
-        },
-        {
-          "title": "日本卖的是战舰 澳大利亚买的是祸害",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8D%96%E7%9A%84%E6%98%AF%E6%88%98%E8%88%B0+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%B9%B0%E7%9A%84%E6%98%AF%E7%A5%B8%E5%AE%B3",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 19时03分]"
-        },
-        {
-          "title": "日本3月全国未季调CPI月率 0.4%，前值-0.6%。",
-          "url": "https://flash.jin10.com/detail/20260424073053248800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "日本经济产业省：受伊朗危机影响，将自5月1日起开始释放580万千升国家石油储备。",
-          "url": "https://wallstreetcn.com/livenews/3093720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "日本破罐子破摔 中国怎么办",
-          "url": "https://www.toutiao.com/trending/7631437051548565540/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "日本3月全国CPI年率 1.5%，预期1.40%，前值1.30%。",
-          "url": "https://flash.jin10.com/detail/20260424073002772800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "日本3月核心CPI年率 1.8%，预期1.8%，前值1.60%。",
-          "url": "https://flash.jin10.com/detail/20260424073002766800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "日本3月核心CPI年率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260424072000000800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "我使馆提醒公民近期避免前往日本",
-          "url": "https://www.toutiao.com/trending/7631708169336848427/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时54分]"
-        },
-        {
-          "title": "日本军事妄动不断 多国“亮剑”示警",
-          "url": "https://www.toutiao.com/trending/7632085337808486446/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 07时41分]"
-        },
-        {
-          "title": "中方三个“绝不”回应日本涉军动向",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%B8%89%E4%B8%AA%E2%80%9C%E7%BB%9D%E4%B8%8D%E2%80%9D%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%B6%89%E5%86%9B%E5%8A%A8%E5%90%91",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "凯投宏观：日本央行最早可能在6月加息",
-          "url": "https://flash.jin10.com/detail/20260424093905417800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "日本成立Mythos工作小组 以保障金融系统网络安全",
-          "url": "https://wallstreetcn.com/livenews/3093811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "澳大利亚LNG工厂工人支持罢工 恐影响日本能源供应",
-          "url": "https://flash.jin10.com/detail/20260424171152220800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "日本推进将航空自卫队整编为“航空宇宙自卫队”",
-          "url": "https://wallstreetcn.com/livenews/3093704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "日本强震后已发生28次有感地震",
-          "url": "https://flash.jin10.com/detail/20260424124621846800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "机构：日本央行的举措将取决于通胀是否蔓延至除能源以外的其他领域",
-          "url": "https://flash.jin10.com/detail/20260424123952160800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "石破茂：日本不能“盲目跟着美国跑”",
-          "url": "https://www.toutiao.com/trending/7631816452584407103/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：目前看来没有必要追加预算，必要时可动用储备资金。",
-          "url": "https://wallstreetcn.com/livenews/3093602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "日本首相高市早苗：敦促内阁寻求新的石油进口来源。 5月约60%的原油进口将绕开霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3093874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -370,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 21时12分]"
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 23时04分]"
         },
         {
           "title": "停火延长叠加强劲财报，标普、纳指收创新高，芯片股创最长连涨天数，原油三连涨",
@@ -514,7 +162,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -528,6 +176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
+          "url": "https://wallstreetcn.com/articles/3770804",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "斯伦贝谢第一季度营收87.2亿美元，预估86.6亿美元。 第一季度调整后每股收益52美分，预估52美分。 第一季度调整后EBITDA为17.7亿美元，预估18.3亿美元。 第一季度资本支出3.43亿美元，预估4.674亿美元。 斯伦贝谢仍预计全年资本投资约25亿美元。 斯伦贝谢美股盘前跌近3%。",
@@ -565,6 +224,17 @@
           "time_info": "[05时41分 ~ 06时39分]"
         },
         {
+          "title": "美股开盘：英特尔涨约23%创新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%8B%B1%E7%89%B9%E5%B0%94%E6%B6%A8%E7%BA%A623%25%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "新易盛Q1净利润环比回落市场“炸锅” 去年净利同比增长236% |财报解读",
           "url": "https://www.cls.cn/detail/2354227",
           "source": "财联社热门",
@@ -582,7 +252,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -620,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "英特尔财报大超预期盘前涨超30% 最新工作站CPU、GPU发布 高管预计缺货仍将持续",
+          "url": "https://www.cls.cn/detail/2355357",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "英特尔(INTC.O)美股盘后大涨13%。",
@@ -683,7 +364,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -694,15 +375,391 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         }
       ]
     },
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 32,
+      "titles": [
+        {
+          "title": "“特高课”又要重现？起底日本“新战前情报体系”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33037895",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            12,
+            5,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时40分 ~ 23时04分]"
+        },
+        {
+          "title": "马斯克算法撕开日本遮羞布",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 10时08分]"
+        },
+        {
+          "title": "臭名昭著的日本“特高课”或要重现",
+          "url": "https://www.toutiao.com/trending/7631915491263561754/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            14,
+            25,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时31分 ~ 23时04分]"
+        },
+        {
+          "title": "石破茂：日本不能“盲目跟着美国跑”",
+          "url": "https://news.ifeng.com/c/8sZFDagj9Cb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 15时54分]"
+        },
+        {
+          "title": "媒体：日本破罐子破摔 中国怎么办",
+          "url": "https://www.toutiao.com/trending/7631437051548565540/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
+        },
+        {
+          "title": "臭名昭著的日本“特高课”或要重现",
+          "url": "https://www.baidu.com/s?wd=%E8%87%AD%E5%90%8D%E6%98%AD%E8%91%97%E7%9A%84%E6%97%A5%E6%9C%AC%E2%80%9C%E7%89%B9%E9%AB%98%E8%AF%BE%E2%80%9D%E6%88%96%E8%A6%81%E9%87%8D%E7%8E%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            2,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 17时27分]"
+        },
+        {
+          "title": "日本3月CPI(除生鲜食品及能源)同比 2.4%，预期 2.4%，前值 2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3093576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "日本3月CPI(除生鲜食品)同比 1.8%，预期 1.7%，前值 1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3093575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "日本经济产业省：因伊朗危机，日本将释放580万千升国家石油储备，将于5月1日起开始释放部分石油储备。",
+          "url": "https://flash.jin10.com/detail/20260424130734803800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "日本3月CPI同比 1.5%，预期 1.4%，前值 1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3093574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "中方：绝不允许日本军国主义死灰复燃",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%AD%BB%E7%81%B0%E5%A4%8D%E7%87%83",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时03分]"
+        },
+        {
+          "title": "日本卖的是战舰 澳大利亚买的是祸害",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8D%96%E7%9A%84%E6%98%AF%E6%88%98%E8%88%B0+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%B9%B0%E7%9A%84%E6%98%AF%E7%A5%B8%E5%AE%B3",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 19时03分]"
+        },
+        {
+          "title": "日本3月全国未季调CPI月率 0.4%，前值-0.6%。",
+          "url": "https://flash.jin10.com/detail/20260424073053248800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "日本经济产业省：受伊朗危机影响，将自5月1日起开始释放580万千升国家石油储备。",
+          "url": "https://wallstreetcn.com/livenews/3093720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "日本破罐子破摔 中国怎么办",
+          "url": "https://www.toutiao.com/trending/7631437051548565540/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "日本3月全国CPI年率 1.5%，预期1.40%，前值1.30%。",
+          "url": "https://flash.jin10.com/detail/20260424073002772800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "日本3月核心CPI年率 1.8%，预期1.8%，前值1.60%。",
+          "url": "https://flash.jin10.com/detail/20260424073002766800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "日本3月核心CPI年率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260424072000000800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "我使馆提醒公民近期避免前往日本",
+          "url": "https://www.toutiao.com/trending/7631708169336848427/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 15时54分]"
+        },
+        {
+          "title": "中方三个“绝不”回应日本涉军动向",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%B8%89%E4%B8%AA%E2%80%9C%E7%BB%9D%E4%B8%8D%E2%80%9D%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%B6%89%E5%86%9B%E5%8A%A8%E5%90%91",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 23时04分]"
+        },
+        {
+          "title": "日本军事妄动不断 多国“亮剑”示警",
+          "url": "https://www.toutiao.com/trending/7632085337808486446/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 07时41分]"
+        },
+        {
+          "title": "凯投宏观：日本央行最早可能在6月加息",
+          "url": "https://flash.jin10.com/detail/20260424093905417800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "日本成立Mythos工作小组 以保障金融系统网络安全",
+          "url": "https://wallstreetcn.com/livenews/3093811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "澳大利亚LNG工厂工人支持罢工 恐影响日本能源供应",
+          "url": "https://flash.jin10.com/detail/20260424171152220800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "日本推进将航空自卫队整编为“航空宇宙自卫队”",
+          "url": "https://wallstreetcn.com/livenews/3093704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "媒体：日本正重演二战前行径",
+          "url": "https://www.toutiao.com/trending/7632286822210945060/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "日本强震后已发生28次有感地震",
+          "url": "https://flash.jin10.com/detail/20260424124621846800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "机构：日本央行的举措将取决于通胀是否蔓延至除能源以外的其他领域",
+          "url": "https://flash.jin10.com/detail/20260424123952160800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "石破茂：日本不能“盲目跟着美国跑”",
+          "url": "https://www.toutiao.com/trending/7631816452584407103/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：目前看来没有必要追加预算，必要时可动用储备资金。",
+          "url": "https://wallstreetcn.com/livenews/3093602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "日本首相高市早苗：敦促内阁寻求新的石油进口来源。 5月约60%的原油进口将绕开霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3093874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "菲律宾总统将访问日本",
+          "url": "https://www.toutiao.com/trending/7632271215973154859/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "港股芯片股午后持续走高，华虹半导体涨超17%，中芯国际涨超10%，天数智芯涨超8%。",
@@ -722,7 +779,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -771,6 +828,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "中东断供危机蔓延至半导体",
+          "url": "https://www.toutiao.com/trending/7631248234406248498/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "恒生科技指数转涨，华虹半导体大涨逾12%，中芯国际涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3093699",
           "source": "华尔街见闻-快讯",
@@ -802,6 +870,131 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "宇树人形机器人解锁轮子形态",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A7%A3%E9%94%81%E8%BD%AE%E5%AD%90%E5%BD%A2%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 07时41分]"
+        },
+        {
+          "title": "当机器人的脚变成轮子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%84%9A%E5%8F%98%E6%88%90%E8%BD%AE%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            7,
+            17,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 23时04分]"
+        },
+        {
+          "title": "高校演出机器人突然拥抱女生",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%BC%94%E5%87%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AA%81%E7%84%B6%E6%8B%A5%E6%8A%B1%E5%A5%B3%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            5,
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 21时12分]"
+        },
+        {
+          "title": "机器人上岗劝阻挖婆婆丁",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%B2%97%E5%8A%9D%E9%98%BB%E6%8C%96%E5%A9%86%E5%A9%86%E4%B8%81",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 15时54分]"
+        },
+        {
+          "title": "中国电网开启近100亿具身智能设备采购与投资，机器人应用打开新空间",
+          "url": "https://www.cls.cn/detail/2354279",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 17时27分]"
+        },
+        {
+          "title": "小鹏飞行汽车和人形机器人将于今年量产",
+          "url": "https://wallstreetcn.com/livenews/3093625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "英特尔(INTC.O)CEO：人工智能正通过物理人工智能、机器人和边缘人工智能进入现实世界。CPU重新成为人工智能的基础。",
+          "url": "https://flash.jin10.com/detail/20260424051740128800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "小鹏飞行汽车和人形机器人将于今年量产",
+          "url": "https://flash.jin10.com/detail/20260424093141666800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "机器人跑马拉松难在哪",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E9%9A%BE%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "张予曦与荣耀机器人“闪电”赛跑",
+          "url": "https://www.toutiao.com/trending/7631400162364850217/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
@@ -912,122 +1105,8 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "宇树人形机器人解锁轮子形态",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A7%A3%E9%94%81%E8%BD%AE%E5%AD%90%E5%BD%A2%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 07时41分]"
-        },
-        {
-          "title": "高校演出机器人突然拥抱女生",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%BC%94%E5%87%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AA%81%E7%84%B6%E6%8B%A5%E6%8A%B1%E5%A5%B3%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            5,
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 21时12分]"
-        },
-        {
-          "title": "当机器人的脚变成轮子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%84%9A%E5%8F%98%E6%88%90%E8%BD%AE%E5%AD%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            7,
-            17,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时08分 ~ 21时12分]"
-        },
-        {
-          "title": "机器人上岗劝阻挖婆婆丁",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%B2%97%E5%8A%9D%E9%98%BB%E6%8C%96%E5%A9%86%E5%A9%86%E4%B8%81",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时54分]"
-        },
-        {
-          "title": "中国电网开启近100亿具身智能设备采购与投资，机器人应用打开新空间",
-          "url": "https://www.cls.cn/detail/2354279",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时27分]"
-        },
-        {
-          "title": "小鹏飞行汽车和人形机器人将于今年量产",
-          "url": "https://wallstreetcn.com/livenews/3093625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "英特尔(INTC.O)CEO：人工智能正通过物理人工智能、机器人和边缘人工智能进入现实世界。CPU重新成为人工智能的基础。",
-          "url": "https://flash.jin10.com/detail/20260424051740128800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "小鹏飞行汽车和人形机器人将于今年量产",
-          "url": "https://flash.jin10.com/detail/20260424093141666800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "张予曦与荣耀机器人“闪电”赛跑",
-          "url": "https://www.toutiao.com/trending/7631400162364850217/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 4月23日（周四）晚盘收盘下跌0.18%报1037.83元/克；<br/>上海黄金交易所白银T+D 4月23日（周四）晚盘收盘下跌0.95%报18907.0元/千克。",
@@ -1047,11 +1126,23 @@
           "ranks": [
             21,
             22,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 21时12分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 23时04分]"
+        },
+        {
+          "title": "金价跌破神话了吗",
+          "url": "https://www.toutiao.com/trending/7632294513389604393/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "金价何时迎来阶段性反弹",
@@ -1187,7 +1278,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "员工用私人微信创建 600 多个客户群，离职后认为该账号应属自己拒绝交接，这种情况账号该归属谁？",
@@ -1213,8 +1304,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 21时12分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 23时04分]"
         },
         {
           "title": "设计师办公室猝死微信定格在凌晨3点",
@@ -1238,6 +1329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "bilibili洛神杯选人之夜",
+          "url": "https://search.bilibili.com/all?keyword=bilibili%E6%B4%9B%E7%A5%9E%E6%9D%AF%E9%80%89%E4%BA%BA%E4%B9%8B%E5%A4%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         }
       ]
     },
@@ -1251,11 +1353,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 21时12分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 23时04分]"
         },
         {
           "title": "Meta 强制监控员工的鼠标和键盘用于训练 AI，如何看待这种强制「蒸馏」行为？涉嫌违法吗？",
