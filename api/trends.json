@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T06:36:06.414255+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-04-25T07:36:27.090998+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时36分]"
         },
         {
           "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
@@ -49,11 +49,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时36分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -64,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时36分]"
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 07时36分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股收盘）",
@@ -76,8 +77,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时36分]"
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 07时36分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
@@ -91,17 +92,41 @@
           "time_info": "00时51分"
         },
         {
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时35分 ~ 07时36分]"
+        },
+        {
           "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨超2%领跑",
           "url": "https://wallstreetcn.com/livenews/3094292",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
             17,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时36分]"
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 07时36分]"
+        },
+        {
+          "title": "英特尔Q1财报 ，狠狠打了华尔街的脸",
+          "url": "https://wallstreetcn.com/articles/3770776",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         },
         {
           "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
@@ -125,8 +150,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时36分]"
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 07时36分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（4月24日），美国科技股七巨头（Magnificent 7）指数涨2.08%，报213.18点，本周累计上涨1.19%。 “超大”市值科技股指数涨3.04%，报421.45点，本周累涨2.94%。",
@@ -134,22 +159,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时36分]"
-        },
-        {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 06时36分]"
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时36分]"
         },
         {
           "title": "核反应堆科技公司X-Energy(XE.O)美股IPO首日开盘报30.11美元，其IPO发行价为每股23美元。",
@@ -174,11 +189,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时36分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -297,30 +313,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时36分]"
         },
         {
           "title": "美伊有望重回谈判，标普、纳指齐新高，半导体连涨18日，英特尔暴涨24%，原油调整",
           "url": "https://wallstreetcn.com/articles/3770804",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 06时36分]"
+          "appearance_count": 3,
+          "time_info": "[06时35分 ~ 07时36分]"
         },
         {
           "title": "“大空头”Michael Burry买入半导体ETF看跌期权，“我知道费城半导体指数会回落”",
           "url": "https://wallstreetcn.com/livenews/3094317",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时36分]"
         },
         {
           "title": "英伟达涨4.3%，自10月份以来首次创收盘历史新高。 英特尔涨24%，创1987年以来最佳单日表现。 费城半导体指数涨4.3%，连续上涨18个交易日",
@@ -395,8 +413,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时36分]"
         },
         {
           "title": "金价跌破神话了吗",
@@ -406,8 +424,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时36分]"
         },
         {
           "title": "金价跌破新低",
@@ -425,6 +443,18 @@
           "time_info": "[01时46分 ~ 05时43分]"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX白银期货投机性净多头寸减少2184手至8863手。",
+          "url": "https://flash.jin10.com/detail/20260425033333730800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 07时36分]"
+        },
+        {
           "title": "铜价小幅走低，市场关注伊美或重启谈判",
           "url": "https://wallstreetcn.com/livenews/3094222",
           "source": "华尔街见闻-快讯",
@@ -435,18 +465,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 02时42分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX白银期货投机性净多头寸减少2184手至8863手。",
-          "url": "https://flash.jin10.com/detail/20260425033333730800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时36分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：4月21日当周，投机者所持COMEX黄金净多头头寸减少3,352手合约，至95,498手合约。 所持COMEX白银净多头头寸降低至8,863手合约，创七周新低。 所持COMEX铜净多头头寸增至59,132手合约，创逾三个月新高。 减持NYMEX铂金净多头头寸。 增持NYMEX钯金净空头头寸。",
@@ -490,8 +508,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时36分]"
         },
         {
           "title": "中方三个“绝不”回应日本涉军动向",
@@ -503,8 +521,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时36分]"
         }
       ]
     },
@@ -556,8 +574,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时36分]"
         }
       ]
     },
@@ -577,8 +595,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时36分]"
         }
       ]
     }
