@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T17:47:29.919401+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-04-25T18:39:59.821761+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时35分 ~ 17时47分]"
+          "appearance_count": 11,
+          "time_info": "[06时35分 ~ 18时39分]"
         },
         {
           "title": "英特尔财报大超预期盘前涨超30% 最新工作站CPU、GPU发布 高管预计缺货仍将持续",
@@ -43,11 +43,12 @@
             7,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时50分 ~ 17时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时50分 ~ 18时39分]"
         },
         {
           "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
@@ -72,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 17时47分]"
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 18时39分]"
         },
         {
           "title": "美股期指涨跌不一 英特尔盘前一度大涨30% | 今夜看点",
@@ -227,8 +228,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 17时47分]"
+          "appearance_count": 5,
+          "time_info": "[14时19分 ~ 18时39分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -348,8 +349,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时35分 ~ 17时47分]"
+          "appearance_count": 11,
+          "time_info": "[06时35分 ~ 18时39分]"
         },
         {
           "title": "【每日收评】沪指午后探底回升小幅收跌，锂电、芯片产业链逆势爆发，算力硬件股持续调整",
@@ -383,11 +384,12 @@
           "url": "https://wallstreetcn.com/articles/3770867",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 18时39分]"
         },
         {
           "title": "英伟达涨4.3%，自10月份以来首次创收盘历史新高。 英特尔涨24%，创1987年以来最佳单日表现。 费城半导体指数涨4.3%，连续上涨18个交易日",
@@ -589,7 +591,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "臭名昭著的日本“特高课”或要重现",
@@ -633,6 +635,20 @@
           "time_info": "[00时50分 ~ 07时36分]"
         },
         {
+          "title": "明查｜日本自卫队坦克炸膛涉“中国制造”？型号搞错了，且此“中国”非中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044133",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时36分 ~ 18时39分]"
+        },
+        {
           "title": "“日本已变成一个非常离谱的国家”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%8F%98%E6%88%90%E4%B8%80%E4%B8%AA%E9%9D%9E%E5%B8%B8%E7%A6%BB%E8%B0%B1%E7%9A%84%E5%9B%BD%E5%AE%B6%E2%80%9D",
           "source": "百度热搜",
@@ -640,24 +656,12 @@
             10,
             1,
             4,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 17时47分]"
-        },
-        {
-          "title": "明查｜日本自卫队坦克炸膛涉“中国制造”？型号搞错了，且此“中国”非中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044133",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 17时47分]"
+          "appearance_count": 7,
+          "time_info": "[12时36分 ~ 18时39分]"
         },
         {
           "title": "日本自卫队坦克炸膛涉“中国制造”？且此“中国”非中国",
@@ -667,8 +671,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 17时47分]"
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 18时39分]"
+        },
+        {
+          "title": "日本坦克炸膛事故致3死，“太罕见了，几乎闻所未闻”",
+          "url": "https://news.ifeng.com/c/8sc6RwBtyFp",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "日本“新型军国主义”恶苗滋长速度惊人，外交部：殷鉴不远，不可不察",
@@ -689,7 +704,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         }
@@ -704,11 +719,12 @@
           "url": "https://flash.jin10.com/detail/20260425162059332800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 18时39分]"
         },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
@@ -802,11 +818,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 17时47分]"
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 18时39分]"
         }
       ]
     },
