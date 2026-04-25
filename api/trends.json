@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T09:58:37.476433+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-04-25T12:37:04.258607+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 09时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 12时37分]"
         },
         {
           "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
@@ -54,8 +55,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 09时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 12时37分]"
+        },
+        {
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时35分 ~ 12时37分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -82,17 +96,16 @@
           "time_info": "[04时41分 ~ 07时36分]"
         },
         {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
+          "title": "贵州茅台Q1营收、净利双增，“i茅台”营收达215亿元，占比达40% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770830",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            4,
-            2
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时35分 ~ 09时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时37分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
@@ -130,17 +143,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 07时36分]"
-        },
-        {
-          "title": "贵州茅台Q1营收、净利双增，“i茅台”营收达215亿元，占比达40% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
         },
         {
           "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
@@ -316,7 +318,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【每日收评】沪指午后探底回升小幅收跌，锂电、芯片产业链逆势爆发，算力硬件股持续调整",
@@ -336,11 +338,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时35分 ~ 09时58分]"
+          "appearance_count": 6,
+          "time_info": "[06时35分 ~ 12时37分]"
         },
         {
           "title": "“大空头”Michael Burry买入半导体ETF看跌期权，“我知道费城半导体指数会回落”",
@@ -349,11 +352,12 @@
           "ranks": [
             4,
             7,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时36分 ~ 09时58分]"
+          "appearance_count": 4,
+          "time_info": "[06时36分 ~ 12时37分]"
         },
         {
           "title": "英伟达涨4.3%，自10月份以来首次创收盘历史新高。 英特尔涨24%，创1987年以来最佳单日表现。 费城半导体指数涨4.3%，连续上涨18个交易日",
@@ -377,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "上峰水泥：公司新经济股权投资聚焦于半导体、新材料、新能源等科创产业",
+          "url": "https://flash.jin10.com/detail/20260425103748205800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "标普500指数收涨56.68点，涨幅0.80%，报7165.08点，时隔一个交易日再创收盘历史新高，本周累计上涨0.55%，整体呈现出三波V形走势。 道琼斯工业平均指数收跌79.61点，跌幅0.16%，报49230.71点，本周累跌0.44%。 纳斯达克综合指数（纳指）收涨398.094点，涨幅1.63%，报24836.599点，时隔一天再创收盘历史新高，本周累涨1.50%。 纳斯达克100指数收涨521.042点，涨幅1.95%，报27303.667点，时隔一天再创收盘历史新高，本周累涨2.37%。 纳斯达克科技市值加权指数收涨2.81%，报2598.6001点，也时隔一天再创收盘历史新高，本周累涨3.56%。 费城半导体指数收涨435.092点，涨幅4.32%，报10513.664点，本周累涨10.02%，3月30日结束交易以来已累计上涨47.20%。 费城证交所KBW银行指数收跌1.34%，报167.26点，本周累跌1.20%。 道琼斯KBW地区银行指数收跌1.54%，报133.40点，本周累跌2.13%。 罗素2000指数收涨0.43%，报2787.001点，本周累涨0.36%。 纳斯达克生物科技指数收跌1.10%，报5899.27点，本周累跌3.79%，整体持续走低。 标普中盘股400指数收涨0.22%，本周累跌0.14%；纳斯达克美国中等市值指数跌0.27%，本周累跌0.98%。 恐慌指数VIX收跌3.21%，报18.69，本周累涨6.92%，北京时间4月24日01:15曾经拉升至21.56。",
@@ -415,7 +430,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "国际金价银价下跌",
@@ -494,6 +509,17 @@
           "time_info": "[04时41分 ~ 05时43分]"
         },
         {
+          "title": "金价跌至近期新低",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3%E8%BF%91%E6%9C%9F%E6%96%B0%E4%BD%8E%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 12时37分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 4月24日（周五）晚盘收盘上涨0.58%报1040.12元/克；<br/>上海黄金交易所白银T+D 4月24日（周五）晚盘收盘上涨1.0%报18855.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260425023337315800",
           "source": "金十数据",
@@ -511,7 +537,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         }
@@ -519,7 +545,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "臭名昭著的日本“特高课”或要重现",
@@ -558,9 +584,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时37分]"
+        },
+        {
+          "title": "“日本已变成一个非常离谱的国家”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%8F%98%E6%88%90%E4%B8%80%E4%B8%AA%E9%9D%9E%E5%B8%B8%E7%A6%BB%E8%B0%B1%E7%9A%84%E5%9B%BD%E5%AE%B6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 12时37分]"
         },
         {
           "title": "日本自卫队坦克炸膛涉“中国制造”？且此“中国”非中国",
@@ -569,16 +606,38 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时37分]"
+        },
+        {
+          "title": "明查｜日本自卫队坦克炸膛涉“中国制造”？型号搞错了，且此“中国”非中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044133",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 12时37分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "黄仁勋要求英伟达所有员工用OpenAI",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A6%81%E6%B1%82%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%94%A8OpenAI",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 12时37分]"
+        },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
           "url": "https://www.toutiao.com/trending/7632491668544949786/",
@@ -586,7 +645,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -608,7 +667,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         }
@@ -628,22 +687,24 @@
             14,
             19,
             16,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 09时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 12时37分]"
         },
         {
           "title": "运动会上机器人突然抱住女生",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E4%BC%9A%E4%B8%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AA%81%E7%84%B6%E6%8A%B1%E4%BD%8F%E5%A5%B3%E7%94%9F%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时37分]"
         }
       ]
     },
@@ -675,11 +736,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            4
+            4,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 09时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 12时37分]"
         }
       ]
     }
