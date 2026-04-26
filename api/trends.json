@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T22:03:38.438902+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-04-26T23:38:47.938997+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -69,11 +69,12 @@
             10,
             11,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时36分 ~ 22时03分]"
+          "appearance_count": 24,
+          "time_info": "[00时36分 ~ 23时38分]"
         },
         {
           "title": "日本大槌町山火逼近住宅区",
@@ -151,7 +152,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
@@ -197,11 +198,12 @@
           "url": "https://wallstreetcn.com/articles/3770785",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 22时03分]"
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 23时38分]"
         },
         {
           "title": "美股原油和半导体ETF“历史级别资金流出”，大赚之后有人已选择“套现离场”",
@@ -223,8 +225,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 22时03分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 23时38分]"
+        },
+        {
+          "title": "金十数据整理：下周重要事件与数据预告——超级央行周叠加超级财报周来袭",
+          "url": "https://flash.jin10.com/detail/20260426224335824800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         }
       ]
     },
@@ -384,8 +397,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时21分 ~ 22时03分]"
+          "appearance_count": 11,
+          "time_info": "[15时21分 ~ 23时38分]"
         }
       ]
     }
