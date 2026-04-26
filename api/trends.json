@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T07:33:36.245895+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-04-26T10:11:54.897765+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 10时11分]"
         },
         {
           "title": "明查｜日本自卫队坦克炸膛涉“中国制造”？型号搞错了，且此“中国”非中国",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 10时11分]"
         },
         {
           "title": "日本修订「武器出口三原则」核心条款，武器出口类型不再受限，此举会对全球经贸和日本经济产生何种影响？",
@@ -58,39 +58,42 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 10时11分]"
         },
         {
           "title": "日本政府拟修改自卫队“官阶”名称引质疑",
           "url": "https://m.thepaper.cn/newsDetail_forward_33053555",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 10时11分]"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
           "url": "https://www.cls.cn/detail/2355589",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 10时11分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -116,6 +119,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时36分 ~ 06时32分]"
+        },
+        {
+          "title": "美股原油和半导体ETF“历史级别资金流出”，大赚之后有人已选择“套现离场”",
+          "url": "https://wallstreetcn.com/articles/3770879",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "环球下周看点：七巨头密集发布财报 鲍威尔或迎“最后一舞”",
+          "url": "https://www.cls.cn/detail/2355800",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
@@ -163,38 +188,8 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "人形机器人除了表演还能干什么？交管机器人已经走进路口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33045926",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 06时32分]"
-        },
-        {
-          "title": "当机器人的脚变成轮子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%84%9A%E5%8F%98%E6%88%90%E8%BD%AE%E5%AD%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -208,6 +203,47 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时36分 ~ 07时33分]"
+        },
+        {
+          "title": "谷歌云CEO：自研TPU构筑竞争护城河，第八代芯片即将发布，外部需求已超供给上限",
+          "url": "https://wallstreetcn.com/articles/3770884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "人形机器人除了表演还能干什么？交管机器人已经走进路口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33045926",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 10时11分]"
+        },
+        {
+          "title": "当机器人的脚变成轮子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%84%9A%E5%8F%98%E6%88%90%E8%BD%AE%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }
