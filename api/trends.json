@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-28T05:53:12.702099+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-04-28T06:46:41.711774+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
-          "url": "https://wallstreetcn.com/articles/3770961",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时53分]"
-        },
         {
           "title": "“超级星期四”来了！美联储上演“鲍威尔最后一舞”，四巨头罕见同日发财报",
           "url": "https://wallstreetcn.com/articles/3770930",
@@ -26,16 +15,15 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 06时46分]"
         },
         {
-          "title": "锂电添加剂量价齐升 富祥药业一季度净利润同比增长逾26倍|财报解读",
-          "url": "https://www.cls.cn/detail/2357147",
-          "source": "财联社热门",
+          "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -49,8 +37,43 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 06时46分]"
+        },
+        {
+          "title": "锂电添加剂量价齐升 富祥药业一季度净利润同比增长逾26倍|财报解读",
+          "url": "https://www.cls.cn/detail/2357147",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 06时46分]"
+        },
+        {
+          "title": "科技巨头财报周前夕，美股高位徘徊，英伟达续涨4%，油价攀升施压市场，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
+          "url": "https://www.cls.cn/detail/2357399",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         },
         {
           "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -80,11 +103,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时46分]"
         },
         {
           "title": "周一（4月27日），美股行业ETF涨跌各异，全球航空业ETF收跌1.81%，日常消费品ETF跌1.07%，可选消费ETF跌0.72%，半导体ETF跌0.04%。 科技行业ETF、全球科技股指数ETF至多涨0.31%，银行业ETF涨1.39%，区域银行ETF涨1.71%。",
@@ -92,11 +116,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时46分]"
+        },
+        {
+          "title": "美股收盘：英伟达涨4%创新高",
+          "url": "https://flash.jin10.com/detail/20260428040039049800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时46分]"
         },
         {
           "title": "美股三大指数集体低开 高通涨逾6%",
@@ -109,18 +147,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时11分 ~ 05时53分]"
-        },
-        {
-          "title": "美股收盘：英伟达涨4%创新高",
-          "url": "https://flash.jin10.com/detail/20260428040039049800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时53分]"
         },
         {
           "title": "Rambus一季度调整后每股收益（EPS）为0.55美元，运营利润率34%。 预计二季度产品营收0.95亿-1.01亿美元，合同与其他收入0.19亿-0.25亿美元，许可订单0.76亿-0.82亿美元。 Rambus美股盘后涨4%。",
@@ -243,6 +269,58 @@
       ]
     },
     {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科创50大涨超3%，芯片半导体集体拉升，PCB概念爆发，立讯精密触及涨停，恒指午后转跌，中芯国际涨6%",
+          "url": "https://wallstreetcn.com/articles/3770943",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 06时46分]"
+        },
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 06时46分]"
+        },
+        {
+          "title": "MSCI新兴市场股票指数收涨1.2%，突破美国与以色列发动伊朗战争之前出现的顶部，台积电、SK海力士等亚洲半导体概念股贡献突出。 MSCI新兴市场外汇指数涨0.3%，马来西亚林吉特、泰国泰铢、以色列谢克尔等货币涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3095250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "英伟达涨超3%，刷新盘中历史高位至215美元上方，盘中市值5.22万亿美元。费城半导体指数目前跌超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3095167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "稳定币 日本",
       "match_count": 4,
       "titles": [
@@ -255,8 +333,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 06时46分]"
         },
         {
           "title": "日本人不愿相信中国座椅给手机充电",
@@ -266,8 +344,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 06时46分]"
         },
         {
           "title": "日本就“安保三文件”修订召开首次专家会议",
@@ -294,46 +372,6 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "科创50大涨超3%，芯片半导体集体拉升，PCB概念爆发，立讯精密触及涨停，恒指午后转跌，中芯国际涨6%",
-          "url": "https://wallstreetcn.com/articles/3770943",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时53分]"
-        },
-        {
-          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2357129",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时53分]"
-        },
-        {
-          "title": "英伟达涨超3%，刷新盘中历史高位至215美元上方，盘中市值5.22万亿美元。费城半导体指数目前跌超1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3095167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
       "match_count": 3,
       "titles": [
@@ -353,11 +391,12 @@
           "url": "https://wallstreetcn.com/livenews/3095233",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时46分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月27日（周一）晚盘收盘下跌0.47%报1032.5元/克；<br/>上海黄金交易所白银T+D 4月27日（周一）晚盘收盘下跌0.49%报18658.0元/千克。",
@@ -384,8 +423,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 06时46分]"
         },
         {
           "title": "追觅 CEO 连续发文炮轰小红书是非常非常烂的平台，称其肆意推送各种未经证实的假消息，究竟是怎么回事？",
@@ -395,11 +434,12 @@
             5,
             4,
             14,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 06时46分]"
         },
         {
           "title": "追觅CEO连发三条微博怒批小红书：非常非常烂的平台",
@@ -409,8 +449,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 06时46分]"
         }
       ]
     },
@@ -428,8 +468,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 06时46分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.81%，暂报2646.68点。 MarketVectorTM数字资产100中盘指数跌2.67%，报2840.14点。 MarketVector数字资产100指数跌1.88%，报15109.57点。 目前，Solana跌2.99%，狗狗币跌1.90%，XRP跌3.13%。 比特币跌2.08%，暂报76615.68美元；以太坊跌3.81%，暂报2277.61美元。",
@@ -452,6 +492,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
+          "url": "https://flash.jin10.com/detail/20260428054512315800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         }
       ]
     }
