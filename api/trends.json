@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T13:50:16.153730+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-04-27T16:14:00.768258+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "赛博抗日升级,日本人破防",
@@ -25,11 +25,12 @@
           "url": "https://www.toutiao.com/trending/7632621324674727978/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 16时14分]"
         },
         {
           "title": "过航台海后 日本又到南海搞什么事",
@@ -90,7 +91,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -107,6 +108,30 @@
           "time_info": "[06时34分 ~ 07时35分]"
         },
         {
+          "title": "日本2025年“孤独死”人数超2.2万人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058987",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 16时14分]"
+        },
+        {
+          "title": "过航台海后日本又到南海搞什么事",
+          "url": "https://www.toutiao.com/trending/7632303627198119979/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 16时14分]"
+        },
+        {
           "title": "随着利率上升，日本东京二手公寓市场降温",
           "url": "https://flash.jin10.com/detail/20260427051244528800",
           "source": "金十数据",
@@ -119,26 +144,15 @@
           "time_info": "[06时34分 ~ 07时35分]"
         },
         {
-          "title": "日本2025年“孤独死”人数超2.2万人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058987",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
-        },
-        {
-          "title": "过航台海后日本又到南海搞什么事",
-          "url": "https://www.toutiao.com/trending/7632303627198119979/",
+          "title": "大佐复活？日本被批捡军国主义符号",
+          "url": "https://www.toutiao.com/trending/7632667273664954374/",
           "source": "今日头条",
           "ranks": [
-            24
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "time_info": "[16时13分 ~ 16时14分]"
         },
         {
           "title": "日本图谋“甩卖”旧装备给菲壮胆",
@@ -158,7 +172,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -180,7 +194,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -213,7 +227,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -224,7 +238,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -235,7 +249,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -246,7 +260,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         }
@@ -254,7 +268,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "下周重磅日程：重磅会议+超级央行周+超级财报周！美日央行决议、MAG7业绩密集轰炸",
@@ -270,6 +284,18 @@
           "time_info": "[00时37分 ~ 07时35分]"
         },
         {
+          "title": "本周重磅日程：重磅会议+超级央行周+超级财报周！美日央行决议、MAG7业绩密集轰炸",
+          "url": "https://wallstreetcn.com/articles/3770785",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 16时14分]"
+        },
+        {
           "title": "环球下周看点：七巨头密集发布财报 鲍威尔或迎“最后一舞”",
           "url": "https://www.cls.cn/detail/2355800",
           "source": "财联社热门",
@@ -282,18 +308,6 @@
           "time_info": "[00时37分 ~ 07时35分]"
         },
         {
-          "title": "本周重磅日程：重磅会议+超级央行周+超级财报周！美日央行决议、MAG7业绩密集轰炸",
-          "url": "https://wallstreetcn.com/articles/3770785",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时50分]"
-        },
-        {
           "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
           "url": "https://wallstreetcn.com/articles/3770921",
           "source": "华尔街见闻",
@@ -302,8 +316,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 16时14分]"
         },
         {
           "title": "就在下周四！科技四巨头同日财报，暴涨的AI面临“验证时刻”",
@@ -311,11 +325,34 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 16时14分]"
+        },
+        {
+          "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
+          "url": "https://www.cls.cn/detail/2356401",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时14分]"
+        },
+        {
+          "title": "“超级星期四”来了！美联储上演“鲍威尔最后一舞”，四巨头罕见同日发财报",
+          "url": "https://wallstreetcn.com/articles/3770930",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时14分]"
         },
         {
           "title": "美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。",
@@ -366,7 +403,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -377,7 +414,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -427,11 +464,12 @@
           "url": "https://www.zhihu.com/question/2032052994884071504",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 16时14分]"
         },
         {
           "title": "追觅CEO俞浩连发三文炮轰小红书",
@@ -496,7 +534,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         }
