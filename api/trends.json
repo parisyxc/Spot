@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-29T20:14:46.521889+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-04-29T23:08:32.904320+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时51分 ~ 23时08分]"
+        },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
           "url": "https://www.cls.cn/detail/2358592",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时43分 ~ 07时52分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时51分 ~ 20时14分]"
         },
         {
           "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
@@ -69,6 +69,19 @@
           "time_info": "[06时52分 ~ 13时50分]"
         },
         {
+          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771162",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 23时08分]"
+        },
+        {
           "title": "推迟披露 五粮液财报为何临时 “踩刹车”？",
           "url": "https://www.cls.cn/detail/2358765",
           "source": "财联社热门",
@@ -80,18 +93,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时04分 ~ 13时50分]"
-        },
-        {
-          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771162",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 20时14分]"
         },
         {
           "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
@@ -151,6 +152,17 @@
           "time_info": "06时53分"
         },
         {
+          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2360001",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
           "url": "https://flash.jin10.com/detail/20260429025003263800",
           "source": "金十数据",
@@ -160,6 +172,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 23时08分]"
         },
         {
           "title": "希捷财报公布后，盘后涨17%，带动西部数据(WDC.O)涨10%，闪迪(SNDK.O)涨4%，美光科技(MU.O)涨2.7%。",
@@ -229,17 +264,6 @@
           "time_info": "05时04分"
         },
         {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
           "title": "美股七巨头收盘播报｜周二（4月28日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报214.75点，跳空低开之后，快速收复失地，随后再次扩大跌幅，又再次逐步收窄失地。 “超大”市值科技股指数跌1.10%，报416.16点，整体低位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3096026",
           "source": "华尔街见闻-快讯",
@@ -265,7 +289,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "高市称为长期战争做好准备，外交部：日本是不是要重蹈历史覆辙？",
@@ -291,11 +315,12 @@
             14,
             18,
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时43分 ~ 20时14分]"
+          "appearance_count": 15,
+          "time_info": "[01时43分 ~ 23时08分]"
         },
         {
           "title": "白士杰将携日本侵华军事档案回国",
@@ -318,11 +343,40 @@
           "source": "今日头条",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 20时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 23时08分]"
+        },
+        {
+          "title": "偷国再现,宇树机器狗成日本货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353878&amp;topic_name=%E5%81%B7%E5%9B%BD%E5%86%8D%E7%8E%B0%2C%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E7%8B%97%E6%88%90%E6%97%A5%E6%9C%AC%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 23时08分]"
+        },
+        {
+          "title": "国人赏槟榔,日本学生嚼到沉迷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353858&amp;topic_name=%E5%9B%BD%E4%BA%BA%E8%B5%8F%E6%A7%9F%E6%A6%94%2C%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E5%9A%BC%E5%88%B0%E6%B2%89%E8%BF%B7",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9,
+            13,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 23时08分]"
         },
         {
           "title": "法国小伙将携日本侵华军事档案回国",
@@ -338,30 +392,28 @@
           "time_info": "[06时52分 ~ 13时50分]"
         },
         {
-          "title": "偷国再现,宇树机器狗成日本货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353878&amp;topic_name=%E5%81%B7%E5%9B%BD%E5%86%8D%E7%8E%B0%2C%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E7%8B%97%E6%88%90%E6%97%A5%E6%9C%AC%E8%B4%A7",
-          "source": "贴吧",
+          "title": "中国军号：日本出兵都是作死",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%87%BA%E5%85%B5%E9%83%BD%E6%98%AF%E4%BD%9C%E6%AD%BB",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            3
+            14,
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 20时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 23时08分]"
         },
         {
-          "title": "国人赏槟榔,日本学生嚼到沉迷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353858&amp;topic_name=%E5%9B%BD%E4%BA%BA%E8%B5%8F%E6%A7%9F%E6%A6%94%2C%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E5%9A%BC%E5%88%B0%E6%B2%89%E8%BF%B7",
-          "source": "贴吧",
+          "title": "日元跌破160关键关口，交易员关注日本央行下一步行动",
+          "url": "https://flash.jin10.com/detail/20260429224905615800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            9,
-            13,
-            14
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 20时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "日本广岛爆炸现场视频",
@@ -375,16 +427,29 @@
           "time_info": "10时29分"
         },
         {
-          "title": "中国军号：日本出兵都是作死",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%87%BA%E5%85%B5%E9%83%BD%E6%98%AF%E4%BD%9C%E6%AD%BB",
-          "source": "百度热搜",
+          "title": "日本举办战争加害图文展，民众流泪向中国道歉",
+          "url": "https://news.ifeng.com/c/8six5Zok88g",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            2
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时52分 ~ 20时14分]"
+          "time_info": "[20时14分 ~ 23时08分]"
+        },
+        {
+          "title": "明查｜榫卯技术“日本特有”？非也",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33071522",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 23时08分]"
         },
         {
           "title": "日本福岛县野猪检出放射性铯超标",
@@ -399,18 +464,6 @@
           "time_info": "[03时26分 ~ 05时04分]"
         },
         {
-          "title": "明查｜榫卯技术“日本特有”？非也",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33071522",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 20时14分]"
-        },
-        {
           "title": "日本广岛爆炸事故现场画面",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2",
           "source": "百度热搜",
@@ -421,17 +474,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时29分 ~ 13时50分]"
-        },
-        {
-          "title": "日本举办战争加害图文展，民众流泪向中国道歉",
-          "url": "https://news.ifeng.com/c/8six5Zok88g",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
         },
         {
           "title": "据日本共同社：日本首相高市早苗将于周五出发，进行为期五天的越南和澳大利亚之行。",
@@ -495,6 +537,20 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时52分 ~ 23时08分]"
+        },
+        {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
           "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
@@ -508,30 +564,18 @@
           "time_info": "[01时43分 ~ 07时52分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时52分 ~ 20时14分]"
-        },
-        {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
           "url": "https://wallstreetcn.com/articles/3771182",
           "source": "华尔街见闻",
           "ranks": [
             10,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 20时14分]"
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 23时08分]"
         },
         {
           "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
@@ -771,11 +815,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 20时14分]"
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 23时08分]"
         },
         {
           "title": "微信朋友圈改版",
@@ -784,11 +829,12 @@
           "ranks": [
             11,
             10,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 20时14分]"
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 23时08分]"
         },
         {
           "title": "微信朋友圈改版",
@@ -846,11 +892,12 @@
           "url": "https://www.cls.cn/detail/2359468",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 20时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 23时08分]"
         },
         {
           "title": "【外媒称美国暂停向华虹供应半导体设备，外交部回应】4月29日，外交部发言人林剑主持例行记者会。有报道称，美国上周已要求多家芯片设备公司停止向中国第二大芯片制造商华虹半导体发货。中方对此有何评论？林剑强调，中方已多次表明了在美输华芯片问题上的原则立场，希望美方以实际行动维护全球产供链的稳定畅通。（北京日报）",
@@ -909,7 +956,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -968,7 +1015,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.59%，暂报2633.22点，北京时间07:55刷新日高至2688.46点，随后逐步下挫。 MarketVectorTM数字资产100中盘指数跌0.65%，报2834.73点。 MarketVector数字资产100指数跌0.52%，报15047.93点，08:48刷新日高至15274.89点，之后也逐步下挫。 目前，Solana跌0.70%，狗狗币涨1.97%，XRP涨1.11%。 比特币跌0.89%，暂报76078.21美元；以太坊跌0.02%，暂报2285.45美元。",
@@ -981,6 +1028,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 03时27分]"
+        },
+        {
+          "title": "蔚来李斌：不急于入局具身智能机器人，先观望再入场",
+          "url": "https://wallstreetcn.com/livenews/3096767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "颠覆式创新 指数级增长 创造性破坏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "指数级增长，2025年我国词元调用量约21100万亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33076784",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         }
       ]
     }
