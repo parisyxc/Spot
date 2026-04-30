@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-30T11:37:00.143258+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-04-30T14:25:00.368637+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "算力需求驱动，寒武纪Q1营收同比增160%，净利飙升185%，章建平退出十大股东｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771278",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时59分 ~ 14时25分]"
+        },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
           "url": "https://wallstreetcn.com/articles/3771095",
@@ -17,6 +31,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时23分 ~ 07时01分]"
+        },
+        {
+          "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时00分 ~ 14时25分]"
         },
         {
           "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
@@ -30,32 +56,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时23分 ~ 08时01分]"
-        },
-        {
-          "title": "算力需求驱动，寒武纪Q1营收同比增160%，净利飙升185%，章建平退出十大股东｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771278",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时59分 ~ 11时37分]"
-        },
-        {
-          "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
-          "url": "https://wallstreetcn.com/articles/3771214",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时00分 ~ 11时37分]"
         },
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
@@ -84,6 +84,18 @@
           "time_info": "[07时00分 ~ 11时37分]"
         },
         {
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 14时25分]"
+        },
+        {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2032593268840600541",
           "source": "知乎",
@@ -95,15 +107,27 @@
           "time_info": "[01时23分 ~ 07时01分]"
         },
         {
-          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
-          "url": "https://wallstreetcn.com/articles/3771319",
+          "title": "微软上季营收超预期增长，Azure云收入增40%，资本支出意外放缓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771312",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 14时25分]"
+        },
+        {
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
@@ -115,17 +139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
-        },
-        {
-          "title": "微软上季营收超预期增长，Azure云收入增40%，资本支出意外放缓 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771312",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
         },
         {
           "title": "谷歌财报电话会将于十分钟后举行。",
@@ -161,6 +174,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时00分]"
+        },
+        {
+          "title": "美股燃料电池龙头暴涨超27% SOFC或成AI数据中心供电首选",
+          "url": "https://www.cls.cn/detail/2360333",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "周三（4月29日），美股降息赢家指数跌2.58%，报90.89点，小幅跳空低开之后持续走低，北京时间23:00以来低位持稳于日低附近。 “特朗普关税输家”指数跌1.02%。 “特朗普金融指数”跌1.94%，报161.28点，走势与降息指数类似。",
@@ -203,7 +227,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -287,9 +311,277 @@
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 16,
+      "keyword_group": "稳定币 日本",
+      "match_count": 21,
       "titles": [
+        {
+          "title": "鸠山由纪夫：日本站错队了，应该联中抗美",
+          "url": "https://news.ifeng.com/c/8sj9vx25l9n",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时58分 ~ 11时37分]"
+        },
+        {
+          "title": "中国军号：日本出兵都是作死",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%87%BA%E5%85%B5%E9%83%BD%E6%98%AF%E4%BD%9C%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 08时01分]"
+        },
+        {
+          "title": "明查｜榫卯技术“日本特有”？非也",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33071522",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 08时01分]"
+        },
+        {
+          "title": "日本举办战争加害图文展，民众流泪向中国道歉",
+          "url": "https://news.ifeng.com/c/8six5Zok88g",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时23分 ~ 11时37分]"
+        },
+        {
+          "title": "中国军号：日本打不起“长期战争”",
+          "url": "https://www.toutiao.com/trending/7634091296285593115/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            8,
+            4,
+            25,
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时23分 ~ 14时25分]"
+        },
+        {
+          "title": "偷国再现,宇树机器狗成日本货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353878&amp;topic_name=%E5%81%B7%E5%9B%BD%E5%86%8D%E7%8E%B0%2C%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E7%8B%97%E6%88%90%E6%97%A5%E6%9C%AC%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时23分 ~ 14时25分]"
+        },
+        {
+          "title": "传言称榫卯技术是“日本特有”？哼",
+          "url": "https://news.ifeng.com/c/8siojTXps86",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 08时01分]"
+        },
+        {
+          "title": "国人赏槟榔,日本学生嚼到沉迷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353858&amp;topic_name=%E5%9B%BD%E4%BA%BA%E8%B5%8F%E6%A7%9F%E6%A6%94%2C%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E5%9A%BC%E5%88%B0%E6%B2%89%E8%BF%B7",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时23分 ~ 14时25分]"
+        },
+        {
+          "title": "根基太脆!国产抹茶冲击日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353842&amp;topic_name=%E6%A0%B9%E5%9F%BA%E5%A4%AA%E8%84%86%21%E5%9B%BD%E4%BA%A7%E6%8A%B9%E8%8C%B6%E5%86%B2%E5%87%BB%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时23分 ~ 14时25分]"
+        },
+        {
+          "title": "歼15喊话日本军机：你在我射程之内",
+          "url": "https://www.toutiao.com/trending/7633289620521009198/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 14时25分]"
+        },
+        {
+          "title": "歼15喊话日本军机：你在我导弹射程内",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%BC15%E5%96%8A%E8%AF%9D%E6%97%A5%E6%9C%AC%E5%86%9B%E6%9C%BA%EF%BC%9A%E4%BD%A0%E5%9C%A8%E6%88%91%E5%AF%BC%E5%BC%B9%E5%B0%84%E7%A8%8B%E5%86%85",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 14时25分]"
+        },
+        {
+          "title": "日本东京发生持械伤人事件",
+          "url": "https://www.douyin.com/hot/2483335",
+          "source": "抖音",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时58分 ~ 11时37分]"
+        },
+        {
+          "title": "中方关于日本拥核问题的工作文件",
+          "url": "https://wallstreetcn.com/livenews/3097250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "日本40年期国债收益率上升11.5个基点，达到3.980%。",
+          "url": "https://flash.jin10.com/detail/20260430141124563800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "日本纪念昭和百年，高市声称要学习先人挑战未来",
+          "url": "https://news.ifeng.com/c/8sk3JJHReBj",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
+          "title": "日本40年期国债收益率上升11.5个基点，至3.98%。",
+          "url": "https://wallstreetcn.com/livenews/3097245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "中方关于日本拥核问题的工作文件",
+          "url": "https://flash.jin10.com/detail/20260430140934120800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "日本拟向菲律宾出口护卫舰",
+          "url": "https://news.ifeng.com/c/8sk5cTawAIc",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
+          "title": "歼15喊话日本军机你在我射程之内",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%BC15%E5%96%8A%E8%AF%9D%E6%97%A5%E6%9C%AC%E5%86%9B%E6%9C%BA%E4%BD%A0%E5%9C%A8%E6%88%91%E5%B0%84%E7%A8%8B%E4%B9%8B%E5%86%85%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
+          "title": "日本民众为南京大屠杀流泪致歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E4%B8%BA%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E6%B5%81%E6%B3%AA%E8%87%B4%E6%AD%89%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 07时01分]"
+        },
+        {
+          "title": "日本20年期国债收益率上行10个基点至3.405%。 日本30年期国债收益率上行10个基点至3.74%。",
+          "url": "https://wallstreetcn.com/livenews/3097222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 14时25分]"
+        },
         {
           "title": "Meta营收大增，上调全年资本支出预期，盘后跌5%",
           "url": "https://flash.jin10.com/detail/20260430051349700800",
@@ -300,17 +592,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
-        },
-        {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
         },
         {
           "title": "Meta业绩报告要点总结",
@@ -458,6 +739,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "谷歌入驻广州天河CBD，预计今年三季度正式投入运营",
+          "url": "https://wallstreetcn.com/livenews/3097212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "Meta Platforms(META.O)CEO：公司专注于精简团队、扩大产品规模，并奖励人工智能创新。",
           "url": "https://flash.jin10.com/detail/20260430054236745800",
           "source": "金十数据",
@@ -471,171 +763,8 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "鸠山由纪夫：日本站错队了，应该联中抗美",
-          "url": "https://news.ifeng.com/c/8sj9vx25l9n",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时58分 ~ 11时37分]"
-        },
-        {
-          "title": "中国军号：日本出兵都是作死",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%87%BA%E5%85%B5%E9%83%BD%E6%98%AF%E4%BD%9C%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 08时01分]"
-        },
-        {
-          "title": "明查｜榫卯技术“日本特有”？非也",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33071522",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 08时01分]"
-        },
-        {
-          "title": "日本举办战争加害图文展，民众流泪向中国道歉",
-          "url": "https://news.ifeng.com/c/8six5Zok88g",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时23分 ~ 11时37分]"
-        },
-        {
-          "title": "偷国再现,宇树机器狗成日本货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353878&amp;topic_name=%E5%81%B7%E5%9B%BD%E5%86%8D%E7%8E%B0%2C%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E7%8B%97%E6%88%90%E6%97%A5%E6%9C%AC%E8%B4%A7",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时23分 ~ 11时37分]"
-        },
-        {
-          "title": "中国军号：日本打不起“长期战争”",
-          "url": "https://www.toutiao.com/trending/7634091296285593115/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            8,
-            4,
-            25,
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时23分 ~ 11时37分]"
-        },
-        {
-          "title": "传言称榫卯技术是“日本特有”？哼",
-          "url": "https://news.ifeng.com/c/8siojTXps86",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 08时01分]"
-        },
-        {
-          "title": "国人赏槟榔,日本学生嚼到沉迷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353858&amp;topic_name=%E5%9B%BD%E4%BA%BA%E8%B5%8F%E6%A7%9F%E6%A6%94%2C%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E5%9A%BC%E5%88%B0%E6%B2%89%E8%BF%B7",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时23分 ~ 11时37分]"
-        },
-        {
-          "title": "根基太脆!国产抹茶冲击日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353842&amp;topic_name=%E6%A0%B9%E5%9F%BA%E5%A4%AA%E8%84%86%21%E5%9B%BD%E4%BA%A7%E6%8A%B9%E8%8C%B6%E5%86%B2%E5%87%BB%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时23分 ~ 11时37分]"
-        },
-        {
-          "title": "日本东京发生持械伤人事件",
-          "url": "https://www.douyin.com/hot/2483335",
-          "source": "抖音",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时58分 ~ 11时37分]"
-        },
-        {
-          "title": "歼15喊话日本军机：你在我射程之内",
-          "url": "https://www.toutiao.com/trending/7633289620521009198/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "歼15喊话日本军机：你在我导弹射程内",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%BC15%E5%96%8A%E8%AF%9D%E6%97%A5%E6%9C%AC%E5%86%9B%E6%9C%BA%EF%BC%9A%E4%BD%A0%E5%9C%A8%E6%88%91%E5%AF%BC%E5%BC%B9%E5%B0%84%E7%A8%8B%E5%86%85",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "日本民众为南京大屠杀流泪致歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E4%B8%BA%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E6%B5%81%E6%B3%AA%E8%87%B4%E6%AD%89%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时00分 ~ 07时01分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -661,6 +790,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时23分 ~ 06时00分]"
+        },
+        {
+          "title": "Anthropic 年收 300 亿，碾压 OpenAI，为什么 OpenAI 坐拥 9 亿周活用户，却被后来者反超？",
+          "url": "https://www.zhihu.com/question/2032816031513538587",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "Anthropic估值或升至逾9000亿美元超过OpenAI",
@@ -711,8 +851,20 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "沪指重返4100点，创业板涨超2%，稀土、锂电大爆发，恒科指涨逾1%，半导体逆势大跌",
+          "url": "https://wallstreetcn.com/articles/3771196",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时25分]"
+        },
         {
           "title": "科创50指数涨超5%，半导体板块涨幅居前，芯原股份20cm涨停，寒武纪涨超19%逼近涨停。",
           "url": "https://flash.jin10.com/detail/20260430111217104800",
@@ -720,7 +872,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -731,20 +883,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
         {
-          "title": "沪指重返4100点，创业板涨超2%，稀土、锂电大爆发，恒科指涨逾1%，半导体逆势大跌",
-          "url": "https://wallstreetcn.com/articles/3771196",
-          "source": "华尔街见闻",
+          "title": "港股芯片股持续冲高，天数智芯(09903.HK)涨超20%，壁仞科技(06082.HK)涨近8%，华虹半导体(01347.HK)、中芯国际(00981.HK)双双涨超7%，宏光半导体(06908.HK)、晶门半导体(02878.HK)、澜起科技(06809.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260430141309578800",
+          "source": "金十数据",
           "ranks": [
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "美国上周要求多家芯片公司停止向华虹半导体发货，外交部回应",
@@ -764,7 +916,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         }
@@ -799,6 +951,18 @@
           "time_info": "01时23分"
         },
         {
+          "title": "影响金价的关键因素是什么",
+          "url": "https://www.douyin.com/hot/2482875",
+          "source": "抖音",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 14时25分]"
+        },
+        {
           "title": "国际金价继续回撤至4500美元附近",
           "url": "https://www.toutiao.com/trending/7634171899290848787/",
           "source": "今日头条",
@@ -809,17 +973,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 03时17分]"
-        },
-        {
-          "title": "影响金价的关键因素是什么",
-          "url": "https://www.douyin.com/hot/2482875",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少61.94吨，当前持仓量为15092.75吨。欢迎点击查看数据中心…",
@@ -836,7 +989,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微信朋友圈改版",
@@ -878,12 +1031,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时23分 ~ 08时01分]"
+        },
+        {
+          "title": "微信从聊天工具变成了工作软件",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E4%BB%8E%E8%81%8A%E5%A4%A9%E5%B7%A5%E5%85%B7%E5%8F%98%E6%88%90%E4%BA%86%E5%B7%A5%E4%BD%9C%E8%BD%AF%E4%BB%B6&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "软银计划让旗下一家新的人工智能与机器人公司在美上市，软银正寻求为该AI公司（名为Roze）争取高达1000亿美元的估值。（英国金融时报）",
@@ -903,7 +1067,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -918,6 +1082,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时01分]"
+        },
+        {
+          "title": "宇树发布只有上半身的人形机器人，高管否认熊猫机器人抄袭魔法原子",
+          "url": "https://wallstreetcn.com/livenews/3097235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉Semi首辆量产车下线",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89Semi%E9%A6%96%E8%BE%86%E9%87%8F%E4%BA%A7%E8%BD%A6%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
         }
       ]
     },
