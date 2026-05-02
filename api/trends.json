@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-02T18:45:36.903897+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-05-02T19:41:26.428749+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 28,
       "titles": [
+        {
+          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时46分 ~ 19时41分]"
+        },
         {
           "title": "闪迪财报炸裂却大跌！高盛：大幅上调目标价，股价终将走高",
           "url": "https://wallstreetcn.com/articles/3771456",
@@ -46,20 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时52分 ~ 18时45分]"
-        },
-        {
-          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
-          "url": "https://wallstreetcn.com/articles/3771459",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时46分 ~ 18时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 19时41分]"
         },
         {
           "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
@@ -332,7 +332,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -364,8 +364,22 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时52分 ~ 18时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 19时41分]"
+        },
+        {
+          "title": "小孩曾卓君卫冕日本EVO",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9%E6%9B%BE%E5%8D%93%E5%90%9B%E5%8D%AB%E5%86%95%E6%97%A5%E6%9C%ACEVO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 19时41分]"
         },
         {
           "title": "日本押注一次性纸质无人机",
@@ -379,21 +393,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时52分 ~ 18时45分]"
-        },
-        {
-          "title": "小孩曾卓君卫冕日本EVO",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9%E6%9B%BE%E5%8D%93%E5%90%9B%E5%8D%AB%E5%86%95%E6%97%A5%E6%9C%ACEVO",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 18时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 19时41分]"
         },
         {
           "title": "日本战犯竟称侵华是为了管教兄弟",
@@ -402,23 +403,24 @@
           "ranks": [
             2,
             7,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时33分 ~ 18时45分]"
+          "appearance_count": 7,
+          "time_info": "[13时33分 ~ 19时41分]"
         },
         {
-          "title": "日本首相高市早苗：旨在与越南及其他国家合作开展AI技术研发。 致力于推动印太地区的数字化基础设施建设。",
-          "url": "https://wallstreetcn.com/livenews/3098138",
+          "title": "日本本州岛发生5.7级地震 震源深度60公里",
+          "url": "https://wallstreetcn.com/livenews/3098143",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            8
+            3,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时45分]"
+          "time_info": "[18时45分 ~ 19时41分]"
         },
         {
           "title": "5.4万亿日元干预前，日本财长曾警告交易员“手机不离身”，干预将成新常态？",
@@ -432,26 +434,43 @@
           "time_info": "[13时33分 ~ 17时02分]"
         },
         {
-          "title": "据日本共同社：日本西部发生5.7级地震，未发布海啸警报。",
-          "url": "https://flash.jin10.com/detail/20260502182940697800",
-          "source": "金十数据",
+          "title": "UP主揭秘日本阴阳菜单",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E6%97%A5%E6%9C%AC%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            4,
+            13,
+            19,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时33分 ~ 19时41分]"
         },
         {
-          "title": "日本本州岛发生5.7级地震 震源深度60公里",
-          "url": "https://wallstreetcn.com/livenews/3098143",
+          "title": "日本首相高市早苗：旨在与越南及其他国家合作开展AI技术研发。 致力于推动印太地区的数字化基础设施建设。",
+          "url": "https://wallstreetcn.com/livenews/3098138",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1,
+            8,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时41分]"
+        },
+        {
+          "title": "赶在假期前“第二次干预汇市”？市场甚至猜测“日本不止拉高日元，还砸了油价”",
+          "url": "https://wallstreetcn.com/articles/3771478",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时41分]"
         },
         {
           "title": "日本战犯竟称侵华是为了“管教兄弟”",
@@ -463,52 +482,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
-        },
-        {
-          "title": "UP主揭秘日本阴阳菜单",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E6%97%A5%E6%9C%AC%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时33分 ~ 18时45分]"
-        },
-        {
-          "title": "中国地震台网正式测定：05月02日17时28分在日本本州岛发生5.7级地震，震源深度60千米。",
-          "url": "https://flash.jin10.com/detail/20260502175059228800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "赶在假期前“第二次干预汇市”？市场甚至猜测“日本不止拉高日元，还砸了油价”",
-          "url": "https://wallstreetcn.com/articles/3771478",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "德国地学研究中心GFZ：日本本州西南沿海附近发生5.83级地震。",
-          "url": "https://flash.jin10.com/detail/20260502174018247800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "日本央行前行长黑田东彦称2%的通胀目标已实现",
@@ -529,11 +502,36 @@
           "source": "金十数据",
           "ranks": [
             2,
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时41分]"
+        },
+        {
+          "title": "据日本共同社：日本西部发生5.7级地震，未发布海啸警报。",
+          "url": "https://flash.jin10.com/detail/20260502182940697800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时45分]"
+          "time_info": "[18时45分 ~ 19时41分]"
+        },
+        {
+          "title": "日本地震",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时41分]"
         },
         {
           "title": "越南总理黎明兴：日本将协助安排原油供应给越南的NGHI SON炼油厂和石化综合体。",
@@ -546,6 +544,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 17时02分]"
+        },
+        {
+          "title": "中国地震台网正式测定：05月02日17时28分在日本本州岛发生5.7级地震，震源深度60千米。",
+          "url": "https://flash.jin10.com/detail/20260502175059228800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时41分]"
         },
         {
           "title": "据日本经济产业省消息，日本太阳石油公司（Taiyo Oil）将接收一船来自俄罗斯“萨哈林2号”（Sakhalin-2）项目的原油。（日本每日新闻）",
@@ -584,6 +594,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时33分 ~ 15时26分]"
+        },
+        {
+          "title": "德国地学研究中心GFZ：日本本州西南沿海附近发生5.83级地震。",
+          "url": "https://flash.jin10.com/detail/20260502174018247800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时41分]"
         },
         {
           "title": "日本采购的俄罗斯原油将于2日抵达",
@@ -634,17 +656,6 @@
           "time_info": "[00时52分 ~ 04时45分]"
         },
         {
-          "title": "日本地震",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
           "title": "日本战犯竟称侵华是为了管教兄弟",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%98%E7%8A%AF%E7%AB%9F%E7%A7%B0%E4%BE%B5%E5%8D%8E%E6%98%AF%E4%B8%BA%E4%BA%86%E7%AE%A1%E6%95%99%E5%85%84%E5%BC%9F%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -670,7 +681,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
@@ -678,11 +689,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时33分 ~ 18时45分]"
+          "appearance_count": 7,
+          "time_info": "[13时33分 ~ 19时41分]"
         },
         {
           "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
@@ -713,11 +725,23 @@
           "url": "https://flash.jin10.com/detail/20260502172401507800",
           "source": "金十数据",
           "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时41分]"
+        },
+        {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "19时41分"
         }
       ]
     },
