@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T10:11:51.089880+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-05-02T13:33:29.898750+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 13时33分]"
         },
         {
           "title": "闪迪财报炸裂却大跌！高盛：大幅上调目标价，股价终将走高",
@@ -30,8 +31,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 13时33分]"
+        },
+        {
+          "title": "存储涨不动了？闪迪交出“炸裂”财报 股价盘前却大跌超5%",
+          "url": "https://www.cls.cn/detail/2361855",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 13时33分]"
         },
         {
           "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
@@ -41,19 +56,6 @@
             7,
             9,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时11分]"
-        },
-        {
-          "title": "存储涨不动了？闪迪交出“炸裂”财报 股价盘前却大跌超5%",
-          "url": "https://www.cls.cn/detail/2361855",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -110,6 +112,29 @@
           "time_info": "[01时55分 ~ 05时49分]"
         },
         {
+          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时46分 ~ 13时33分]"
+        },
+        {
+          "title": "“炸裂财报”成“抛售契机”？闪迪、西部数据绩后盘初重挫，盘中V形反转",
+          "url": "https://wallstreetcn.com/articles/3771446",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时46分 ~ 13时33分]"
+        },
+        {
           "title": "金十图示：2026年05月01日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260502040603336800",
           "source": "金十数据",
@@ -145,29 +170,6 @@
           "time_info": "[06时44分 ~ 06时45分]"
         },
         {
-          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
-          "url": "https://wallstreetcn.com/articles/3771459",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 10时11分]"
-        },
-        {
-          "title": "“炸裂财报”成“抛售契机”？闪迪、西部数据绩后盘初重挫，盘中V形反转",
-          "url": "https://wallstreetcn.com/articles/3771446",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 10时11分]"
-        },
-        {
           "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260502003124139800",
           "source": "金十数据",
@@ -177,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "美股创新高之际，对冲基金资产规模创新高",
+          "url": "https://flash.jin10.com/detail/20260502121701582800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
@@ -190,6 +203,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时45分 ~ 10时11分]"
+        },
+        {
+          "title": "科技巨头的财报启示",
+          "url": "https://wallstreetcn.com/articles/3771458",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 13时33分]"
         },
         {
           "title": "美股行业ETF涨跌各异，能源业ETF跌超1.3%",
@@ -225,27 +250,17 @@
           "time_info": "00时52分"
         },
         {
-          "title": "科技巨头的财报启示",
-          "url": "https://wallstreetcn.com/articles/3771458",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
           "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
           "url": "https://wallstreetcn.com/livenews/3098084",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 10时11分]"
+          "appearance_count": 3,
+          "time_info": "[07时46分 ~ 13时33分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
@@ -253,11 +268,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 10时11分]"
+          "appearance_count": 3,
+          "time_info": "[07时46分 ~ 13时33分]"
         },
         {
           "title": "美股总市值突破 75 万亿美元，创历史新高，主要受哪些因素拉动？如何解读这一市值？",
@@ -266,7 +282,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -319,18 +335,19 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
         {
           "title": "日本动画大厂盘点,马趴飞碟崛起",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353939&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%A4%A7%E5%8E%82%E7%9B%98%E7%82%B9%2C%E9%A9%AC%E8%B6%B4%E9%A3%9E%E7%A2%9F%E5%B4%9B%E8%B5%B7",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 13时33分]"
         },
         {
           "title": "日本押注一次性纸质无人机",
@@ -338,11 +355,89 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 13时33分]"
+        },
+        {
+          "title": "日本央行前行长黑田东彦称2%的通胀目标已实现",
+          "url": "https://wallstreetcn.com/livenews/3098112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "日本战犯竟称侵华是为了管教兄弟",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%88%98%E7%8A%AF%E7%AB%9F%E7%A7%B0%E4%BE%B5%E5%8D%8E%E6%98%AF%E4%B8%BA%E4%BA%86%E7%AE%A1%E6%95%99%E5%85%84%E5%BC%9F",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "日本战犯竟称侵华是为了“管教兄弟”",
+          "url": "https://www.toutiao.com/trending/7634952296379990054/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "UP主揭秘日本阴阳菜单",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E6%97%A5%E6%9C%AC%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "日本采购的俄罗斯原油将于2日抵达",
+          "url": "https://flash.jin10.com/detail/20260502102810027800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "日本采购的俄罗斯原油将于2日抵达",
+          "url": "https://wallstreetcn.com/livenews/3098104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "5.4万亿日元干预前，日本财长曾警告交易员“手机不离身”，干预将成新常态？",
+          "url": "https://wallstreetcn.com/articles/3771460",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "朝鲜代表：日本谈和平安全可笑至极",
@@ -370,6 +465,18 @@
           "time_info": "[03时05分 ~ 06时45分]"
         },
         {
+          "title": "原日本央行行长黑田东彦：实现了2%这一通胀目标。 有鉴于此，日本无需实施财政宽松、也无需放宽货币政策。 日本央行4月28日对加息选项保持克制是正确的。（日本读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3098090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 13时33分]"
+        },
+        {
           "title": "朝鲜代表称日本谈和平安全可笑至极",
           "url": "https://www.toutiao.com/trending/7634768436769947691/",
           "source": "今日头条",
@@ -382,15 +489,15 @@
           "time_info": "[00时52分 ~ 04时45分]"
         },
         {
-          "title": "原日本央行行长黑田东彦：实现了2%这一通胀目标。 有鉴于此，日本无需实施财政宽松、也无需放宽货币政策。 日本央行4月28日对加息选项保持克制是正确的。（日本读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3098090",
-          "source": "华尔街见闻-快讯",
+          "title": "日本战犯竟称侵华是为了管教兄弟",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%98%E7%8A%AF%E7%AB%9F%E7%A7%B0%E4%BE%B5%E5%8D%8E%E6%98%AF%E4%B8%BA%E4%BA%86%E7%AE%A1%E6%95%99%E5%85%84%E5%BC%9F%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "13时33分"
         },
         {
           "title": "花旗集团在日本干预后退出做多日元的建议",
@@ -406,38 +513,31 @@
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 2,
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 4,
       "titles": [
         {
-          "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3098051",
-          "source": "华尔街见闻-快讯",
+          "title": "915亿“真金白银”直达16个领域",
+          "url": "https://www.baidu.com/s?wd=915%E4%BA%BF%E2%80%9C%E7%9C%9F%E9%87%91%E7%99%BD%E9%93%B6%E2%80%9D%E7%9B%B4%E8%BE%BE16%E4%B8%AA%E9%A2%86%E5%9F%9F",
+          "source": "百度热搜",
           "ranks": [
-            23,
-            27
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时49分 ~ 07时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
-          "title": "市场消息：Meta Platforms(META.O)正在收购Assured Robot Intelligence，具体条款尚未公布。",
-          "url": "https://flash.jin10.com/detail/20260502005949592800",
-          "source": "金十数据",
+          "title": "915亿“真金白银”直达16个领域",
+          "url": "https://www.douyin.com/hot/2486329",
+          "source": "抖音",
           "ranks": [
-            15
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
-      "titles": [
+          "time_info": "13时33分"
+        },
         {
           "title": "周五（5月1日）纽约尾盘，现货黄金跌0.04%，报4616.35美元/盎司，本周累计下跌2.02%，4月27-29日持续下挫，本周大部分时间交投于4600美元附近。 现货白银涨2.22%，报75.3804美元/盎司，本周累跌0.46%，呈现出宽底U形走势。 现货铂金涨0.11%，报1990.05美元/盎司，本周累跌1.31%，4月30日纽约尾盘曾跌至1876.62美元。 现货钯金跌0.41%，报1526.71美元/盎司，本周累涨3.68%，4月28-29日低位持稳，随后持续走高。",
           "url": "https://wallstreetcn.com/livenews/3098061",
@@ -455,11 +555,91 @@
           "url": "https://flash.jin10.com/detail/20260502082257768800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 13时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3098051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时46分]"
+        },
+        {
+          "title": "美国防部与 SpaceX 、谷歌等 7 家 AI 公司达成协议，称将转型主导作战力量，这会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2033639221991319346",
+          "source": "知乎",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "13时33分"
+        },
+        {
+          "title": "市场消息：Meta Platforms(META.O)正在收购Assured Robot Intelligence，具体条款尚未公布。",
+          "url": "https://flash.jin10.com/detail/20260502005949592800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
+          "url": "https://www.zhihu.com/question/2033267772931749457",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "url": "https://wallstreetcn.com/articles/3771463",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "马斯克承认蒸馏ChatGPT",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         }
       ]
     },
@@ -479,6 +659,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 10时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克去年特斯拉安保费增长70%",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%89%E4%BF%9D%E8%B4%B9%E5%A2%9E%E9%95%BF70%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         }
       ]
     },
