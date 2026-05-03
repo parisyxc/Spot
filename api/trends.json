@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T22:12:13.842171+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2026-05-03T23:42:46.107465+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "专坑国人,日本阴阳菜单被扒",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时54分 ~ 22时12分]"
+          "appearance_count": 11,
+          "time_info": "[13时54分 ~ 23时42分]"
         },
         {
           "title": "赶在假期前“第二次干预汇市”？市场甚至猜测“日本不止拉高日元，还砸了油价”",
@@ -42,11 +42,12 @@
             12,
             14,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时40分 ~ 22时12分]"
+          "appearance_count": 23,
+          "time_info": "[00时40分 ~ 23时42分]"
         },
         {
           "title": "日本地震",
@@ -114,11 +115,12 @@
             27,
             29,
             25,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时40分 ~ 22时12分]"
+          "appearance_count": 23,
+          "time_info": "[00时40分 ~ 23时42分]"
         },
         {
           "title": "日本押注一次性纸质无人机",
@@ -149,7 +151,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -172,7 +174,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -183,7 +185,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -194,7 +196,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -247,6 +249,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时54分 ~ 17时19分]"
+        },
+        {
+          "title": "日本民众集会反修宪：祖先对中国做过那样残酷的事，我必须道歉",
+          "url": "https://news.ifeng.com/c/8spj3P5AomB",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "日本战犯竟称侵华是为了“管教兄弟”",
@@ -346,7 +359,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
@@ -357,8 +370,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时27分 ~ 22时12分]"
+          "appearance_count": 13,
+          "time_info": "[10时27分 ~ 23时42分]"
         },
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
@@ -430,11 +443,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时58分 ~ 22时12分]"
+          "appearance_count": 5,
+          "time_info": "[20时58分 ~ 23时42分]"
+        },
+        {
+          "title": "“后巴菲特时代”伯克希尔首份财报：运营利润增18%，现金储备创纪录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093535",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         }
       ]
     },
