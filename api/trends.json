@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T17:19:55.875138+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-05-03T18:51:06.178075+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 17时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 18时51分]"
         },
         {
           "title": "日本地震",
@@ -91,8 +91,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 17时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 18时51分]"
         },
         {
           "title": "日本押注一次性纸质无人机",
@@ -114,8 +114,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时54分 ~ 18时51分]"
+        },
+        {
+          "title": "高市上台后，日本自民党高层首次来华",
+          "url": "https://news.ifeng.com/c/8sorxGjhX6A",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 18时51分]"
         },
         {
           "title": "日本自卫队要打仗",
@@ -141,17 +152,6 @@
           "time_info": "[10时27分 ~ 15时54分]"
         },
         {
-          "title": "高市上台后，日本自民党高层首次来华",
-          "url": "https://news.ifeng.com/c/8sorxGjhX6A",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 17时19分]"
-        },
-        {
           "title": "小孩曾卓君卫冕日本EVO",
           "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9%E6%9B%BE%E5%8D%93%E5%90%9B%E5%8D%AB%E5%86%95%E6%97%A5%E6%9C%ACEVO",
           "source": "bilibili 热搜",
@@ -171,7 +171,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -213,6 +213,31 @@
           "time_info": "[10时28分 ~ 13时54分]"
         },
         {
+          "title": "日本民众担心日本正一步步走向战争",
+          "url": "https://www.toutiao.com/trending/7634716215457480758/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 18时51分]"
+        },
+        {
+          "title": "日本战犯集体不认罪 重温灵魂拷问",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%88%98%E7%8A%AF%E9%9B%86%E4%BD%93%E4%B8%8D%E8%AE%A4%E7%BD%AA+%E9%87%8D%E6%B8%A9%E7%81%B5%E9%AD%82%E6%8B%B7%E9%97%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时51分]"
+        },
+        {
           "title": "日本首相高市早苗：此外，关于关键矿产，双方确认将为确保稳定供应和强化供应链韧性而紧密协作。",
           "url": "https://flash.jin10.com/detail/20260502223424966800",
           "source": "金十数据",
@@ -248,18 +273,6 @@
           "time_info": "[10时27分 ~ 10时28分]"
         },
         {
-          "title": "日本民众担心日本正一步步走向战争",
-          "url": "https://www.toutiao.com/trending/7634716215457480758/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 17时19分]"
-        },
-        {
           "title": "日本投降后将细菌战工具丢进海里",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E5%90%8E%E5%B0%86%E7%BB%86%E8%8F%8C%E6%88%98%E5%B7%A5%E5%85%B7%E4%B8%A2%E8%BF%9B%E6%B5%B7%E9%87%8C%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -269,17 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 15时54分]"
-        },
-        {
-          "title": "日本战犯集体不认罪 重温灵魂拷问",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%88%98%E7%8A%AF%E9%9B%86%E4%BD%93%E4%B8%8D%E8%AE%A4%E7%BD%AA+%E9%87%8D%E6%B8%A9%E7%81%B5%E9%AD%82%E6%8B%B7%E9%97%AE",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         }
       ]
     },
@@ -340,18 +342,6 @@
           "time_info": "[02时52分 ~ 13时54分]"
         },
         {
-          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
-          "url": "https://www.cls.cn/detail/2362019",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 17时19分]"
-        },
-        {
           "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3771492",
           "source": "华尔街见闻",
@@ -360,8 +350,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 17时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 18时51分]"
+        },
+        {
+          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
+          "url": "https://www.cls.cn/detail/2362019",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 18时51分]"
         }
       ]
     },
@@ -431,7 +433,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         }
@@ -474,6 +476,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时52分 ~ 07时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一周展望：美伊又到抉择时刻！非农难助金价破局，日本黄金周藏杀机！",
+          "url": "https://flash.jin10.com/detail/20260503172004371800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     }
