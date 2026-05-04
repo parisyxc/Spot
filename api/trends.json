@@ -1,701 +1,50 @@
 {
-  "generated_at": "2026-05-04T23:57:58.033207+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-05-05T01:28:46.603090+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 23,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771492",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时39分]"
-        },
-        {
-          "title": "下周重磅日程：美国非农、中国进出口、AMD及光模块巨头财报",
-          "url": "https://wallstreetcn.com/articles/3771488",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时39分]"
-        },
-        {
-          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
-          "url": "https://wallstreetcn.com/articles/3771507",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时52分 ~ 16时35分]"
-        },
-        {
-          "title": "本周重磅日程：美国非农、中国进出口、AMD及光模块巨头财报",
-          "url": "https://wallstreetcn.com/articles/3771488",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 19时03分]"
-        },
-        {
-          "title": "“后巴菲特时代”伯克希尔首份财报：运营利润增18%，现金储备创纪录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093535",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 06时36分]"
-        },
-        {
-          "title": "战争重燃预期升温，美股期货短线跳水，布油大涨5%，黄金跌逾1%",
-          "url": "https://wallstreetcn.com/articles/3771519",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
-        },
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
           "url": "https://wallstreetcn.com/articles/3771543",
           "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 23时57分]"
-        },
-        {
-          "title": "特朗普启动\"引导行动\"后，伊朗发射两枚导弹逼退美军，油价应声大涨，美股期货跳水",
-          "url": "https://wallstreetcn.com/articles/3771543",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
-        },
-        {
-          "title": "战争重燃预期升温，美股期货短线跳水，SK海力士市值突破1000万亿韩元，布油一度大涨5%，黄金跌逾1%",
-          "url": "https://wallstreetcn.com/articles/3771519",
-          "source": "华尔街见闻",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时47分"
+          "time_info": "01时28分"
         },
         {
-          "title": "中东局势再吃紧，美股低开、标普纳指回落，存储芯片股逆市大涨，原油一度涨超5%",
-          "url": "https://wallstreetcn.com/articles/3771519",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "美股三大股指开盘涨跌不一，道指跌0.3%、标普500指数跌0.1%、纳指涨0.01%。存储芯片概念股走强，闪迪涨超3%、美光科技涨4%；eBay上涨5.6%，GameStop下跌6.5%。",
-          "url": "https://wallstreetcn.com/livenews/3098500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "房利美股票开盘上涨10%，房地美上涨8%。",
-          "url": "https://flash.jin10.com/detail/20260504213316373800",
+          "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260505003152134800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "摩根士丹利认为，科技公司财报对股市的影响将超过伊朗战争的影响",
-          "url": "https://flash.jin10.com/detail/20260504182510010800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
-          "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3098437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3098493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "美股期货短线跳水，纳指期货跌近0.5%；美国国债下跌，2年期国债收益率上升5个基点至3.93%。 国际原油短线拉升，布油涨幅扩大至3%。 现货黄金回落至4550美元/盎司下方。",
-          "url": "https://wallstreetcn.com/livenews/3098462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
-          "title": "美股期货跌幅收窄，此前有报道称美国否认军舰遭袭。",
-          "url": "https://wallstreetcn.com/livenews/3098470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 21时47分]"
-        },
-        {
-          "title": "巴菲特谈美股投机风气",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%88%E7%BE%8E%E8%82%A1%E6%8A%95%E6%9C%BA%E9%A3%8E%E6%B0%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美股开盘，道指跌0.3%、标普500指数跌0.1%、纳指平开。存储概念股走强，闪迪(SNDK.O)涨3.2%、美光科技(MU.O)涨4%。",
-          "url": "https://flash.jin10.com/detail/20260504213036971800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "美股三大股指期货周一小幅高开，道指期货开涨0.2%。",
-          "url": "https://flash.jin10.com/detail/20260504060507166800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时39分]"
-        },
-        {
-          "title": "港股科技股全线爆发 小米涨超8%",
-          "url": "https://www.toutiao.com/trending/7635863267747659818/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
-        },
-        {
-          "title": "美股短线下挫，道指跌0.77%、标普500指数跌0.42%、纳指跌0.38%。",
-          "url": "https://flash.jin10.com/detail/20260504232437015800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "美股存储概念股涨幅扩大，美光科技涨超8％，闪迪涨5％，西部数据涨超3％。",
-          "url": "https://wallstreetcn.com/livenews/3098511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "日本民众集会反修宪：祖先对中国做过那样残酷的事，我必须道歉",
-          "url": "https://news.ifeng.com/c/8spj3P5AomB",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时39分]"
-        },
-        {
-          "title": "专坑国人,日本阴阳菜单被扒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353968&amp;topic_name=%E4%B8%93%E5%9D%91%E5%9B%BD%E4%BA%BA%2C%E6%97%A5%E6%9C%AC%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95%E8%A2%AB%E6%89%92",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            10,
-            12,
-            13,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 23时57分]"
-        },
-        {
-          "title": "周边只抓不卖,日本谷迷被气炸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353959&amp;topic_name=%E5%91%A8%E8%BE%B9%E5%8F%AA%E6%8A%93%E4%B8%8D%E5%8D%96%2C%E6%97%A5%E6%9C%AC%E8%B0%B7%E8%BF%B7%E8%A2%AB%E6%B0%94%E7%82%B8",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 16时35分]"
-        },
-        {
-          "title": "日本动画大厂盘点,马趴飞碟崛起",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353939&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%A4%A7%E5%8E%82%E7%9B%98%E7%82%B9%2C%E9%A9%AC%E8%B6%B4%E9%A3%9E%E7%A2%9F%E5%B4%9B%E8%B5%B7",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 10时26分]"
-        },
-        {
-          "title": "日本几乎已无巢鸭监狱痕迹",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%87%A0%E4%B9%8E%E5%B7%B2%E6%97%A0%E5%B7%A2%E9%B8%AD%E7%9B%91%E7%8B%B1%E7%97%95%E8%BF%B9",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 14时00分]"
-        },
-        {
-          "title": "日本自民党前干事长：战争正靠近日本",
-          "url": "https://www.toutiao.com/trending/7635273847809523750/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 19时03分]"
-        },
-        {
-          "title": "中国就日本“核突破”向联合国发警告",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B0%B1%E6%97%A5%E6%9C%AC%E2%80%9C%E6%A0%B8%E7%AA%81%E7%A0%B4%E2%80%9D%E5%90%91%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E8%AD%A6%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            5,
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 19时03分]"
-        },
-        {
-          "title": "日本财务大臣片山皋月：不对是否干预了外汇市场置评。 市场出现了一些投机性波动。",
-          "url": "https://wallstreetcn.com/livenews/3098397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "01时28分"
         },
         {
-          "title": "持仓逼近200亿美元！“稳定币老大”Tether“放缓”囤金，一季度还是买了6吨",
-          "url": "https://wallstreetcn.com/articles/3771502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "中方：日本已具备提取武器级钚能力",
-          "url": "https://www.toutiao.com/trending/7635753985706508334/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 23时57分]"
-        },
-        {
-          "title": "法国小伙携日本侵华军事档案返华",
-          "url": "https://www.toutiao.com/trending/7635876930570554926/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
-        },
-        {
-          "title": "日本多个在野党称将守护宪法第九条",
-          "url": "https://flash.jin10.com/detail/20260504132303006800",
+          "title": "金十图示：2026年05月04日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260505003052330800",
           "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：对是否干预了外汇市场不予置评。市场出现了一些投机性波动。",
-          "url": "https://flash.jin10.com/detail/20260504132036970800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
-          "title": "数万日本民众集会抗议政府危险动向",
-          "url": "https://www.toutiao.com/trending/7635093530049789993/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：日本在亚洲拥有庞大的供应链，目前正面临中断风险。 将根据去年与美国达成的协议，针对投机性外汇波动采取果断行动。",
-          "url": "https://wallstreetcn.com/livenews/3098515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "高盛：日本还有“30次”外汇干预的弹药",
-          "url": "https://flash.jin10.com/detail/20260504130215638800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
-          "title": "韩国首尔综指高开2.8%，至纪录新高。三星电子上涨3%。 日本股市今日休市。",
-          "url": "https://wallstreetcn.com/livenews/3098331",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "周一亚太盘初，布伦特原油期货跌2.4%，WTI原油期货跌1.6%，美国打算引导船只通过霍尔木兹海峡。 白银跌0.9%，黄金跌0.5%。 美国三大股指期货涨0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3098321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时39分]"
-        },
-        {
-          "title": "金十图示：2026年05月04日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260504065657319800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "金价又又又跌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E5%8F%88%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时59分 ~ 19时03分]"
-        },
-        {
-          "title": "现货白银回落至74美元/盎司下方，日内跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3098460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
-          "title": "现货白银日内跌超2.00%，现报74.24美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3098440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 19时03分]"
-        },
-        {
-          "title": "布伦特原油向上触及112美元/桶，日内涨4.14%。现货白银日内大跌4.00%，现报72.71美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260504181410485800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
-          "title": "金价跌2%，布油涨穿114美元，阿联酋称伊朗袭击Fujairah",
-          "url": "https://wallstreetcn.com/livenews/3098531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "金价银价又大跌了",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E5%A4%A7%E8%B7%8C%E4%BA%86&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "现货白银日内跌超2.00%，现报74.24美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260504160516358800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "宇树机器人在美买票坐飞机",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%BE%8E%E4%B9%B0%E7%A5%A8%E5%9D%90%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 23时57分]"
-        },
-        {
-          "title": "宇树机器人在美“出差”买票坐飞机",
-          "url": "https://www.toutiao.com/trending/7635938228496777243/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "中国机器人在美“出差”买票坐飞机",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%BE%8E%E2%80%9C%E5%87%BA%E5%B7%AE%E2%80%9D%E4%B9%B0%E7%A5%A8%E5%9D%90%E9%A3%9E%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "报道：中国机器人初创公司灵心巧手寻求60亿美元估值",
-          "url": "https://wallstreetcn.com/livenews/3098343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "比特币一度升破8万美元 触及逾三个月高位",
-          "url": "https://wallstreetcn.com/livenews/3098416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "4月份特斯拉在挪威的新车注册量同比下降61%。",
-          "url": "https://wallstreetcn.com/livenews/3098391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
-          "title": "据Mobility Sweden统计，特斯拉在瑞典4月份的新登记量同比增长111%。",
-          "url": "https://wallstreetcn.com/livenews/3098423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "挪威道路联合会（OFV）：特斯拉在挪威4月新车登记量同比下降61%。",
-          "url": "https://flash.jin10.com/detail/20260504130000012800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "01时28分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
@@ -704,83 +53,60 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "OpenAI与私募巨头敲定100亿美元合资协议",
-          "url": "https://wallstreetcn.com/livenews/3098487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时47分"
+          "time_info": "01时28分"
         }
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "抖音作者组团探访052D驱逐舰",
-          "url": "https://www.douyin.com/hot/2488197",
-          "source": "抖音",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 21时47分]"
-        },
-        {
-          "title": "抖音李亮：红果短剧免广告会员服务 只是满足用户差异化体验的自愿选项 不会强制收费",
-          "url": "https://flash.jin10.com/detail/20260504233218086800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
+      "keyword_group": "金价 铜价 白银",
       "match_count": 1,
       "titles": [
         {
-          "title": "小米集团持续走高，目前涨超10%。阿里巴巴、华虹半导体涨超6%。恒生科技指数现涨3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3098378",
-          "source": "华尔街见闻-快讯",
+          "title": "金价银价又大跌了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E5%A4%A7%E8%B7%8C%E4%BA%86&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "01时28分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "keyword_group": "稳定币 日本",
       "match_count": 1,
       "titles": [
         {
-          "title": "Jefferies将Meta目标股价从1000美元下调至825美元，将Alphabet目标价从400美元上调至445美元。",
-          "url": "https://wallstreetcn.com/livenews/3098383",
-          "source": "华尔街见闻-快讯",
+          "title": "专坑国人,日本阴阳菜单被扒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353968&amp;topic_name=%E4%B8%93%E5%9D%91%E5%9B%BD%E4%BA%BA%2C%E6%97%A5%E6%9C%AC%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95%E8%A2%AB%E6%89%92",
+          "source": "贴吧",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.82%，暂报2640.13点，北京时间10:00前后显著拉升，18:00显著跳水。 MarketVectorTM数字资产100中盘指数涨1.08%，报2837.48点。 MarketVector数字资产100指数涨1.42%，报15669.37点。 目前，Solana涨0.15%，狗狗币涨1.83%，XRP涨0.39%。 比特币涨1.64%，暂报80048.10美元；以太坊涨0.96%，暂报2356.34美元。",
+          "url": "https://wallstreetcn.com/livenews/3098567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         }
       ]
     }
