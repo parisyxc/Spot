@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T14:00:35.726120+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-05-04T16:35:46.488322+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "专坑国人,日本阴阳菜单被扒",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 14时00分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 16时35分]"
         },
         {
           "title": "日本民众集会反修宪：祖先对中国做过那样残酷的事，我必须道歉",
@@ -37,11 +38,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 14时00分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 16时35分]"
         },
         {
           "title": "日本动画大厂盘点,马趴飞碟崛起",
@@ -67,13 +69,35 @@
           "time_info": "[10时26分 ~ 14时00分]"
         },
         {
+          "title": "日本自民党前干事长：战争正靠近日本",
+          "url": "https://www.toutiao.com/trending/7635273847809523750/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "中国就日本“核突破”向联合国发警告",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B0%B1%E6%97%A5%E6%9C%AC%E2%80%9C%E6%A0%B8%E7%AA%81%E7%A0%B4%E2%80%9D%E5%90%91%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E8%AD%A6%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "日本财务大臣片山皋月：不对是否干预了外汇市场置评。 市场出现了一些投机性波动。",
           "url": "https://wallstreetcn.com/livenews/3098397",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         },
@@ -106,7 +130,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         },
@@ -117,7 +141,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         },
@@ -128,7 +152,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         },
@@ -147,7 +171,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
@@ -192,8 +216,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时52分 ~ 14时00分]"
+          "appearance_count": 9,
+          "time_info": "[03时52分 ~ 16时35分]"
+        },
+        {
+          "title": "本周重磅日程：美国非农、中国进出口、AMD及光模块巨头财报",
+          "url": "https://wallstreetcn.com/articles/3771488",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 16时35分]"
         },
         {
           "title": "“后巴菲特时代”伯克希尔首份财报：运营利润增18%，现金储备创纪录",
@@ -208,15 +244,15 @@
           "time_info": "[00时42分 ~ 06时36分]"
         },
         {
-          "title": "本周重磅日程：美国非农、中国进出口、AMD及光模块巨头财报",
-          "url": "https://wallstreetcn.com/articles/3771488",
-          "source": "华尔街见闻",
+          "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3098437",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            7
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 14时00分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "巴菲特谈美股投机风气",
@@ -245,7 +281,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "周一亚太盘初，布伦特原油期货跌2.4%，WTI原油期货跌1.6%，美国打算引导船只通过霍尔木兹海峡。 白银跌0.9%，黄金跌0.5%。 美国三大股指期货涨0.2%。",
@@ -258,6 +294,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时39分]"
+        },
+        {
+          "title": "现货白银日内跌超2.00%，现报74.24美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3098440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "金十图示：2026年05月04日（周一）白银ETF持仓报告",
@@ -278,14 +325,25 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 16时35分]"
+        },
+        {
+          "title": "现货白银日内跌超2.00%，现报74.24美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260504160516358800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "4月份特斯拉在挪威的新车注册量同比下降61%。",
@@ -294,9 +352,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
+        },
+        {
+          "title": "据Mobility Sweden统计，特斯拉在瑞典4月份的新登记量同比增长111%。",
+          "url": "https://wallstreetcn.com/livenews/3098423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "挪威道路联合会（OFV）：特斯拉在挪威4月新车登记量同比下降61%。",
@@ -305,9 +374,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：中国机器人初创公司灵心巧手寻求60亿美元估值",
+          "url": "https://wallstreetcn.com/livenews/3098343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "比特币一度升破8万美元 触及逾三个月高位",
+          "url": "https://wallstreetcn.com/livenews/3098416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
@@ -322,7 +419,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         }
@@ -339,26 +436,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         }
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 1,
       "titles": [
         {
-          "title": "报道：中国机器人初创公司灵心巧手寻求60亿美元估值",
-          "url": "https://wallstreetcn.com/livenews/3098343",
-          "source": "华尔街见闻-快讯",
+          "title": "抖音作者组团探访052D驱逐舰",
+          "url": "https://www.douyin.com/hot/2488197",
+          "source": "抖音",
           "ranks": [
-            19
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "16时35分"
         }
       ]
     }
