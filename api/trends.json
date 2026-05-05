@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T16:02:34.838308+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-05-05T18:31:46.580450+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时28分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时28分 ~ 18时31分]"
         },
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 16时02分]"
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 18时31分]"
         },
         {
           "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 18时31分]"
         },
         {
           "title": "港股汇丰控股(00005.HK)午后直线下挫，现跌超4%；消息面上，公司在港交所公布一季度财报，第一季度除税后利润为73.94亿美元，去年同期为75.7亿美元，净利息收入为89亿美元。",
@@ -148,6 +149,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "英特尔美股盘前涨超3%，苹果正考虑与英特尔和三星合作，为其生产主要设备芯片。",
+          "url": "https://wallstreetcn.com/livenews/3098737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260505003152134800",
           "source": "金十数据",
@@ -184,7 +196,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "专坑国人,日本阴阳菜单被扒",
@@ -216,11 +228,24 @@
           "source": "今日头条",
           "ranks": [
             13,
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时14分 ~ 18时31分]"
+        },
+        {
+          "title": "日本网红店翻车,食客集体中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时38分]"
+          "time_info": "[16时02分 ~ 18时31分]"
         },
         {
           "title": "年号制度曾在东亚被长期实行，为什么当今除日本以外的其它国家不再使用年号了？",
@@ -270,6 +295,17 @@
           "time_info": "[05时03分 ~ 06时53分]"
         },
         {
+          "title": "日本首相高市早苗：对阿联酋遭受的袭击深感关切。",
+          "url": "https://flash.jin10.com/detail/20260505180704024800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "日本首相高市早苗：随着越南对日本食品的关注度上升，我希望能将更多高品质、富有魅力的日本食品送到越南家庭中。",
           "url": "https://flash.jin10.com/detail/20260505093802164800",
           "source": "金十数据",
@@ -287,20 +323,83 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金价银价又大跌了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E5%A4%A7%E8%B7%8C%E4%BA%86&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 07时50分]"
+        },
+        {
+          "title": "现货白银日内大涨1美元，现报73.72美元/盎司，涨幅1.38%。",
+          "url": "https://flash.jin10.com/detail/20260505153740938800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
         {
-          "title": "日本网红店翻车,食客集体中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
+          "title": "现货白银日内涨幅扩大至1%，报73.41美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3098728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少6.45吨，当前持仓量为15035.63吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260505055329527800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时50分]"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报73.44美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260505151853988800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "金价卡在4600美元下方：短期失速，长期为何仍被押注上涨？",
+          "url": "https://flash.jin10.com/detail/20260505175647168800",
+          "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "18时31分"
         }
       ]
     },
@@ -393,24 +492,13 @@
           "time_info": "[01时28分 ~ 13时38分]"
         },
         {
-          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
-          "url": "https://wallstreetcn.com/livenews/3098735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "挪威主权财富基金首席执行官：即将有三次重要的首次公开募股——SpaceX、Anthropic和OpenAI。我们会买入这些公司的股份。",
           "url": "https://flash.jin10.com/detail/20260505154538750800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -426,6 +514,18 @@
           "time_info": "03时22分"
         },
         {
+          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
+          "url": "https://wallstreetcn.com/livenews/3098735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 18时31分]"
+        },
+        {
           "title": "布罗克曼称其所持OpenAI的股份价值接近300亿美元",
           "url": "https://flash.jin10.com/detail/20260505022512889800",
           "source": "金十数据",
@@ -439,65 +539,42 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 5,
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 3,
       "titles": [
         {
-          "title": "金价银价又大跌了",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E5%A4%A7%E8%B7%8C%E4%BA%86&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 07时50分]"
-        },
-        {
-          "title": "现货白银日内大涨1美元，现报73.72美元/盎司，涨幅1.38%。",
-          "url": "https://flash.jin10.com/detail/20260505153740938800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "现货白银日内涨幅扩大至1%，报73.41美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3098728",
+          "title": "莱迪斯半导体一季度营收1.709亿美元，分析师预期1.649亿美元。 预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098640",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少6.45吨，当前持仓量为15035.63吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260505055329527800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            29
+            7,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时50分]"
+          "time_info": "[05时03分 ~ 06时53分]"
         },
         {
-          "title": "现货白银日内涨幅达1.00%，现报73.44美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260505151853988800",
-          "source": "金十数据",
+          "title": "港股半导体股延续昨日强势，澜起科技涨6%，晶门半导体涨近5%，芯智控股涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3098699",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "港股收盘，恒生指数收跌0.76%，恒生科技指数跌0.94%。智谱跌超3%，Minimax跌超2%，中芯国际跌1.87%，华虹半导体跌1.65%。",
+          "url": "https://wallstreetcn.com/livenews/3098739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "18时31分"
         }
       ]
     },
@@ -541,35 +618,6 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "莱迪斯半导体一季度营收1.709亿美元，分析师预期1.649亿美元。 预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时53分]"
-        },
-        {
-          "title": "港股半导体股延续昨日强势，澜起科技涨6%，晶门半导体涨近5%，芯智控股涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3098699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 2,
       "titles": [
@@ -597,6 +645,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 10时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国4月新车总销量同比增长22.4%，至144,222辆。 特斯拉英国4月新车销量同比增长48.6%，至838辆。",
+          "url": "https://wallstreetcn.com/livenews/3098738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     }
