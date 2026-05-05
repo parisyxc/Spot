@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T18:31:46.580450+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-05-05T19:57:15.089099+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 18时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时14分 ~ 19时57分]"
         },
         {
           "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
@@ -41,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 18时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时38分 ~ 19时57分]"
         },
         {
           "title": "港股汇丰控股(00005.HK)午后直线下挫，现跌超4%；消息面上，公司在港交所公布一季度财报，第一季度除税后利润为73.94亿美元，去年同期为75.7亿美元，净利息收入为89亿美元。",
@@ -54,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "Shopify第一季度GMV为1007.43亿美元。 第一季度收入为31.7亿美元。 第一季度自由现金流为4.76亿美元。 预计2026年第二季度自由现金流利润率将在“十几”百分点的中段水平。 Shopify美股盘前跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3098774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
@@ -103,6 +115,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 06时53分]"
+        },
+        {
+          "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
+          "url": "https://www.cls.cn/detail/2362589",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元。 一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元。 一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。 预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72.0亿美元。 Palantir美股盘后涨2%。",
@@ -155,7 +178,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -196,7 +219,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "专坑国人,日本阴阳菜单被扒",
@@ -210,6 +233,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时28分 ~ 13时38分]"
+        },
+        {
+          "title": "日本网红店翻车,食客集体中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时57分]"
         },
         {
           "title": "中国就日本核突破向联合国发警告",
@@ -236,18 +272,6 @@
           "time_info": "[10时14分 ~ 18时31分]"
         },
         {
-          "title": "日本网红店翻车,食客集体中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时31分]"
-        },
-        {
           "title": "年号制度曾在东亚被长期实行，为什么当今除日本以外的其它国家不再使用年号了？",
           "url": "https://www.zhihu.com/question/2034120492668469316",
           "source": "知乎",
@@ -258,6 +282,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时38分 ~ 16时02分]"
+        },
+        {
+          "title": "两中国游客日本登山遇险 1人救助困难",
+          "url": "https://www.toutiao.com/trending/7635842961276370980/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
+          "title": "视频丨中方在联合国点名日本，呼吁国际社会警惕其涉核消极动向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33098751",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "中方特别点名：高度警惕日本",
@@ -301,7 +347,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -326,6 +372,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.82%，暂报2640.13点，北京时间10:00前后显著拉升，18:00显著跳水。 MarketVectorTM数字资产100中盘指数涨1.08%，报2837.48点。 MarketVector数字资产100指数涨1.42%，报15669.37点。 目前，Solana涨0.15%，狗狗币涨1.83%，XRP涨0.39%。 比特币涨1.64%，暂报80048.10美元；以太坊涨0.96%，暂报2356.34美元。",
+          "url": "https://wallstreetcn.com/livenews/3098567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "宇树机器人在美“出差”买票坐飞机",
+          "url": "https://www.toutiao.com/trending/7635938228496777243/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 07时50分]"
+        },
+        {
+          "title": "公园可花9块9租外骨骼机器人爬山",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E5%8F%AF%E8%8A%B19%E5%9D%979%E7%A7%9F%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%88%AC%E5%B1%B1",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
+          "title": "宇树机器人在美买票坐飞机",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%BE%8E%E4%B9%B0%E7%A5%A8%E5%9D%90%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美一航班因机器人乘客延误62分钟",
+          "url": "https://www.toutiao.com/trending/7636031723314692150/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大，现跌超2%，零跑汽车(09863.HK)、地平线机器人(09660.HK)跌超4%，比亚迪股份(01211.HK)、小米集团(01810.HK)跌超3.5%，金山软件(03888.HK)、同程旅行(00780.HK)、小鹏集团(09868.HK)跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260505094425511800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "恒生指数、恒生科技指数开盘快速下挫，现均跌超1%，药明生物(02269.HK)跌超4%，舜宇光学科技(02382.HK)跌近3.5%，紫金矿业(02899.HK)、老铺黄金(06181.HK)、地平线机器人(09660.HK)、零跑汽车(09863.HK)均跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260505093314264800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         }
       ]
     },
@@ -397,81 +526,70 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 5,
       "titles": [
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.82%，暂报2640.13点，北京时间10:00前后显著拉升，18:00显著跳水。 MarketVectorTM数字资产100中盘指数涨1.08%，报2837.48点。 MarketVector数字资产100指数涨1.42%，报15669.37点。 目前，Solana涨0.15%，狗狗币涨1.83%，XRP涨0.39%。 比特币涨1.64%，暂报80048.10美元；以太坊涨0.96%，暂报2356.34美元。",
-          "url": "https://wallstreetcn.com/livenews/3098567",
+          "title": "谷歌、xAI和微软同意对新人工智能模型进行美国国家安全审查。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3098780",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "19时57分"
         },
         {
-          "title": "宇树机器人在美“出差”买票坐飞机",
-          "url": "https://www.toutiao.com/trending/7635938228496777243/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时49分 ~ 07时50分]"
-        },
-        {
-          "title": "宇树机器人在美买票坐飞机",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%BE%8E%E4%B9%B0%E7%A5%A8%E5%9D%90%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美一航班因机器人乘客延误62分钟",
-          "url": "https://www.toutiao.com/trending/7636031723314692150/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "恒生科技指数跌幅扩大，现跌超2%，零跑汽车(09863.HK)、地平线机器人(09660.HK)跌超4%，比亚迪股份(01211.HK)、小米集团(01810.HK)跌超3.5%，金山软件(03888.HK)、同程旅行(00780.HK)、小鹏集团(09868.HK)跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260505094425511800",
+          "title": "Meta与大摩、小摩达成协议为数据中心融资",
+          "url": "https://flash.jin10.com/detail/20260505073020223800",
           "source": "金十数据",
           "ranks": [
-            12
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "07时50分"
         },
         {
-          "title": "恒生指数、恒生科技指数开盘快速下挫，现均跌超1%，药明生物(02269.HK)跌超4%，舜宇光学科技(02382.HK)跌近3.5%，紫金矿业(02899.HK)、老铺黄金(06181.HK)、地平线机器人(09660.HK)、零跑汽车(09863.HK)均跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260505093314264800",
+          "title": "市场消息：Meta Platforms(META.O)正在为位于得克萨斯州埃尔帕索的一座数据中心制定融资方案，该方案的总额可能约为130亿美元。据知情人士透露，摩根士丹利和摩根大通正在主导这一进程。",
+          "url": "https://flash.jin10.com/detail/20260505070823518800",
           "source": "金十数据",
           "ranks": [
-            21
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "07时50分"
+        },
+        {
+          "title": "谷歌、微软与美国联邦人工智能中心达成协议。",
+          "url": "https://flash.jin10.com/detail/20260505193512616800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
+          "url": "https://wallstreetcn.com/articles/3771528",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         }
       ]
     },
@@ -572,48 +690,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Meta与大摩、小摩达成协议为数据中心融资",
-          "url": "https://flash.jin10.com/detail/20260505073020223800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "市场消息：Meta Platforms(META.O)正在为位于得克萨斯州埃尔帕索的一座数据中心制定融资方案，该方案的总额可能约为130亿美元。据知情人士透露，摩根士丹利和摩根大通正在主导这一进程。",
-          "url": "https://flash.jin10.com/detail/20260505070823518800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
-          "url": "https://wallstreetcn.com/articles/3771528",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
         }
       ]
     },
@@ -659,7 +738,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }
