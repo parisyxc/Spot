@@ -1,1115 +1,133 @@
 {
-  "generated_at": "2026-05-06T21:55:39.972508+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-05-07T00:02:50.323899+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 34,
+      "match_count": 4,
       "titles": [
         {
-          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
-          "url": "https://www.cls.cn/detail/2362725",
-          "source": "财联社热门",
+          "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 07时52分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "AMD Q1营收超预期增长38%，数据中心业务大增57%，二季度指引超预期｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3771600",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时25分 ~ 21时55分]"
-        },
-        {
-          "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3771589",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 06时02分]"
-        },
-        {
-          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
-          "url": "https://www.cls.cn/detail/2363187",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时53分]"
-        },
-        {
-          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
-          "url": "https://www.cls.cn/detail/2363503",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 21时55分]"
-        },
-        {
-          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
-          "url": "https://www.cls.cn/detail/2363413",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 19时02分]"
-        },
-        {
-          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771556",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 04时59分]"
-        },
-        {
-          "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
-          "url": "https://www.cls.cn/detail/2362589",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 07时52分]"
-        },
-        {
-          "title": "美伊接近达成停战备忘录，美股期指拉升，康宁大涨18%，油价暴跌超10%",
-          "url": "https://wallstreetcn.com/articles/3771614",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美伊停火协议愈发脆弱 美股因强劲财报季重拾乐观情绪 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2362959",
-          "source": "财联社热门",
-          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
-          "title": "美伊接近达成停战备忘录，美股期指短线拉升，美油暴跌10%，黄金涨超3%触及4700美元",
-          "url": "https://wallstreetcn.com/articles/3771614",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "阿里巴巴美股盘前涨超5%，百度涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3099328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "迪士尼美股盘前涨近8%，公司第二季度营收251.68美元，同比增长7%",
-          "url": "https://wallstreetcn.com/livenews/3099326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "美股三大股指期货走高，纳指期货涨幅扩大至0.9%。",
-          "url": "https://flash.jin10.com/detail/20260506070051821800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "美股三大股指高开，康宁大涨超17%",
-          "url": "https://wallstreetcn.com/livenews/3099421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "高景气驱动全球科技股共振，机构：5月A股科技主线有望延续",
-          "url": "https://wallstreetcn.com/livenews/3098975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨2%，布油基金跌超3.2%",
-          "url": "https://wallstreetcn.com/livenews/3098937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时02分]"
-        },
-        {
-          "title": "Strategy一季度营收1.243亿美元，IBES预期0.0494亿美元。 一季度每股收益（EPS）为38.25美元，IBES预期美股亏损0.17美元。 一季度运营亏损包含数字资产未实现的亏损144.6亿美元。 MSTR美股盘后跌1.3%，报184.46美元。",
-          "url": "https://wallstreetcn.com/livenews/3098934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时02分]"
-        },
-        {
-          "title": "Lumentum第三财季营收8.084亿美元，IBES预期8.043亿美元。 第三财季调整后每股收益（EPS）为2.37美元，IBES预期2.27美元。 第三财季调整后净利润2.257亿美元，分析师预期2.025亿美元。 预计第四财季营收9.60亿-10.1亿美元，预计调整后EPS为2.85-3.05美元。 Lumentum美股盘后跌4%。",
-          "url": "https://wallstreetcn.com/livenews/3098932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时02分]"
-        },
-        {
-          "title": "AMD一季度调整后每股收益（EPS）为1.37美元，IBES预期1.29美元。 一季度调整后净利润22.65亿美元，IBES预期21.14亿美元。 一季度净利润13.83亿美元。 客户对MI450系列和Helios的（订单）参与正在增强。 AMD美股盘后跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3098931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时02分]"
+          "time_info": "00时02分"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
           "url": "https://www.zhihu.com/question/2034453660378382744",
           "source": "知乎",
           "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 21时55分]"
-        },
-        {
-          "title": "美股行业ETF普遍收涨，半导体ETF涨超3.1%",
-          "url": "https://wallstreetcn.com/livenews/3098929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时02分]"
-        },
-        {
-          "title": "港股收盘 | 内地假期三大指数集体收高 科技股强势领涨",
-          "url": "https://www.cls.cn/detail/2362901",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260506011214821800",
-          "source": "金十数据",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "金十图示：2026年05月05日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260506011205693800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "4月调研超过5000次，私募进攻瞄准绩优科技股",
-          "url": "https://wallstreetcn.com/livenews/3098971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "00时02分"
         },
         {
           "title": "英特尔2026Q1财报解析",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E7%89%B9%E5%B0%942026Q1%E8%B4%A2%E6%8A%A5%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "AMD美股盘后涨幅扩大至15.24%，最高达到409.40美元。",
-          "url": "https://wallstreetcn.com/livenews/3098968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "AMD股价盘后继续上涨，目前上涨6.9%，受益于财报及前景展望。",
-          "url": "https://flash.jin10.com/detail/20260506043008734800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "谷歌(GOOG.O)美股盘后涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260506042737308800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3099405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美股不断创出新高 有哪些值得借鉴",
-          "url": "https://www.toutiao.com/trending/7636570051155676713/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "AMD(AMD.O)美股盘后涨2%。",
-          "url": "https://flash.jin10.com/detail/20260506042115421800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "美国芝加哥BondBloxx投资管理公司合伙人兼高级投资策略师JoAnne Bianco：目前确实缺乏足以推动市场大幅单边波动的重大消息，但我们的利率水平确实已达到年初——即美伊冲突爆发前——未曾预料的高度。 自3月初以来，这确实是一次大幅波动，因此我们目前处于更高的水平。看起来，如果布伦特原油价格继续按照每天3-5美元的速度上涨，利率可能会上升，但这也开始使固定收益资产更具吸引力，特别是在收益率曲线的中段。",
-          "url": "https://wallstreetcn.com/livenews/3098911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "00时02分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 17,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "日本网红店翻车,食客集体中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9,
-            17,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 21时55分]"
-        },
-        {
-          "title": "日本战后首次在境外发射进攻型导弹",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%88%98%E5%90%8E%E9%A6%96%E6%AC%A1%E5%9C%A8%E5%A2%83%E5%A4%96%E5%8F%91%E5%B0%84%E8%BF%9B%E6%94%BB%E5%9E%8B%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
-          "title": "日本被曝几乎有造核武器的所有条件",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%87%A0%E4%B9%8E%E6%9C%89%E9%80%A0%E6%A0%B8%E6%AD%A6%E5%99%A8%E7%9A%84%E6%89%80%E6%9C%89%E6%9D%A1%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
-          "title": "视频丨中方在联合国点名日本，呼吁国际社会警惕其涉核消极动向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33098751",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 10时25分]"
-        },
-        {
-          "title": "日本参议员：对俄制裁损害日本国家利益",
-          "url": "https://wallstreetcn.com/livenews/3098896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "日本参议员：对俄制裁损害日本国家利益",
-          "url": "https://flash.jin10.com/detail/20260506022228306800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "战后首次！日本在菲律宾军演发射进攻型导弹",
-          "url": "https://news.ifeng.com/c/8sty62eKGy1",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 21时55分]"
-        },
         {
           "title": "美菲军演中日本发射 88 式导弹，系战后日本首次在境外发射进攻型导弹，会带来哪些风险？暴露了其什么野心？",
           "url": "https://www.zhihu.com/question/2035352930782372640",
           "source": "知乎",
           "ranks": [
-            18,
-            13
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 21时55分]"
-        },
-        {
-          "title": "异环横扫海外,掀翻日本游戏圈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354037&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%A8%AA%E6%89%AB%E6%B5%B7%E5%A4%96%2C%E6%8E%80%E7%BF%BB%E6%97%A5%E6%9C%AC%E6%B8%B8%E6%88%8F%E5%9C%88",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 21时55分]"
-        },
-        {
-          "title": "日本在菲律宾军演发射88式导弹",
-          "url": "https://www.toutiao.com/trending/7636119989522677766/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
-          "title": "日本插手南海动作愈发频繁",
-          "url": "https://www.toutiao.com/trending/7635976593300488230/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 06时02分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "战后日本军演首次在境外发射进攻性导弹，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33101670",
           "source": "澎湃新闻",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "日本神奈川县东部发生4.2级地震。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3099311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "00时02分"
         },
         {
-          "title": "中方回应日本在境外发射进攻性导弹",
-          "url": "https://www.toutiao.com/trending/7635186193206103615/",
-          "source": "今日头条",
+          "title": "异环横扫海外,掀翻日本游戏圈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354037&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%A8%AA%E6%89%AB%E6%B5%B7%E5%A4%96%2C%E6%8E%80%E7%BF%BB%E6%97%A5%E6%9C%AC%E6%B8%B8%E6%88%8F%E5%9C%88",
+          "source": "贴吧",
           "ranks": [
-            25
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "00时02分"
         },
         {
-          "title": "2名中国游客日本登山食物耗尽",
-          "url": "https://s.weibo.com/weibo?q=%232%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A5%E6%9C%AC%E7%99%BB%E5%B1%B1%E9%A3%9F%E7%89%A9%E8%80%97%E5%B0%BD%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "日本怂恿特朗普访华途中访日",
-          "url": "https://www.toutiao.com/trending/7635392980899069998/",
-          "source": "今日头条",
+          "title": "日本网红店翻车,食客集体中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "日本为何沦为“廉价超市”",
-          "url": "https://www.toutiao.com/trending/7636688698658000393/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "00时02分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 15,
+      "match_count": 2,
       "titles": [
         {
           "title": "AMD电话会：服务器CPU市场增速将超35%，CPU比例推向1:1，预计下半年出货Meta芯片",
           "url": "https://wallstreetcn.com/articles/3771601",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 21时55分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)首席科学家警告称，欧盟监管机构的数据共享方式未能有效保护欧洲人的隐私。",
-          "url": "https://flash.jin10.com/detail/20260506024845206800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "00时02分"
         },
         {
-          "title": "谷歌(GOOG.O)首席科学家将于周三与欧盟反垄断监管机构会面。",
-          "url": "https://flash.jin10.com/detail/20260506024838335800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "据谷歌(GOOG.O)一位科学家透露，谷歌希望与监管机构分享技术专长，以确立恰当的防护措施。",
-          "url": "https://flash.jin10.com/detail/20260506024811580800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "分析师电话会：AMD预计公司第二季度CPU收入增长超过70%。预计到2030年，CPU市场年增长超过35%。由于内存和零部件成本上涨，公司预计下半年PC出货量将有所下降。数据中心现已成为推动营收和利润增长的主要动力。公司正与供应链合作伙伴“紧密合作”，以增加晶圆和后端生产能力。Meta芯片的出货预计将于下半年如期启动。",
-          "url": "https://wallstreetcn.com/livenews/3098953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)一直在测试与谷歌和Anthropic的集成。",
-          "url": "https://flash.jin10.com/detail/20260506012503542800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3098935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时02分]"
-        },
-        {
-          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
-          "url": "https://www.cls.cn/detail/2363224",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
-          "title": "谷歌正在测试AI代理“Remy”，或对标OpenClaw",
-          "url": "https://wallstreetcn.com/livenews/3098891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "Anthropic拟向谷歌投入2000亿美元",
-          "url": "https://flash.jin10.com/detail/20260506043310242800",
+          "title": "谷歌向欧盟提出提议，旨在避免新闻搜索案中的罚款。",
+          "url": "https://flash.jin10.com/detail/20260506232812792800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "AMD(AMD.O)：Meta芯片的出货预计将于下半年如期启动。",
-          "url": "https://flash.jin10.com/detail/20260506051442353800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "谷歌正在测试AI代理“Remy”，或对标OpenClaw",
-          "url": "https://flash.jin10.com/detail/20260506015839157800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "Anthropic 承诺在谷歌的云服务和芯片上投资2000亿美元。（The Information）",
-          "url": "https://flash.jin10.com/detail/20260506042238368800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "据The Information：Meta Platforms(META.O)正在开发一款名为“Hatch”的人工智能代理，并在Instagram上打造一款基于代理的购物工具。",
-          "url": "https://flash.jin10.com/detail/20260506063919812800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "知情人士透露，谷歌(GOOG.O)正在为Gemini打造一个7x24小时全天候运行的人工智能“个人代理”。",
-          "url": "https://flash.jin10.com/detail/20260506014918064800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
-          "url": "https://wallstreetcn.com/livenews/3098899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
-          "url": "https://flash.jin10.com/detail/20260506022641166800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "OpenAI更新ChatGPT默认模型 提升准确性与个性化",
-          "url": "https://flash.jin10.com/detail/20260506012340306800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
-          "url": "https://wallstreetcn.com/livenews/3098871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时13分]"
-        },
-        {
-          "title": "OpenAI推出GPT-5.5 Instant",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时53分]"
-        },
-        {
-          "title": "OpenAI：在所有ChatGPT模型中引入内存源。",
-          "url": "https://flash.jin10.com/detail/20260506010514286800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "OpenAI：正在推出测试版自助广告管理器，允许美国境内的广告主注册并直接购买广告，使其显示在ChatGPT中。",
-          "url": "https://flash.jin10.com/detail/20260506020032402800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "OpenAI：记忆来源功能正在网页端向所有ChatGPT消费级套餐用户逐步推出，并即将在移动端上线。",
-          "url": "https://flash.jin10.com/detail/20260506010504904800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "OpenAI：在我们持续测试和完善体验的过程中，将逐步向更多企业开放广告管理器。",
-          "url": "https://flash.jin10.com/detail/20260506015935825800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "OpenAI：对于付费用户，GPT‑5.3 Instant将在未来3个月内继续可用，用户可通过模型配置设置访问，之后该版本将正式退役。",
-          "url": "https://flash.jin10.com/detail/20260506010453455800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "OpenAI：今天，我们开始逐步推出ChatGPT中的测试版自助广告管理器。",
-          "url": "https://flash.jin10.com/detail/20260506015903210800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "OpenAI：GPT-5.5 Instant从今天开始向所有ChatGPT用户推出。",
-          "url": "https://flash.jin10.com/detail/20260506010425675800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "OpenAI或加速手机开发",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "金价跳水是机会还是坑",
-          "url": "https://www.toutiao.com/trending/7636354274716290614/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 06时02分]"
-        },
-        {
-          "title": "现货白银站上74美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260506071906620800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "现货白银日内涨5.00美元，现报77.79美元/盎司，涨幅6.87%。",
-          "url": "https://flash.jin10.com/detail/20260506185415845800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "港股黄金股午后再度走强，山东黄金(01787.HK)涨超5%，灵宝黄金(03330.HK)、赤峰黄金(0693.HK)、紫金黄金国际(02259.HK)均涨超4.5%，紫金矿业(02899.HK)、中国白银集团(00815.HK)均正常2.5%。",
-          "url": "https://flash.jin10.com/detail/20260506134012767800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "现货白银上涨近3%，至每盎司75.01美元。",
-          "url": "https://wallstreetcn.com/livenews/3099047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
-          "url": "https://www.zhihu.com/question/2032416656081802662",
-          "source": "知乎",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 21时55分]"
-        },
-        {
-          "title": "金价涨超0.7%，自4500美元附近反弹",
-          "url": "https://wallstreetcn.com/livenews/3098945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "国投白银LOF将于5月7日开市起停牌，自5月7日10:30起复牌",
-          "url": "https://wallstreetcn.com/livenews/3099303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "现货白银日内涨幅达6.0%，报77.2美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3099287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "港股半导体股盘中持续上攻，澜起科技(06809.HK)涨超18%，兆易创新(03986.HK)涨超14%，中芯国际(00981.HK)、华虹半导体(01347.HK)均涨超10%，豪威集团(00501.HK)、晶门半导体(02878.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260506100513109800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "【午报】科创50指数半日涨超8%，半导体链持续爆发，海光信息、寒武纪等权重续创新高",
-          "url": "https://www.cls.cn/detail/2363482",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "欧洲半导体概念股普遍收涨，德国爱思强股份涨6.97%，英飞凌涨6.50%，阿斯麦控股涨3.50%。",
-          "url": "https://wallstreetcn.com/livenews/3098864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "中证全指半导体产品与设备指数早盘高开4.2%，再创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3099042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "A股半导体产业链开盘强势，存储芯片方向领涨，通富微电、盈新发展、中国长城竞价涨停，大普微涨超10%，澜起科技、海光信息、德明利、佰维存储涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/3099040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "港股恒生科技指数盘中涨超1%，恒生指数涨0.37%，芯片及存储股强势领涨，华虹半导体(01347.HK)涨超8.5%，中芯国际(00981.HK)涨近8%，联想集团(00992.HK)涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260506095106061800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "恒指高开0.51%，报26029.65点；恒生科技指数涨0.85%。华虹半导体、中芯国际涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3099030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "00时02分"
         }
       ]
     },
@@ -1118,66 +136,94 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "五一微信数据报告来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%BE%AE%E4%BF%A1%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%91%8A%E6%9D%A5%E4%BA%86%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 10时25分]"
-        },
-        {
           "title": "黄仁俊入驻抖音",
           "url": "https://www.douyin.com/hot/2490457",
           "source": "抖音",
           "ranks": [
-            23
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "00时02分"
+        },
+        {
+          "title": "良陈美锦抖音追剧团",
+          "url": "https://www.douyin.com/hot/2490429",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
     {
-      "keyword_group": "AI基础设施 算力基建 AI Agent",
+      "keyword_group": "半导体 芯片产业",
       "match_count": 1,
       "titles": [
         {
-          "title": "Meta正在打造一款AI Agent（人工智能智能体），名叫Hatch和一款Instagram内的购物工具代理。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3098967",
+          "title": "英伟达涨幅扩大至5.13%，半导体指数涨3.67%，纳斯达克100指数涨1.59%。",
+          "url": "https://wallstreetcn.com/livenews/3099473",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "00时02分"
         }
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "keyword_group": "特斯拉 INTEL",
       "match_count": 1,
       "titles": [
         {
-          "title": "机器人爆火 哪些赚钱哪些裸泳",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%88%86%E7%81%AB+%E5%93%AA%E4%BA%9B%E8%B5%9A%E9%92%B1%E5%93%AA%E4%BA%9B%E8%A3%B8%E6%B3%B3",
-          "source": "百度热搜",
+          "title": "特斯拉将召回美国市场近21.9万辆汽车",
+          "url": "https://wallstreetcn.com/livenews/3099468",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23,
-            21,
-            18,
-            19,
-            26
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 07时52分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
+          "url": "https://www.zhihu.com/question/2035283954274493764",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
+          "url": "https://www.zhihu.com/question/2032416656081802662",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     }
