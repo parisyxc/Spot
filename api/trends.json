@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-07T03:31:26.797051+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-05-07T05:14:01.767595+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
           "url": "https://wallstreetcn.com/articles/3771614",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时14分]"
         },
         {
           "title": "AMD Q1营收超预期增长38%，数据中心业务大增57%，二季度指引超预期｜财报见闻",
@@ -28,6 +29,43 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 03时31分]"
+        },
+        {
+          "title": "英特尔2026Q1财报解析",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E7%89%B9%E5%B0%942026Q1%E8%B4%A2%E6%8A%A5%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            23,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时14分]"
+        },
+        {
+          "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2364164",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 05时14分]"
+        },
+        {
+          "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3099572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -43,30 +81,6 @@
           "time_info": "[00时02分 ~ 03时31分]"
         },
         {
-          "title": "英特尔2026Q1财报解析",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E7%89%B9%E5%B0%942026Q1%E8%B4%A2%E6%8A%A5%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时31分]"
-        },
-        {
-          "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2364164",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 03时31分]"
-        },
-        {
           "title": "美股中概股大涨 百度涨超7%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%857%25",
           "source": "百度热搜",
@@ -78,21 +92,65 @@
           "time_info": "[01时46分 ~ 01时47分]"
         },
         {
+          "title": "高意公司/相干公司（Coherent Corp.）第三财季营收18.06亿美元，IBES预期17.80亿美元。 第三财季整后营业收入3.66亿美元，IBES预期3.723亿美元。 第三财季调整后每股收益（EPS）为1.41美元，IBES预期1.40美元。 第三财季调整后净利润2.76亿美元，IBES预期2.722亿美元。 预计第四财季营收19.1亿-20.5亿美元，预计调整后EPS为1.52-1.72美元。 相干公司（COHR）美股盘后跌6.68%。",
+          "url": "https://wallstreetcn.com/livenews/3099562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
+          "url": "https://wallstreetcn.com/livenews/3099560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260507040528145800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
           "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
           "url": "https://wallstreetcn.com/livenews/3099520",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260507040519442800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "美菲军演中日本发射 88 式导弹，系战后日本首次在境外发射进攻型导弹，会带来哪些风险？暴露了其什么野心？",
@@ -103,8 +161,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时14分]"
         },
         {
           "title": "战后日本军演首次在境外发射进攻性导弹，外交部回应",
@@ -112,11 +170,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时14分]"
         },
         {
           "title": "异环横扫海外,掀翻日本游戏圈",
@@ -126,8 +185,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时14分]"
         },
         {
           "title": "日本网红店翻车,食客集体中毒",
@@ -137,8 +196,113 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时14分]"
+        },
+        {
+          "title": "日媒：贝森特下周将访问日本 与金融当局讨论日元疲软问题",
+          "url": "https://flash.jin10.com/detail/20260507041205252800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "加拿大央行高级副行长在参议院证词中表示：针对总部位于加拿大的稳定币监管规定可能会在2027年中或年末推出。",
+          "url": "https://wallstreetcn.com/livenews/3099565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "日本坦克究竟有多奇葩",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9D%A6%E5%85%8B%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%A5%87%E8%91%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 05时14分]"
+        },
+        {
+          "title": "据日经新闻：美国财长贝森特将于下周二分别与日本首相高市早苗、日本财务大臣片山皋月和日本央行行长植田和男进行会谈。贝森特下周将讨论日元疲软问题，除了货币问题，议程还将涵盖经济安全主题，如稀土和能源采购。",
+          "url": "https://flash.jin10.com/detail/20260507040712574800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "美国财政部长贝森特下周将在日本讨论日元疲软问题。 贝森特将于下周二分别与日本首相高市早苗、外相片山皋月、日本央行行长植田和男会谈。 除货币问题外，议程还将涵盖稀土和能源采购等经济安全议题。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3099558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "AMD电话会：服务器CPU市场增速将超35%，CPU比例推向1:1，预计下半年出货Meta芯片",
+          "url": "https://wallstreetcn.com/articles/3771601",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时31分]"
+          "time_info": "[00时02分 ~ 05时14分]"
+        },
+        {
+          "title": "Meta支持的Scale AI获五角大楼5亿美元AI合同",
+          "url": "https://wallstreetcn.com/livenews/3099573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "市场消息：由Meta支持的Scale AI公司获得了一份价值5亿美元的美国国防部合同。",
+          "url": "https://flash.jin10.com/detail/20260507042354436800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "谷歌向欧盟提出提议，旨在避免新闻搜索案中的罚款。",
+          "url": "https://flash.jin10.com/detail/20260506232812792800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
@@ -147,13 +311,26 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
+          "url": "https://www.zhihu.com/question/2035283954274493764",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时14分]"
+        },
+        {
           "title": "OpenAI：我们推出B2B Signals，这是OpenAI Signals的商业扩展版。",
           "url": "https://flash.jin10.com/detail/20260507030831224800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -164,21 +341,48 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
-          "url": "https://www.zhihu.com/question/2035283954274493764",
+          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
+          "url": "https://www.zhihu.com/question/2032416656081802662",
           "source": "知乎",
           "ranks": [
-            15,
-            17
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时14分]"
+        },
+        {
+          "title": "金价涨2.8%，逼近4700美元",
+          "url": "https://wallstreetcn.com/livenews/3099570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月6日（周三）晚盘收盘上涨0.8%报1030.11元/克；<br/>上海黄金交易所白银T+D 5月6日（周三）晚盘收盘上涨2.51%报19137.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260507023104398800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     },
@@ -207,62 +411,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AMD电话会：服务器CPU市场增速将超35%，CPU比例推向1:1，预计下半年出货Meta芯片",
-          "url": "https://wallstreetcn.com/articles/3771601",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时47分]"
-        },
-        {
-          "title": "谷歌向欧盟提出提议，旨在避免新闻搜索案中的罚款。",
-          "url": "https://flash.jin10.com/detail/20260506232812792800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
-          "url": "https://www.zhihu.com/question/2032416656081802662",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时31分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 5月6日（周三）晚盘收盘上涨0.8%报1030.11元/克；<br/>上海黄金交易所白银T+D 5月6日（周三）晚盘收盘上涨2.51%报19137.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260507023104398800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
         }
       ]
     },
