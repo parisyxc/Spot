@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T10:27:19.322110+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-05-07T13:57:39.290635+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美菲军演中日本发射 88 式导弹，系战后日本首次在境外发射进攻型导弹，会带来哪些风险？暴露了其什么野心？",
@@ -28,11 +28,12 @@
             14,
             15,
             16,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 10时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 13时57分]"
         },
         {
           "title": "异环横扫海外,掀翻日本游戏圈",
@@ -40,11 +41,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 10时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 13时57分]"
         },
         {
           "title": "日本网红店翻车,食客集体中毒",
@@ -58,6 +60,18 @@
           "time_info": "[00时02分 ~ 07时44分]"
         },
         {
+          "title": "高市早苗下跪让人看清日本丑恶嘴脸",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E8%AE%A9%E4%BA%BA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时57分]"
+        },
+        {
           "title": "高市早苗下跪看清日本丑恶嘴脸",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%84%B8%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -67,17 +81,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 10时27分]"
-        },
-        {
-          "title": "高市早苗下跪让人看清日本丑恶嘴脸",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E8%AE%A9%E4%BA%BA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "麻辣烫日本火爆被年轻女性当成药膳",
@@ -97,9 +100,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "日本10年期国债收益率下降3个基点，至2.470%。",
+          "url": "https://flash.jin10.com/detail/20260507133443620800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "MSCI亚太地区(除日本)股指触及纪录新高，最新上涨1.3%。",
@@ -108,9 +122,34 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "日本坦克究竟有多奇葩",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9D%A6%E5%85%8B%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%A5%87%E8%91%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            23,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时13分 ~ 13时57分]"
+        },
+        {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "日媒：贝森特下周将访问日本 与金融当局讨论日元疲软问题",
@@ -135,28 +174,39 @@
           "time_info": "05时14分"
         },
         {
-          "title": "日本坦克究竟有多奇葩",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9D%A6%E5%85%8B%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%A5%87%E8%91%A9",
-          "source": "bilibili 热搜",
+          "title": "中方回应二战后日本首次境外发射进攻型导弹，敦促日本在军事安全领域恪守承诺、谨言慎行，如何看待日本此举？",
+          "url": "https://www.zhihu.com/question/2035387121423364410",
+          "source": "知乎",
           "ranks": [
-            26,
-            23,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时13分 ~ 07时44分]"
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时57分]"
         },
         {
           "title": "Anthropic自夸Q1年化收入暴涨80倍 日本疑似连续干预汇市 | 环球市场",
           "url": "https://www.cls.cn/detail/2364390",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时57分]"
+        },
+        {
+          "title": "日本警察接警后5小时才破门 发现3具尸体",
+          "url": "https://www.toutiao.com/trending/7636199167459164211/",
+          "source": "今日头条",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "13时57分"
         },
         {
           "title": "据日经新闻：美国财长贝森特将于下周二分别与日本首相高市早苗、日本财务大臣片山皋月和日本央行行长植田和男进行会谈。贝森特下周将讨论日元疲软问题，除了货币问题，议程还将涵盖经济安全主题，如稀土和能源采购。",
@@ -176,18 +226,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "中方回应二战后日本首次境外发射进攻型导弹，敦促日本在军事安全领域恪守承诺、谨言慎行，如何看待日本此举？",
-          "url": "https://www.zhihu.com/question/2035387121423364410",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -206,7 +245,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -219,6 +258,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 05时14分]"
+        },
+        {
+          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 13时57分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -260,27 +310,17 @@
           "time_info": "[00时02分 ~ 06时44分]"
         },
         {
-          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3771614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 10时27分]"
-        },
-        {
           "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
           "url": "https://www.cls.cn/detail/2364348",
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 13时57分]"
         },
         {
           "title": "Snap收涨0.33%，美股盘后跌9.17%。",
@@ -308,13 +348,24 @@
           "time_info": "[00时02分 ~ 06时44分]"
         },
         {
+          "title": "消费基金重仓科技股，网友坐不住了，算不算“挂羊头卖狗肉”？",
+          "url": "https://www.cls.cn/detail/2364657",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
           "url": "https://wallstreetcn.com/articles/3771684",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -395,6 +446,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "A股半导体板块午后持续走高，华虹公司涨超10%创新高，澜起科技、阿石创、诚邦股份、裕太微涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3099764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "英伟达涨幅扩大至5.13%，半导体指数涨3.67%，纳斯达克100指数涨1.59%。",
+          "url": "https://wallstreetcn.com/livenews/3099473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "产业趋势和自主可控共振，机构强力掘金半导体板块",
+          "url": "https://wallstreetcn.com/livenews/3099597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时44分]"
+        },
+        {
+          "title": "上交所：景顺长城全球半导体芯片产业股票型证券投资基金（QDII-LOF）临时停牌",
+          "url": "https://wallstreetcn.com/livenews/3099753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "港股半导体芯片股午后直线冲高，壁仞科技(06082.HK)涨超17%，华虹半导体(01347.HK)涨近11%，澜起科技(06809.HK)涨超8%，天数智芯(09903.HK)涨超7%，中芯国际(00981.HK)、天域半导体(02658.HK)均涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260507132121540800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "欧洲半导体概念股涨跌各异，阿斯麦控股收涨6.18%，ASM国际涨3.32%，英飞凌则收跌2.10%，德国爱思强跌2.80%，Soitec跌7%。",
+          "url": "https://wallstreetcn.com/livenews/3099489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至3%，快手涨超7%，华虹半导体涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3099731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         }
       ]
     },
@@ -546,7 +681,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -564,48 +699,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "英伟达涨幅扩大至5.13%，半导体指数涨3.67%，纳斯达克100指数涨1.59%。",
-          "url": "https://wallstreetcn.com/livenews/3099473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "产业趋势和自主可控共振，机构强力掘金半导体板块",
-          "url": "https://wallstreetcn.com/livenews/3099597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时44分]"
-        },
-        {
-          "title": "欧洲半导体概念股涨跌各异，阿斯麦控股收涨6.18%，ASM国际涨3.32%，英飞凌则收跌2.10%，德国爱思强跌2.80%，Soitec跌7%。",
-          "url": "https://wallstreetcn.com/livenews/3099489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄仁俊入驻抖音",
@@ -618,6 +713,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时02分 ~ 01时47分]"
+        },
+        {
+          "title": "抖音电商报告：国货消费延续增长态势",
+          "url": "https://wallstreetcn.com/livenews/3099748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "良陈美锦抖音追剧团",
@@ -634,8 +740,19 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "创业板指涨幅扩大至1%，上证指数涨0.27%，深证成指涨0.74%。算力硬件、光伏、机器人等方向涨幅居前，沪深京三市上涨个股近3300只。",
+          "url": "https://wallstreetcn.com/livenews/3099761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
         {
           "title": "机器人概念股集体拉升，宇环数控、巨轮智能双双涨停，华中数控大涨近18%，斯菱智驱、肇民科技、信质集团、浙江荣泰、力星股份、五洲新春等涨幅靠前。",
           "url": "https://wallstreetcn.com/livenews/3099685",
@@ -643,7 +760,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -654,7 +771,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
