@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T13:57:39.290635+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-05-07T16:32:16.076803+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美菲军演中日本发射 88 式导弹，系战后日本首次在境外发射进攻型导弹，会带来哪些风险？暴露了其什么野心？",
@@ -29,11 +29,12 @@
             15,
             16,
             10,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 13时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 16时32分]"
         },
         {
           "title": "异环横扫海外,掀翻日本游戏圈",
@@ -58,6 +59,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 07时44分]"
+        },
+        {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时32分]"
         },
         {
           "title": "高市早苗下跪让人看清日本丑恶嘴脸",
@@ -94,6 +107,18 @@
           "time_info": "[07时44分 ~ 10时27分]"
         },
         {
+          "title": "中方回应二战后日本首次境外发射进攻型导弹，敦促日本在军事安全领域恪守承诺、谨言慎行，如何看待日本此举？",
+          "url": "https://www.zhihu.com/question/2035387121423364410",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 16时32分]"
+        },
+        {
           "title": "日本放话“全方位”狙击日元投机，美财长贝森特下周抵日谈汇率",
           "url": "https://flash.jin10.com/detail/20260507100653589800",
           "source": "金十数据",
@@ -111,7 +136,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -141,17 +166,6 @@
           "time_info": "[05时13分 ~ 13时57分]"
         },
         {
-          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
-          "url": "https://www.cls.cn/detail/2364594",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
           "title": "日媒：贝森特下周将访问日本 与金融当局讨论日元疲软问题",
           "url": "https://flash.jin10.com/detail/20260507041205252800",
           "source": "金十数据",
@@ -174,18 +188,6 @@
           "time_info": "05时14分"
         },
         {
-          "title": "中方回应二战后日本首次境外发射进攻型导弹，敦促日本在军事安全领域恪守承诺、谨言慎行，如何看待日本此举？",
-          "url": "https://www.zhihu.com/question/2035387121423364410",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 13时57分]"
-        },
-        {
           "title": "Anthropic自夸Q1年化收入暴涨80倍 日本疑似连续干预汇市 | 环球市场",
           "url": "https://www.cls.cn/detail/2364390",
           "source": "财联社热门",
@@ -194,19 +196,53 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 16时32分]"
         },
         {
           "title": "日本警察接警后5小时才破门 发现3具尸体",
           "url": "https://www.toutiao.com/trending/7636199167459164211/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时32分]"
+        },
+        {
+          "title": "日本的信息茧房有多严重",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%9A%84%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "中方回应日本多地爆发示威活动",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "麻辣烫日本火爆被年轻女性当成药膳",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%97%A5%E6%9C%AC%E7%81%AB%E7%88%86%E8%A2%AB%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%E5%BD%93%E6%88%90%E8%8D%AF%E8%86%B3%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "据日经新闻：美国财长贝森特将于下周二分别与日本首相高市早苗、日本财务大臣片山皋月和日本央行行长植田和男进行会谈。贝森特下周将讨论日元疲软问题，除了货币问题，议程还将涵盖经济安全主题，如稀土和能源采购。",
@@ -245,7 +281,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -267,8 +303,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时44分 ~ 13时57分]"
+          "appearance_count": 6,
+          "time_info": "[06时44分 ~ 16时32分]"
+        },
+        {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时44分 ~ 16时32分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -310,17 +359,27 @@
           "time_info": "[00时02分 ~ 06时44分]"
         },
         {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
+          "title": "消费基金重仓科技股，网友坐不住了，算不算“挂羊头卖狗肉”？",
+          "url": "https://www.cls.cn/detail/2364657",
           "source": "财联社热门",
           "ranks": [
-            5,
-            3,
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时44分 ~ 13时57分]"
+          "time_info": "[13时57分 ~ 16时32分]"
+        },
+        {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 16时32分]"
         },
         {
           "title": "Snap收涨0.33%，美股盘后跌9.17%。",
@@ -348,28 +407,6 @@
           "time_info": "[00时02分 ~ 06时44分]"
         },
         {
-          "title": "消费基金重仓科技股，网友坐不住了，算不算“挂羊头卖狗肉”？",
-          "url": "https://www.cls.cn/detail/2364657",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
           "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
           "url": "https://wallstreetcn.com/livenews/3099572",
           "source": "华尔街见闻-快讯",
@@ -380,6 +417,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时44分]"
+        },
+        {
+          "title": "美股盘前，ARM跌超4%，公司Q4财季营收同比增长20.2%。",
+          "url": "https://wallstreetcn.com/livenews/3099863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美股中概股大涨 百度涨超7%",
@@ -446,12 +494,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "国际油价短线跳水，布伦特原油日内跌幅达3.0%，报98.1美元/桶。 美股股指期货快速拉升，纳指期货日内涨幅扩大至0.3%。 美元指数短线走低，日内跌0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3099839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股半导体板块午后持续走高，华虹公司涨超10%创新高，澜起科技、阿石创、诚邦股份、裕太微涨幅居前。",
@@ -460,9 +519,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨1.57%，恒生科技指数收涨3.06%。华虹半导体涨超8%，快手、周大福涨超7%。中国石油股份跌逾8%，中国海洋石油跌逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3099865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "英伟达涨幅扩大至5.13%，半导体指数涨3.67%，纳斯达克100指数涨1.59%。",
@@ -494,7 +564,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -505,7 +575,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -527,7 +597,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
@@ -596,6 +666,68 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
+          "url": "https://www.zhihu.com/question/2032416656081802662",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时44分]"
+        },
+        {
+          "title": "金价涨2.8%，逼近4700美元",
+          "url": "https://wallstreetcn.com/livenews/3099570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时44分]"
+        },
+        {
+          "title": "现货白银价格上涨近3%，达到79.64 美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3099853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至1.00%，现报78.12美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260507094428497800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月6日（周三）晚盘收盘上涨0.8%报1030.11元/克；<br/>上海黄金交易所白银T+D 5月6日（周三）晚盘收盘上涨2.51%报19137.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260507023104398800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -648,59 +780,8 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
-          "url": "https://www.zhihu.com/question/2032416656081802662",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时44分]"
-        },
-        {
-          "title": "金价涨2.8%，逼近4700美元",
-          "url": "https://wallstreetcn.com/livenews/3099570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时44分]"
-        },
-        {
-          "title": "现货白银日内涨幅扩大至1.00%，现报78.12美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260507094428497800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 5月6日（周三）晚盘收盘上涨0.8%报1030.11元/克；<br/>上海黄金交易所白银T+D 5月6日（周三）晚盘收盘上涨2.51%报19137.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260507023104398800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "黄仁俊入驻抖音",
@@ -708,11 +789,23 @@
           "source": "抖音",
           "ranks": [
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 16时32分]"
+        },
+        {
+          "title": "白鹿卢昱晓 抖音下沉市场",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%8D%A2%E6%98%B1%E6%99%93%20%E6%8A%96%E9%9F%B3%E4%B8%8B%E6%B2%89%E5%B8%82%E5%9C%BA&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "抖音电商报告：国货消费延续增长态势",
@@ -721,7 +814,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -749,7 +842,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
