@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T07:53:25.430491+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-05-08T10:34:40.074271+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时11分 ~ 07时53分]"
+          "appearance_count": 6,
+          "time_info": "[04时11分 ~ 10时34分]"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
@@ -65,8 +65,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 10时34分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
+          "url": "https://www.cls.cn/detail/2365503",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 10时34分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，金银冲高回落",
@@ -75,9 +87,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览（美股收盘）",
@@ -113,24 +136,13 @@
           "time_info": "04时11分"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
-          "url": "https://www.cls.cn/detail/2365503",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
           "title": "昆仑芯（北京）科技股份有限公司启动上市辅导",
           "url": "https://wallstreetcn.com/livenews/3100264",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -141,7 +153,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -172,18 +184,19 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
           "url": "https://news.ifeng.com/c/8swPaRUXu6L",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时34分]"
         },
         {
           "title": "中方回应日本多地爆发示威活动",
@@ -192,11 +205,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时34分]"
         },
         {
           "title": "麻辣烫席卷日本,被樱花妹当药膳",
@@ -204,11 +218,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时34分]"
         },
         {
           "title": "中方回应日本多地爆发示威活动",
@@ -254,8 +269,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时34分]"
         },
         {
           "title": "日本一核电站机组高压涡轮机周边发生蒸汽泄漏",
@@ -264,9 +279,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "日本东证指数日内跌幅达1%。",
+          "url": "https://wallstreetcn.com/livenews/3100345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "日本3月劳工现金收入同比2.7%，前值3.3%。",
@@ -275,7 +301,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -286,7 +312,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -297,7 +323,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -308,9 +334,20 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 10时34分]"
+        },
+        {
+          "title": "日本30年期国债收益率下降2.0个基点，至3.705%。",
+          "url": "https://flash.jin10.com/detail/20260508101653148800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "10时34分"
         },
         {
           "title": "世乒赛男团 1/4 决赛，德国队 1-3 不敌日本队，张本狂砍 2 分，如何评价本场比赛？",
@@ -343,6 +380,31 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "分析人士：美伊和平协议若落地 黄金白银“超级牛市”有望重启",
+          "url": "https://www.cls.cn/detail/2365388",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时52分 ~ 10时34分]"
+        },
+        {
+          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
+          "url": "https://wallstreetcn.com/articles/3771769",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 10时34分]"
+        },
+        {
           "title": "金价破4700追不追",
           "url": "https://www.toutiao.com/trending/7637144466515578431/",
           "source": "今日头条",
@@ -352,29 +414,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
-        },
-        {
-          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
-          "url": "https://wallstreetcn.com/articles/3771769",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "分析人士：美伊和平协议若落地 黄金白银“超级牛市”有望重启",
-          "url": "https://www.cls.cn/detail/2365388",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时52分 ~ 07时53分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加21.11吨，当前持仓量为15079.26吨。欢迎点击查看数据中心...",
@@ -445,11 +484,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时20分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[02时20分 ~ 10时34分]"
         },
         {
           "title": "OpenAI推出新模型，以供网络安全团队使用",
@@ -458,7 +498,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -510,7 +550,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "全球芯片巨头集体上涨，三星电子股价涨超 14%，SK 海力士股价涨近 11%，这次半导体景气周期能持续多久？",
@@ -520,11 +560,23 @@
             10,
             8,
             3,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时34分]"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%，中芯国际、华虹半导体跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3100311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "纳斯达克综合指数（纳指）涨穿26000点，创盘中历史新高，当前涨幅超过0.6%，半导体指数跌幅收窄至不足0.7%。 纳斯达克100指数的成分股中，Datadog涨29.6%，Fortinet涨23.5%，Axon Enterprise涨11.1%，Zscaler涨8.2%，派拓网络、CrowdStrike涨6.6%，Palantir、特斯拉涨4%，英伟达涨2.5%，微软涨2.3%，新思科技、铿腾电子、Meta至少涨1.4%，闪迪、Strategy跌2.7%，Diamondback Energy跌3.9%，贝克休斯跌5%，Arm控股跌6.6%，Insmed跌15.8%。",
@@ -551,6 +603,56 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股机器人概念股反复活跃，五洲新春触及涨停，巨轮智能此前封板，乔锋智能涨超10%，祥鑫科技、绿的谐波、飞龙股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3100339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股人形机器人概念板块震荡走高，绿的谐波、华勤技术、乔锋智能盘中创新高，巨轮智能两连板，五洲新春、大业股份封板涨停，恒锋工具涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260508101913427800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "宇树机器人在韩国出家当和尚",
+          "url": "https://www.toutiao.com/trending/7636654760229830692/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "腾讯、上汽集团等入股机器人灵巧手研发商临界点",
+          "url": "https://wallstreetcn.com/livenews/3100290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 2,
       "titles": [
@@ -561,7 +663,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -572,9 +674,40 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "微信未读语音消息变灰",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%9C%AA%E8%AF%BB%E8%AF%AD%E9%9F%B3%E6%B6%88%E6%81%AF%E5%8F%98%E7%81%B0%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            1,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时34分]"
+        },
+        {
+          "title": "微信未读语音消息变灰",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%AA%E8%AF%BB%E8%AF%AD%E9%9F%B3%E6%B6%88%E6%81%AF%E5%8F%98%E7%81%B0",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     },
@@ -592,25 +725,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "微信未读语音消息变灰",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%9C%AA%E8%AF%BB%E8%AF%AD%E9%9F%B3%E6%B6%88%E6%81%AF%E5%8F%98%E7%81%B0%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时53分]"
         }
       ]
     }
