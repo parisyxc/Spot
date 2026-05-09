@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T17:14:37.830572+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-05-09T18:53:33.809957+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -17,8 +17,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时53分 ~ 18时53分]"
+        },
+        {
+          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
+          "url": "https://wallstreetcn.com/articles/3771825",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时53分 ~ 17时14分]"
+          "time_info": "[10时27分 ~ 18时53分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时09分 ~ 06时53分]"
-        },
-        {
-          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
-          "url": "https://wallstreetcn.com/articles/3771825",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 17时14分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，芯片股力撑美股新高，英特尔暴涨14%，伊朗局势不明，油价承压横盘",
@@ -152,6 +152,17 @@
           "time_info": "[07时53分 ~ 10时27分]"
         },
         {
+          "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
+          "url": "https://www.cls.cn/detail/2366890",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "美股收盘：存储、CPU四大牛股均涨超10%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%AD%98%E5%82%A8%E3%80%81CPU%E5%9B%9B%E5%A4%A7%E7%89%9B%E8%82%A1%E5%9D%87%E6%B6%A8%E8%B6%8510%25",
           "source": "百度热搜",
@@ -178,8 +189,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 17时14分]"
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 18时53分]"
         },
         {
           "title": "创业板跌近1%，芯片半导体集体调整，机器人逆势爆发，恒指跌近1%，科网股多跌，快手涨超9%",
@@ -264,7 +275,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "惊悚一幕!日本街头惊现丧尸",
@@ -273,11 +284,12 @@
           "ranks": [
             4,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 17时14分]"
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 18时53分]"
         },
         {
           "title": "赖清德跪拜日本殖民者",
@@ -288,8 +300,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 17时14分]"
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 18时53分]"
         },
         {
           "title": "日本街头疑现芬太尼“丧尸”",
@@ -304,6 +316,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时09分 ~ 07时53分]"
+        },
+        {
+          "title": "赖清德跪拜日本殖民者八田与一",
+          "url": "https://www.toutiao.com/trending/7637556004825530431/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "U17国足将对阵日本",
+          "url": "https://www.douyin.com/hot/2493052",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "中国地铁被谬认为日本还在发生",
@@ -457,7 +491,7 @@
     },
     {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "比亚迪、特斯拉、小鹏、理想等车企否认被约谈",
@@ -493,6 +527,57 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时44分 ~ 17时14分]"
+        },
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI基础设施 算力基建 AI Agent",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://wallstreetcn.com/articles/3771900",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "据悉字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://flash.jin10.com/detail/20260509162004695800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
+          "url": "https://wallstreetcn.com/livenews/3101029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时53分]"
         }
       ]
     },
@@ -506,11 +591,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 17时14分]"
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 18时53分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -519,7 +605,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -579,34 +665,6 @@
       ]
     },
     {
-      "keyword_group": "AI基础设施 算力基建 AI Agent",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据悉字节跳动计划将AI基础设施支出增加25%",
-          "url": "https://flash.jin10.com/detail/20260509162004695800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
-          "url": "https://wallstreetcn.com/livenews/3101029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 1,
       "titles": [
@@ -615,11 +673,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0+%E7%94%B5%E8%84%91%E7%89%88%E6%9C%89%E5%A4%9A%E4%B8%AA%E6%96%B0%E5%8A%9F%E8%83%BD",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时53分]"
         }
       ]
     }
