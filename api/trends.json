@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T10:31:44.447841+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-05-10T14:01:29.543929+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "赖清德跪拜日本殖民者",
@@ -54,11 +54,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 10时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 14时01分]"
         },
         {
           "title": "安倍晋三遗孀陪赖清德跪日本人",
@@ -82,11 +83,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%BD%A6%E4%BC%81%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%8A%A0%E9%80%9F%E8%B5%B0%E5%90%91%E6%B6%88%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 14时01分]"
         },
         {
           "title": "国乒男团决赛对阵日本",
@@ -137,6 +139,28 @@
           "time_info": "[01时45分 ~ 02时53分]"
         },
         {
+          "title": "世乒赛国乒今晚对战日本",
+          "url": "https://www.douyin.com/hot/2494014",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "林诗栋展望与日本男团决赛",
+          "url": "https://www.toutiao.com/trending/7637696798073487386/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
           "title": "自卫队右倾化 日本恐成东亚“祸源”",
           "url": "https://www.toutiao.com/trending/7637882069594538025/",
           "source": "今日头条",
@@ -165,7 +189,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -187,7 +211,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -198,9 +222,63 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
+          "url": "https://wallstreetcn.com/articles/3771825",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 06时38分]"
+        },
+        {
+          "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
+          "url": "https://www.cls.cn/detail/2366890",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 14时01分]"
+        },
+        {
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 05时39分]"
+        },
+        {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
         }
       ]
     },
@@ -231,8 +309,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 10时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 14时01分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -264,49 +342,6 @@
       ]
     },
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
-          "url": "https://wallstreetcn.com/articles/3771825",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 06时38分]"
-        },
-        {
-          "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
-          "url": "https://www.cls.cn/detail/2366890",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 10时31分]"
-        },
-        {
-          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
-          "url": "https://www.cls.cn/detail/2366633",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 05时39分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 2,
       "titles": [
@@ -320,8 +355,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 10时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 14时01分]"
         },
         {
           "title": "中瓷电子：静电卡盘产品已通过国内头部半导体设备公司上机验证",
@@ -349,19 +384,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 10时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 14时01分]"
         },
         {
           "title": "AI基础设施投资风向转变：AMD、英特尔与美光飙涨，英伟达光环渐褪",
           "url": "https://wallstreetcn.com/articles/3771897",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 14时01分]"
         }
       ]
     },
@@ -377,11 +413,12 @@
             12,
             13,
             14,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 10时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 14时01分]"
         },
         {
           "title": "特斯拉(TSLA.O)：弗里蒙特工厂已完成最后一台Model S和最后一台Model X的下线。",
@@ -390,7 +427,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         }
@@ -409,11 +446,12 @@
             12,
             13,
             14,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 10时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 14时01分]"
         },
         {
           "title": "小红书电商：调整商家扶持策略，重点扶持100万个好货商家",
@@ -430,7 +468,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "韩国机器人出家,皈依佛门受戒",
@@ -438,11 +476,23 @@
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 10时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 14时01分]"
+        },
+        {
+          "title": "机器人有没有体面一点的打包方式",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BD%93%E9%9D%A2%E4%B8%80%E7%82%B9%E7%9A%84%E6%89%93%E5%8C%85%E6%96%B9%E5%BC%8F&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
         }
       ]
     }
