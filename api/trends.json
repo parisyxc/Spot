@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T18:10:06.902147+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-05-10T19:45:40.074773+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "赖清德跪拜日本殖民者",
@@ -56,11 +56,12 @@
             14,
             16,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时47分 ~ 18时10分]"
+          "appearance_count": 19,
+          "time_info": "[00时47分 ~ 19时45分]"
         },
         {
           "title": "安倍晋三遗孀陪赖清德跪日本人",
@@ -80,6 +81,42 @@
           "time_info": "[00时47分 ~ 07时42分]"
         },
         {
+          "title": "陪看世乒赛中国VS日本",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%AA%E7%9C%8B%E4%B8%96%E4%B9%92%E8%B5%9B%E4%B8%AD%E5%9B%BDVS%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 19时45分]"
+        },
+        {
+          "title": "国乒男女团今天冲冠 一起迎战日本队",
+          "url": "https://www.toutiao.com/trending/7637701773985054771/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 19时45分]"
+        },
+        {
+          "title": "中国女团vs日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A2vs%E6%97%A5%E6%9C%AC%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 19时45分]"
+        },
+        {
           "title": "世乒赛国乒今晚对战日本",
           "url": "https://www.douyin.com/hot/2494014",
           "source": "抖音",
@@ -93,37 +130,48 @@
           "time_info": "[14时00分 ~ 18时10分]"
         },
         {
-          "title": "国乒男女团今天冲冠 一起迎战日本队",
-          "url": "https://www.toutiao.com/trending/7637701773985054771/",
+          "title": "加油！国乒女团对阵日本冲击七连冠",
+          "url": "https://www.toutiao.com/trending/7637484035215736859/",
           "source": "今日头条",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
-          "title": "陪看世乒赛中国VS日本",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%AA%E7%9C%8B%E4%B8%96%E4%B9%92%E8%B5%9B%E4%B8%AD%E5%9B%BDVS%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
+          "title": "世乒赛女团决赛：中国vs日本",
+          "url": "https://www.douyin.com/hot/2494406",
+          "source": "抖音",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
-          "title": "中国女团vs日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A2vs%E6%97%A5%E6%9C%AC%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "陪看：国乒女团与日本争冠",
+          "url": "https://www.baidu.com/s?wd=%E9%99%AA%E7%9C%8B%EF%BC%9A%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E4%B8%8E%E6%97%A5%E6%9C%AC%E4%BA%89%E5%86%A0",
+          "source": "百度热搜",
           "ranks": [
-            10
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "又偷?中国孩子善举被日本认领",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354154&amp;topic_name=%E5%8F%88%E5%81%B7%3F%E4%B8%AD%E5%9B%BD%E5%AD%A9%E5%AD%90%E5%96%84%E4%B8%BE%E8%A2%AB%E6%97%A5%E6%9C%AC%E8%AE%A4%E9%A2%86",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "日本车企在中国正加速走向消亡",
@@ -148,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "日本参加美菲联合军演释放了什么信号",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%82%E5%8A%A0%E7%BE%8E%E8%8F%B2%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%E9%87%8A%E6%94%BE%E4%BA%86%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "北约与日本拟共享卫星发射场",
@@ -253,6 +312,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "世乒赛女团决赛，中国 vs 日本，怎样评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2036848157703628439",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "日本女团3-0胜德国 晋级世乒赛决赛",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A23-0%E8%83%9C%E5%BE%B7%E5%9B%BD+%E6%99%8B%E7%BA%A7%E4%B8%96%E4%B9%92%E8%B5%9B%E5%86%B3%E8%B5%9B",
           "source": "百度热搜",
@@ -313,8 +383,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时47分 ~ 18时10分]"
+          "appearance_count": 19,
+          "time_info": "[00时47分 ~ 19时45分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -335,11 +405,12 @@
           "ranks": [
             10,
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时00分 ~ 18时10分]"
+          "appearance_count": 6,
+          "time_info": "[14时00分 ~ 19时45分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
@@ -471,8 +542,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时47分 ~ 18时10分]"
+          "appearance_count": 19,
+          "time_info": "[00时47分 ~ 19时45分]"
         },
         {
           "title": "中瓷电子：静电卡盘产品已通过国内头部半导体设备公司上机验证",
@@ -562,11 +633,12 @@
             6,
             8,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时47分 ~ 18时10分]"
+          "appearance_count": 19,
+          "time_info": "[00时47分 ~ 19时45分]"
         },
         {
           "title": "机器人有没有体面一点的打包方式",
@@ -593,7 +665,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         }
