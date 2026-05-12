@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T10:33:37.472031+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-05-12T14:10:50.302921+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "世乒男团3:0力克日本夺冠",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 10时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 14时10分]"
         },
         {
           "title": "又偷?中国孩子善举被日本认领",
@@ -25,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 10时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 14时10分]"
         },
         {
           "title": "3比0战胜日本，中国队实现世乒赛男团12连冠",
@@ -41,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 00时29分]"
+        },
+        {
+          "title": "日本缺油墨,薯片包装变黑白",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354193&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BC%BA%E6%B2%B9%E5%A2%A8%2C%E8%96%AF%E7%89%87%E5%8C%85%E8%A3%85%E5%8F%98%E9%BB%91%E7%99%BD",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "日本央行4月政策会议观点摘要：一名委员表示，鉴于实际利率处于显著低位，日本央行继续提高政策利率是合适的。 一名委员表示，日本央行能需要应对价格向上偏离目标的风险。 一名委员表示，很难预见中东局势的影响，央行需要在本次会议上采取观望态度。 一名委员表示，在目前关头，优先抑制通胀的政策加息极有可能对经济发展产生不利影响。",
@@ -60,9 +73,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "日本爆发数十年来最大规模反战抗议",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%88%86%E5%8F%91%E6%95%B0%E5%8D%81%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8F%8D%E6%88%98%E6%8A%97%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "日本央行将于十分钟后公布4月货币政策会议审议委员意见摘要。",
@@ -93,7 +117,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -131,13 +155,46 @@
           "time_info": "[04时30分 ~ 04时31分]"
         },
         {
+          "title": "日本3月领先指标初值 114.5，预期 114.5，前值 113.3。",
+          "url": "https://wallstreetcn.com/livenews/3102031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "日本3月同步指标初值 116.5，预期 116.6，前值 116.3。",
+          "url": "https://wallstreetcn.com/livenews/3102030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "美国财长贝森特：就美日投资协议进行了积极会谈。 支持日本建立投资审查机制。 关于外汇波动的沟通始终持续且有力。",
+          "url": "https://wallstreetcn.com/livenews/3102029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "日本财务大臣表示正就外汇政策与贝森特进行协调",
           "url": "https://flash.jin10.com/detail/20260512095115621800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -148,7 +205,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -159,7 +216,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -170,7 +227,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -181,7 +238,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -192,7 +249,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -203,7 +260,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -214,9 +271,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "花旗：日本或将动用最高30万亿日元进行外汇干预",
+          "url": "https://wallstreetcn.com/livenews/3102014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "国际银行在日本市场迎来“大丰收”",
@@ -230,21 +298,43 @@
           "time_info": "07时54分"
         },
         {
+          "title": "日本3月领先指标初值 114.5，预期114.5，前值113.3。",
+          "url": "https://flash.jin10.com/detail/20260512130040354800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "日本爆发数十年来最大规模反战抗议",
           "url": "https://www.toutiao.com/trending/7638409176152490022/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "日本3月同步指标初值 116.5，预期116.6，前值116.3。",
+          "url": "https://flash.jin10.com/detail/20260512130031050800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -278,8 +368,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时33分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 14时10分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -290,8 +380,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时02分 ~ 10时33分]"
+          "appearance_count": 4,
+          "time_info": "[06时02分 ~ 14时10分]"
         },
         {
           "title": "金十图示：2026年05月11日（周一）美股热门股票行情一览（美股收盘）",
@@ -303,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "金十图示：2026年05月11日（周一）热门中概股行情一览（美股收盘）",
@@ -340,17 +441,6 @@
           "time_info": "[04时31分 ~ 06时02分]"
         },
         {
-          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
-          "url": "https://www.cls.cn/detail/2368431",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
           "title": "美股收盘：三大股指小幅收涨 大型芯片股齐创新高",
           "url": "https://flash.jin10.com/detail/20260512040122104800",
           "source": "金十数据",
@@ -366,11 +456,24 @@
           "url": "https://www.cls.cn/detail/2368550",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 14时10分]"
+        },
+        {
+          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
+          "url": "https://www.cls.cn/detail/2368431",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 14时10分]"
         },
         {
           "title": "美股和欧洲股指期货走低，标普500指数期货跌0.2%，纳指期货跌0.4%。欧洲斯托克50指数期货下跌0.7%，德国DAX指数期货下跌0.8%，英国富时100指数期货跌0.9%。",
@@ -379,7 +482,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -441,114 +544,8 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
-          "url": "https://www.cls.cn/detail/2368480",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时33分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 5月11日（周一）晚盘收盘上涨0.82%报1034.6元/克；<br/>上海黄金交易所白银T+D 5月11日（周一）晚盘收盘上涨6.13%报21095.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260512023036729800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "白银牛市回来了？单日突然暴涨7%，发生了什么？",
-          "url": "https://wallstreetcn.com/articles/3772014",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "美伊谈判受挫吓不倒金属市场 国际铜价逼近历史高位",
-          "url": "https://www.cls.cn/detail/2367924",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
-        },
-        {
-          "title": "现货白银日内涨幅扩大至7%，报85.97美元/盎司。现货黄金价格涨0.35%，报4731.85美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3101773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "现货白银站上87美元/盎司，日内涨1.11%。",
-          "url": "https://flash.jin10.com/detail/20260512070912493800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "现货白银站上86美元关口 日内大涨7%",
-          "url": "https://flash.jin10.com/detail/20260511235931987800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "现货白银日内涨超1.00%，现报86.92美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260512064836408800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "港股黄金股盘初活跃，中国白银集团(00815.HK)涨超4%，赤峰黄金(06693.HK)、紫金黄金国际(02259.HK)涨超3%，灵宝黄金(03330.HK)涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260512094727401800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "微信状态 访客记录",
@@ -614,27 +611,39 @@
           "time_info": "[07时54分 ~ 10时33分]"
         },
         {
+          "title": "腾讯张军：微信访客已焊死 不会开发",
+          "url": "https://www.toutiao.com/trending/7638111822175981092/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "腾讯张军：微信访客已焊死 不会开发",
+          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%BC%A0%E5%86%9B%EF%BC%9A%E5%BE%AE%E4%BF%A1%E8%AE%BF%E5%AE%A2%E5%B7%B2%E7%84%8A%E6%AD%BB+%E4%B8%8D%E4%BC%9A%E5%BC%80%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "微信状态能看访客了？回应来了",
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%8A%B6%E6%80%81%E8%83%BD%E7%9C%8B%E8%AE%BF%E5%AE%A2%E4%BA%86%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             26,
-            5
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时33分]"
-        },
-        {
-          "title": "微信状态能看访客了？腾讯客服回应",
-          "url": "https://www.cls.cn/detail/2368501",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 14时10分]"
         },
         {
           "title": "客服回应微信状态访客记录功能",
@@ -643,7 +652,18 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 14时10分]"
+        },
+        {
+          "title": "微信状态能看访客了？腾讯客服回应",
+          "url": "https://www.cls.cn/detail/2368501",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -654,15 +674,132 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         }
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
+          "url": "https://www.cls.cn/detail/2368480",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 14时10分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月11日（周一）晚盘收盘上涨0.82%报1034.6元/克；<br/>上海黄金交易所白银T+D 5月11日（周一）晚盘收盘上涨6.13%报21095.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260512023036729800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "白银牛市回来了？单日突然暴涨7%，发生了什么？",
+          "url": "https://wallstreetcn.com/articles/3772014",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "美伊谈判受挫吓不倒金属市场 国际铜价逼近历史高位",
+          "url": "https://www.cls.cn/detail/2367924",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至7%，报85.97美元/盎司。现货黄金价格涨0.35%，报4731.85美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3101773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "现货白银站上87美元/盎司，日内涨1.11%。",
+          "url": "https://flash.jin10.com/detail/20260512070912493800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "现货白银站上86美元关口 日内大涨7%",
+          "url": "https://flash.jin10.com/detail/20260511235931987800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "现货白银日内涨超1.00%，现报86.92美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260512064836408800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "港股黄金股盘初活跃，中国白银集团(00815.HK)涨超4%，赤峰黄金(06693.HK)、紫金黄金国际(02259.HK)涨超3%，灵宝黄金(03330.HK)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260512094727401800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "瑞银仍预计金价年底达到每盎司5600美元 银价料达到100美元",
+          "url": "https://wallstreetcn.com/livenews/3102015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "沪指站上4200点创近11年新高，科创50创历史新高，芯片、半导体集体爆发、千亿巨头狂拉",
@@ -670,11 +807,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 10时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 14时10分]"
         },
         {
           "title": "海力士的奖金，半导体的周期",
@@ -700,6 +838,17 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
+          "title": "科创板最大并购过会意味着什么？半导体产业整合大幕拉开",
+          "url": "https://www.cls.cn/detail/2368636",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "标普500指数初步收涨0.1%，能源板块涨2.6%，科技板块涨0.9%，电信板块跌2.2%。 纳斯达克100指数初步收涨0.2%，成分股中，高通初步收涨8.6%，西部数据涨7.3%，美光涨6.8%，希捷科技涨6.3%，Strategy涨4.4%，Diamondback Energy涨4.1%，Booking、罗斯百货跌4.9%，Workday跌5%，ISRG跌6.6%，Shopify跌7.2%。 费城半导体指数涨2.6%。",
           "url": "https://wallstreetcn.com/livenews/3101840",
           "source": "华尔街见闻-快讯",
@@ -717,7 +866,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         }
