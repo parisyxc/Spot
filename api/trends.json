@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T20:12:12.867226+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-05-13T23:21:57.429112+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时55分 ~ 20时12分]"
+          "appearance_count": 9,
+          "time_info": "[06时55分 ~ 23时21分]"
         },
         {
           "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
@@ -27,11 +28,12 @@
           "ranks": [
             2,
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时56分 ~ 20时12分]"
+          "appearance_count": 7,
+          "time_info": "[07时56分 ~ 23时21分]"
         },
         {
           "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
@@ -94,6 +96,18 @@
           "time_info": "[01时07分 ~ 03时43分]"
         },
         {
+          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772187",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时11分 ~ 23时21分]"
+        },
+        {
           "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260513004823535800",
           "source": "金十数据",
@@ -127,17 +141,6 @@
           "time_info": "07时56分"
         },
         {
-          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772187",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时11分 ~ 20时12分]"
-        },
-        {
           "title": "泡泡玛特Q1收入预增75％至80％，欧美市场增长放缓，中国线上渠道预增150% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3772083",
           "source": "华尔街见闻",
@@ -161,6 +164,17 @@
           "time_info": "[20时11分 ~ 20时12分]"
         },
         {
+          "title": "阿里巴巴公布第四季度财报",
+          "url": "https://www.douyin.com/hot/2497914",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "周二（5月12日），美股降息赢家指数跌0.71%，报87.48点，在美国CPI通胀数据发布后低开，随后逐步收复失地。 “特朗普关税输家”指数跌1.05%，报98.75点。 “特朗普金融指数”涨0.38%，报159.36点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.77%，报13.38点。",
           "url": "https://wallstreetcn.com/livenews/3102552",
           "source": "华尔街见闻-快讯",
@@ -170,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美股首只纯存储ETF，刷新华尔街史上最快规模增长纪录",
+          "url": "https://www.cls.cn/detail/2370478",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌3%，布油基金涨3.4%",
@@ -257,7 +282,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -320,7 +345,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "中企有意收购墨西哥日产工厂，日本慌了",
@@ -361,22 +386,24 @@
           "source": "知乎",
           "ranks": [
             6,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 20时12分]"
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 23时21分]"
         },
         {
           "title": "外交部两连问回应日本修宪",
           "url": "https://news.ifeng.com/c/8t5w9ick9U7",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 20时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 23时21分]"
         },
         {
           "title": "日本爆发数十年来最大规模反战抗议",
@@ -397,11 +424,34 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8F%8D%E6%88%98%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时11分 ~ 20时12分]"
+          "appearance_count": 3,
+          "time_info": "[20时11分 ~ 23时21分]"
+        },
+        {
+          "title": "如何看待日本在 2026 世界杯转播权上花了两亿美金？",
+          "url": "https://www.zhihu.com/question/2037701443331825843",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "外交部回应日本爆发反战抗议",
+          "url": "https://www.douyin.com/hot/2497723",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "日本央行：美国财长贝森特与日本央行行长植田和男之间并未举行会议。",
@@ -617,7 +667,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "印度政府调整黄金和白银进口关税。",
@@ -637,7 +687,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -676,6 +726,17 @@
           "time_info": "[10时39分 ~ 14时35分]"
         },
         {
+          "title": "现货白银向上触及88美元/盎司，日内涨1.72%。",
+          "url": "https://flash.jin10.com/detail/20260513223402178800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "金十图示：2026年05月13日（周三）上海金早盘价为1029元/克，较国际金价(1026.86元/克)，高2.14元/克",
           "url": "https://flash.jin10.com/detail/20260513102028905800",
           "source": "金十数据",
@@ -704,7 +765,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -734,8 +795,19 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "Meta将在WhatsApp上推出“隐身聊天”功能",
+          "url": "https://flash.jin10.com/detail/20260513224908425800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
         {
           "title": "科技巨头竞逐太空算力新赛道！谷歌据悉接洽SpaceX发射轨道数据中心",
           "url": "https://www.cls.cn/detail/2369554",
@@ -747,6 +819,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时39分 ~ 14时35分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)推出与Meta AI的无痕聊天功能。",
+          "url": "https://flash.jin10.com/detail/20260513224717829800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "Anthropic洽谈至少按3亿美元收购开发者工具初创公司Stainless。 后者向Anthropic、OpenAI、谷歌等模型开发商销售软件。（The Information）",
@@ -831,11 +914,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 20时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 23时21分]"
         },
         {
           "title": "塔菲抖音爆红,bw展位被砍",
@@ -846,8 +930,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 20时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 23时21分]"
         },
         {
           "title": "韩寒发抖音推荐给阿嬷的情书",
@@ -859,6 +943,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
+          "url": "https://www.zhihu.com/question/2033154931448918850",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时56分]"
+        },
+        {
+          "title": "数字货币市场刷新日低，比特币快速跌穿8万美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3102432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "贾跃亭宣布转战机器人业务",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%AE%A3%E5%B8%83%E8%BD%AC%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "机器人：白色衣服同志您已停车越线",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%9A%E7%99%BD%E8%89%B2%E8%A1%A3%E6%9C%8D%E5%90%8C%E5%BF%97%E6%82%A8%E5%B7%B2%E5%81%9C%E8%BD%A6%E8%B6%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "贾跃亭宣布转战机器人业务",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%AE%A3%E5%B8%83%E8%BD%AC%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         }
       ]
     },
@@ -915,54 +1062,30 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 4,
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 2,
       "titles": [
         {
-          "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
-          "url": "https://www.zhihu.com/question/2033154931448918850",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 06时56分]"
-        },
-        {
-          "title": "数字货币市场刷新日低，比特币快速跌穿8万美元整数位心理关口",
-          "url": "https://wallstreetcn.com/livenews/3102432",
+          "title": "特斯拉跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3102431",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
         {
-          "title": "贾跃亭宣布转战机器人业务",
-          "url": "https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%AE%A3%E5%B8%83%E8%BD%AC%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E5%8A%A1",
+          "title": "特斯拉推出“轻松贷”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8E%A8%E5%87%BA%E2%80%9C%E8%BD%BB%E6%9D%BE%E8%B4%B7%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            20
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "贾跃亭宣布转战机器人业务",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%AE%A3%E5%B8%83%E8%BD%AC%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "23时21分"
         }
       ]
     },
@@ -977,7 +1100,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -995,23 +1118,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3102431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "颠覆式创新 指数级增长 创造性破坏",
       "match_count": 1,
       "titles": [
@@ -1022,7 +1128,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         }
