@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T02:19:02.144355+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-05-16T04:12:58.559133+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
@@ -18,6 +18,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时02分 ~ 02时19分]"
+        },
+        {
+          "title": "原油大涨掀债市抛售潮，美股回落，盘中纳指跌2%，加息预期升温，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "本周，标普累涨约0.3%，道指持平，纳指累涨约0.1%，半导体指数跌1%，科技股七巨头指数累涨1.2%，存储芯片指数累跌3%，AI赢家指数跌0.4%、软件先驱指数跌0.4%。 周五当天，标普500指数初步收跌1.2%，原材料板块跌2.7%，公用事业板块跌2.3%，可选消费板块跌1.9%，科技板块跌1.5%，能源板块涨2.1%。 纳斯达克100指数初步收跌1.5%，成分股中，Arm控股初步收跌7.8%，美光跌6.6%，英特尔跌6.2%，AMD跌5.6%，阿斯麦ADR跌5%，Strategy跌4.8%，特斯拉跌4.7%，Adobe则涨4.4%，汤森路透涨4.8%，Zscaler涨5%，Workday涨5.3%，德康医疗涨6.5%。 英伟达初步收跌超4.4%，波音跌3.8%，卡特彼勒跌3.5%，领跌道指成分股，雪佛龙、思科、微软、Salesforce至少涨超2%。 半导体指数跌4%，生物科技指数跌2.7%，银行指数跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3104611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美股收盘：三大指数收低 科技股显著回调",
+          "url": "https://flash.jin10.com/detail/20260516040037420800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "美银策略师：6月初将是美股获利了结的良机",
@@ -39,8 +72,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时12分]"
         },
         {
           "title": "美股软件股上涨，Workday(WDAY.O)涨3.9%，Salesforce(CRM.N)涨3.5%，Adobe(ADBE.O)涨3.2%，Zscaler涨3%。",
@@ -60,7 +93,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -78,6 +111,67 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "标普纳指又新高，思科飙涨13%创新高，英国政局致英镑暴跌，白银重挫",
+          "url": "https://wallstreetcn.com/articles/3772269",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时12分]"
+        },
+        {
+          "title": "印度修订黄金、白银关税。",
+          "url": "https://wallstreetcn.com/livenews/3104553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：5月12日当周，投机者所持COMEX黄金净多头头寸增加4,963手合约，至100,627手合约，创八周新高。 所持COMEX白银净多头头寸创18周新高。 所持COMEX铜净多头头寸创20周新高。 所持NYMEX铂金净多头头寸创四周新高，所持COMEX钯金净空头头寸有所增加。",
+          "url": "https://wallstreetcn.com/livenews/3104603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至5月12日当周，白银投机者将净多头头寸增加5,254手，至16,195手。",
+          "url": "https://flash.jin10.com/detail/20260516032951136800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "印度修订黄金、白银关税",
+          "url": "https://wallstreetcn.com/livenews/3104553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 3,
       "titles": [
@@ -89,8 +183,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时12分]"
         },
         {
           "title": "对冲基金经理比尔·阿克曼：我们出售了谷歌(GOOG.O)，购买了微软(MSFT.O)。",
@@ -138,7 +232,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -149,46 +243,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "标普纳指又新高，思科飙涨13%创新高，英国政局致英镑暴跌，白银重挫",
-          "url": "https://wallstreetcn.com/articles/3772269",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时19分]"
-        },
-        {
-          "title": "印度修订黄金、白银关税。",
-          "url": "https://wallstreetcn.com/livenews/3104553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "印度修订黄金、白银关税",
-          "url": "https://wallstreetcn.com/livenews/3104553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "02时19分"
         }
@@ -206,8 +261,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时12分]"
         },
         {
           "title": "日本宫城县附近海域发生6.3级地震，东北新干线部分区间停运",
@@ -215,11 +270,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时12分]"
         },
         {
           "title": "日本知名品牌番茄酱包装变透明",
@@ -247,8 +303,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时12分]"
         },
         {
           "title": "苹果公司股价涨幅扩大至1%。Workday涨3.9%，Salesforce涨3.5%，Adobe涨3.2%，Zscaler涨3%。 标普500指数目前跌1%，道指跌450点、跌幅0.9%，纳指跌362点、跌幅1.4%，纳斯达克100指数跌407点、跌幅1.4%，费城半导体指数跌460点、跌幅3.8%。",
@@ -276,8 +332,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时12分]"
         }
       ]
     }
