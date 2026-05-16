@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T15:57:39.242134+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2026-05-16T17:29:07.647345+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时51分 ~ 15时57分]"
+          "appearance_count": 8,
+          "time_info": "[06时51分 ~ 17时29分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时51分 ~ 15时57分]"
+          "appearance_count": 8,
+          "time_info": "[06时51分 ~ 17时29分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -413,8 +413,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 15时57分]"
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 17时29分]"
         },
         {
           "title": "对冲基金经理比尔·阿克曼：我们出售了谷歌(GOOG.O)，购买了微软(MSFT.O)。",
@@ -428,28 +428,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
-          "url": "https://wallstreetcn.com/livenews/3104759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "比尔·阿克曼：潘兴广场出售谷歌股票并非看空该公司。长期以来依然非常看好Alphabet。基于当前估值水平及有限的资本规模，我们将谷歌持仓变现，所得资金用于买入微软",
-          "url": "https://flash.jin10.com/detail/20260516150549630800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
           "title": "13F报告显示：Citadel Advisors LLC.一季度建仓阿斯利康、iShares白银信托等，增持美光、Meta、华纳兄弟探索等。 清仓以色列Teva等，减持亚马逊、Visa、英伟达等。 重仓英伟达、亚马逊、美光。",
           "url": "https://wallstreetcn.com/livenews/3104643",
           "source": "华尔街见闻-快讯",
@@ -461,6 +439,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时56分 ~ 07时52分]"
+        },
+        {
+          "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
+          "url": "https://wallstreetcn.com/livenews/3104759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 17时29分]"
+        },
+        {
+          "title": "比尔·阿克曼：潘兴广场出售谷歌股票并非看空该公司。长期以来依然非常看好Alphabet。基于当前估值水平及有限的资本规模，我们将谷歌持仓变现，所得资金用于买入微软",
+          "url": "https://flash.jin10.com/detail/20260516150549630800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 17时29分]"
         },
         {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
@@ -511,7 +513,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "日本自卫队，该去捕熊了",
@@ -536,22 +538,36 @@
             12,
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 15时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 17时29分]"
         },
         {
           "title": "日本宫城县一核电站汽轮机厂房附近排水井检出放射性物质",
           "url": "https://wallstreetcn.com/livenews/3104765",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 17时29分]"
+        },
+        {
+          "title": "美国总统特朗普与日本首相高市早苗就同盟关系进行通话",
+          "url": "https://wallstreetcn.com/livenews/3104753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 17时29分]"
         },
         {
           "title": "日本知名品牌番茄酱包装变透明",
@@ -565,15 +581,15 @@
           "time_info": "[02时18分 ~ 02时19分]"
         },
         {
-          "title": "美国总统特朗普与日本首相高市早苗就同盟关系进行通话",
-          "url": "https://wallstreetcn.com/livenews/3104753",
-          "source": "华尔街见闻-快讯",
+          "title": "日本宫城县一核电站汽轮机厂房附近排水井检出放射性物质",
+          "url": "https://flash.jin10.com/detail/20260516160258809800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时57分"
+          "time_info": "17时29分"
         },
         {
           "title": "日本广岛船舶拆解厂火势仍未受控 约650人紧急避难",
@@ -582,7 +598,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -623,11 +639,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 15时57分]"
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 17时29分]"
         },
         {
           "title": "苹果公司股价涨幅扩大至1%。Workday涨3.9%，Salesforce涨3.5%，Adobe涨3.2%，Zscaler涨3%。 标普500指数目前跌1%，道指跌450点、跌幅0.9%，纳指跌362点、跌幅1.4%，纳斯达克100指数跌407点、跌幅1.4%，费城半导体指数跌460点、跌幅3.8%。",
@@ -739,11 +756,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 15时57分]"
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 17时29分]"
         }
       ]
     },
@@ -761,6 +779,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时30分 ~ 15时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯微信成立 800 人团队适配鸿蒙，几乎两天就迭代一版，怎样解读这一布局？高频迭代背后有哪些挑战？",
+          "url": "https://www.zhihu.com/question/2038258097525936782",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
         }
       ]
     }
