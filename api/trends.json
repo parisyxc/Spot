@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-18T19:03:50.125481+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-05-18T23:18:17.361616+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "全球债市抛售潮持续蔓延，日本长债收益率跳升，油价冲上110美元",
+          "url": "https://wallstreetcn.com/articles/3772467",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 23时18分]"
+        },
         {
           "title": "解放军报：日本押注无人装备居心叵测",
           "url": "https://m.thepaper.cn/newsDetail_forward_33189766",
@@ -20,16 +33,40 @@
           "time_info": "[00时52分 ~ 07时54分]"
         },
         {
-          "title": "全球债市抛售潮持续蔓延，日本长债收益率跳升，油价冲上110美元",
-          "url": "https://wallstreetcn.com/articles/3772467",
+          "title": "特朗普敲打“台独” 日本被美撤梯子",
+          "url": "https://www.toutiao.com/trending/7640786941127196678/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
+          "title": "日本又要被阻击了？",
+          "url": "https://wallstreetcn.com/articles/3772468",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时52分 ~ 19时03分]"
+          "time_info": "[19时03分 ~ 23时18分]"
+        },
+        {
+          "title": "朝鲜队大胜日本队，卫冕U17女足亚洲杯冠军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33191795",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 23时18分]"
         },
         {
           "title": "日本10年期国债收益率上升10个基点，达到2.8%。",
@@ -79,17 +116,6 @@
           "time_info": "06时48分"
         },
         {
-          "title": "日本又要被阻击了？",
-          "url": "https://wallstreetcn.com/articles/3772468",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
           "title": "日本首相高市早苗内阁支持率急跌 降至61.3%",
           "url": "https://flash.jin10.com/detail/20260518035301694800",
           "source": "金十数据",
@@ -103,18 +129,6 @@
           "time_info": "[04时44分 ~ 06时48分]"
         },
         {
-          "title": "朝鲜队大胜日本队，卫冕U17女足亚洲杯冠军",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33191795",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 19时03分]"
-        },
-        {
           "title": "U17女足亚洲杯：朝鲜5-1狂胜日本",
           "url": "https://www.toutiao.com/trending/7639883741816717355/",
           "source": "今日头条",
@@ -125,6 +139,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时54分 ~ 10时48分]"
+        },
+        {
+          "title": "日本车企为何在中国走向大溃败",
+          "url": "https://www.toutiao.com/trending/7641173276961541683/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
         },
         {
           "title": "日本山脉发现遗体疑为失踪中国女子",
@@ -144,7 +169,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -155,7 +180,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -221,7 +246,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -240,7 +265,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
@@ -290,6 +315,17 @@
           "time_info": "[14时52分 ~ 19时03分]"
         },
         {
+          "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
           "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
           "url": "https://www.cls.cn/detail/2373864",
           "source": "财联社热门",
@@ -299,6 +335,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时52分 ~ 19时03分]"
+        },
+        {
+          "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
+          "url": "https://wallstreetcn.com/articles/3772508",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
+          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2374572",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
         },
         {
           "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
@@ -312,6 +370,18 @@
           "time_info": "06时48分"
         },
         {
+          "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
+          "url": "https://www.cls.cn/detail/2374260",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 23时18分]"
+        },
+        {
           "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2038737314017432936",
           "source": "知乎",
@@ -323,17 +393,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时48分 ~ 10时48分]"
-        },
-        {
-          "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
-          "url": "https://www.cls.cn/detail/2374260",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -356,12 +415,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "据上交所官网，杭州云深处科技股份有限公司IPO审核状态变更为“已受理”。",
+          "url": "https://wallstreetcn.com/livenews/3105470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -397,6 +467,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "任鸿斌会见美国超威半导体公司董事会主席兼首席执行官苏姿丰",
+          "url": "https://wallstreetcn.com/livenews/3105489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "任鸿斌会长会见美国超威半导体公司董事会主席兼首席执行官苏姿丰",
+          "url": "https://flash.jin10.com/detail/20260518224656814800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "纳斯达克100指数跌0.8%，半导体指数跌2.6%",
+          "url": "https://wallstreetcn.com/livenews/3105484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "中韩半导体ETF华泰柏瑞二级市场出现较大幅度溢价，将于2026年5月18日开市起至当日10:30停牌。",
@@ -449,7 +552,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         }
@@ -544,7 +647,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -591,6 +694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "矩阵超智发布MATRIX-3全能旗舰级人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3105463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
@@ -624,6 +738,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时52分 ~ 14时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Meta：正在推出一系列新的AI眼镜功能，旨在提供更直观、更便捷的免提交互体验。",
+          "url": "https://flash.jin10.com/detail/20260518223936465800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     }
