@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T16:32:29.442495+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-05-20T19:52:11.323507+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时11分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 19时52分]"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -297,7 +297,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -393,7 +393,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
@@ -470,6 +470,19 @@
           "time_info": "[02时01分 ~ 05时24分]"
         },
         {
+          "title": "英伟达财报倒计时！期权市场押注：3550亿美元单日市值巨震将至",
+          "url": "https://www.cls.cn/detail/2376293",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 19时52分]"
+        },
+        {
           "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
           "url": "https://wallstreetcn.com/articles/3772667",
           "source": "华尔街见闻",
@@ -477,20 +490,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 19时52分]"
         },
         {
-          "title": "英伟达财报倒计时！期权市场押注：3550亿美元单日市值巨震将至",
-          "url": "https://www.cls.cn/detail/2376293",
-          "source": "财联社热门",
+          "title": "英伟达财报倒计时！超预期基本没悬念，但华尔街最关心这五个问题",
+          "url": "https://wallstreetcn.com/articles/3772680",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
+            9,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时32分]"
+          "time_info": "[16时32分 ~ 19时52分]"
+        },
+        {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
@@ -510,18 +545,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "英伟达财报倒计时！超预期基本没悬念，但华尔街最关心这五个问题",
-          "url": "https://wallstreetcn.com/articles/3772680",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -536,6 +560,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时01分 ~ 04时01分]"
+        },
+        {
+          "title": "从TACO到NACHO，交易逻辑变了，科技股“免疫”高油价还能撑多久？",
+          "url": "https://www.cls.cn/detail/2376581",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "周二（5月19日），美股AI软件先驱指数跌0.12%，报107.31点，高开高走之际、北京时间21:52刷新日高至110.81点，随后回吐涨幅，23:25以来大致持平。 成分股甲骨文收跌2.76%，铿腾电子跌2.27%，ServiceNOW、微软至少跌1.44%，新思科技跌0.91%，GitLab涨1.47%，Datadog涨3.03%，Snowflake涨3.23%。",
@@ -658,6 +693,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "孩之宝第二财季调整后每股收益1.47美元，预期为1.25美元。 第二财季调整后息税折旧摊销前利润为3.394亿美元，预期为3.139亿美元。 孩之宝仍预计全年调整后息税折旧摊销前利润为14.0亿至14.5亿美元，市场预期为14.4亿美元。 孩之宝美股盘前微跌。",
+          "url": "https://wallstreetcn.com/livenews/3106677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "塔吉特一季度净销售额254.4亿美元，同比增长6.7%。 一季度调整后每股收益1.71美元，去年同期为1.30美元。 塔吉特预计本财年调整后每股收益在7.50至8.50美元区间的高端。 塔吉特美股盘前微跌。",
+          "url": "https://wallstreetcn.com/livenews/3106676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
@@ -808,7 +865,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -830,7 +887,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -863,7 +920,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -874,7 +931,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -893,7 +950,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "三星半导体前总裁：预测存储价格明年下半年开跌，中国企业正在大幅扩产",
@@ -920,6 +977,18 @@
           "time_info": "[02时01分 ~ 07时01分]"
         },
         {
+          "title": "谈崩了！三星“罢工噩梦”即将成真 全球半导体产业风暴来袭",
+          "url": "https://www.cls.cn/detail/2376418",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 19时52分]"
+        },
+        {
           "title": "沪指涨近1%，科创50大涨超3%，电力掀起涨停潮，半导体产业链集体反弹",
           "url": "https://wallstreetcn.com/articles/3772591",
           "source": "华尔街见闻",
@@ -930,6 +999,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时01分 ~ 16时32分]"
+        },
+        {
+          "title": "【每日收评】科创50指数震荡走高涨超3%，半导体产业链持续爆发，电力股批量跌停",
+          "url": "https://www.cls.cn/detail/2376768",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "费城半导体指数涨超1.1%，纳斯达克100指数几乎完全收复日内稍早失地。迈威尔科技涨5.9%，美光涨5.4%，闪迪涨3.3%，英特尔涨2.7%，拼多多涨2.4%，Lumentum涨1.9%，恩智浦涨1.6%。特斯拉跌1.8%，汤森路透跌2.8%，Doordash跌4.9%。",
@@ -943,24 +1023,13 @@
           "time_info": "02时02分"
         },
         {
-          "title": "谈崩了！三星“罢工噩梦”即将成真 全球半导体产业风暴来袭",
-          "url": "https://www.cls.cn/detail/2376418",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
           "title": "港股收评：恒指承压走低收跌0.57% 半导体板块逆势爆发",
           "url": "https://flash.jin10.com/detail/20260520161115854800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -971,7 +1040,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -982,9 +1051,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "中韩半导体ETF华泰柏瑞：将于2026年5月21日开市起至当日10:30停牌。",
+          "url": "https://flash.jin10.com/detail/20260520193457619800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "港股午评：恒指横盘震荡收跌0.55% 半导体板块集体爆发",
@@ -1067,7 +1147,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -1143,6 +1223,59 @@
       ]
     },
     {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "张雪机车车手卡里卡苏洛开抖音了",
+          "url": "https://www.douyin.com/hot/2505142",
+          "source": "抖音",
+          "ranks": [
+            21,
+            13,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 19时52分]"
+        },
+        {
+          "title": "主角热度 反抖音营销第一枪",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BB%E8%A7%92%E7%83%AD%E5%BA%A6%20%E5%8F%8D%E6%8A%96%E9%9F%B3%E8%90%A5%E9%94%80%E7%AC%AC%E4%B8%80%E6%9E%AA&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "微信520红包",
+          "url": "https://www.toutiao.com/trending/7641247560434384950/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "抖音全民写作大赛开赛",
+          "url": "https://www.douyin.com/hot/2505564",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -1182,38 +1315,8 @@
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "微信520红包",
-          "url": "https://www.toutiao.com/trending/7641247560434384950/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
-          "title": "张雪机车车手卡里卡苏洛开抖音了",
-          "url": "https://www.douyin.com/hot/2505142",
-          "source": "抖音",
-          "ranks": [
-            21,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时11分 ~ 16时32分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.40%，暂报2677.96点。 MarketVectorTM数字资产100中盘指数涨1.57%，报2929.74点。 MarketVector数字资产100指数涨0.59%，报15072.38点。 目前，Solana跌0.07%，狗狗币跌0.43%，XRP跌1.10%。 比特币跌0.02%，暂报76725.93美元；以太坊涨0.13%，暂报2116.42美元。",
@@ -1225,6 +1328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "凯迪股份：关注到市场对公司的机器人相关业务关注度较高，公司机器人相关业务已立项，产品仍处于开发阶段，短期内暂无法形成收入，预计不会对公司业绩造成重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3106683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     }
