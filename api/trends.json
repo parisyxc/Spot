@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T04:08:20.224063+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-05-21T06:22:41.406358+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 5,
+      "match_count": 13,
       "titles": [
         {
           "title": "英伟达财报倒计时！超预期基本没悬念，但华尔街最关心这五个问题",
@@ -15,52 +15,144 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时22分]"
         },
         {
           "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时22分]"
         },
         {
           "title": "油价走软、海外股市债市携手回暖 英伟达即将发布财报 | 今夜看点",
           "url": "https://www.cls.cn/detail/2377104",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时22分]"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
           "url": "https://wallstreetcn.com/articles/3772698",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时22分]"
         },
         {
           "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
           "url": "https://wallstreetcn.com/articles/3772678",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时22分]"
+        },
+        {
+          "title": "亚太盘初，纳指期货跌超0.4%，标普股指期货跌0.3%。 当前（美股盘后），AMD跌1.2%，英伟达跌1.2%，高通跌0.8%，英特尔跌0.7%，C3.ai跌0.7%，美光跌0.5%，闪迪涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3106958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美银：对冲基金上周抛售美股规模创纪录",
+          "url": "https://wallstreetcn.com/livenews/3106953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
+          "url": "https://wallstreetcn.com/livenews/3106952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
+          "url": "https://wallstreetcn.com/livenews/3106951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "周三（5月20日），美股信息科技指数涨2.97%，报384.54点。 成分股Astera Labs收涨17.69%，IREN涨10.41%，超微电脑涨9.49%，IonQ涨8.32%，Credo科技集团涨8.28%，AMD涨8.10%表现第六，英特尔涨7.36%，Workday则收跌2.11%跌幅第五大，Lumentum跌2.47%，Nebius集团跌2.99%，ADI跌3.92%，财捷INTU跌3.95%。",
+          "url": "https://wallstreetcn.com/livenews/3106949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "周三（5月20日），美股存储芯片与硬件供应链指数涨3.17%，报179.14点，跳空高开之后整体持续高位震荡。 成分股全面收涨，Rambus涨9.45%，泰瑞达涨7.1%，拉姆研究涨6.84%，应用材料、美光至少涨4.76%，希捷科技涨2.42%，西部数据、闪迪至少涨0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3106946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（5月20日），美国科技股七巨头（Magnificent 7）指数涨1.17%，报225.84点。 “超大”市值科技股指数涨涨2.27%，报450.52点。",
+          "url": "https://wallstreetcn.com/livenews/3106945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "英伟达美股盘后跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3106935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     },
@@ -75,7 +167,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -86,7 +178,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -97,7 +189,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -107,11 +199,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时22分]"
         },
         {
           "title": "谷歌在AI模型推出更有用的广告。",
@@ -128,7 +221,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
@@ -137,7 +230,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -162,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：Anthropic和OpenAI的模型层增长势头尤为强劲。",
+          "url": "https://flash.jin10.com/detail/20260521051358120800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     },
@@ -175,11 +279,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时22分]"
         },
         {
           "title": "抖音禁止录播伪装为直播",
@@ -187,11 +292,12 @@
           "source": "微博",
           "ranks": [
             23,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时22分]"
         },
         {
           "title": "抖音封了打焦赞直播间",
@@ -199,11 +305,52 @@
           "source": "微博",
           "ranks": [
             10,
-            22
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机器人穿上皮肤 正处在爆发前夜",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BF%E4%B8%8A%E7%9A%AE%E8%82%A4+%E6%AD%A3%E5%A4%84%E5%9C%A8%E7%88%86%E5%8F%91%E5%89%8D%E5%A4%9C",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时22分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：从长远来看，人工智能的经济格局将发生转变，而“第二阵营（Second category）”——这是他对超大规模云服务商（Hyperscalers）之外的 AI 技术应用的全新称呼——规模将会变得庞大得多。 “我同时寄希望于在未来的五年内，物理 AI（Physical AI）与机器人细分领域能够迎来令人难以置信的爆发式增长。”",
+          "url": "https://wallstreetcn.com/livenews/3106957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "机器人穿上皮肤 正处在爆发前夜",
+          "url": "https://www.toutiao.com/trending/7641893274647117887/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
+          "time_info": "[04时08分 ~ 06时22分]"
         }
       ]
     },
@@ -219,8 +366,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时22分]"
         },
         {
           "title": "欧洲半导体概念股普遍收涨，Soitec涨10.37%，阿斯麦控股涨6.73%，意法半导体米兰股价涨6%，BE半导体实业公司涨3.96%，ASM国际涨3.93%。",
@@ -246,11 +393,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时22分]"
         },
         {
           "title": "特斯拉印度工厂项目为何被叫停",
@@ -266,30 +414,32 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "keyword_group": "稳定币 日本",
       "match_count": 2,
       "titles": [
         {
-          "title": "机器人穿上皮肤 正处在爆发前夜",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BF%E4%B8%8A%E7%9A%AE%E8%82%A4+%E6%AD%A3%E5%A4%84%E5%9C%A8%E7%88%86%E5%8F%91%E5%89%8D%E5%A4%9C",
-          "source": "百度热搜",
+          "title": "日本将围绕能源措施动用5000亿日元储备资金。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3106961",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
-        },
-        {
-          "title": "机器人穿上皮肤 正处在爆发前夜",
-          "url": "https://www.toutiao.com/trending/7641893274647117887/",
-          "source": "今日头条",
-          "ranks": [
-            22
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时08分"
+          "time_info": "06时22分"
+        },
+        {
+          "title": "7 家日本车企 2026 财年净利预计腰斩，日本造车业为何如此不景气？日产汽车落后于市场了吗？",
+          "url": "https://www.zhihu.com/question/2040362002791588829",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时22分]"
         }
       ]
     },
@@ -307,24 +457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "7 家日本车企 2026 财年净利预计腰斩，日本造车业为何如此不景气？日产汽车落后于市场了吗？",
-          "url": "https://www.zhihu.com/question/2040362002791588829",
-          "source": "知乎",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
         }
       ]
     }
