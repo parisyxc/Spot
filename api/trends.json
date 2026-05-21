@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-21T13:07:22.531701+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-05-21T17:29:55.601543+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "纯智商税?日本米饭放硅胶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354475&amp;topic_name=%E7%BA%AF%E6%99%BA%E5%95%86%E7%A8%8E%3F%E6%97%A5%E6%9C%AC%E7%B1%B3%E9%A5%AD%E6%94%BE%E7%A1%85%E8%83%B6",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 17时29分]"
+        },
         {
           "title": "日本财务省：日本4月对美国出口同比增长9.5%，对亚洲出口同比增长16.1%，对欧盟出口同比增长26.9%。",
           "url": "https://flash.jin10.com/detail/20260521075310201800",
@@ -19,15 +31,15 @@
           "time_info": "08时04分"
         },
         {
-          "title": "纯智商税?日本米饭放硅胶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354475&amp;topic_name=%E7%BA%AF%E6%99%BA%E5%95%86%E7%A8%8E%3F%E6%97%A5%E6%9C%AC%E7%B1%B3%E9%A5%AD%E6%94%BE%E7%A1%85%E8%83%B6",
-          "source": "贴吧",
+          "title": "日本首相高市早苗：本周日本的汽油价格在G7各国中保持最低。",
+          "url": "https://flash.jin10.com/detail/20260521171917520800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时07分"
+          "time_info": "17时29分"
         },
         {
           "title": "日本财务省：4月液化天然气进口量为426.9万吨，同比下降20.6%。",
@@ -220,6 +232,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "两名日本人在上海遇袭受伤，日方回应",
+          "url": "https://news.ifeng.com/c/8tItj67adhl",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "日本3月核心机械订单年率 5.9%，预期4.5%，前值24.70%。",
           "url": "https://flash.jin10.com/detail/20260521075002590800",
           "source": "金十数据",
@@ -297,6 +320,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "日本财务大臣片山皋月：将稳步降低债务占GDP的比重。 将加强维护市场信任的立场。",
+          "url": "https://wallstreetcn.com/livenews/3107319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "日本政府计划从2026财年预算中动用5000亿日元储备金，用于在今夏扩大电力和天然气补贴，以应对中东局势，相关措施将于7月至9月实施。（NHK）",
           "url": "https://wallstreetcn.com/livenews/3106987",
           "source": "华尔街见闻-快讯",
@@ -325,7 +359,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
@@ -339,12 +373,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "日本乒乓球队亚运会名单",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%B9%92%E4%B9%93%E7%90%83%E9%98%9F%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "英伟达财报倒计时！超预期基本没悬念，但华尔街最关心这五个问题",
@@ -356,6 +401,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 08时04分]"
+        },
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 17时29分]"
+        },
+        {
+          "title": "英伟达Q1营收超预期增85%、指引再新高仍不够亮眼，新增回购800亿且大幅上调股息 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772760",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 17时29分]"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
@@ -371,35 +439,12 @@
           "time_info": "[01时54分 ~ 08时04分]"
         },
         {
-          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 13时07分]"
-        },
-        {
           "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
           "url": "https://www.cls.cn/detail/2377339",
           "source": "财联社热门",
           "ranks": [
             3,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 13时07分]"
-        },
-        {
-          "title": "英伟达Q1营收超预期增85%、指引再新高仍不够亮眼，新增回购800亿且大幅上调股息 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772760",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -455,6 +500,18 @@
           "time_info": "[01时54分 ~ 06时22分]"
         },
         {
+          "title": "韩股涨到“熔断”！三星最后关头避免罢工 韩国科技股集体暴涨",
+          "url": "https://www.cls.cn/detail/2377510",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 17时29分]"
+        },
+        {
           "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
           "url": "https://wallstreetcn.com/articles/3772678",
           "source": "华尔街见闻",
@@ -478,6 +535,17 @@
           "time_info": "[08时03分 ~ 08时04分]"
         },
         {
+          "title": "Applied Digital Corp.（APLD）美股盘前涨近12%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
+          "url": "https://wallstreetcn.com/livenews/3107332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "亚太盘初，纳指期货跌超0.4%，标普股指期货跌0.3%。 当前（美股盘后），AMD跌1.2%，英伟达跌1.2%，高通跌0.8%，英特尔跌0.7%，C3.ai跌0.7%，美光跌0.5%，闪迪涨0.3%。",
           "url": "https://wallstreetcn.com/livenews/3106958",
           "source": "华尔街见闻-快讯",
@@ -487,17 +555,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "韩股涨到“熔断”！三星最后关头避免罢工 韩国科技股集体暴涨",
-          "url": "https://www.cls.cn/detail/2377510",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
         },
         {
           "title": "美银：对冲基金上周抛售美股规模创纪录",
@@ -517,7 +574,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
@@ -599,6 +656,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "网易第一季度营收306亿元人民币，预估295.1亿元人民币。 第一季度毛利212亿元人民币，预估191.1亿元人民币。 第一季度经调整每股ADS持续经营净收益17.46元人民币，预估15.47元人民币。 第一季度在线游戏服务净收入257.1亿元人民币，预估247.1亿元人民币。 第一季度创新及其他业务净收入15.5亿元人民币，预估15.8亿元人民币。 网易美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3107310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "英伟达美股盘后跌1.8%。",
           "url": "https://wallstreetcn.com/livenews/3106935",
           "source": "华尔街见闻-快讯",
@@ -608,6 +676,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "特斯拉与印度关税谈判陷僵局，已放弃在印度建厂的计划，印度为什么没留住特斯拉？对中国新能源产业有影响吗？",
+          "url": "https://www.zhihu.com/question/2040337402904797465",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 08时04分]"
+        },
+        {
+          "title": "特斯拉中国急招智驾测试技师",
+          "url": "https://www.douyin.com/hot/2505444",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "特斯拉印度工厂项目为何被叫停",
+          "url": "https://www.toutiao.com/trending/7641938094068878902/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 04时08分]"
+        },
+        {
+          "title": "特斯拉月薪3万抢“老司机”",
+          "url": "https://www.toutiao.com/trending/7641158841577930815/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "特斯拉宣布监督版FSD入华 门店回应：建议不要完全相信 落地还得看政策",
+          "url": "https://wallstreetcn.com/livenews/3107315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "特斯拉官宣监督版FSD登陆中国",
+          "url": "https://www.douyin.com/hot/2506634",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "特斯拉宣布监督版 FSD 登陆中国，意味着什么？你看好它的市场前景吗？",
+          "url": "https://www.zhihu.com/question/2040736336265443002",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "特斯拉月薪3万抢“老司机”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%88%E8%96%AA3%E4%B8%87%E6%8A%A2%E2%80%9C%E8%80%81%E5%8F%B8%E6%9C%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         }
       ]
     },
@@ -669,7 +834,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
@@ -687,135 +852,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特斯拉与印度关税谈判陷僵局，已放弃在印度建厂的计划，印度为什么没留住特斯拉？对中国新能源产业有影响吗？",
-          "url": "https://www.zhihu.com/question/2040337402904797465",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 08时04分]"
-        },
-        {
-          "title": "特斯拉中国急招智驾测试技师",
-          "url": "https://www.douyin.com/hot/2505444",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
-        },
-        {
-          "title": "特斯拉印度工厂项目为何被叫停",
-          "url": "https://www.toutiao.com/trending/7641938094068878902/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时08分]"
-        },
-        {
-          "title": "特斯拉月薪3万抢“老司机”",
-          "url": "https://www.toutiao.com/trending/7641158841577930815/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "特斯拉宣布监督版 FSD 登陆中国，意味着什么？你看好它的市场前景吗？",
-          "url": "https://www.zhihu.com/question/2040736336265443002",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "机器人穿上皮肤 正处在爆发前夜",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BF%E4%B8%8A%E7%9A%AE%E8%82%A4+%E6%AD%A3%E5%A4%84%E5%9C%A8%E7%88%86%E5%8F%91%E5%89%8D%E5%A4%9C",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 08时04分]"
-        },
-        {
-          "title": "机器人穿上皮肤 正处在爆发前夜",
-          "url": "https://www.toutiao.com/trending/7641893274647117887/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 08时04分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：从长远来看，人工智能的经济格局将发生转变，而“第二阵营（Second category）”——这是他对超大规模云服务商（Hyperscalers）之外的 AI 技术应用的全新称呼——规模将会变得庞大得多。 “我同时寄希望于在未来的五年内，物理 AI（Physical AI）与机器人细分领域能够迎来令人难以置信的爆发式增长。”",
-          "url": "https://wallstreetcn.com/livenews/3106957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "5月21日投资避雷针：4连板人气股公告 不涉及液冷及机器人相关元器件的生产",
-          "url": "https://www.cls.cn/detail/2377385",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "全国首个面向家庭场景的通用机器人在武汉发布：会做饭、洗衣服、叠衣服，武汉家庭可免费申请",
-          "url": "https://www.cls.cn/detail/2377373",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【每日收评】科创50指数震荡走高涨超3%，半导体产业链持续爆发，电力股批量跌停",
@@ -852,15 +890,90 @@
           "time_info": "[01时54分 ~ 04时08分]"
         },
         {
+          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
+          "url": "https://www.cls.cn/detail/2377977",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "港股午评：恒指高开低走收跌0.02% 半导体板块延续强势",
           "url": "https://flash.jin10.com/detail/20260521120559488800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "机器人穿上皮肤 正处在爆发前夜",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BF%E4%B8%8A%E7%9A%AE%E8%82%A4+%E6%AD%A3%E5%A4%84%E5%9C%A8%E7%88%86%E5%8F%91%E5%89%8D%E5%A4%9C",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 08时04分]"
+        },
+        {
+          "title": "5月21日投资避雷针：4连板人气股公告 不涉及液冷及机器人相关元器件的生产",
+          "url": "https://www.cls.cn/detail/2377385",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 17时29分]"
+        },
+        {
+          "title": "机器人穿上皮肤 正处在爆发前夜",
+          "url": "https://www.toutiao.com/trending/7641893274647117887/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 08时04分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：从长远来看，人工智能的经济格局将发生转变，而“第二阵营（Second category）”——这是他对超大规模云服务商（Hyperscalers）之外的 AI 技术应用的全新称呼——规模将会变得庞大得多。 “我同时寄希望于在未来的五年内，物理 AI（Physical AI）与机器人细分领域能够迎来令人难以置信的爆发式增长。”",
+          "url": "https://wallstreetcn.com/livenews/3106957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "全国首个面向家庭场景的通用机器人在武汉发布：会做饭、洗衣服、叠衣服，武汉家庭可免费申请",
+          "url": "https://www.cls.cn/detail/2377373",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 17时29分]"
         }
       ]
     },
@@ -915,6 +1028,57 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十图示：2026年05月21日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260521073127872800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 13时07分]"
+        },
+        {
+          "title": "伦敦铜价反弹，受智利供应担忧及达成伊朗核协议希望推动",
+          "url": "https://wallstreetcn.com/livenews/3106857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "油价暴跌 黄金白银上涨",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "国投白银LOF提示二级市场溢价风险",
+          "url": "https://flash.jin10.com/detail/20260521170251820800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 4,
       "titles": [
@@ -925,11 +1089,12 @@
           "ranks": [
             8,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 13时07分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 17时29分]"
         },
         {
           "title": "抖音禁止录播伪装为直播",
@@ -965,38 +1130,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年05月21日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260521073127872800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 13时07分]"
-        },
-        {
-          "title": "伦敦铜价反弹，受智利供应担忧及达成伊朗核协议希望推动",
-          "url": "https://wallstreetcn.com/livenews/3106857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
         }
       ]
     }
