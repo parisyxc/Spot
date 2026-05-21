@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T17:29:55.601543+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-05-21T20:42:42.644593+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "纯智商税?日本米饭放硅胶",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 20时42分]"
         },
         {
           "title": "日本财务省：日本4月对美国出口同比增长9.5%，对亚洲出口同比增长16.1%，对欧盟出口同比增长26.9%。",
@@ -37,7 +38,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -128,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "“日本民航将不能过境中国”？谁在给日本民粹右翼递弹药",
+          "url": "https://news.ifeng.com/c/8tJHzByt8vj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "日本至5月15日当周外资买进日债 -10334亿日元，前值1062亿日元。",
@@ -238,7 +250,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -326,7 +338,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -381,7 +393,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         }
@@ -389,8 +401,19 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 20时42分]"
+        },
         {
           "title": "英伟达财报倒计时！超预期基本没悬念，但华尔街最关心这五个问题",
           "url": "https://wallstreetcn.com/articles/3772680",
@@ -403,17 +426,6 @@
           "time_info": "[01时54分 ~ 08时04分]"
         },
         {
-          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 17时29分]"
-        },
-        {
           "title": "英伟达Q1营收超预期增85%、指引再新高仍不够亮眼，新增回购800亿且大幅上调股息 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3772760",
           "source": "华尔街见闻",
@@ -422,8 +434,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 17时29分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 20时42分]"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
@@ -541,7 +553,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -555,6 +567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "核谈判僵持，油价攀升，美股涨势受阻，量子计算股盘前拉升，美债震荡",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "美银：对冲基金上周抛售美股规模创纪录",
@@ -634,6 +657,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "深交所发布对北京利仁科技股份有限公司2025年年报的问询函",
+          "url": "https://flash.jin10.com/detail/20260521201529801800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "周三（5月20日），美股存储芯片与硬件供应链指数涨3.17%，报179.14点，跳空高开之后整体持续高位震荡。 成分股全面收涨，Rambus涨9.45%，泰瑞达涨7.1%，拉姆研究涨6.84%，应用材料、美光至少涨4.76%，希捷科技涨2.42%，西部数据、闪迪至少涨0.67%。",
           "url": "https://wallstreetcn.com/livenews/3106946",
           "source": "华尔街见闻-快讯",
@@ -662,7 +696,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -676,12 +710,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "沃尔玛一季度营收1,777.5亿美元，预估1,750.6亿美元。 一季度调整后每股收益0.66美元，上年同期0.61美元，预估0.66美元。 一季度调整后运营收益76.7亿美元，预估76.9亿美元。 沃尔玛仍然预测全年调整后每股收益2.75美元至2.85美元，市场预估2.92美元。 沃尔玛预计第二季度调整后每股收益0.72美元至0.74美元。 沃尔玛美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3107384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特斯拉与印度关税谈判陷僵局，已放弃在印度建厂的计划，印度为什么没留住特斯拉？对中国新能源产业有影响吗？",
@@ -696,6 +741,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 08时04分]"
+        },
+        {
+          "title": "特斯拉官宣监督版FSD登陆中国",
+          "url": "https://www.douyin.com/hot/2506634",
+          "source": "抖音",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 20时42分]"
         },
         {
           "title": "特斯拉中国急招智驾测试技师",
@@ -720,6 +777,17 @@
           "time_info": "[01时54分 ~ 04时08分]"
         },
         {
+          "title": "特斯拉最后一批Model S/X车型下线 工厂将转为人型机器人生产线",
+          "url": "https://www.cls.cn/detail/2377717",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "特斯拉月薪3万抢“老司机”",
           "url": "https://www.toutiao.com/trending/7641158841577930815/",
           "source": "今日头条",
@@ -737,18 +805,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "特斯拉官宣监督版FSD登陆中国",
-          "url": "https://www.douyin.com/hot/2506634",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -770,9 +827,95 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "机器人穿上皮肤 正处在爆发前夜",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BF%E4%B8%8A%E7%9A%AE%E8%82%A4+%E6%AD%A3%E5%A4%84%E5%9C%A8%E7%88%86%E5%8F%91%E5%89%8D%E5%A4%9C",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 08时04分]"
+        },
+        {
+          "title": "5月21日投资避雷针：4连板人气股公告 不涉及液冷及机器人相关元器件的生产",
+          "url": "https://www.cls.cn/detail/2377385",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 17时29分]"
+        },
+        {
+          "title": "机器人穿上皮肤 正处在爆发前夜",
+          "url": "https://www.toutiao.com/trending/7641893274647117887/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 08时04分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：从长远来看，人工智能的经济格局将发生转变，而“第二阵营（Second category）”——这是他对超大规模云服务商（Hyperscalers）之外的 AI 技术应用的全新称呼——规模将会变得庞大得多。 “我同时寄希望于在未来的五年内，物理 AI（Physical AI）与机器人细分领域能够迎来令人难以置信的爆发式增长。”",
+          "url": "https://wallstreetcn.com/livenews/3106957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "全国首个面向家庭场景的通用机器人在武汉发布：会做饭、洗衣服、叠衣服，武汉家庭可免费申请",
+          "url": "https://www.cls.cn/detail/2377373",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 17时29分]"
+        },
+        {
+          "title": "我国可穿戴机器人又有新突破 能逆转肌肉萎缩的机器人来了",
+          "url": "https://flash.jin10.com/detail/20260521200808411800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "京东与头部机器人应用平台擎天租达成战略合作",
+          "url": "https://wallstreetcn.com/livenews/3107383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -878,6 +1021,18 @@
           "time_info": "08时04分"
         },
         {
+          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
+          "url": "https://www.cls.cn/detail/2377977",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 20时42分]"
+        },
+        {
           "title": "欧洲半导体概念股普遍收涨，Soitec涨10.37%，阿斯麦控股涨6.73%，意法半导体米兰股价涨6%，BE半导体实业公司涨3.96%，ASM国际涨3.93%。",
           "url": "https://wallstreetcn.com/livenews/3106873",
           "source": "华尔街见闻-快讯",
@@ -888,17 +1043,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 04时08分]"
-        },
-        {
-          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
-          "url": "https://www.cls.cn/detail/2377977",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "港股午评：恒指高开低走收跌0.02% 半导体板块延续强势",
@@ -914,73 +1058,20 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
         {
-          "title": "机器人穿上皮肤 正处在爆发前夜",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BF%E4%B8%8A%E7%9A%AE%E8%82%A4+%E6%AD%A3%E5%A4%84%E5%9C%A8%E7%88%86%E5%8F%91%E5%89%8D%E5%A4%9C",
-          "source": "百度热搜",
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 08时04分]"
-        },
-        {
-          "title": "5月21日投资避雷针：4连板人气股公告 不涉及液冷及机器人相关元器件的生产",
-          "url": "https://www.cls.cn/detail/2377385",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 17时29分]"
-        },
-        {
-          "title": "机器人穿上皮肤 正处在爆发前夜",
-          "url": "https://www.toutiao.com/trending/7641893274647117887/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 08时04分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：从长远来看，人工智能的经济格局将发生转变，而“第二阵营（Second category）”——这是他对超大规模云服务商（Hyperscalers）之外的 AI 技术应用的全新称呼——规模将会变得庞大得多。 “我同时寄希望于在未来的五年内，物理 AI（Physical AI）与机器人细分领域能够迎来令人难以置信的爆发式增长。”",
-          "url": "https://wallstreetcn.com/livenews/3106957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "20时42分"
         },
-        {
-          "title": "全国首个面向家庭场景的通用机器人在武汉发布：会做饭、洗衣服、叠衣服，武汉家庭可免费申请",
-          "url": "https://www.cls.cn/detail/2377373",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 17时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
         {
           "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
           "url": "https://flash.jin10.com/detail/20260521030904258800",
@@ -1029,7 +1120,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2026年05月21日（周四）白银ETF持仓报告",
@@ -1044,6 +1135,18 @@
           "time_info": "[08时04分 ~ 13时07分]"
         },
         {
+          "title": "油价暴跌 黄金白银上涨",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 20时42分]"
+        },
+        {
           "title": "伦敦铜价反弹，受智利供应担忧及达成伊朗核协议希望推动",
           "url": "https://wallstreetcn.com/livenews/3106857",
           "source": "华尔街见闻-快讯",
@@ -1055,32 +1158,32 @@
           "time_info": "01时54分"
         },
         {
-          "title": "油价暴跌 黄金白银上涨",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "国投白银LOF提示二级市场溢价风险",
           "url": "https://flash.jin10.com/detail/20260521170251820800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月21日（周四）晚盘盘初下跌0.33%报991.6元/克；<br/>上海黄金交易所白银T+D 5月21日（周四）晚盘盘初下跌0.64%报18366.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260521200236811800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "抖音全民写作大赛开赛",
@@ -1133,6 +1236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "上抖音看德国队大名单直播",
+          "url": "https://www.douyin.com/hot/2507158",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     }
