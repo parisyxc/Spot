@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T21:13:56.047019+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-05-23T22:57:03.121928+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时01分 ~ 21时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时01分 ~ 22时57分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时01分 ~ 21时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时01分 ~ 22时57分]"
         },
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -41,11 +41,12 @@
           "ranks": [
             10,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时46分 ~ 21时13分]"
+          "appearance_count": 7,
+          "time_info": "[17时46分 ~ 22时57分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -220,6 +221,17 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "“中国断了日本4个月，2010年的记忆又回来了”",
+          "url": "https://news.ifeng.com/c/8tM82kt9dfq",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时46分 ~ 22时57分]"
+        },
+        {
           "title": "美将在日本部署“堤丰”中导系统，外交部：中方坚决反对",
           "url": "https://m.thepaper.cn/newsDetail_forward_33210599",
           "source": "澎湃新闻",
@@ -254,19 +266,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 21时13分]"
-        },
-        {
-          "title": "“中国断了日本4个月，2010年的记忆又回来了”",
-          "url": "https://news.ifeng.com/c/8tM82kt9dfq",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时46分 ~ 21时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 22时57分]"
         },
         {
           "title": "U17 亚洲杯决赛，中国 vs 日本，这会是中国足球复兴的标志性一战吗？",
@@ -427,6 +428,18 @@
           "time_info": "04时41分"
         },
         {
+          "title": "闻泰科技起诉安世控股等六被告获法院受理：要求归还安世半导体控制权，索赔80亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33214280",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时13分 ~ 22时57分]"
+        },
+        {
           "title": "美国贸易代表格里尔：半导体领域不会立即征收关税，但保护美国芯片生产的投资至关重要。",
           "url": "https://flash.jin10.com/detail/20260523013429967800",
           "source": "金十数据",
@@ -436,17 +449,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
-        },
-        {
-          "title": "闻泰科技起诉安世控股等六被告获法院受理：要求归还安世半导体控制权，索赔80亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33214280",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
         },
         {
           "title": "美国贸易代表：预计不会在近期对半导体产品加征关税",
@@ -469,6 +471,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "机器人行业资本化加速：一二级市场同步活跃 头部公司量产节奏渐清晰",
+          "url": "https://www.cls.cn/detail/2378982",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 21时13分]"
+        },
+        {
+          "title": "荣耀机器人带着荣耀幸运星空降苏超",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B8%A6%E7%9D%80%E8%8D%A3%E8%80%80%E5%B9%B8%E8%BF%90%E6%98%9F%E7%A9%BA%E9%99%8D%E8%8B%8F%E8%B6%85%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 22时57分]"
+        },
+        {
+          "title": "四足机器人领域再迎新锐，杭州云深处山猫S10亮相",
+          "url": "https://wallstreetcn.com/livenews/3108374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.51%，暂报2785.12点，上周五结束交易以来（7*24）累计上涨0.25%，整体呈现出钝化（平坦）的V形反转，5月18日北京时间07:13曾跌至2608.96点。 MarketVectorTM数字资产100中盘指数涨1.60%，报3065.76点，期内本周累涨0.95%。 MarketVector数字资产100指数跌0.19%，报15173.89点，期内累跌2.86%，5月16-18日持续走低，5月18日以来持续交投于15100点附近。 最近七天迄今，Solana累跌2.63%，狗狗币累跌6.41%，XRP累跌5.64%。 比特币累跌2.80%，暂报76870美元；以太坊累跌4.41%，暂报2121.030美元。",
+          "url": "https://wallstreetcn.com/livenews/3108177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         }
       ]
     },
@@ -534,11 +586,12 @@
           "url": "https://wallstreetcn.com/articles/3772963",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时13分 ~ 22时57分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
@@ -579,34 +632,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "机器人行业资本化加速：一二级市场同步活跃 头部公司量产节奏渐清晰",
-          "url": "https://www.cls.cn/detail/2378982",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时06分 ~ 21时13分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.51%，暂报2785.12点，上周五结束交易以来（7*24）累计上涨0.25%，整体呈现出钝化（平坦）的V形反转，5月18日北京时间07:13曾跌至2608.96点。 MarketVectorTM数字资产100中盘指数涨1.60%，报3065.76点，期内本周累涨0.95%。 MarketVector数字资产100指数跌0.19%，报15173.89点，期内累跌2.86%，5月16-18日持续走低，5月18日以来持续交投于15100点附近。 最近七天迄今，Solana累跌2.63%，狗狗币累跌6.41%，XRP累跌5.64%。 比特币累跌2.80%，暂报76870美元；以太坊累跌4.41%，暂报2121.030美元。",
-          "url": "https://wallstreetcn.com/livenews/3108177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
         }
       ]
     },
