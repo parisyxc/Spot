@@ -1,44 +1,35 @@
 {
-  "generated_at": "2026-05-23T08:02:09.762536+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-05-23T12:35:55.633945+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
           "url": "https://wallstreetcn.com/articles/3772907",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
-          "url": "https://wallstreetcn.com/livenews/3108276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            3,
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时35分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
           "url": "https://www.cls.cn/detail/2379649",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时35分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -58,7 +49,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -94,6 +85,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3108276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 12时35分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
@@ -151,6 +154,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "如何看待蔚来发布 2026 年第一季度财报，连续两个季度盈利？",
+          "url": "https://www.zhihu.com/question/2040896897133586054",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
           "url": "https://wallstreetcn.com/livenews/3108237",
           "source": "华尔街见闻-快讯",
@@ -160,12 +174,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
+          "url": "https://wallstreetcn.com/livenews/3108278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "U17亚洲杯决赛中国男足vs日本",
@@ -191,6 +216,19 @@
           "time_info": "[00时21分 ~ 06时04分]"
         },
         {
+          "title": "美将在日本部署“堤丰”中导系统，外交部：中方坚决反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33210599",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 12时35分]"
+        },
+        {
           "title": "七国集团高层接连访华 除了日本",
           "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E9%AB%98%E5%B1%82%E6%8E%A5%E8%BF%9E%E8%AE%BF%E5%8D%8E+%E9%99%A4%E4%BA%86%E6%97%A5%E6%9C%AC",
           "source": "百度热搜",
@@ -204,28 +242,16 @@
           "time_info": "[00时21分 ~ 08时02分]"
         },
         {
-          "title": "美将在日本部署“堤丰”中导系统，外交部：中方坚决反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33210599",
-          "source": "澎湃新闻",
+          "title": "纯智商税?日本米饭放硅胶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354475&amp;topic_name=%E7%BA%AF%E6%99%BA%E5%95%86%E7%A8%8E%3F%E6%97%A5%E6%9C%AC%E7%B1%B3%E9%A5%AD%E6%94%BE%E7%A1%85%E8%83%B6",
+          "source": "贴吧",
           "ranks": [
-            9,
-            12,
-            11
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 08时02分]"
-        },
-        {
-          "title": "U17国足不敌日本 获亚洲杯亚军",
-          "url": "https://www.toutiao.com/trending/7642856108326915647/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 12时35分]"
         },
         {
           "title": "U17国足2比3不敌日本",
@@ -237,17 +263,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "纯智商税?日本米饭放硅胶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354475&amp;topic_name=%E7%BA%AF%E6%99%BA%E5%95%86%E7%A8%8E%3F%E6%97%A5%E6%9C%AC%E7%B1%B3%E9%A5%AD%E6%94%BE%E7%A1%85%E8%83%B6",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 08时02分]"
         },
         {
           "title": "U17 亚洲杯决赛，中国队 2-3 不敌日本队获得亚军，如何评价这场比赛？",
@@ -274,15 +289,39 @@
           "time_info": "[04时41分 ~ 08时02分]"
         },
         {
+          "title": "U17国足决赛2比3惜败日本",
+          "url": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E8%B6%B3%E5%86%B3%E8%B5%9B2%E6%AF%943%E6%83%9C%E8%B4%A5%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "U17国足不敌日本 获亚洲杯亚军",
+          "url": "https://www.toutiao.com/trending/7642856108326915647/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时35分]"
+        },
+        {
           "title": "中国U17男足憾负日本夺亚洲杯亚军",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDU17%E7%94%B7%E8%B6%B3%E6%86%BE%E8%B4%9F%E6%97%A5%E6%9C%AC%E5%A4%BA%E4%BA%9A%E6%B4%B2%E6%9D%AF%E4%BA%9A%E5%86%9B",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时35分]"
         },
         {
           "title": "日本U17球员赛后向国足全队鞠躬致意",
@@ -362,6 +401,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260523091339971800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         }
       ]
     },
