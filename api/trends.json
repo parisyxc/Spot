@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T19:07:01.651521+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-05-23T21:13:56.047019+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时01分 ~ 19时07分]"
+          "appearance_count": 9,
+          "time_info": "[08时01分 ~ 21时13分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -27,11 +27,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时01分 ~ 19时07分]"
+          "appearance_count": 9,
+          "time_info": "[08时01分 ~ 21时13分]"
         },
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -39,11 +40,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时46分 ~ 19时07分]"
+          "appearance_count": 5,
+          "time_info": "[17时46分 ~ 21时13分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -252,8 +254,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 19时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 21时13分]"
+        },
+        {
+          "title": "“中国断了日本4个月，2010年的记忆又回来了”",
+          "url": "https://news.ifeng.com/c/8tM82kt9dfq",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时46分 ~ 21时13分]"
         },
         {
           "title": "U17 亚洲杯决赛，中国 vs 日本，这会是中国足球复兴的标志性一战吗？",
@@ -266,17 +279,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 06时04分]"
-        },
-        {
-          "title": "“中国断了日本4个月，2010年的记忆又回来了”",
-          "url": "https://news.ifeng.com/c/8tM82kt9dfq",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时46分 ~ 19时07分]"
         },
         {
           "title": "七国集团高层接连访华 除了日本",
@@ -411,7 +413,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌2.2%，本周累跌4.8%。 热门中概股里，蔚来初步收跌6.8%，美团跌4.3%，拼多多跌3.3%，网易涨2%，日月光半导体涨6.8%。",
@@ -434,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "闻泰科技起诉安世控股等六被告获法院受理：要求归还安世半导体控制权，索赔80亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33214280",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "美国贸易代表：预计不会在近期对半导体产品加征关税",
@@ -483,8 +496,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时46分 ~ 19时07分]"
+          "appearance_count": 5,
+          "time_info": "[17时46分 ~ 21时13分]"
         },
         {
           "title": "特斯拉电池供应商Solus Advance Materials Co.与旗下四个Volta Energy部门因铜箔专利纠纷而对SK Nexilis Co.欠款300万美元。",
@@ -501,7 +514,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI称攻克80年数学难题",
@@ -515,6 +528,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时35分 ~ 19时07分]"
+        },
+        {
+          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
+          "url": "https://wallstreetcn.com/articles/3772963",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
@@ -570,8 +594,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 21时13分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.51%，暂报2785.12点，上周五结束交易以来（7*24）累计上涨0.25%，整体呈现出钝化（平坦）的V形反转，5月18日北京时间07:13曾跌至2608.96点。 MarketVectorTM数字资产100中盘指数涨1.60%，报3065.76点，期内本周累涨0.95%。 MarketVector数字资产100指数跌0.19%，报15173.89点，期内累跌2.86%，5月16-18日持续走低，5月18日以来持续交投于15100点附近。 最近七天迄今，Solana累跌2.63%，狗狗币累跌6.41%，XRP累跌5.64%。 比特币累跌2.80%，暂报76870美元；以太坊累跌4.41%，暂报2121.030美元。",
