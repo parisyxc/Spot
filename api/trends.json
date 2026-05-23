@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T15:28:23.831614+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-05-23T17:47:15.078636+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 15时28分]"
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 17时47分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -29,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 15时28分]"
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 17时47分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
+          "url": "https://www.cls.cn/detail/2379735",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
         },
         {
           "title": "美股量子计算概念股延续强势，Infeqtion涨近20%",
@@ -131,6 +143,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 08时02分]"
+        },
+        {
+          "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2041150006099501503",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
         },
         {
           "title": "本周，标普累涨约0.9%，道指涨2.1%，纳指涨0.3%，半导体指数涨5.1%，超大规模云服务商指数跌1.1%，科技股七巨头指数跌1.2%。 标普500指数初步收涨0.4%，保健板块涨1.2%，科技板块涨0.5%，能源板块涨0.2%，电信板块跌0.6%。 纳斯达克100指数初步收涨0.4%，成分股中，高通初步收涨11.5%，罗斯百货涨17.6%，Zscaler涨6.8%，恩智浦涨5.8%，Workday涨4.8%，Strategy跌3%，拼多多跌3.3%，闪迪跌3.7%，游戏股TTWO跌4.2% Merck初步收涨5.7%，Salesforce涨2.3%，思科涨2%，领跑道指成分股，麦当劳跌0.7%，沃尔玛跌0.7%，英伟达跌1.9%。",
@@ -191,7 +214,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美将在日本部署“堤丰”中导系统，外交部：中方坚决反对",
@@ -218,6 +241,19 @@
           "time_info": "[00时21分 ~ 06时04分]"
         },
         {
+          "title": "纯智商税?日本米饭放硅胶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354475&amp;topic_name=%E7%BA%AF%E6%99%BA%E5%95%86%E7%A8%8E%3F%E6%97%A5%E6%9C%AC%E7%B1%B3%E9%A5%AD%E6%94%BE%E7%A1%85%E8%83%B6",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 17时47分]"
+        },
+        {
           "title": "U17 亚洲杯决赛，中国 vs 日本，这会是中国足球复兴的标志性一战吗？",
           "url": "https://www.zhihu.com/question/2041148960480257581",
           "source": "知乎",
@@ -228,19 +264,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 06时04分]"
-        },
-        {
-          "title": "纯智商税?日本米饭放硅胶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354475&amp;topic_name=%E7%BA%AF%E6%99%BA%E5%95%86%E7%A8%8E%3F%E6%97%A5%E6%9C%AC%E7%B1%B3%E9%A5%AD%E6%94%BE%E7%A1%85%E8%83%B6",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 15时28分]"
         },
         {
           "title": "七国集团高层接连访华 除了日本",
@@ -267,6 +290,17 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
+          "title": "“中国断了日本4个月，2010年的记忆又回来了”",
+          "url": "https://news.ifeng.com/c/8tM82kt9dfq",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
           "title": "U17 亚洲杯决赛，中国队 2-3 不敌日本队获得亚军，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2041148960480257581",
           "source": "知乎",
@@ -289,6 +323,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时41分 ~ 08时02分]"
+        },
+        {
+          "title": "U17国足决赛2比3惜败日本",
+          "url": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E8%B6%B3%E5%86%B3%E8%B5%9B2%E6%AF%943%E6%83%9C%E8%B4%A5%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 17时47分]"
         },
         {
           "title": "U17国足不敌日本 获亚洲杯亚军",
@@ -315,16 +362,26 @@
           "time_info": "[08时01分 ~ 12时35分]"
         },
         {
-          "title": "U17国足决赛2比3惜败日本",
-          "url": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E8%B6%B3%E5%86%B3%E8%B5%9B2%E6%AF%943%E6%83%9C%E8%B4%A5%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
+          "title": "U17 亚洲杯决赛 u17 亚洲杯中国 2-3 日本获得亚军，如何评价本场比赛以及中国队的表现？",
+          "url": "https://www.zhihu.com/question/2041269244734562532",
+          "source": "知乎",
           "ranks": [
-            2,
-            17
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时35分 ~ 15时28分]"
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
+          "title": "朝鲜女足1-0战胜日本夺冠",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%A5%B3%E8%B6%B31-0%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
         },
         {
           "title": "日本U17球员赛后向国足全队鞠躬致意",
@@ -383,7 +440,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
@@ -391,7 +448,7 @@
     },
     {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "雷军：“媲美保时捷和特斯拉”不是吹嘘，希望大家有耐心再等小米5年",
@@ -404,6 +461,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 08时02分]"
+        },
+        {
+          "title": "莫迪多次邀特斯拉来印设厂，马斯克为何最终拒绝？",
+          "url": "https://news.ifeng.com/c/8tM7SvgZdOf",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
         },
         {
           "title": "特斯拉电池供应商Solus Advance Materials Co.与旗下四个Volta Energy部门因铜箔专利纠纷而对SK Nexilis Co.欠款300万美元。",
@@ -428,11 +496,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 15时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 17时47分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
