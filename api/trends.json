@@ -1,11 +1,148 @@
 {
-  "generated_at": "2026-05-25T07:56:49.332832+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-05-25T10:58:06.952756+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "7只半导体热门股拟套现近127亿",
+          "url": "https://s.weibo.com/weibo?q=%237%E5%8F%AA%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%83%AD%E9%97%A8%E8%82%A1%E6%8B%9F%E5%A5%97%E7%8E%B0%E8%BF%91127%E4%BA%BF%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            27,
+            20,
+            29,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 07时56分]"
+        },
+        {
+          "title": "7只半导体热门股拟套现127亿",
+          "url": "https://www.douyin.com/hot/2510898",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 07时56分]"
+        },
+        {
+          "title": "华为半导体领域新突破",
+          "url": "https://www.toutiao.com/trending/7643633110405464073/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 10时58分]"
+        },
+        {
+          "title": "华为半导体领域新突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A2%86%E5%9F%9F%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 10时58分]"
+        },
+        {
+          "title": "华为半导体首席科学家廖恒：芯片到软件深度协同配合发挥超节点系统能力",
+          "url": "https://wallstreetcn.com/livenews/3108521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            9,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 05时52分]"
+        },
+        {
+          "title": "华为正式发表半导体领域新定律",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%AD%A3%E5%BC%8F%E5%8F%91%E8%A1%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A2%86%E5%9F%9F%E6%96%B0%E5%AE%9A%E5%BE%8B",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 10时58分]"
+        },
+        {
+          "title": "7只半导体热门股拟套现127亿",
+          "url": "https://www.baidu.com/s?wd=7%E5%8F%AA%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%83%AD%E9%97%A8%E8%82%A1%E6%8B%9F%E5%A5%97%E7%8E%B0127%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 10时58分]"
+        },
+        {
+          "title": "华为正式发表半导体领域新定律",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33225973",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 10时58分]"
+        },
+        {
+          "title": "华为发表「韬（τ）定律」，半导体技术实现新突破，具有哪些重要意义？对中国半导体产业发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2042176040638707165",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 10时58分]"
+        },
+        {
+          "title": "半导体芯片股集体走强，新洁能涨停，东芯股份、晶丰明源、帝奥微、芯朋微涨超10%，寒武纪、中芯国际拉升涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3108620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "华为正式发表半导体领域新定律，晶体管密度与系统性能通过逻辑折叠技术实现新突破",
+          "url": "https://wallstreetcn.com/livenews/3108603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
@@ -39,11 +176,23 @@
             14,
             12,
             5,
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 10时58分]"
+        },
+        {
+          "title": "本周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3772885",
+          "source": "华尔街见闻",
+          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 07时56分]"
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 10时58分]"
         },
         {
           "title": "金十整理：本周重要事件与数据预告——美国4月核心PCE数据将公布；小米、理想、拼多多等财报来袭",
@@ -52,7 +201,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -94,7 +243,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货黄金日内涨幅扩大至1.5%，现货白银涨幅扩大至4%。",
@@ -103,7 +252,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -114,7 +263,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -125,7 +274,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -136,7 +285,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -159,64 +308,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "7只半导体热门股拟套现近127亿",
-          "url": "https://s.weibo.com/weibo?q=%237%E5%8F%AA%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%83%AD%E9%97%A8%E8%82%A1%E6%8B%9F%E5%A5%97%E7%8E%B0%E8%BF%91127%E4%BA%BF%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            27,
-            20,
-            29,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时56分]"
         },
         {
-          "title": "7只半导体热门股拟套现127亿",
-          "url": "https://www.douyin.com/hot/2510898",
-          "source": "抖音",
+          "title": "金十图示：2026年05月25日（周一）上海金早盘价为997.71元/克，较国际金价(994.55元/克)，高3.16元/克",
+          "url": "https://flash.jin10.com/detail/20260525102727156800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            11,
-            19
+            21
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时56分]"
-        },
-        {
-          "title": "华为半导体首席科学家廖恒：芯片到软件深度协同配合发挥超节点系统能力",
-          "url": "https://wallstreetcn.com/livenews/3108521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            9,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "朝鲜击败日本队，李在明发文祝贺",
@@ -230,6 +341,17 @@
           "time_info": "[00时03分 ~ 07时56分]"
         },
         {
+          "title": "美以伊冲突后 首艘日本油轮经霍尔木兹海峡抵日",
+          "url": "https://flash.jin10.com/detail/20260525104540799800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "日本监管机构敦促企业将现金用于增长而非股东回报",
           "url": "https://flash.jin10.com/detail/20260525051051051800",
           "source": "金十数据",
@@ -240,6 +362,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时53分]"
+        },
+        {
+          "title": "日本7-Eleven创始人铃木敏文逝世",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC7-Eleven%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%93%83%E6%9C%A8%E6%95%8F%E6%96%87%E9%80%9D%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 10时58分]"
+        },
+        {
+          "title": "日本30年期国债收益率下行5个基点至3.96%。 日本10年期国债收益率下行3个基点至2.73%。",
+          "url": "https://wallstreetcn.com/livenews/3108616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "日本被曝正大肆囤积军火",
