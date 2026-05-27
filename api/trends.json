@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-27T08:01:36.454983+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-05-27T12:24:17.626487+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 17,
       "titles": [
+        {
+          "title": "小米Q1营收991亿元超预期，宣布200亿港元新回购计划｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773155",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 12时24分]"
+        },
         {
           "title": "如何看待小米公布 2026 年第一财季财报，营收 991 亿元、净利润 61 亿，有哪些值得关注？",
           "url": "https://www.zhihu.com/question/2042667657242076706",
@@ -18,19 +31,6 @@
             4,
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 08时01分]"
-        },
-        {
-          "title": "小米Q1营收991亿元超预期，宣布200亿港元新回购计划｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773155",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -64,22 +64,24 @@
           "url": "https://www.cls.cn/detail/2382303",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时00分 ~ 12时24分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
           "url": "https://www.cls.cn/detail/2382288",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时00分 ~ 12时24分]"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
@@ -209,18 +211,19 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本野猪变异,繁殖开外挂",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354577&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%87%8E%E7%8C%AA%E5%8F%98%E5%BC%82%2C%E7%B9%81%E6%AE%96%E5%BC%80%E5%A4%96%E6%8C%82",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 08时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 12时24分]"
         },
         {
           "title": "野村上调日本东证指数和日经指数目标位，看好业绩和AI板块增长",
@@ -229,7 +232,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -240,7 +243,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -251,7 +254,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -262,7 +265,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -286,7 +289,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -295,11 +298,23 @@
           "url": "https://www.zhihu.com/question/2036349429955948911",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时00分 ~ 12时24分]"
+        },
+        {
+          "title": "日本拍卖40年期国债，认购倍数2.7，过去12个月均值为2.47。",
+          "url": "https://wallstreetcn.com/livenews/3109817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "据日经新闻：日本首相高市早苗与巴西总统卢拉于6月中旬七国集团峰会期间的会晤正在安排中。",
@@ -333,6 +348,111 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "日本参议院表决通过设“国家情报局”法案",
+          "url": "https://flash.jin10.com/detail/20260527113337283800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "中国机器人正在创造下一个奇迹",
+          "url": "https://www.douyin.com/hot/2513350",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 08时01分]"
+        },
+        {
+          "title": "全球人形机器人约90%来自中国",
+          "url": "https://www.douyin.com/hot/2513855",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "中信建投：机器人是AI最好的物理载体之一，看好板块行情演绎",
+          "url": "https://wallstreetcn.com/livenews/3109694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "软银聘请高盛、摩根大通、瑞穗银行和摩根士丹利协助进行机器人公司Roze的IPO。",
+          "url": "https://wallstreetcn.com/livenews/3109604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "消息人士：软银聘请高盛、摩根大通、瑞穗银行和摩根士丹利协助进行机器人公司ROZE的IPO。",
+          "url": "https://flash.jin10.com/detail/20260527015719672800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "中信建投：机器人是AI最好的物理载体之一，看好板块行情演绎",
+          "url": "https://flash.jin10.com/detail/20260527074333860800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "沪指跌幅扩大至1%，深成指下行翻绿，创业板指涨幅收窄至1%以内，贵金属、机器人、油气等板块跌幅居前，全市场下跌个股超4500只。",
+          "url": "https://wallstreetcn.com/livenews/3109808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "Figure AI Inc.与Catalyst Brands围绕扫描人形机器人运行情况达成协议。 这次合作在Catalyst旗下Reno分发物流中心启动。",
+          "url": "https://wallstreetcn.com/livenews/3109624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         }
       ]
     },
@@ -347,11 +467,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 08时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 12时24分]"
         },
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -359,11 +480,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 08时01分]"
+          "appearance_count": 4,
+          "time_info": "[06时17分 ~ 12时24分]"
         },
         {
           "title": "半导体博士解读华为韬定律",
@@ -376,8 +498,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 08时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 12时24分]"
         },
         {
           "title": "半导体尾盘狂飙",
@@ -411,78 +533,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "中国机器人正在创造下一个奇迹",
-          "url": "https://www.douyin.com/hot/2513350",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 08时01分]"
-        },
-        {
-          "title": "中信建投：机器人是AI最好的物理载体之一，看好板块行情演绎",
-          "url": "https://wallstreetcn.com/livenews/3109694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "软银聘请高盛、摩根大通、瑞穗银行和摩根士丹利协助进行机器人公司Roze的IPO。",
-          "url": "https://wallstreetcn.com/livenews/3109604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "消息人士：软银聘请高盛、摩根大通、瑞穗银行和摩根士丹利协助进行机器人公司ROZE的IPO。",
-          "url": "https://flash.jin10.com/detail/20260527015719672800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "中信建投：机器人是AI最好的物理载体之一，看好板块行情演绎",
-          "url": "https://flash.jin10.com/detail/20260527074333860800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "Figure AI Inc.与Catalyst Brands围绕扫描人形机器人运行情况达成协议。 这次合作在Catalyst旗下Reno分发物流中心启动。",
-          "url": "https://wallstreetcn.com/livenews/3109624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
         }
       ]
     },
@@ -528,7 +578,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多家投行下调金价预判",
@@ -554,6 +604,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "金十图示：2026年05月27日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260527114052249800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
