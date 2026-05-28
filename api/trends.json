@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T14:51:17.677276+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-05-28T18:52:11.578374+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
@@ -32,6 +32,18 @@
           "time_info": "[00时34分 ~ 05时50分]"
         },
         {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时40分 ~ 18时52分]"
+        },
+        {
           "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
           "url": "https://www.cls.cn/detail/2383514",
           "source": "财联社热门",
@@ -44,17 +56,6 @@
           "time_info": "[07时13分 ~ 14时51分]"
         },
         {
-          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 14时51分]"
-        },
-        {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油大跌5%，黄金一度跌2%",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
@@ -64,6 +65,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
+        },
+        {
+          "title": "拼多多Q1营收同比增11%至1062亿元，管理层“押注下一个十年”｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773243",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
         },
         {
           "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
@@ -143,6 +166,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "微博第一季度净营收4.213亿美元，预估4.176亿美元。 第一季度调整后每股收益0.34美元，预估0.36美元。 第一季度调整后息税折旧及摊销前利润1.268亿美元，同比下降9.3%，预估1.158亿美元。 第一季度月活跃用户5.6亿，同比下降4.9%，预估5.8亿。 第一季度日活跃用户2.5亿，同比下降2.7%，预估2.6亿。 微博美股盘前跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3110639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "小鹏集团第一季度营收130.3亿元人民币，预估131.6亿元人民币。 第一季度经营亏损18.7亿元人民币。 小鹏集团预计第二季度交付量100000至106000辆，市场预估96923辆。 小鹏集团预计第二季度营收196.0亿元人民币至208.0亿元人民币。 小鹏集团美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3110636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。 Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。 客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。 Snowflake美股盘后涨30%。",
@@ -285,6 +330,129 @@
       ]
     },
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "“中方一旦发现，美国在日本部署的中导就是活靶子”",
+          "url": "https://news.ifeng.com/c/8tTT40GyXrG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 10时40分]"
+        },
+        {
+          "title": "日本福岛核废区出现大量具有新基因的变异品种「超级猪」，这种猪有哪些特点？跟核辐射有关系吗？",
+          "url": "https://www.zhihu.com/question/2042329760202581247",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 07时14分]"
+        },
+        {
+          "title": "日本妄图威胁中国腹地",
+          "url": "https://www.toutiao.com/trending/7643604456793210934/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            9,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 07时14分]"
+        },
+        {
+          "title": "前日本央行副行长若田部昌澄表示，必须评估经济是否足够强劲以承受日央行的加息，6月是否加息其实并非关键问题。",
+          "url": "https://flash.jin10.com/detail/20260528142017598800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "日经225指数收跌0.5%，报64693.12点。 日本东证指数收跌0.4%，报3902.01点。 韩国首尔综指收跌0.5%，报8185.29点。",
+          "url": "https://wallstreetcn.com/livenews/3110521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "国防部回应日本大肆布局太空军事力量",
+          "url": "https://www.toutiao.com/trending/7644842292717535251/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
+        },
+        {
+          "title": "日本首相高市早苗：同意升级与菲律宾的关系。 将加强整个亚洲的供应链，包括东盟。",
+          "url": "https://wallstreetcn.com/livenews/3110666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "据知情人士透露，日本软银集团将按每股51-53.63美元出售Symbotic Inc.（SYM.US）的股票，将按4.9%的折扣融资3亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3110283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "Asahi Kasei等将投资日本软银集团AI风投公司。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3110280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "日本妄图威胁中国腹地",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A6%84%E5%9B%BE%E5%A8%81%E8%83%81%E4%B8%AD%E5%9B%BD%E8%85%B9%E5%9C%B0%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 8,
       "titles": [
@@ -381,109 +549,8 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "“中方一旦发现，美国在日本部署的中导就是活靶子”",
-          "url": "https://news.ifeng.com/c/8tTT40GyXrG",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 10时40分]"
-        },
-        {
-          "title": "日本福岛核废区出现大量具有新基因的变异品种「超级猪」，这种猪有哪些特点？跟核辐射有关系吗？",
-          "url": "https://www.zhihu.com/question/2042329760202581247",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 07时14分]"
-        },
-        {
-          "title": "日本妄图威胁中国腹地",
-          "url": "https://www.toutiao.com/trending/7643604456793210934/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            9,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 07时14分]"
-        },
-        {
-          "title": "前日本央行副行长若田部昌澄表示，必须评估经济是否足够强劲以承受日央行的加息，6月是否加息其实并非关键问题。",
-          "url": "https://flash.jin10.com/detail/20260528142017598800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "日经225指数收跌0.5%，报64693.12点。 日本东证指数收跌0.4%，报3902.01点。 韩国首尔综指收跌0.5%，报8185.29点。",
-          "url": "https://wallstreetcn.com/livenews/3110521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "据知情人士透露，日本软银集团将按每股51-53.63美元出售Symbotic Inc.（SYM.US）的股票，将按4.9%的折扣融资3亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3110283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "Asahi Kasei等将投资日本软银集团AI风投公司。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3110280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "日本妄图威胁中国腹地",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A6%84%E5%9B%BE%E5%A8%81%E8%83%81%E4%B8%AD%E5%9B%BD%E8%85%B9%E5%9C%B0%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "武契奇观看机器人跳塞尔维亚舞蹈：跳得比我还好",
@@ -526,11 +593,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E5%9B%B4%E6%94%BB%E5%A4%96%E5%8D%96%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 18时52分]"
         },
         {
           "title": "美国年轻人街头围攻外卖机器人",
@@ -539,9 +607,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "美国年轻人街头围攻外卖机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E5%9B%B4%E6%94%BB%E5%A4%96%E5%8D%96%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
         },
         {
           "title": "A股机器人板块短线拉升，江苏北人涨超10%，巨能股份、机科股份、雷赛智能、拓斯达、凯尔达等跟涨。",
@@ -550,7 +629,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -558,7 +637,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "PCE前金价加速下跌，市场在提前交易最坏情景？",
@@ -567,9 +646,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "美伊局势生变推升通胀担忧，金价一度创近两个月新低",
+          "url": "https://flash.jin10.com/detail/20260528183927079800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "金价跌了反而不敢买了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E5%8F%8D%E8%80%8C%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 5月27日（周三）晚盘收盘下跌1.05%报973.82元/克；<br/>上海黄金交易所白银T+D 5月27日（周三）晚盘收盘下跌2.12%报18105.0元/千克。",
@@ -589,7 +690,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -615,11 +716,12 @@
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%88%B8%E5%8D%81%E5%87%A0%E5%B9%B4%E6%B2%A1%E6%8D%A2%E8%BF%87%E5%BE%AE%E4%BF%A1%E5%A4%B4%E5%83%8F%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 18时52分]"
         }
       ]
     }
