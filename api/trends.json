@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T18:52:11.578374+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-05-28T22:35:05.349044+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
@@ -20,6 +20,18 @@
           "time_info": "[00时34分 ~ 10时40分]"
         },
         {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 22时35分]"
+        },
+        {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时34分 ~ 05时50分]"
-        },
-        {
-          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 18时52分]"
         },
         {
           "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
@@ -56,6 +56,18 @@
           "time_info": "[07时13分 ~ 14时51分]"
         },
         {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 22时35分]"
+        },
+        {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油大跌5%，黄金一度跌2%",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
@@ -67,17 +79,6 @@
           "time_info": "[07时13分 ~ 07时14分]"
         },
         {
-          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 18时52分]"
-        },
-        {
           "title": "拼多多Q1营收同比增11%至1062亿元，管理层“押注下一个十年”｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3773243",
           "source": "华尔街见闻",
@@ -87,6 +88,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时51分 ~ 18时52分]"
+        },
+        {
+          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2384590",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 22时35分]"
+        },
+        {
+          "title": "报道称伊朗与美国达成协议，油价、美元下跌，欧美股市一度走高",
+          "url": "https://wallstreetcn.com/livenews/3110810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
@@ -174,7 +197,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -185,9 +208,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，网络股指数ETF涨超1%，能源业ETF涨近1%，全球航空业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3110793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "美股盘初：三大指数涨跌不一，Snowflake涨约33%，理想汽车跌约2%",
+          "url": "https://wallstreetcn.com/livenews/3110789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。 Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。 客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。 Snowflake美股盘后涨30%。",
@@ -203,8 +248,175 @@
       ]
     },
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "“中方一旦发现，美国在日本部署的中导就是活靶子”",
+          "url": "https://news.ifeng.com/c/8tTT40GyXrG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 10时40分]"
+        },
+        {
+          "title": "日本福岛核废区出现大量具有新基因的变异品种「超级猪」，这种猪有哪些特点？跟核辐射有关系吗？",
+          "url": "https://www.zhihu.com/question/2042329760202581247",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 07时14分]"
+        },
+        {
+          "title": "日本妄图威胁中国腹地",
+          "url": "https://www.toutiao.com/trending/7643604456793210934/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            9,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 07时14分]"
+        },
+        {
+          "title": "美将在日本部署中程导弹系统，这次“不走了？",
+          "url": "https://news.ifeng.com/c/8tVAfhosRsO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 22时35分]"
+        },
+        {
+          "title": "礼遇拉满，日本高调示好菲律宾，野心瞄准两大要道",
+          "url": "https://news.ifeng.com/c/8tV90nBVXG6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 22时35分]"
+        },
+        {
+          "title": "前日本央行副行长若田部昌澄表示，必须评估经济是否足够强劲以承受日央行的加息，6月是否加息其实并非关键问题。",
+          "url": "https://flash.jin10.com/detail/20260528142017598800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "日经225指数收跌0.5%，报64693.12点。 日本东证指数收跌0.4%，报3902.01点。 韩国首尔综指收跌0.5%，报8185.29点。",
+          "url": "https://wallstreetcn.com/livenews/3110521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "国防部回应日本大肆布局太空军事力量",
+          "url": "https://www.toutiao.com/trending/7644842292717535251/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
+        },
+        {
+          "title": "俄联邦安全会议秘书：担忧日本“再军事化”进程",
+          "url": "https://wallstreetcn.com/livenews/3110811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "日本首相高市早苗：同意升级与菲律宾的关系。 将加强整个亚洲的供应链，包括东盟。",
+          "url": "https://wallstreetcn.com/livenews/3110666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "国防部：日本“新型军国主义”大有成为东亚“祸源”之势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254413",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 22时35分]"
+        },
+        {
+          "title": "据知情人士透露，日本软银集团将按每股51-53.63美元出售Symbotic Inc.（SYM.US）的股票，将按4.9%的折扣融资3亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3110283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "Asahi Kasei等将投资日本软银集团AI风投公司。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3110280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "日本妄图威胁中国腹地",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A6%84%E5%9B%BE%E5%A8%81%E8%83%81%E4%B8%AD%E5%9B%BD%E8%85%B9%E5%9C%B0%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "Meta Platforms(META.O)涨幅扩大至超4%。",
@@ -249,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "Gemini联合SpaceX和xAI推出Command Center（指挥中心）。这是一项个性化的市场信息流（Market Feed）。",
+          "url": "https://wallstreetcn.com/livenews/3110808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "报道：Meta拟成立新部门 为企业客户定制AI服务",
@@ -326,129 +549,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "“中方一旦发现，美国在日本部署的中导就是活靶子”",
-          "url": "https://news.ifeng.com/c/8tTT40GyXrG",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 10时40分]"
-        },
-        {
-          "title": "日本福岛核废区出现大量具有新基因的变异品种「超级猪」，这种猪有哪些特点？跟核辐射有关系吗？",
-          "url": "https://www.zhihu.com/question/2042329760202581247",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 07时14分]"
-        },
-        {
-          "title": "日本妄图威胁中国腹地",
-          "url": "https://www.toutiao.com/trending/7643604456793210934/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            9,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 07时14分]"
-        },
-        {
-          "title": "前日本央行副行长若田部昌澄表示，必须评估经济是否足够强劲以承受日央行的加息，6月是否加息其实并非关键问题。",
-          "url": "https://flash.jin10.com/detail/20260528142017598800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "日经225指数收跌0.5%，报64693.12点。 日本东证指数收跌0.4%，报3902.01点。 韩国首尔综指收跌0.5%，报8185.29点。",
-          "url": "https://wallstreetcn.com/livenews/3110521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "国防部回应日本大肆布局太空军事力量",
-          "url": "https://www.toutiao.com/trending/7644842292717535251/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 18时52分]"
-        },
-        {
-          "title": "日本首相高市早苗：同意升级与菲律宾的关系。 将加强整个亚洲的供应链，包括东盟。",
-          "url": "https://wallstreetcn.com/livenews/3110666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "据知情人士透露，日本软银集团将按每股51-53.63美元出售Symbotic Inc.（SYM.US）的股票，将按4.9%的折扣融资3亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3110283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "Asahi Kasei等将投资日本软银集团AI风投公司。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3110280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "日本妄图威胁中国腹地",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A6%84%E5%9B%BE%E5%A8%81%E8%83%81%E4%B8%AD%E5%9B%BD%E8%85%B9%E5%9C%B0%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         }
       ]
     },
@@ -550,7 +650,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "武契奇观看机器人跳塞尔维亚舞蹈：跳得比我还好",
@@ -599,6 +699,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时51分 ~ 18时52分]"
+        },
+        {
+          "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
+          "url": "https://wallstreetcn.com/articles/3773322",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 22时35分]"
         },
         {
           "title": "美国年轻人街头围攻外卖机器人",
@@ -657,7 +768,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -709,7 +820,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“我爸十几年没换过微信头像”",
@@ -717,11 +828,57 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时51分 ~ 18时52分]"
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 22时35分]"
+        },
+        {
+          "title": "女子微信群骂人 被多人殴打成脑震荡",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BE%AE%E4%BF%A1%E7%BE%A4%E9%AA%82%E4%BA%BA+%E8%A2%AB%E5%A4%9A%E4%BA%BA%E6%AE%B4%E6%89%93%E6%88%90%E8%84%91%E9%9C%87%E8%8D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 22时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英特尔推出全新INTEL® ARC™ G系列处理器，专为下一代掌上游戏系统设计。 搭载Intel Arc G 系列处理器的掌上游戏系统，将从6月开始由OEM合作伙伴陆续推出。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3110783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空经济",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "太空算力火了 太空经济市场规模或将超万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3110785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     }
