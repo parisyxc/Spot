@@ -1,12 +1,47 @@
 {
-  "generated_at": "2026-05-29T10:43:54.428495+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-05-29T14:51:06.556469+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 14时51分]"
+        },
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时51分]"
+        },
+        {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时51分]"
+        },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -28,6 +63,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 05时05分]"
+        },
+        {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时51分]"
         },
         {
           "title": "如何看待理想一季度财报，亏损 22.9 个亿？",
@@ -53,40 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
-          "url": "https://www.cls.cn/detail/2384768",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 10时43分]"
         },
         {
           "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
@@ -123,17 +136,6 @@
           "time_info": "05时05分"
         },
         {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
           "title": "MongoDB Inc.（MDB）美股盘后V形反转，目前涨14.09%。 业绩报告显示，该公司预计全年营收29.2亿-29.6亿美元，原本预计28.6亿-29亿美元。",
           "url": "https://wallstreetcn.com/livenews/3110933",
           "source": "华尔街见闻-快讯",
@@ -154,6 +156,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
+          "url": "https://www.cls.cn/detail/2384732",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时51分]"
         },
         {
           "title": "戴尔美股盘后涨幅扩大至35%，纳指期货目前持平。",
@@ -178,15 +192,15 @@
           "time_info": "05时05分"
         },
         {
-          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
-          "url": "https://www.cls.cn/detail/2384732",
+          "title": "AI服务器收入激增757%！戴尔交出炸裂财报 盘后股价暴涨近40%",
+          "url": "https://www.cls.cn/detail/2384829",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
         },
         {
           "title": "财报公布后，戴尔(DELL.N)盘后直线拉升，现涨超9%。",
@@ -236,7 +250,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
         {
           "title": "美将在日本部署中程导弹系统，这次“不走了？",
@@ -247,8 +261,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 10时43分]"
+          "appearance_count": 6,
+          "time_info": "[02时03分 ~ 14时51分]"
         },
         {
           "title": "礼遇拉满，日本高调示好菲律宾，野心瞄准两大要道",
@@ -266,33 +280,23 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%8E%E6%9D%A5%E5%9D%8F%E6%B6%88%E6%81%AF%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时51分]"
         },
         {
-          "title": "菲总统日本国会演说：双方关系已达历史顶峰",
-          "url": "https://news.ifeng.com/c/8tVh63HVoHa",
-          "source": "凤凰网",
+          "title": "日本转移12万居民",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BD%AC%E7%A7%BB12%E4%B8%87%E5%B1%85%E6%B0%91%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "为什么语文课本有其他国家的篇章但是不选取日本的文学作品呢？是因为日本的文学底蕴不深厚吗？",
-          "url": "https://www.zhihu.com/question/339280132",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
         },
         {
           "title": "国防部：日本“新型军国主义”大有成为东亚“祸源”之势",
@@ -301,11 +305,67 @@
           "ranks": [
             12,
             13,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 10时43分]"
+          "appearance_count": 6,
+          "time_info": "[02时03分 ~ 14时51分]"
+        },
+        {
+          "title": "菲总统日本国会演说：双方关系已达历史顶峰",
+          "url": "https://news.ifeng.com/c/8tVh63HVoHa",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时51分]"
+        },
+        {
+          "title": "为什么语文课本有其他国家的篇章但是不选取日本的文学作品呢？是因为日本的文学底蕴不深厚吗？",
+          "url": "https://www.zhihu.com/question/339280132",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时51分]"
+        },
+        {
+          "title": "日本央行前委员：日本央行6月加息至关重要，否则将落后于通胀形势",
+          "url": "https://flash.jin10.com/detail/20260529144553348800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "日本自卫队员将赴德就俄乌冲突取经",
+          "url": "https://www.toutiao.com/trending/7645156431772450859/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
+        },
+        {
+          "title": "日本自卫队员赴德就俄乌冲突“取经”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262119",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
         },
         {
           "title": "媒体：对日本祛魅的不止中国游客",
@@ -320,13 +380,46 @@
           "time_info": "[02时03分 ~ 05时05分]"
         },
         {
+          "title": "日本人口数量创有史以来最大跌幅",
+          "url": "https://www.toutiao.com/trending/7644055361549795347/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
+        },
+        {
+          "title": "日本政府错估大米供需形势致米价飙升",
+          "url": "https://flash.jin10.com/detail/20260529143519609800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "前日本央行委员：日本央行可能会在六月提高利率。",
+          "url": "https://wallstreetcn.com/livenews/3111182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "日本10年期国债收益率下行5.5个基点至2.64%。",
           "url": "https://wallstreetcn.com/livenews/3111030",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         }
@@ -334,7 +427,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "欧盟计划重启《芯片法案》，需投入1200亿欧元重振本土芯片产业",
@@ -354,7 +447,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -365,9 +458,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "A股三大指数持续下挫，沪指跌超1%，深成指、创业板指均跌超2%。半导体、光学光电子、光刻胶板块跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3111188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.48%，报6586.59点，跳空低开之后、早盘形成V形走势，大部分时间高位震荡。 热门中概股里，逸仙电商初步收涨18.2%，微易芯涨8.2%，爱奇艺涨8%，阿特斯太阳能涨6.8%，万国数据涨4.1%，日月光半导体涨3.7%，百度涨1.7%，小米涨0.9%，阿里跌1.3%，腾讯跌1.7%，蔚来跌3.2%，拼多多跌4.1%，美团跌4.8%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.11%，MSCI新兴市场ex中国ETF（EMXC）收涨0.61%，XtrackersHarvest中证50（ASHS）收涨1.14%，中概互联网指数ETF（KWEB）收跌1.41%，中国科技指数ETF（CQQQ）收涨0.39%。",
@@ -415,7 +519,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -440,6 +544,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
+          "url": "https://wallstreetcn.com/articles/3773322",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时03分 ~ 14时51分]"
+        },
+        {
+          "title": "美国年轻人街头暴揍机器人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354688&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E6%9A%B4%E6%8F%8D%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.25%，暂报2631.0点，北京时间04:00-12:00持续下挫，之后持续交投于2600点附近，日线图上，指数自2月份以来持续窄幅震荡于3000-2300点趋近。 MarketVectorTM数字资产100中盘指数跌4.58%，报2869.46点。 MarketVector数字资产100指数跌2.60，报14472.31点。 目前，Solana跌2.36%，狗狗币跌2.59%，XRP暂时持平。 比特币跌2.17%，暂报73265.71美元；以太坊跌2.16%，暂报2009.17美元。",
+          "url": "https://wallstreetcn.com/livenews/3110872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "当煎饼机器人来到煎饼果子之乡",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E7%85%8E%E9%A5%BC%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%A5%E5%88%B0%E7%85%8E%E9%A5%BC%E6%9E%9C%E5%AD%90%E4%B9%8B%E4%B9%A1",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         }
       ]
     },
@@ -483,46 +638,6 @@
       ]
     },
     {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
-          "url": "https://wallstreetcn.com/articles/3773322",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 10时43分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.25%，暂报2631.0点，北京时间04:00-12:00持续下挫，之后持续交投于2600点附近，日线图上，指数自2月份以来持续窄幅震荡于3000-2300点趋近。 MarketVectorTM数字资产100中盘指数跌4.58%，报2869.46点。 MarketVector数字资产100指数跌2.60，报14472.31点。 目前，Solana跌2.36%，狗狗币跌2.59%，XRP暂时持平。 比特币跌2.17%，暂报73265.71美元；以太坊跌2.16%，暂报2009.17美元。",
-          "url": "https://wallstreetcn.com/livenews/3110872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "当煎饼机器人来到煎饼果子之乡",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E7%85%8E%E9%A5%BC%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%A5%E5%88%B0%E7%85%8E%E9%A5%BC%E6%9E%9C%E5%AD%90%E4%B9%8B%E4%B9%A1",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 2,
       "titles": [
@@ -550,6 +665,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时03分 ~ 07时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "赛力斯回应特斯拉FSD入华",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E5%8A%9B%E6%96%AF%E5%9B%9E%E5%BA%94%E7%89%B9%E6%96%AF%E6%8B%89FSD%E5%85%A5%E5%8D%8E%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
         }
       ]
     }
