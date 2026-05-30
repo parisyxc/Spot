@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T08:05:05.124262+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-05-30T12:47:55.636894+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股究竟因何调整？四大原因讨论最多",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 08时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 12时47分]"
         },
         {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
@@ -25,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 08时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 12时47分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
@@ -81,11 +83,25 @@
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 12时47分]"
+        },
+        {
+          "title": "如何看待小鹏一季度财报，亏损 18.7 个亿？",
+          "url": "https://www.zhihu.com/question/2043381658175501842",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时26分 ~ 12时47分]"
         },
         {
           "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
@@ -109,18 +125,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
-        },
-        {
-          "title": "如何看待小鹏一季度财报，亏损 18.7 个亿？",
-          "url": "https://www.zhihu.com/question/2043381658175501842",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时26分 ~ 08时05分]"
         },
         {
           "title": "科技行业ETF收涨超2.2%，领跑美股行业ETF，5月半导体ETF累涨超66%",
@@ -236,12 +240,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "科技股调整原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E8%82%A1%E8%B0%83%E6%95%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本自卫队员赴德就俄乌冲突“取经”",
@@ -282,13 +297,24 @@
           "time_info": "[04时13分 ~ 08时05分]"
         },
         {
+          "title": "日本寿司郎抽检十个盘子十个脏，为何顾客仍排队消费？",
+          "url": "https://www.zhihu.com/question/2040862416561557908",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "日本公司发布调查报告：近九成在华日企“没有退出中国市场计划”",
           "url": "https://wallstreetcn.com/livenews/3111662",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -340,6 +366,17 @@
           "time_info": "[04时13分 ~ 08时05分]"
         },
         {
+          "title": "受中东战事波及，日本乙烯工厂开工率创新低",
+          "url": "https://wallstreetcn.com/livenews/3111712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "日本首次向北约援助乌克兰机构派驻自卫官",
           "url": "https://wallstreetcn.com/livenews/3111558",
           "source": "华尔街见闻-快讯",
@@ -349,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "日本多地民间团体举行集会 呼吁守护和平宪法",
+          "url": "https://wallstreetcn.com/livenews/3111708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "日本外汇干预规模创历史新高",
@@ -364,6 +412,57 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国年轻人街头暴揍机器人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354688&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E6%9A%B4%E6%8F%8D%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 12时47分]"
+        },
+        {
+          "title": "美军人形机器人已实战部署",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E5%AE%9E%E6%88%98%E9%83%A8%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.31%，暂报2691.30点，上周五结束交易以来（7*24）累计下跌3.53%，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨1.61%，报2917.71点，期内累跌4.91%，5月24-27日持稳于3050点附近（高位窄幅震荡）。 MarketVector数字资产100指数涨0.92%，报14608.72点，期内累跌3.75%。 最近连续七天迄今，Solana累跌2.58%，狗狗币累跌3.56%，XRP累跌1.15%。 比特币目前涨0.57%，暂报73890.88美元，最近七天累跌2.64%；以太坊涨1.33%，暂报2038.128美元，最近七天累跌1.74%。",
+          "url": "https://wallstreetcn.com/livenews/3111567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "王力宏调侃机器人唱歌不行",
+          "url": "https://www.toutiao.com/trending/7645266718278090795/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 3,
       "titles": [
@@ -374,11 +473,12 @@
           "ranks": [
             7,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 08时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 12时47分]"
         },
         {
           "title": "【焦点复盘】科创50指数放量跌超5%，半导体产业链遭深幅回调，地产产业链逆势大涨",
@@ -398,6 +498,45 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "油价回落为何金价没有大涨？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260530113517975800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，COMEX白银投机者净多头头寸减少1,517手，降至10,244手。",
+          "url": "https://flash.jin10.com/detail/20260530033948215800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 08时05分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：5月26日当周，投机者所持COMEX黄金净多头头寸增加2,543手合约，至96,931手合约。 所持COMEX白银净多头头寸减少至10,244手合约，创五周新低。 所持COMEX铜净多头头寸减少至71,974手合约，创三周新低。 所持NYMEX铂金净多头头寸降低至12,934手合约，创三周新低。 所持NYMEX钯金净空头头寸增加至3,773手合约，创八个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3111609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -436,34 +575,6 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，COMEX白银投机者净多头头寸减少1,517手，降至10,244手。",
-          "url": "https://flash.jin10.com/detail/20260530033948215800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时13分 ~ 08时05分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：5月26日当周，投机者所持COMEX黄金净多头头寸增加2,543手合约，至96,931手合约。 所持COMEX白银净多头头寸减少至10,244手合约，创五周新低。 所持COMEX铜净多头头寸减少至71,974手合约，创三周新低。 所持NYMEX铂金净多头头寸降低至12,934手合约，创三周新低。 所持NYMEX钯金净空头头寸增加至3,773手合约，创八个月新高。",
-          "url": "https://wallstreetcn.com/livenews/3111609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 2,
       "titles": [
@@ -472,50 +583,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33266072",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 12时47分]"
         },
         {
           "title": "马上测丨又拆又改“造名牌”，抖音商家将山寨“MIMI”变身“MIUMIU”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33263879",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国年轻人街头暴揍机器人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354688&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E6%9A%B4%E6%8F%8D%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 08时05分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.31%，暂报2691.30点，上周五结束交易以来（7*24）累计下跌3.53%，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨1.61%，报2917.71点，期内累跌4.91%，5月24-27日持稳于3050点附近（高位窄幅震荡）。 MarketVector数字资产100指数涨0.92%，报14608.72点，期内累跌3.75%。 最近连续七天迄今，Solana累跌2.58%，狗狗币累跌3.56%，XRP累跌1.15%。 比特币目前涨0.57%，暂报73890.88美元，最近七天累跌2.64%；以太坊涨1.33%，暂报2038.128美元，最近七天累跌1.74%。",
-          "url": "https://wallstreetcn.com/livenews/3111567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 12时47分]"
         }
       ]
     },
@@ -530,9 +615,26 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉满血版FSD体验",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%BB%A1%E8%A1%80%E7%89%88FSD%E4%BD%93%E9%AA%8C&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     }
