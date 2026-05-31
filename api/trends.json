@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T11:52:55.014959+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-05-31T15:42:10.577560+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "被问演讲是否会提及台湾问题？日本防卫大臣抿嘴一言不发",
@@ -62,11 +62,45 @@
           "url": "https://news.ifeng.com/c/8tYUpcu9Xt1",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 15时42分]"
+        },
+        {
+          "title": "日防相避答中国代表质问日本何时道歉",
+          "url": "https://www.toutiao.com/trending/7645476236138971177/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
+          "title": "解放军代表质问日防卫大臣：日本何时向亚洲受害国道歉？",
+          "url": "https://news.ifeng.com/c/8tZYPi59mXv",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
+          "title": "日本何时向亚洲受害国道歉？日防卫大臣小泉避答中国代表提问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33275645",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
         },
         {
           "title": "日本鹿儿岛发生3.9级地震",
@@ -75,9 +109,32 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "日本海上自卫队取消美战机在日军舰训练计划",
+          "url": "https://flash.jin10.com/detail/20260531143929912800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "专访石田隆至：幸存战犯临终前警示“现在的日本越来越危险”倾向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33272335",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 15时42分]"
         },
         {
           "title": "日本防卫大臣小泉进次郎：必须与美国、欧洲及志同道合的盟友保持合作。",
@@ -86,7 +143,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -127,26 +184,48 @@
           "time_info": "[07时58分 ~ 11时52分]"
         },
         {
+          "title": "解放军代表质问：日本何时道歉",
+          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E4%BB%A3%E8%A1%A8%E8%B4%A8%E9%97%AE%EF%BC%9A%E6%97%A5%E6%9C%AC%E4%BD%95%E6%97%B6%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
+          "title": "日防卫大臣大肆“推销”日本护卫舰",
+          "url": "https://www.toutiao.com/trending/7644976962549399615/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
           "title": "日本防卫大臣小泉进次郎：日本始终欢迎对话。日本决心在区域防务装备合作中发挥新作用。",
           "url": "https://flash.jin10.com/detail/20260531094747976800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
         {
-          "title": "专访石田隆至：幸存战犯临终前警示“现在的日本越来越危险”倾向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33272335",
-          "source": "澎湃新闻",
+          "title": "据韩联社：韩国与日本在国防会谈中讨论双边军事后勤支持协议。",
+          "url": "https://flash.jin10.com/detail/20260531133134591800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时52分"
+          "time_info": "15时42分"
         },
         {
           "title": "日本一天三连偷",
@@ -163,7 +242,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
@@ -189,8 +268,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 11时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 15时42分]"
         },
         {
           "title": "科技股究竟因何调整？四大原因讨论最多",
@@ -219,6 +298,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时57分 ~ 05时56分]"
+        },
+        {
+          "title": "环球下周看点：英伟达芯片帝国扩张 博通、慧与科技发布财报",
+          "url": "https://www.cls.cn/detail/2386233",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
         }
       ]
     },
@@ -236,8 +326,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 11时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 15时42分]"
         },
         {
           "title": "美国年轻人街头暴揍机器人",
@@ -245,11 +335,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 11时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 15时42分]"
         },
         {
           "title": "美国人形机器人被曝已投入俄乌战场 军事专家：基本不能打仗",
@@ -280,8 +371,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 11时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 15时42分]"
         },
         {
           "title": "10名中国车主诉特斯拉FSD欺诈索395万",
