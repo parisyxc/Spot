@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T06:56:49.823093+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-06-01T08:03:29.996193+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "中方专家严正发问，日本官员闪烁其词",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "解放军代表质问：日本何时道歉",
@@ -36,11 +36,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "专访石田隆至：幸存战犯临终前警示“现在的日本越来越危险”倾向",
@@ -48,11 +49,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "日本要搞两个首都？",
@@ -62,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "日本拥抱印度",
@@ -74,8 +76,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时57分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 08时03分]"
         },
         {
           "title": "美联储理事沃勒：稳定币将扩大美国货币政策的影响范围",
@@ -126,8 +128,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "科技股为何下跌",
@@ -158,7 +160,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         }
@@ -178,8 +180,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "MCU巨头意法半导体年内二次涨价",
@@ -219,8 +221,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "美国年轻人街头暴揍机器人",
@@ -230,8 +232,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "美媒：美公司在乌克兰测试人形机器人，计划将技术引入美军",
@@ -260,8 +262,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "SpaceX购入特斯拉Cybertruck总销量的8% 且未获任何折扣",
@@ -274,6 +276,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 05时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年06月01日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260601065522330800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "现货白银回落至74美元/盎司下方，日内跌2.08%。",
+          "url": "https://flash.jin10.com/detail/20260601060106646800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 08时03分]"
         }
       ]
     },
@@ -292,23 +323,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 06时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货白银回落至74美元/盎司下方，日内跌2.08%。",
-          "url": "https://flash.jin10.com/detail/20260601060106646800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
         }
       ]
     }
