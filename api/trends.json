@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-03T01:16:52.544916+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-03T04:40:37.433986+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "半导体ETF收涨4%，领跑美股行业ETF，标普电信板块跌2.6%",
+          "url": "https://wallstreetcn.com/livenews/3113269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
         {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
           "url": "https://www.cls.cn/detail/2388757",
@@ -15,8 +26,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时40分]"
+        },
+        {
+          "title": "派拓网络第三财季调整后每股收益（EPS）为0.85美元，分析师预期0.79美元。 预计全年营收114.2亿-114.3亿美元，公司原本预计112.8亿-113.1亿美元。 派拓网络（PANW）美股盘后涨12%。",
+          "url": "https://wallstreetcn.com/livenews/3113267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "04时40分"
         },
         {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
@@ -26,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时40分]"
         },
         {
           "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股盘中）",
@@ -52,6 +74,28 @@
           "time_info": "01时16分"
         },
         {
+          "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260603040522463800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "金十图示：2026年06月02日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260603040522026800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
           "title": "金十图示：2026年06月02日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260603004322353800",
           "source": "金十数据",
@@ -61,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 迈威尔科技大涨超30%",
+          "url": "https://flash.jin10.com/detail/20260603040117832800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         }
       ]
     },
@@ -73,11 +128,12 @@
           "url": "https://news.ifeng.com/c/8tdK5tTYK0B",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时40分]"
         },
         {
           "title": "日本试射两枚导弹：一发命中，一发打飞了",
@@ -87,8 +143,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时40分]"
         },
         {
           "title": "日本夫妇拍军服结婚照被痛骂",
@@ -98,19 +154,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时40分]"
         },
         {
           "title": "警惕！日本新版“特高课”上线",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%EF%BC%81%E6%97%A5%E6%9C%AC%E6%96%B0%E7%89%88%E2%80%9C%E7%89%B9%E9%AB%98%E8%AF%BE%E2%80%9D%E4%B8%8A%E7%BA%BF",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时40分]"
         },
         {
           "title": "日本人造谣上海卖狗肉汉堡",
@@ -120,14 +177,14 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时40分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -137,8 +194,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时40分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.1%，公用事业板、原材料、能源、工业板块至少涨约1%，电信板块跌2.6%。 纳斯达克100指数初步收涨0.5%，成分股中，黄仁勋一句话让迈威尔科技/美满科技初步收涨32.2%，Lumentum涨13.9%，应用材料涨7.1%，思科、高通涨超3.4%，谷歌A跌3.8%，Autodesk跌4.3%，Palantir跌5.4%，Workday跌6%，Zscaler跌7.6%，汤森路透跌7.9%，财捷跌8.9%，Strategy跌9.2%。 卡特彼勒涨超5%，IBM涨超3%，苹果涨约2.8%，与思科领跑道指成分股，波音、微软、Salesforce、耐克至少跌超3%表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3113264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "04时40分"
         },
         {
           "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
@@ -150,40 +218,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "路透社曝光多名特斯拉前员工称不信赖 FSD ，更有人说「给我钱我也不坐」，这暴露了其背后存在哪些隐患？",
-          "url": "https://www.zhihu.com/question/2044816484182877447",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
         },
         {
-          "title": "明晟公司MSCI北欧国家指数涨1%，报394.32点。 在十个板块中，北欧工业板块涨幅最大。 软件供应商Octave Intelligence Plc.涨8.2%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3113187",
-          "source": "华尔街见闻-快讯",
+          "title": "据The Information：在员工就隐私、电池续航以及对屏幕数据的控制权提出担忧后，Meta Platforms(META.O)正在缩减其一款员工追踪工具的部分功能。该工具旨在通过监测员工使用电脑的方式，来训练人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260603040305500800",
+          "source": "金十数据",
           "ranks": [
-            28
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "04时40分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "数字货币市场走低，比特币跌5.6%一度失守6.7万美元",
@@ -202,6 +253,74 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "逾10亿美元加密货币遭强制平仓，比特币跌至两个月最低",
+          "url": "https://wallstreetcn.com/livenews/3113239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周二（6月2日），彭博电动汽车价格回报指数涨1.99%，报4082.15点。 北京时间09:53跌至3961.41点刷新日低，随后持续走高。 成分股中，意法半导体巴黎股价收涨15.14%，禾赛科技涨9.2%，微宏控股涨8.9%，蔚来集团H股收涨8.34%、中创新航科技集团H股涨6.25%、小鹏集团H股涨6.19%、理想汽车H股涨5.72%表现第八，智利化工矿业公司（SQM）则跌3.6%，Ecopro BM Co. Ltd.跌4.35%，Lucid集团跌5.6%，三星SDI有限公司收跌7.67%。",
+          "url": "https://wallstreetcn.com/livenews/3113266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨1.8%。 热门中概股里，腾讯初步收涨9.3%，美团涨6.4%，理想涨6.1%，阿里涨4.3%，比亚迪涨4.2%，百度涨3.4%，日月光半导体涨2.7%，网易涨1.3%，拼多多涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3113262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "路透社曝光多名特斯拉前员工称不信赖 FSD ，更有人说「给我钱我也不坐」，这暴露了其背后存在哪些隐患？",
+          "url": "https://www.zhihu.com/question/2044816484182877447",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时40分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨1%，报394.32点。 在十个板块中，北欧工业板块涨幅最大。 软件供应商Octave Intelligence Plc.涨8.2%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3113187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
