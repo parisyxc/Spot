@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-07T12:21:46.408208+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-06-07T16:21:28.426124+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
           "url": "https://www.cls.cn/detail/2392497",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时21分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 16时21分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -24,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时21分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 16时21分]"
         },
         {
           "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
@@ -40,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时21分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 16时21分]"
         },
         {
           "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
@@ -50,11 +52,12 @@
           "ranks": [
             8,
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时59分 ~ 12时21分]"
+          "appearance_count": 6,
+          "time_info": "[04时59分 ~ 16时21分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -105,6 +108,17 @@
           "time_info": "[06时04分 ~ 08时01分]"
         },
         {
+          "title": "业内：不要“无视”周五美股的大跌",
+          "url": "https://www.toutiao.com/trending/7648521565105032746/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "如何应对美股泡沫爆破",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
           "source": "bilibili 热搜",
@@ -114,12 +128,212 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时04分]"
+        },
+        {
+          "title": "李大霄：美股是没有信仰的",
+          "url": "https://www.toutiao.com/trending/7648033458622595114/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "日本宅男去世,满屋收藏变垃圾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354911&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%AE%85%E7%94%B7%E5%8E%BB%E4%B8%96%2C%E6%BB%A1%E5%B1%8B%E6%94%B6%E8%97%8F%E5%8F%98%E5%9E%83%E5%9C%BE",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 16时21分]"
+        },
+        {
+          "title": "中国断供稀土对日本打击到底有多大",
+          "url": "https://www.toutiao.com/trending/7647393291075452974/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            21,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 08时01分]"
+        },
+        {
+          "title": "野人先生忽然在日本引起了讨论",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%8E%E4%BA%BA%E5%85%88%E7%94%9F%E5%BF%BD%E7%84%B6%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%BC%95%E8%B5%B7%E4%BA%86%E8%AE%A8%E8%AE%BA&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 12时21分]"
+        },
+        {
+          "title": "日本两大航司拟再上调国际航线燃油附加费",
+          "url": "https://wallstreetcn.com/livenews/3115523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "日本剑道和欧洲迅捷剑，哪个厉害？",
+          "url": "https://www.zhihu.com/question/662714369",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "外媒：日本正将自己推向亚洲对立面",
+          "url": "https://www.toutiao.com/trending/7648436946575294507/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "香蕉可能会从日本人的餐桌上消失",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E8%95%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E4%BB%8E%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%9A%84%E9%A4%90%E6%A1%8C%E4%B8%8A%E6%B6%88%E5%A4%B1",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "日本城市树木覆盖率下降，与全球趋势背道而驰",
+          "url": "https://flash.jin10.com/detail/20260607142037596800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "日本两大航司拟再上调国际航线燃油附加费",
+          "url": "https://flash.jin10.com/detail/20260607135755267800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 12时21分]"
+        },
+        {
+          "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
+          "url": "https://flash.jin10.com/detail/20260607120910109800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3115505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时04分 ~ 16时21分]"
+        },
+        {
+          "title": "据英国金融时报：OpenAI正在准备对ChatGPT进行其推出以来规模最大的一次改版。该公司计划将ChatGPT转型为结合编码工具和人工智能体的“超级应用”，并添加高管们认为能够创造更多收入的产品。",
+          "url": "https://flash.jin10.com/detail/20260607120518642800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
+          "url": "https://wallstreetcn.com/livenews/3115520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "深夜巨震！黄金跌穿4330美元、纳指重挫3%、比特币失守6万美元关口",
@@ -127,11 +341,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时21分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 16时21分]"
         },
         {
           "title": "数字货币市场继续走低，比特币已跌穿百日均线和200周均线、正测试50月均线",
@@ -172,131 +387,32 @@
           "time_info": "[01时06分 ~ 08时01分]"
         },
         {
+          "title": "优必选：优世界超仿生人形机器人首发预订单量累计超2110台",
+          "url": "https://flash.jin10.com/detail/20260607151532120800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "交警机器人与考生碰拳送祝福",
           "url": "https://www.toutiao.com/trending/7647783223574118427/",
           "source": "今日头条",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时21分]"
-        },
-        {
-          "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
-          "url": "https://flash.jin10.com/detail/20260607120910109800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3115505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时04分 ~ 12时21分]"
-        },
-        {
-          "title": "据英国金融时报：OpenAI正在准备对ChatGPT进行其推出以来规模最大的一次改版。该公司计划将ChatGPT转型为结合编码工具和人工智能体的“超级应用”，并添加高管们认为能够创造更多收入的产品。",
-          "url": "https://flash.jin10.com/detail/20260607120518642800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中国断供稀土对日本打击到底有多大",
-          "url": "https://www.toutiao.com/trending/7647393291075452974/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9,
-            21,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 08时01分]"
-        },
-        {
-          "title": "野人先生忽然在日本引起了讨论",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%8E%E4%BA%BA%E5%85%88%E7%94%9F%E5%BF%BD%E7%84%B6%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%BC%95%E8%B5%B7%E4%BA%86%E8%AE%A8%E8%AE%BA&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时21分]"
-        },
-        {
-          "title": "日本宅男去世,满屋收藏变垃圾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354911&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%AE%85%E7%94%B7%E5%8E%BB%E4%B8%96%2C%E6%BB%A1%E5%B1%8B%E6%94%B6%E8%97%8F%E5%8F%98%E5%9E%83%E5%9C%BE",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时21分]"
-        },
-        {
-          "title": "日本剑道和欧洲迅捷剑，哪个厉害？",
-          "url": "https://www.zhihu.com/question/662714369",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
         }
       ]
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "全抖音为2026高考加油",
@@ -305,11 +421,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时21分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 16时21分]"
         },
         {
           "title": "统战部官方账号入驻抖音",
@@ -337,6 +454,56 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 12时21分]"
+        },
+        {
+          "title": "抖音直播群星绽放季",
+          "url": "https://www.douyin.com/hot/2526127",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "抖音学霸解读高考作文",
+          "url": "https://www.douyin.com/hot/2526078",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特斯拉和印度的建厂谈判正式告吹，原因分析",
+          "url": "https://news.ifeng.com/c/8tkrzR3CiFe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "特斯拉和印度的建厂谈判正式破裂，原因曝光",
+          "url": "https://news.ifeng.com/c/8tkrzR3CiFe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     },
@@ -395,11 +562,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时00分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[08时00分 ~ 16时21分]"
         }
       ]
     },
@@ -414,28 +582,12 @@
           "ranks": [
             10,
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时59分 ~ 12时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉和印度的建厂谈判正式告吹，原因分析",
-          "url": "https://news.ifeng.com/c/8tkrzR3CiFe",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "appearance_count": 6,
+          "time_info": "[04时59分 ~ 16时21分]"
         }
       ]
     }
