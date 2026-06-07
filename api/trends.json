@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T16:21:28.426124+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-06-07T19:06:03.056280+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 19时06分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -29,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 19时06分]"
         },
         {
           "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
@@ -42,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 19时06分]"
         },
         {
           "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
@@ -56,8 +57,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时59分 ~ 16时21分]"
+          "appearance_count": 8,
+          "time_info": "[04时59分 ~ 19时06分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -114,7 +115,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -136,7 +137,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         }
@@ -192,11 +193,12 @@
           "url": "https://wallstreetcn.com/livenews/3115523",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时06分]"
         },
         {
           "title": "日本剑道和欧洲迅捷剑，哪个厉害？",
@@ -216,7 +218,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -227,7 +229,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -238,7 +240,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -249,7 +251,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         }
@@ -259,6 +261,18 @@
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 19时06分]"
+        },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
           "url": "https://www.cls.cn/detail/2392488",
@@ -273,6 +287,20 @@
           "time_info": "[01时06分 ~ 12时21分]"
         },
         {
+          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3115505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时04分 ~ 19时06分]"
+        },
+        {
           "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
           "url": "https://flash.jin10.com/detail/20260607120910109800",
           "source": "金十数据",
@@ -282,19 +310,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
-        },
-        {
-          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3115505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时04分 ~ 16时21分]"
         },
         {
           "title": "据英国金融时报：OpenAI正在准备对ChatGPT进行其推出以来规模最大的一次改版。该公司计划将ChatGPT转型为结合编码工具和人工智能体的“超级应用”，并添加高管们认为能够创造更多收入的产品。",
@@ -308,26 +323,16 @@
           "time_info": "12时21分"
         },
         {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
           "url": "https://wallstreetcn.com/livenews/3115520",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时06分]"
         }
       ]
     },
@@ -342,11 +347,12 @@
           "ranks": [
             11,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 19时06分]"
         },
         {
           "title": "数字货币市场继续走低，比特币已跌穿百日均线和200周均线、正测试50月均线",
@@ -393,7 +399,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -422,11 +428,12 @@
             4,
             5,
             6,
-            16
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 19时06分]"
         },
         {
           "title": "统战部官方账号入驻抖音",
@@ -460,22 +467,55 @@
           "url": "https://www.douyin.com/hot/2526127",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 19时06分]"
         },
         {
           "title": "抖音学霸解读高考作文",
           "url": "https://www.douyin.com/hot/2526078",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 19时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
+          "url": "https://wallstreetcn.com/articles/3774016",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时59分 ~ 16时21分]"
+        },
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 19时06分]"
         }
       ]
     },
@@ -483,6 +523,17 @@
       "keyword_group": "特斯拉 INTEL",
       "match_count": 2,
       "titles": [
+        {
+          "title": "特斯拉和印度的建厂谈判正式破裂，原因曝光",
+          "url": "https://news.ifeng.com/c/8tkrzR3CiFe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 19时06分]"
+        },
         {
           "title": "特斯拉和印度的建厂谈判正式告吹，原因分析",
           "url": "https://news.ifeng.com/c/8tkrzR3CiFe",
@@ -493,17 +544,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
-        },
-        {
-          "title": "特斯拉和印度的建厂谈判正式破裂，原因曝光",
-          "url": "https://news.ifeng.com/c/8tkrzR3CiFe",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         }
       ]
     },
@@ -566,28 +606,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时00分 ~ 16时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
-          "url": "https://wallstreetcn.com/articles/3774016",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[04时59分 ~ 16时21分]"
+          "time_info": "[08时00分 ~ 19时06分]"
         }
       ]
     }
