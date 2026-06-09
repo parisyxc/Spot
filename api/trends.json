@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T13:02:32.036853+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-06-09T16:35:55.759557+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "全球科技股急跌，黄仁勋喊话：能折价买股票 你应该感到高兴",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时22分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[06时22分 ~ 16时35分]"
         },
         {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
@@ -82,22 +82,36 @@
           "url": "https://wallstreetcn.com/articles/3774155",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时35分]"
         },
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
           "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时35分]"
+        },
+        {
+          "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
+          "url": "https://www.cls.cn/detail/2394381",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时35分]"
         },
         {
           "title": "美股",
@@ -111,17 +125,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时48分 ~ 08时02分]"
-        },
-        {
-          "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
-          "url": "https://www.cls.cn/detail/2394381",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "美股三大指数涨跌不一 芯片股反弹",
@@ -155,6 +158,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "美股盘前，科技股延续此前涨势，美光科技涨超4%，迈威尔科技涨超3%，苹果微跌0.23%，苹果WWDC 2026发布Siri AI但不及市场预期。Applied Digital涨超10%，公司在Delta Forge 2签署新的数据中心租赁协议。Nuvalent上涨近40%，葛兰素史克将以106亿美元收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3116650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "Applied Digital美股盘前涨超10%，此前该公司与美国超大规模云服务商签署了价值52亿美元的人工智能数据中心租赁协议。",
+          "url": "https://flash.jin10.com/detail/20260609160404117800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "高通(QCOM.O)美股盘后上涨近8%。",
@@ -215,7 +240,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本陆上自卫队举行最大规模实弹演习",
@@ -227,6 +252,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时48分 ~ 08时02分]"
+        },
+        {
+          "title": "日本多次跟监辽宁舰航母编队，国防部回应",
+          "url": "https://news.ifeng.com/c/8tojX3VRqfM",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "日本5月广义货币流动性年率 4.7%，前值2.8%。",
@@ -330,6 +366,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "日本首都近百所中小学紧急停课",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E9%83%BD%E8%BF%91%E7%99%BE%E6%89%80%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%B4%A7%E6%80%A5%E5%81%9C%E8%AF%BE",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "据日经新闻：日本电信电话集团（NTT）将向美国和韩国投资者募集资金，设立规模为5亿美元的光网络基金。预计约有20家企业将参与NTT的该项基金，其中包括三星电子。",
           "url": "https://flash.jin10.com/detail/20260609004519849800",
           "source": "金十数据",
@@ -343,6 +390,135 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
+          "url": "https://wallstreetcn.com/livenews/3116359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "OpenAI自曝已秘密提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609052258365800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3116363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 08时02分]"
+        },
+        {
+          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2394236",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时35分]"
+        },
+        {
+          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时07分 ~ 06时22分]"
+        },
+        {
+          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
+          "url": "https://flash.jin10.com/detail/20260609051732279800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "OpenAI：尚未决定首次公开募股的时间。",
+          "url": "https://flash.jin10.com/detail/20260609051515095800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "OpenAI已提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609051454671800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
+          "url": "https://flash.jin10.com/detail/20260609051127110800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美大学生因ChatGPT与母亲争吵后死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0ChatGPT%E4%B8%8E%E6%AF%8D%E4%BA%B2%E4%BA%89%E5%90%B5%E5%90%8E%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 10,
       "titles": [
@@ -351,11 +527,12 @@
           "url": "https://wallstreetcn.com/articles/3774134",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时35分]"
         },
         {
           "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
@@ -461,123 +638,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
-          "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
-          "url": "https://wallstreetcn.com/livenews/3116359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "OpenAI自曝已秘密提交IPO申请",
-          "url": "https://flash.jin10.com/detail/20260609052258365800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3116363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 08时02分]"
-        },
-        {
-          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时07分 ~ 06时22分]"
-        },
-        {
-          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2394236",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
-          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
-          "url": "https://flash.jin10.com/detail/20260609051732279800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "OpenAI：尚未决定首次公开募股的时间。",
-          "url": "https://flash.jin10.com/detail/20260609051515095800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "OpenAI已提交IPO申请",
-          "url": "https://flash.jin10.com/detail/20260609051454671800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
-          "url": "https://flash.jin10.com/detail/20260609051127110800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片产业",
       "match_count": 8,
       "titles": [
@@ -621,11 +681,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33333624",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时35分]"
         },
         {
           "title": "周一（6月8日），彭博电动汽车价格回报指数跌2.02%，报3706.35点。 全天处于下跌状态，亚太时段持续走低，北京时间09:31以来持续交投于3700点附近、15:00刷新日低至3672.92点。 成分股阿内卡矿业股份收跌8%，淡水河谷印尼公司跌7.22%，日本电产株式会社跌6.06%，Panasonic株式会社跌4.79%，小鹏集团H股跌4.62%，浙江零跑科技跌4.22%跌幅第六大，意法半导体法国巴黎股价则收涨4.01%，特斯拉涨4.59%，安霸股份涨8.19%。",
@@ -667,78 +728,15 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
-          "title": "Apple Intelligence 的缺席为什么没有影响到 iPhone 在中国大陆的销量？",
-          "url": "https://www.zhihu.com/question/2047276644910552070",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时07分 ~ 08时02分]"
-        },
-        {
-          "title": "苹果公司库克：WWDC开发者大会将侧重于苹果智能（Apple Intelligence）与Siri。",
-          "url": "https://wallstreetcn.com/livenews/3116285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股价最新上涨4.13%。",
-          "url": "https://flash.jin10.com/detail/20260609010812804800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 Siri AI将首先支持英语，将迅速拓展至其他语种。 将Visual Intelligence（视觉智能）拓展至Mac。",
-          "url": "https://wallstreetcn.com/livenews/3116305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价下跌后郑州金店被挤爆",
@@ -788,13 +786,24 @@
           "time_info": "[06时22分 ~ 08时02分]"
         },
         {
+          "title": "消费者盼金价降至500元每克",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E7%9B%BC%E9%87%91%E4%BB%B7%E9%99%8D%E8%87%B3500%E5%85%83%E6%AF%8F%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "金十图示：2026年06月09日（周二）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260609121506330800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
@@ -802,7 +811,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "微信灰测朋友圈搜索功能",
@@ -832,6 +841,17 @@
           "time_info": "[01时48分 ~ 08时02分]"
         },
         {
+          "title": "高考后的第一条抖音",
+          "url": "https://www.douyin.com/hot/2528465",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "微信AI生态开启内测",
           "url": "https://search.bilibili.com/all?keyword=%E5%BE%AE%E4%BF%A1AI%E7%94%9F%E6%80%81%E5%BC%80%E5%90%AF%E5%86%85%E6%B5%8B",
           "source": "bilibili 热搜",
@@ -842,12 +862,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "美的首批接入微信AI生态，推进家电智能化控制",
+          "url": "https://wallstreetcn.com/livenews/3116639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "哈兰德女孩的话事人来抖音了",
+          "url": "https://www.douyin.com/hot/2528345",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "连获2个30cm涨停！机器人热股逼近新高，大号连板股年内盘点，这些板块占比领先",
@@ -866,11 +908,45 @@
           "url": "https://www.cls.cn/detail/2394324",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时35分]"
+        },
+        {
+          "title": "人形机器人进厂 效率只有人工3成",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82+%E6%95%88%E7%8E%87%E5%8F%AA%E6%9C%89%E4%BA%BA%E5%B7%A53%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "两部门：人形机器人等完成应用验证",
+          "url": "https://www.douyin.com/hot/2528137",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "国产机器人为何扎堆上市",
+          "url": "https://www.douyin.com/hot/2528118",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "IDC：第一季度全球家用清洁机器人市场出货893.6万台，同比增长36.7%",
@@ -879,9 +955,72 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时35分]"
+        },
+        {
+          "title": "Apple Intelligence 的缺席为什么没有影响到 iPhone 在中国大陆的销量？",
+          "url": "https://www.zhihu.com/question/2047276644910552070",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时07分 ~ 08时02分]"
+        },
+        {
+          "title": "苹果公司库克：WWDC开发者大会将侧重于苹果智能（Apple Intelligence）与Siri。",
+          "url": "https://wallstreetcn.com/livenews/3116285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股价最新上涨4.13%。",
+          "url": "https://flash.jin10.com/detail/20260609010812804800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 Siri AI将首先支持英语，将迅速拓展至其他语种。 将Visual Intelligence（视觉智能）拓展至Mac。",
+          "url": "https://wallstreetcn.com/livenews/3116305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         }
       ]
     }
