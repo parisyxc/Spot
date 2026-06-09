@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T19:57:15.210795+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-06-09T22:40:31.079222+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时22分 ~ 19时57分]"
+          "appearance_count": 9,
+          "time_info": "[06时22分 ~ 22时40分]"
         },
         {
           "title": "全球科技股急跌，黄仁勋喊话：能折价买股票 你应该感到高兴",
@@ -25,19 +25,6 @@
           "source": "财联社热门",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 08时02分]"
-        },
-        {
-          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2393996",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            12
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -52,8 +39,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 19时57分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 22时40分]"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 22时40分]"
+        },
+        {
+          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2393996",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时48分 ~ 08时02分]"
         },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -79,18 +91,6 @@
           "time_info": "[08时01分 ~ 13时02分]"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 19时57分]"
-        },
-        {
           "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
           "url": "https://www.cls.cn/detail/2394207",
           "source": "财联社热门",
@@ -107,11 +107,12 @@
           "url": "https://www.cls.cn/detail/2394851",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 19时57分]"
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时40分]"
         },
         {
           "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
@@ -137,6 +138,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时48分 ~ 08时02分]"
+        },
+        {
+          "title": "中东局势缓和，美股高开，科技股反弹，美光科技涨超4%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "美股三大指数涨跌不一 芯片股反弹",
@@ -200,7 +212,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -238,6 +250,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "美股涨幅扩大，纳指涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3116875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "金十图示：2026年06月08日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260609003906930800",
           "source": "金十数据",
@@ -247,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "美股三大指数集体高开，美光科技涨超4%",
+          "url": "https://wallstreetcn.com/livenews/3116867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "据知情人士透露，SpaceX的纳斯达克IPO超额认购情况显著，计划周三美股收盘之后结束认购。（彭博）",
@@ -263,7 +297,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "日本陆上自卫队举行最大规模实弹演习",
@@ -281,22 +315,35 @@
           "url": "https://news.ifeng.com/c/8tojX3VRqfM",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 19时57分]"
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 22时40分]"
         },
         {
           "title": "外媒称美方请中国恢复对日本的稀土出口",
           "url": "https://news.ifeng.com/c/8tokPxm8mua",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 19时57分]"
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时40分]"
+        },
+        {
+          "title": "中国海事巡航期间发现疑似日本飞机",
+          "url": "https://v.ifeng.com/c/8tos3hBXZUo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "日本5月广义货币流动性年率 4.7%，前值2.8%。",
@@ -349,7 +396,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -434,6 +481,28 @@
           "time_info": "04时08分"
         },
         {
+          "title": "中国为什么要对日本断供钨",
+          "url": "https://www.toutiao.com/trending/7649080538980007955/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "中国海事巡航期间发现疑似日本飞机",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BA%8B%E5%B7%A1%E8%88%AA%E6%9C%9F%E9%97%B4%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "据日经新闻：日本电信电话集团（NTT）将向美国和韩国投资者募集资金，设立规模为5亿美元的光网络基金。预计约有20家企业将参与NTT的该项基金，其中包括三星电子。",
           "url": "https://flash.jin10.com/detail/20260609004519849800",
           "source": "金十数据",
@@ -443,12 +512,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "日本死磕30年的“鳗鱼自救”失败了吗",
+          "url": "https://www.toutiao.com/trending/7649320116865257001/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
@@ -572,12 +652,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "Perplexity CEO：无论Anthropic或OpenAI上市进展如何，公司均计划2028年IPO",
+          "url": "https://wallstreetcn.com/livenews/3116874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【焦点复盘】科创50指数重挫4.3%，半导体产业链持续退潮，煤炭、银行等红利股获逆势抱团",
@@ -600,6 +691,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时48分 ~ 04时08分]"
+        },
+        {
+          "title": "纳指转跌，标普维持超过0.2%的涨幅，半导体指数跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3116900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "6 月 8 日韩国股市开盘跌超 8% 后熔断，日经 225 盘中跌幅近 5%，A 股低开震荡，半导体泡沫会破吗？",
@@ -633,7 +735,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -644,7 +746,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -815,7 +917,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价下跌后郑州金店被挤爆",
@@ -835,7 +937,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -876,6 +978,17 @@
           "time_info": "[06时22分 ~ 08时02分]"
         },
         {
+          "title": "金价到“底”了吗",
+          "url": "https://www.toutiao.com/trending/7649334259634671140/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "消费者盼金价降至500元每克",
           "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E7%9B%BC%E9%87%91%E4%BB%B7%E9%99%8D%E8%87%B3500%E5%85%83%E6%AF%8F%E5%85%8B",
           "source": "百度热搜",
@@ -885,6 +998,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "金价跌成这样你还敢买吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E6%88%90%E8%BF%99%E6%A0%B7%E4%BD%A0%E8%BF%98%E6%95%A2%E4%B9%B0%E5%90%97%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "金十图示：2026年06月09日（周二）白银ETF持仓报告",
@@ -928,6 +1052,18 @@
           "time_info": "[13时01分 ~ 16时35分]"
         },
         {
+          "title": "人形机器人价格大跳水，最低不到一万可入手，为何价格快速下跌？机器人全民普及的时代要到来了吗？",
+          "url": "https://www.zhihu.com/question/2047236682659755773",
+          "source": "知乎",
+          "ranks": [
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时40分]"
+        },
+        {
           "title": "人形机器人进厂 效率只有人工3成",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82+%E6%95%88%E7%8E%87%E5%8F%AA%E6%9C%89%E4%BA%BA%E5%B7%A53%E6%88%90",
           "source": "百度热搜",
@@ -937,17 +1073,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
-        },
-        {
-          "title": "人形机器人价格大跳水，最低不到一万可入手，为何价格快速下跌？机器人全民普及的时代要到来了吗？",
-          "url": "https://www.zhihu.com/question/2047236682659755773",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "两部门：人形机器人等完成应用验证",
@@ -985,87 +1110,8 @@
       ]
     },
     {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "微信灰测朋友圈搜索功能",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%81%B0%E6%B5%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            9,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 08时02分]"
-        },
-        {
-          "title": "琵琶行原唱发抖音祝福考生",
-          "url": "https://www.douyin.com/hot/2526117",
-          "source": "抖音",
-          "ranks": [
-            7,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时48分 ~ 08时02分]"
-        },
-        {
-          "title": "高考后的第一条抖音",
-          "url": "https://www.douyin.com/hot/2528465",
-          "source": "抖音",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 19时57分]"
-        },
-        {
-          "title": "微信AI生态开启内测",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BE%AE%E4%BF%A1AI%E7%94%9F%E6%80%81%E5%BC%80%E5%90%AF%E5%86%85%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
-          "title": "美的首批接入微信AI生态，推进家电智能化控制",
-          "url": "https://wallstreetcn.com/livenews/3116639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "哈兰德女孩的话事人来抖音了",
-          "url": "https://www.douyin.com/hot/2528345",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
@@ -1076,8 +1122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 19时57分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 22时40分]"
         },
         {
           "title": "Apple Intelligence 的缺席为什么没有影响到 iPhone 在中国大陆的销量？",
@@ -1115,6 +1161,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "Rivian押注R2电动汽车，力求将其打造为家喻户晓的品牌，比肩特斯拉",
+          "url": "https://wallstreetcn.com/livenews/3116877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 Siri AI将首先支持英语，将迅速拓展至其他语种。 将Visual Intelligence（视觉智能）拓展至Mac。",
           "url": "https://wallstreetcn.com/livenews/3116305",
           "source": "华尔街见闻-快讯",
@@ -1124,6 +1181,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "高考后的第一条抖音",
+          "url": "https://www.douyin.com/hot/2528465",
+          "source": "抖音",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 22时40分]"
+        },
+        {
+          "title": "微信灰测朋友圈搜索功能",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%81%B0%E6%B5%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            9,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时48分 ~ 08时02分]"
+        },
+        {
+          "title": "琵琶行原唱发抖音祝福考生",
+          "url": "https://www.douyin.com/hot/2526117",
+          "source": "抖音",
+          "ranks": [
+            7,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 08时02分]"
+        },
+        {
+          "title": "微信AI生态开启内测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BE%AE%E4%BF%A1AI%E7%94%9F%E6%80%81%E5%BC%80%E5%90%AF%E5%86%85%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "美的首批接入微信AI生态，推进家电智能化控制",
+          "url": "https://wallstreetcn.com/livenews/3116639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "哈兰德女孩的话事人来抖音了",
+          "url": "https://www.douyin.com/hot/2528345",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     }
