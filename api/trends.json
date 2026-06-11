@@ -1,11 +1,204 @@
 {
-  "generated_at": "2026-06-11T11:24:52.648361+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-06-11T16:40:52.895817+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "外媒警告日本或已成全球安全重大隐患",
+          "url": "https://www.toutiao.com/trending/7649758208076021823/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 07时22分]"
+        },
+        {
+          "title": "中方：日本这一动向十分危险",
+          "url": "https://news.ifeng.com/c/8tqTg0m0K1K",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 07时22分]"
+        },
+        {
+          "title": "美将不再通报停靠日本核军舰人员部署",
+          "url": "https://www.toutiao.com/trending/7649727304465285139/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 07时22分]"
+        },
+        {
+          "title": "中方：日本已经摘下面具",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%B7%B2%E7%BB%8F%E6%91%98%E4%B8%8B%E9%9D%A2%E5%85%B7",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "外交部：日本已经摘下所谓“和平国家”的面具",
+          "url": "https://news.ifeng.com/c/8ts49e5zrG7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "墨西哥记者：日本队来了位轮奸犯",
+          "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%AE%B0%E8%80%85%EF%BC%9A%E6%97%A5%E6%9C%AC%E9%98%9F%E6%9D%A5%E4%BA%86%E4%BD%8D%E8%BD%AE%E5%A5%B8%E7%8A%AF",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            21,
+            22,
+            27,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 11时24分]"
+        },
+        {
+          "title": "机构：日本央行行长缺席下周会议不会带来太多明显变化",
+          "url": "https://flash.jin10.com/detail/20260611110313507800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "香港财经事务及库务局局长许正宇：受监管的稳定币预计今年年中即可率先推出",
+          "url": "https://wallstreetcn.com/livenews/3117878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "玉渊谭天：该警惕日本的不只是中国",
+          "url": "https://www.toutiao.com/trending/7649520058196557860/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "墨西哥记者称日本队有位强奸犯",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%AE%B0%E8%80%85%E7%A7%B0%E6%97%A5%E6%9C%AC%E9%98%9F%E6%9C%89%E4%BD%8D%E5%BC%BA%E5%A5%B8%E7%8A%AF%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时31分 ~ 07时22分]"
+        },
+        {
+          "title": "日本准备出手：明知赢不过中国，成本高也要搞",
+          "url": "https://news.ifeng.com/c/8tryMxnRSwv",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数、日本东证指数均跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3117870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "香港财经事务及库务局局长许正宇：探索合规稳定币在数字金融领域的更多应用",
+          "url": "https://flash.jin10.com/detail/20260611105036433800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "中方：日本已经摘下“和平国家”面具",
+          "url": "https://www.toutiao.com/trending/7650036599166222342/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "日本通过公务员兼任预备自卫官特例法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33351734",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "该警惕日本的 不只是中国",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%A5%E8%AD%A6%E6%83%95%E6%97%A5%E6%9C%AC%E7%9A%84+%E4%B8%8D%E5%8F%AA%E6%98%AF%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
@@ -33,6 +226,17 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 16时40分]"
+        },
+        {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
           "url": "https://www.cls.cn/detail/2396570",
           "source": "财联社热门",
@@ -57,15 +261,28 @@
           "time_info": "[05时55分 ~ 07时22分]"
         },
         {
-          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
+          "title": "数据中心成本担忧加剧，甲骨文资本开支超预期，新财年计划融资翻倍至400亿美元，盘后大跌｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3774364",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 16时40分]"
+        },
+        {
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 16时40分]"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -91,26 +308,15 @@
           "time_info": "[07时22分 ~ 11时24分]"
         },
         {
-          "title": "数据中心成本担忧加剧，甲骨文资本开支超预期，新财年计划融资翻倍至400亿美元，盘后大跌｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3774364",
-          "source": "华尔街见闻",
+          "title": "美股存储芯片、光通信股盘前反弹，闪迪涨超4%，美光科技涨超3%，迈威尔科技、英特尔涨超2%。甲骨文美股盘前延续跌势，现跌超10%。公司资本开支超预期，新财年计划融资翻倍至400亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3118020",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
-          "url": "https://wallstreetcn.com/articles/3774357",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "16时40分"
         },
         {
           "title": "亚马逊扩张零担物流业务，引爆美股运输板块新一轮暴跌，传统货运巨头全线重挫",
@@ -159,157 +365,8 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "外媒警告日本或已成全球安全重大隐患",
-          "url": "https://www.toutiao.com/trending/7649758208076021823/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 07时22分]"
-        },
-        {
-          "title": "中方：日本这一动向十分危险",
-          "url": "https://news.ifeng.com/c/8tqTg0m0K1K",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 07时22分]"
-        },
-        {
-          "title": "美将不再通报停靠日本核军舰人员部署",
-          "url": "https://www.toutiao.com/trending/7649727304465285139/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 07时22分]"
-        },
-        {
-          "title": "墨西哥记者：日本队来了位轮奸犯",
-          "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%AE%B0%E8%80%85%EF%BC%9A%E6%97%A5%E6%9C%AC%E9%98%9F%E6%9D%A5%E4%BA%86%E4%BD%8D%E8%BD%AE%E5%A5%B8%E7%8A%AF",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            21,
-            22,
-            27,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 11时24分]"
-        },
-        {
-          "title": "机构：日本央行行长缺席下周会议不会带来太多明显变化",
-          "url": "https://flash.jin10.com/detail/20260611110313507800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "香港财经事务及库务局局长许正宇：受监管的稳定币预计今年年中即可率先推出",
-          "url": "https://wallstreetcn.com/livenews/3117878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "玉渊谭天：该警惕日本的不只是中国",
-          "url": "https://www.toutiao.com/trending/7649520058196557860/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "墨西哥记者称日本队有位强奸犯",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%AE%B0%E8%80%85%E7%A7%B0%E6%97%A5%E6%9C%AC%E9%98%9F%E6%9C%89%E4%BD%8D%E5%BC%BA%E5%A5%B8%E7%8A%AF%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 07时22分]"
-        },
-        {
-          "title": "截至早盘收盘，日经225指数、日本东证指数均跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3117870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "香港财经事务及库务局局长许正宇：探索合规稳定币在数字金融领域的更多应用",
-          "url": "https://flash.jin10.com/detail/20260611105036433800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "日本通过公务员兼任预备自卫官特例法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33351734",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "该警惕日本的 不只是中国",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%A5%E8%AD%A6%E6%83%95%E6%97%A5%E6%9C%AC%E7%9A%84+%E4%B8%8D%E5%8F%AA%E6%98%AF%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
@@ -318,7 +375,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -340,7 +397,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -351,9 +408,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "金价跌破4100美元",
+          "url": "https://www.douyin.com/hot/2530456",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "花旗：金价可能跌到3500美元",
@@ -368,6 +436,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 07时22分]"
+        },
+        {
+          "title": "现货白银日内涨幅达2.00%，现报64.65美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260611161112202800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "上海黄金交易所黄金T+D 6月10日（周三）晚盘收盘下跌2.19%报896.69元/克；<br/>上海黄金交易所白银T+D 6月10日（周三）晚盘收盘上涨0.17%报15564.0元/千克。",
@@ -406,7 +485,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "抖音创作者守护乡村孩子足球梦",
@@ -416,22 +495,24 @@
             4,
             6,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 11时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 16时40分]"
         },
         {
           "title": "抖音AI创作大赛来了",
           "url": "https://www.douyin.com/hot/2529851",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 16时40分]"
         },
         {
           "title": "媒体实探鹅腿阿姨后厨：有健康证但营业执照经营者非本人，微信已无法登录",
@@ -502,16 +583,49 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "布伦森G4赛后发抖音",
+          "url": "https://www.douyin.com/hot/2530694",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "淘宝京东拼多多抖音小红书被约谈",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E6%8B%BC%E5%A4%9A%E5%A4%9A%E6%8A%96%E9%9F%B3%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "Meta放话：跟白宫联手，打赢中国",
+          "url": "https://news.ifeng.com/c/8trm4FoI4K2",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
         {
           "title": "谷歌(GOOG.O)：推出DiffusionGemma。",
           "url": "https://flash.jin10.com/detail/20260611000644965800",
@@ -571,8 +685,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
         {
           "title": "报道：Altman预计OpenAI将于未来一年内IPO",
           "url": "https://wallstreetcn.com/livenews/3117610",
@@ -642,7 +767,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
@@ -686,11 +811,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 11时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 16时40分]"
         },
         {
           "title": "马斯克旗下xAI联合创始人Babuschkin自立门户，宣布与特斯拉旧部成立新公司River AI，主攻颠覆性“全个性化AI智能体”。",
