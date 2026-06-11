@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T00:48:58.519202+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-12T03:32:02.136831+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,42 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时32分]"
+        },
+        {
+          "title": "数据中心成本担忧加剧，甲骨文资本开支超预期，新财年计划融资翻倍至400亿美元，盘后大跌｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3774364",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时32分]"
+        },
+        {
+          "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时32分]"
+        },
+        {
+          "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2397555",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时32分]"
         },
         {
           "title": "投行：SpaceX上市在即 美股“错失恐惧症”还将持续",
@@ -30,44 +64,11 @@
           "time_info": "00时48分"
         },
         {
-          "title": "数据中心成本担忧加剧，甲骨文资本开支超预期，新财年计划融资翻倍至400亿美元，盘后大跌｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3774364",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
           "title": "金十图示：2026年06月11日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260612003345284800",
           "source": "金十数据",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2397555",
-          "source": "财联社热门",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -102,26 +103,28 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "微信能合并发图了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E5%90%88%E5%B9%B6%E5%8F%91%E5%9B%BE%E4%BA%86%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
           "title": "淘宝、京东、拼多多、抖音、小红书 5 家电商平台被约谈，具有哪些警示意义？还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2048363384991477880",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时32分]"
+        },
+        {
+          "title": "微信能合并发图了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E5%90%88%E5%B9%B6%E5%8F%91%E5%9B%BE%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时32分]"
         },
         {
           "title": "微信新功能上线 被赞工作党福音",
@@ -139,11 +142,12 @@
           "url": "https://www.douyin.com/hot/2529851",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时32分]"
         }
       ]
     },
@@ -191,22 +195,22 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI将收购Ona 强化Codex代理能力",
-          "url": "https://flash.jin10.com/detail/20260612003612955800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
           "url": "https://wallstreetcn.com/articles/3774400",
           "source": "华尔街见闻",
           "ranks": [
             6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时32分]"
+        },
+        {
+          "title": "OpenAI将收购Ona 强化Codex代理能力",
+          "url": "https://flash.jin10.com/detail/20260612003612955800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -234,11 +238,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF+%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时32分]"
         },
         {
           "title": "日本准备出手：明知赢不过中国，成本高也要搞",
@@ -248,8 +253,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时32分]"
         },
         {
           "title": "轮奸犯踢世界杯日本足协沉默",
@@ -266,25 +271,48 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【每日收评】创业板震荡调整跌超1%， 半导体材料持续爆发，小金属概念逆势活跃",
           "url": "https://www.cls.cn/detail/2397208",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时32分]"
+        },
+        {
+          "title": "纳指涨幅达2％，道指涨1.6％，标普500指数涨1.3％。 费城半导体指数涨5.28%。",
+          "url": "https://wallstreetcn.com/livenews/3118344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "03时32分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 INTEL",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "特斯拉 FSD 中国山区挂壁公路实测爆火，马斯克转发，视频播放量破 4700 万，这种场景测试有多大参考意义？",
+          "url": "https://www.zhihu.com/question/2048159787817375467",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 03时32分]"
+        },
         {
           "title": "内部频爆雷,AMD吊打Intel",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355035&amp;topic_name=%E5%86%85%E9%83%A8%E9%A2%91%E7%88%86%E9%9B%B7%2CAMD%E5%90%8A%E6%89%93Intel",
@@ -293,8 +321,25 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 6月11日（周四）晚盘收盘上涨1.2%报904.8元/克；<br/>上海黄金交易所白银T+D 6月11日（周四）晚盘收盘上涨3.09%报15800.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260612023123900800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "03时32分"
         }
       ]
     },
@@ -307,11 +352,12 @@
           "url": "https://www.cls.cn/detail/2397230",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时32分]"
         }
       ]
     }
