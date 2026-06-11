@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T16:40:52.895817+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-06-11T20:40:42.246421+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "外媒警告日本或已成全球安全重大隐患",
@@ -50,11 +50,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%B7%B2%E7%BB%8F%E6%91%98%E4%B8%8B%E9%9D%A2%E5%85%B7",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 20时40分]"
         },
         {
           "title": "外交部：日本已经摘下所谓“和平国家”的面具",
@@ -63,9 +64,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "外交部：日本已摘下面具，朝着“再军事化”狂飙",
+          "url": "https://news.ifeng.com/c/8ts49e5zrG7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "轮奸犯踢世界杯日本足协沉默",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "墨西哥记者：日本队来了位轮奸犯",
@@ -133,11 +156,23 @@
           "url": "https://news.ifeng.com/c/8tryMxnRSwv",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 20时40分]"
+        },
+        {
+          "title": "日本政府否认高市早苗说“烦死了”，网民不买账",
+          "url": "https://news.ifeng.com/c/8tsCHkeHtmp",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "20时40分"
         },
         {
           "title": "截至早盘收盘，日经225指数、日本东证指数均跌1.5%。",
@@ -149,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "媒体：最近的日本很不安分",
+          "url": "https://www.toutiao.com/trending/7649926195750518847/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "香港财经事务及库务局局长许正宇：探索合规稳定币在数字金融领域的更多应用",
@@ -168,7 +214,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -201,6 +247,17 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 20时40分]"
+        },
+        {
           "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3774176",
           "source": "华尔街见闻",
@@ -226,15 +283,28 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
-          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
+          "title": "数据中心成本担忧加剧，甲骨文资本开支超预期，新财年计划融资翻倍至400亿美元，盘后大跌｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3774364",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 16时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 20时40分]"
+        },
+        {
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 20时40分]"
         },
         {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
@@ -259,30 +329,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 07时22分]"
-        },
-        {
-          "title": "数据中心成本担忧加剧，甲骨文资本开支超预期，新财年计划融资翻倍至400亿美元，盘后大跌｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3774364",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 16时40分]"
-        },
-        {
-          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
-          "url": "https://wallstreetcn.com/articles/3774357",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 16时40分]"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -314,7 +360,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -366,7 +412,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
@@ -378,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "金价跌破4100美元",
+          "url": "https://www.douyin.com/hot/2530456",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 20时40分]"
         },
         {
           "title": "花旗继续唱空金价",
@@ -413,17 +470,6 @@
           "time_info": "11时24分"
         },
         {
-          "title": "金价跌破4100美元",
-          "url": "https://www.douyin.com/hot/2530456",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
           "title": "花旗：金价可能跌到3500美元",
           "url": "https://www.toutiao.com/trending/7649366995154944043/",
           "source": "今日头条",
@@ -444,7 +490,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -458,6 +504,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "金价跌了生意却没疯涨时好",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E7%94%9F%E6%84%8F%E5%8D%B4%E6%B2%A1%E7%96%AF%E6%B6%A8%E6%97%B6%E5%A5%BD%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "金价反弹拐点何时到来",
+          "url": "https://www.toutiao.com/trending/7650096865626557971/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "现货白银日内跌幅达3.0%，报63.33美元/盎司。",
@@ -480,12 +548,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "李大霄谈金价承压的原因",
+          "url": "https://www.toutiao.com/trending/7650096699775389247/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "抖音创作者守护乡村孩子足球梦",
@@ -503,16 +582,28 @@
           "time_info": "[00时32分 ~ 16时40分]"
         },
         {
+          "title": "微信能合并发图了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E5%90%88%E5%B9%B6%E5%8F%91%E5%9B%BE%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "抖音AI创作大赛来了",
           "url": "https://www.douyin.com/hot/2529851",
           "source": "抖音",
           "ranks": [
             2,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 16时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 20时40分]"
         },
         {
           "title": "媒体实探鹅腿阿姨后厨：有健康证但营业执照经营者非本人，微信已无法登录",
@@ -565,6 +656,18 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
+          "title": "布伦森G4赛后发抖音",
+          "url": "https://www.douyin.com/hot/2530694",
+          "source": "抖音",
+          "ranks": [
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 20时40分]"
+        },
+        {
           "title": "EVAN李羲承抖音号公开",
           "url": "https://www.douyin.com/hot/2530196",
           "source": "抖音",
@@ -575,6 +678,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 07时22分]"
+        },
+        {
+          "title": "淘宝、京东、拼多多、抖音、小红书 5 家电商平台被约谈，具有哪些警示意义？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2048363384991477880",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "EVAN李羲承正式入驻抖音",
@@ -588,24 +702,13 @@
           "time_info": "11时24分"
         },
         {
-          "title": "布伦森G4赛后发抖音",
-          "url": "https://www.douyin.com/hot/2530694",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
           "title": "淘宝京东拼多多抖音小红书被约谈",
           "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E6%8B%BC%E5%A4%9A%E5%A4%9A%E6%8A%96%E9%9F%B3%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%A2%AB%E7%BA%A6%E8%B0%88",
           "source": "百度热搜",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         }
@@ -622,7 +725,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -694,7 +797,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -735,8 +838,19 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
+          "url": "https://www.cls.cn/detail/2397230",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
         {
           "title": "英伟达、亚马逊等巨头参投 德国机器人公司Neura获最高14亿美元融资",
           "url": "https://www.cls.cn/detail/2396520",
@@ -775,8 +889,19 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "【每日收评】创业板震荡调整跌超1%， 半导体材料持续爆发，小金属概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2397208",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
         {
           "title": "标普500指数跌幅扩大至1%，工业板块跌超2.4%，科技板块跌1.6%，能源板块涨超2%。道指跌577点、跌幅超过1.1%，纳指跌1.3%，半导体指数跌2.8%。 纳斯达克100指数跌幅扩大至1.5%，成分股高通跌5.7%，西部数据跌5.6%，博通、AMD、Arm控股、核电股CEG至少跌4.2%，特斯拉跌3.1%，英伟达跌2.9%，Diamondback Energy、卡夫亨氏、T-Mobile则涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3117602",
@@ -812,11 +937,12 @@
           "ranks": [
             12,
             13,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 20时40分]"
         },
         {
           "title": "马斯克旗下xAI联合创始人Babuschkin自立门户，宣布与特斯拉旧部成立新公司River AI，主攻颠覆性“全个性化AI智能体”。",
