@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T21:49:01.025382+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-06-13T23:31:27.772226+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时17分 ~ 21时49分]"
+          "appearance_count": 10,
+          "time_info": "[08时17分 ~ 23时31分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时17分 ~ 21时49分]"
+          "appearance_count": 10,
+          "time_info": "[08时17分 ~ 23时31分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -39,11 +39,12 @@
           "ranks": [
             11,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时22分 ~ 21时49分]"
+          "appearance_count": 11,
+          "time_info": "[06时22分 ~ 23时31分]"
         },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -222,7 +223,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "日本炸鸡店称一锅油反复用 66 年，从食品安全和健康角度看，这种做法存在哪些潜在风险？",
@@ -230,22 +231,24 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时51分 ~ 21时49分]"
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 23时31分]"
         },
         {
           "title": "日本炸鸡秘方:一锅油用66年",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355135&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E7%A7%98%E6%96%B9%3A%E4%B8%80%E9%94%85%E6%B2%B9%E7%94%A866%E5%B9%B4",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 21时49分]"
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 23时31分]"
         },
         {
           "title": "日媒：中国发起“氢能攻势”，日本已落入下风",
@@ -286,6 +289,28 @@
           "time_info": "[01时35分 ~ 08时17分]"
         },
         {
+          "title": "日本死死缠着辽宁舰在害怕什么",
+          "url": "https://www.toutiao.com/trending/7650289698958868516/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
+          "title": "日本频频尾随偷窥辽宁舰",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A2%91%E9%A2%91%E5%B0%BE%E9%9A%8F%E5%81%B7%E7%AA%A5%E8%BE%BD%E5%AE%81%E8%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
           "title": "日本炸鸡店一锅油反复用66年",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E5%BA%97%E4%B8%80%E9%94%85%E6%B2%B9%E5%8F%8D%E5%A4%8D%E7%94%A866%E5%B9%B4",
           "source": "百度热搜",
@@ -320,6 +345,18 @@
           "time_info": "[21时48分 ~ 21时49分]"
         },
         {
+          "title": "日本核污染水排海再次因异常警报停止",
+          "url": "https://wallstreetcn.com/livenews/3119148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时31分]"
+        },
+        {
           "title": "日本不高兴了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%8D%E9%AB%98%E5%85%B4%E4%BA%86%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -351,17 +388,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
-        },
-        {
-          "title": "日本核污染水排海再次因异常警报停止",
-          "url": "https://wallstreetcn.com/livenews/3119148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
         },
         {
           "title": "日本男足队长宣布退役",
@@ -490,11 +516,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时51分 ~ 21时49分]"
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 23时31分]"
         },
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -573,8 +600,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 21时49分]"
+          "appearance_count": 4,
+          "time_info": "[21时48分 ~ 23时31分]"
         },
         {
           "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
@@ -600,11 +627,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时51分 ~ 21时49分]"
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 23时31分]"
         },
         {
           "title": "走出实验室 机器人如何“上岗”",
@@ -614,8 +642,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 21时49分]"
+          "appearance_count": 4,
+          "time_info": "[21时48分 ~ 23时31分]"
         }
       ]
     },
@@ -632,11 +660,12 @@
             13,
             9,
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时03分 ~ 21时49分]"
+          "appearance_count": 12,
+          "time_info": "[04时03分 ~ 23时31分]"
         }
       ]
     }
