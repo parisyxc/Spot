@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-06-13T13:18:19.220167+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-06-13T16:52:11.755282+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 18,
       "titles": [
+        {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时17分 ~ 16时52分]"
+        },
+        {
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时17分 ~ 16时52分]"
+        },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
           "url": "https://wallstreetcn.com/articles/3774389",
@@ -19,6 +41,19 @@
           "time_info": "[01时35分 ~ 06时22分]"
         },
         {
+          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
+          "url": "https://www.cls.cn/detail/2398893",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时22分 ~ 16时52分]"
+        },
+        {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
@@ -29,28 +64,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时35分 ~ 06时22分]"
-        },
-        {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时17分 ~ 13时18分]"
-        },
-        {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时17分 ~ 13时18分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
@@ -73,18 +86,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 08时17分]"
-        },
-        {
-          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
-          "url": "https://www.cls.cn/detail/2398893",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 13时18分]"
         },
         {
           "title": "数字货币市场最近七天至少涨超2%，比特币在周五美股开盘后一度突破6340美元",
@@ -218,7 +219,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "日媒：中国发起“氢能攻势”，日本已落入下风",
@@ -230,6 +231,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时35分 ~ 08时17分]"
+        },
+        {
+          "title": "日本炸鸡店称一锅油反复用 66 年，从食品安全和健康角度看，这种做法存在哪些潜在风险？",
+          "url": "https://www.zhihu.com/question/2048692040377033581",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
         },
         {
           "title": "日本炸鸡店一锅油用了66年",
@@ -264,7 +276,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -277,8 +289,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时17分 ~ 16时52分]"
+        },
+        {
+          "title": "日本不高兴了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%8D%E9%AB%98%E5%85%B4%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时17分 ~ 13时18分]"
+          "time_info": "[16时51分 ~ 16时52分]"
         },
         {
           "title": "日本一核电站审查资料发现大量错误",
@@ -287,7 +310,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -402,7 +425,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -421,7 +444,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -434,6 +457,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时35分 ~ 06时22分]"
+        },
+        {
+          "title": "哈兰德把挪威的森林焊死在抖音",
+          "url": "https://www.douyin.com/hot/2533100",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
         },
         {
           "title": "抖音AI反网暴行动来了",
@@ -499,11 +533,12 @@
           "ranks": [
             12,
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时03分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[04时03分 ~ 16时52分]"
         }
       ]
     },
@@ -522,6 +557,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时17分 ~ 13时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“机器人伴侣”来了 10天预售3800台",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E2%80%9D%E6%9D%A5%E4%BA%86+10%E5%A4%A9%E9%A2%84%E5%94%AE3800%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
         }
       ]
     }
