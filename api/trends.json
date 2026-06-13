@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T03:17:57.204890+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-06-14T05:10:24.271830+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时10分]"
         },
         {
           "title": "日本死死缠着辽宁舰在害怕什么",
           "url": "https://www.toutiao.com/trending/7650289698958868516/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时10分]"
         },
         {
           "title": "日本炸鸡秘方:一锅油用66年",
@@ -38,8 +40,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时10分]"
+        },
+        {
+          "title": "日本核污染水排海再次因异常警报停止",
+          "url": "https://wallstreetcn.com/livenews/3119148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时10分]"
         },
         {
           "title": "日本频频尾随偷窥辽宁舰",
@@ -48,17 +61,6 @@
           "ranks": [
             22,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时17分]"
-        },
-        {
-          "title": "日本核污染水排海再次因异常警报停止",
-          "url": "https://wallstreetcn.com/livenews/3119148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -89,19 +91,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时10分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时10分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -112,8 +115,38 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "哈兰德把挪威的森林焊死在抖音",
+          "url": "https://www.douyin.com/hot/2533100",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时10分]"
+        },
+        {
+          "title": "抖音作者硬核实测国产狙击步枪",
+          "url": "https://www.douyin.com/hot/2533455",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         }
       ]
     },
@@ -130,8 +163,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时10分]"
         }
       ]
     },
@@ -145,29 +178,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "哈兰德把挪威的森林焊死在抖音",
-          "url": "https://www.douyin.com/hot/2533100",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时10分]"
         }
       ]
     },
@@ -183,8 +199,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时10分]"
         }
       ]
     }
