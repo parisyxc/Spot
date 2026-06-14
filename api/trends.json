@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T13:28:33.576602+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-06-14T17:25:52.938433+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本炸鸡店称一锅油反复用 66 年，从食品安全和健康角度看，这种做法存在哪些潜在风险？",
@@ -28,11 +28,12 @@
           "ranks": [
             6,
             7,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 17时25分]"
         },
         {
           "title": "日本死死缠着辽宁舰在害怕什么",
@@ -49,6 +50,17 @@
           "time_info": "[01时18分 ~ 08时11分]"
         },
         {
+          "title": "压力给到了日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0%E4%BA%86%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "日本核污染水排海再次因异常警报停止",
           "url": "https://wallstreetcn.com/livenews/3119148",
           "source": "华尔街见闻-快讯",
@@ -58,6 +70,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时18分 ~ 08时11分]"
+        },
+        {
+          "title": "日媒：日本要去格陵兰岛勘察稀土",
+          "url": "https://www.toutiao.com/trending/7650419737742278702/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "荷兰vs日本前瞻",
+          "url": "https://www.douyin.com/hot/2533915",
+          "source": "抖音",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 17时25分]"
         },
         {
           "title": "日本频频尾随偷窥辽宁舰",
@@ -72,26 +107,37 @@
           "time_info": "[01时18分 ~ 03时17分]"
         },
         {
+          "title": "日本炸鸡店一锅油反复用 66 年，店主称「只要油好好保养，味道没问题」，这种油真的不会带来健康隐患吗？",
+          "url": "https://www.zhihu.com/question/2048711796341432495",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "日本央行为何救不了日元",
           "url": "https://www.toutiao.com/trending/7651049731136687670/",
           "source": "今日头条",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
         {
-          "title": "荷兰vs日本前瞻",
-          "url": "https://www.douyin.com/hot/2533915",
-          "source": "抖音",
+          "title": "日本要去格陵兰岛勘察稀土",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A6%81%E5%8E%BB%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8B%98%E5%AF%9F%E7%A8%80%E5%9C%9F",
+          "source": "百度热搜",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "17时25分"
         },
         {
           "title": "日本涉性侵球员踢世界杯引争议",
@@ -118,6 +164,69 @@
       ]
     },
     {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "走出实验室 机器人如何“上岗”",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B0%E5%87%BA%E5%AE%9E%E9%AA%8C%E5%AE%A4+%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 08时11分]"
+        },
+        {
+          "title": "机器人伴侣仅限成人购买使用",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BB%85%E9%99%90%E6%88%90%E4%BA%BA%E8%B4%AD%E4%B9%B0%E4%BD%BF%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 17时25分]"
+        },
+        {
+          "title": "机器人伴侣开售,人机恋成真",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355151&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%BC%80%E5%94%AE%2C%E4%BA%BA%E6%9C%BA%E6%81%8B%E6%88%90%E7%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "机器人伴侣仅限成人购买",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BB%85%E9%99%90%E6%88%90%E4%BA%BA%E8%B4%AD%E4%B9%B0%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "“白菜价”的人形机器人，没法进厂“打螺丝”",
+          "url": "https://www.cls.cn/detail/2399188",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 17时25分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 科技股 财报 投资策略",
       "match_count": 4,
       "titles": [
@@ -127,11 +236,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 17时25分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -164,61 +274,12 @@
           "url": "https://wallstreetcn.com/articles/3774576",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "走出实验室 机器人如何“上岗”",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B0%E5%87%BA%E5%AE%9E%E9%AA%8C%E5%AE%A4+%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            3
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 08时11分]"
-        },
-        {
-          "title": "机器人伴侣仅限成人购买",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BB%85%E9%99%90%E6%88%90%E4%BA%BA%E8%B4%AD%E4%B9%B0%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "机器人伴侣仅限成人购买使用",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BB%85%E9%99%90%E6%88%90%E4%BA%BA%E8%B4%AD%E4%B9%B0%E4%BD%BF%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "“白菜价”的人形机器人，没法进厂“打螺丝”",
-          "url": "https://www.cls.cn/detail/2399188",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 17时25分]"
         }
       ]
     },
@@ -248,9 +309,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 17时25分]"
         },
         {
           "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
@@ -259,9 +320,79 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价跌至900元关口 大妈又来抄底了",
+          "url": "https://www.toutiao.com/trending/7650548712628944938/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "金价飙升 豪华表成“炼金”原料",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E8%B1%AA%E5%8D%8E%E8%A1%A8%E6%88%90%E2%80%9C%E7%82%BC%E9%87%91%E2%80%9D%E5%8E%9F%E6%96%99",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "金价跌至900元关口 大妈又来抄底了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3900%E5%85%83%E5%85%B3%E5%8F%A3+%E5%A4%A7%E5%A6%88%E5%8F%88%E6%9D%A5%E6%8A%84%E5%BA%95%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
+          "url": "https://wallstreetcn.com/articles/3774595",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时59分 ~ 17时25分]"
+        },
+        {
+          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
+          "url": "https://wallstreetcn.com/articles/3774601",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
@@ -294,25 +425,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 06时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
-          "url": "https://wallstreetcn.com/articles/3774595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时59分 ~ 13时28分]"
         }
       ]
     },
