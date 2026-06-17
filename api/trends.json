@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T08:13:40.829682+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-06-17T14:06:42.445109+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "日本球迷捡垃圾被批作秀",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时00分 ~ 08时13分]"
+          "appearance_count": 8,
+          "time_info": "[02时00分 ~ 14时06分]"
         },
         {
           "title": "日本央行加息至1%，为1995年以来最高水平，2027年起暂停缩债",
@@ -59,6 +60,19 @@
           "time_info": "[02时00分 ~ 08时13分]"
         },
         {
+          "title": "89分钟绝平,日本2-2荷兰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355157&amp;topic_name=89%E5%88%86%E9%92%9F%E7%BB%9D%E5%B9%B3%2C%E6%97%A5%E6%9C%AC2-2%E8%8D%B7%E5%85%B0",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时00分 ~ 14时06分]"
+        },
+        {
           "title": "日本民众在中国驻日大使馆前道歉",
           "url": "https://www.toutiao.com/trending/7650880982704128006/",
           "source": "今日头条",
@@ -84,25 +98,13 @@
           "time_info": "[02时00分 ~ 08时13分]"
         },
         {
-          "title": "89分钟绝平,日本2-2荷兰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355157&amp;topic_name=89%E5%88%86%E9%92%9F%E7%BB%9D%E5%B9%B3%2C%E6%97%A5%E6%9C%AC2-2%E8%8D%B7%E5%85%B0",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时00分 ~ 08时13分]"
-        },
-        {
           "title": "日本财务省：日本5月对欧盟出口同比增长14.5%。",
           "url": "https://flash.jin10.com/detail/20260617075522569800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -120,13 +122,24 @@
           "time_info": "[02时00分 ~ 06时52分]"
         },
         {
+          "title": "白宫再次未经允许使用日本游戏素材",
+          "url": "https://www.toutiao.com/trending/7651498015303401518/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "日本5月对中国出口同比增长17.9%，对美国出口增长12.5%，对欧盟出口增长14.5%。",
           "url": "https://wallstreetcn.com/livenews/3120569",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -137,7 +150,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -148,7 +161,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -159,7 +172,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -170,7 +183,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -181,9 +194,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "日本考虑自2027年4月起将食品税率降至1%。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3120760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "日本5月季调后商品贸易帐 -904.01亿日元，预期-2070亿日元，前值2364亿日元。",
@@ -192,7 +216,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -203,7 +227,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -214,7 +238,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -225,7 +249,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -236,7 +260,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -247,9 +271,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "高市早苗在G7峰会“转椅子”，日本网民：真丢人",
+          "url": "https://news.ifeng.com/c/8u1cljemlUW",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "日本5月未季调商品贸易帐 -3787亿日元，预期-5476亿日元，前值由3019亿日元修正为2993亿日元。",
@@ -258,7 +293,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -303,7 +338,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -314,7 +349,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -328,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "日本东证指数日内涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3120736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         }
       ]
     },
@@ -359,6 +405,18 @@
           "time_info": "[02时00分 ~ 08时13分]"
         },
         {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时51分 ~ 14时06分]"
+        },
+        {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
           "url": "https://wallstreetcn.com/articles/3774774",
           "source": "华尔街见闻",
@@ -370,16 +428,16 @@
           "time_info": "[02时00分 ~ 04时57分]"
         },
         {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
+          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
+          "url": "https://www.cls.cn/detail/2401752",
+          "source": "财联社热门",
           "ranks": [
-            4,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时51分 ~ 08时13分]"
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 14时06分]"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
@@ -395,26 +453,16 @@
           "time_info": "[02时00分 ~ 08时13分]"
         },
         {
-          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
-          "url": "https://www.cls.cn/detail/2401752",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
           "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
           "url": "https://www.cls.cn/detail/2401731",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 14时06分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
@@ -434,7 +482,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -456,7 +504,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -541,7 +589,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
@@ -555,6 +603,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时00分 ~ 08时13分]"
+        },
+        {
+          "title": "科创50指数涨幅扩大至4%，半导体板块持续拉升，盛美上海20cm涨停，此前赛腾股份、盛剑科技涨停，拓荆科技涨超10%，华峰测控、华海清科、精智达、长川科技、中微公司等涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3120765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.50%，报6192.86点，跌穿2025年4月8日收盘位6198.18点、逼近2024年9月23日收盘位5917.72点。 热门中概股里，日月光半导体跌4.5%，小马智行、小鹏跌超4%，腾讯、美团、蔚来、百度、网易跌超3%。 ETF中，中概互联网指数ETF（KWEB）收跌2.78%，中国科技指数ETF（CQQQ）收跌1.62%。 MSCI新兴市场ex中国ETF（EMXC）收跌1.51%，德银嘉实沪深300指数ETF（ASHR）收跌0.50%，XtrackersHarvest中证50（ASHS）收涨0.61%。",
@@ -582,7 +641,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI第一季度消耗现金37亿美元，同比增加两倍",
@@ -591,9 +650,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
+          "url": "https://www.cls.cn/detail/2401773",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
@@ -613,7 +683,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         }
@@ -621,7 +691,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
@@ -630,9 +700,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "XREAL联手谷歌发布空间计算眼镜，深度集成Gemini",
+          "url": "https://wallstreetcn.com/livenews/3120751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "Kalshi因向谷歌、LinkedIn披露用户活动而被起诉。",
@@ -718,6 +799,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "神仙阵容齐聚抖音非遗嘉年华",
+          "url": "https://www.douyin.com/hot/2537742",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         }
       ]
     }
