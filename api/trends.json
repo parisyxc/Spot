@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T05:11:14.356125+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-06-21T07:02:49.857521+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 07时02分]"
         },
         {
           "title": "美国搞垮日本的“广场协议”，德总理竟呼吁用在中国身上",
@@ -28,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 07时02分]"
         },
         {
           "title": "央视披露：日本为“备战台海”囤弹药",
@@ -37,11 +38,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            21
+            21,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 07时02分]"
         },
         {
           "title": "日本游客为免票全文背诵《岳阳楼记》",
@@ -49,11 +51,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 07时02分]"
         },
         {
           "title": "日本游客为免票进景区背《岳阳楼记》",
@@ -62,11 +65,12 @@
           "ranks": [
             19,
             22,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 07时02分]"
         }
       ]
     },
@@ -83,8 +87,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 07时02分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -95,8 +99,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 07时02分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -106,8 +110,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 07时02分]"
         }
       ]
     },
@@ -121,11 +125,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 07时02分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
@@ -150,11 +155,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 07时02分]"
         }
       ]
     },
@@ -167,11 +173,29 @@
           "url": "https://wallstreetcn.com/articles/3775114",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 07时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     }
