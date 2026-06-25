@@ -1,11 +1,354 @@
 {
-  "generated_at": "2026-06-25T08:05:08.467170+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-06-25T13:02:21.341218+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 30,
+      "titles": [
+        {
+          "title": "2名日本人被中方拘留，外交部回应",
+          "url": "https://news.ifeng.com/c/8uDdI76KjZE",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 08时05分]"
+        },
+        {
+          "title": "“日本驻华大使多次请求与中方会面，均未成功”",
+          "url": "https://news.ifeng.com/c/8uDaPJKLJkd",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 08时05分]"
+        },
+        {
+          "title": "中国海军的“御用摄影师”不灵了，日本防卫省跟丢辽宁舰编队",
+          "url": "https://news.ifeng.com/c/8uDm1JreVxF",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 08时05分]"
+        },
+        {
+          "title": "中国赴日游客连续 6 个月减少，5 月同比暴跌 60.4%，原因为何？客流断崖下滑，日本旅游业会受多大冲击？",
+          "url": "https://www.zhihu.com/question/2052721837830935858",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时48分 ~ 08时05分]"
+        },
+        {
+          "title": "外交部：两名日本人因违反中国法律被拘留",
+          "url": "https://www.cls.cn/detail/2407880",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 06时12分]"
+        },
+        {
+          "title": "不是日本相机坏了 是中国航母太快了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E6%98%AF%E6%97%A5%E6%9C%AC%E7%9B%B8%E6%9C%BA%E5%9D%8F%E4%BA%86+%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E5%A4%AA%E5%BF%AB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "日本内阁官房长官：核设施未发生异常情况，未出现伤亡。",
+          "url": "https://flash.jin10.com/detail/20260625073636535800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "日本内阁官房长官：地震后未报告伤亡。",
+          "url": "https://flash.jin10.com/detail/20260625073514932800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "日本6月19日当周净买进国外债券 1997亿日元，前值 3826亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3124297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "日本6月19日当周净买进国外股票 4268亿日元，前值 -4183亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3124296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "日本6月19日当周外资净买进日本债券 -10573亿日元，前值 -5310亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3124295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "日本6月19日当周外资净买进日本股票 4794亿日元，前值 -7851亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3124294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：地震后未收到核设施出现问题的报告；目前尚未收到地震人员伤亡报告。",
+          "url": "https://wallstreetcn.com/livenews/3124293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美地震学家：委内瑞拉、日本连发强震无关联",
+          "url": "https://wallstreetcn.com/livenews/3124432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "如何看待在阿根廷、尼日利亚、越南等国家一些普通人宁愿用稳定币也不用本国货币的现象？",
+          "url": "https://www.zhihu.com/question/1959565378578510265",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时12分 ~ 08时05分]"
+        },
+        {
+          "title": "日本近海6.9级地震 东京震感明显",
+          "url": "https://www.toutiao.com/trending/7655103440732818971/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 08时05分]"
+        },
+        {
+          "title": "日本岩手县6.9级地震 东京震感明显",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E5%8E%BF6.9%E7%BA%A7%E5%9C%B0%E9%9C%87+%E4%B8%9C%E4%BA%AC%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 08时05分]"
+        },
+        {
+          "title": "日本未来一周或再次强震",
+          "url": "https://www.toutiao.com/trending/7655130295582215706/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "中国地震台网自动测定：06月25日06时30分在日本本州东部附近海域附近发生7.1级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260625064146173800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "据日本放送协会NHK：日本地震发生后未有海啸警报发布。",
+          "url": "https://flash.jin10.com/detail/20260625064122233800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "日本岩手县近海发生6.9级地震",
+          "url": "https://flash.jin10.com/detail/20260625063928497800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "日本拍卖20年期国债，认购倍数2.97，为去年5月来新低，过去12个月均值为3.55。",
+          "url": "https://wallstreetcn.com/livenews/3124426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "日本气象厅：岩手县沿海发生6.9级地震，最大震度为6+。",
+          "url": "https://flash.jin10.com/detail/20260625063826172800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "欧洲地中海地震中心：日本本州东海岸附近发生6.9级地震。",
+          "url": "https://flash.jin10.com/detail/20260625063731100800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "据日本媒体25日报道，日本岩手县附近海域当天发生6.9级地震。",
+          "url": "https://wallstreetcn.com/livenews/3124277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美地震学家：委内瑞拉、日本连发强震无关联",
+          "url": "https://flash.jin10.com/detail/20260625120125253800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "日本本州东岸附近发生6.5级地震。（德国地球科学研究中心GFZ）",
+          "url": "https://wallstreetcn.com/livenews/3124275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "瑞穗经济学家：若要有效利用外储，意味着日本要抛售美债",
+          "url": "https://wallstreetcn.com/livenews/3124111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "据日本气象厅（JMA），日本青森县发生强烈震动。 日本北部发生6.9级地震，东京建筑物也出现摇晃。 NHK成，地震没有引发海啸威胁。",
+          "url": "https://wallstreetcn.com/livenews/3124272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "报道：草案显示，日本计划更好地管理用于日元干预的“弹药”",
+          "url": "https://wallstreetcn.com/livenews/3124109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -34,6 +377,33 @@
           "time_info": "[00时13分 ~ 08时05分]"
         },
         {
+          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
+          "url": "https://wallstreetcn.com/articles/3775422",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时48分 ~ 13时02分]"
+        },
+        {
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时12分 ~ 13时02分]"
+        },
+        {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
           "url": "https://wallstreetcn.com/articles/3775351",
           "source": "华尔街见闻",
@@ -45,41 +415,51 @@
           "time_info": "[00时13分 ~ 04时44分]"
         },
         {
-          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
-          "url": "https://wallstreetcn.com/articles/3775422",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时48分 ~ 08时05分]"
-        },
-        {
-          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
-          "url": "https://www.cls.cn/detail/2408510",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 08时05分]"
-        },
-        {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3775443",
           "source": "华尔街见闻",
           "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 13时02分]"
+        },
+        {
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 13时02分]"
+        },
+        {
+          "title": "美光公布“王炸”财报：业绩、指引全面开花 盘后大涨13%",
+          "url": "https://www.cls.cn/detail/2408523",
+          "source": "财联社热门",
+          "ranks": [
+            4,
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 13时02分]"
+        },
+        {
+          "title": "存储超级周期实锤！美光财报会实录：16份SCA改写周期逻辑 行业紧缺持续至2027年",
+          "url": "https://www.cls.cn/detail/2408555",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -94,26 +474,15 @@
           "time_info": "[00时13分 ~ 06时12分]"
         },
         {
-          "title": "美光公布“王炸”财报：业绩、指引全面开花 盘后大涨13%",
-          "url": "https://www.cls.cn/detail/2408523",
-          "source": "财联社热门",
+          "title": "美光公布「王炸」财报，业绩、指引全面开花，盘后股价大涨，大家怎么看？",
+          "url": "https://www.zhihu.com/question/2053379063864209458",
+          "source": "知乎",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
-        },
-        {
-          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
-          "url": "https://www.cls.cn/detail/2408547",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
@@ -138,13 +507,24 @@
           "time_info": "00时14分"
         },
         {
+          "title": "财报炸裂！美光让空头闭嘴",
+          "url": "https://wallstreetcn.com/articles/3775453",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
           "title": "科技股热潮下私募业绩分化，宁泉等就业绩承压向投资人致歉",
           "url": "https://wallstreetcn.com/livenews/3124298",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -290,303 +670,15 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稳定币 日本",
-      "match_count": 25,
-      "titles": [
-        {
-          "title": "2名日本人被中方拘留，外交部回应",
-          "url": "https://news.ifeng.com/c/8uDdI76KjZE",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 08时05分]"
-        },
-        {
-          "title": "“日本驻华大使多次请求与中方会面，均未成功”",
-          "url": "https://news.ifeng.com/c/8uDaPJKLJkd",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 08时05分]"
-        },
-        {
-          "title": "中国海军的“御用摄影师”不灵了，日本防卫省跟丢辽宁舰编队",
-          "url": "https://news.ifeng.com/c/8uDm1JreVxF",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 08时05分]"
-        },
-        {
-          "title": "中国赴日游客连续 6 个月减少，5 月同比暴跌 60.4%，原因为何？客流断崖下滑，日本旅游业会受多大冲击？",
-          "url": "https://www.zhihu.com/question/2052721837830935858",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时48分 ~ 08时05分]"
-        },
-        {
-          "title": "外交部：两名日本人因违反中国法律被拘留",
-          "url": "https://www.cls.cn/detail/2407880",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 06时12分]"
-        },
-        {
-          "title": "日本内阁官房长官：核设施未发生异常情况，未出现伤亡。",
-          "url": "https://flash.jin10.com/detail/20260625073636535800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "日本内阁官房长官：地震后未报告伤亡。",
-          "url": "https://flash.jin10.com/detail/20260625073514932800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "日本6月19日当周净买进国外债券 1997亿日元，前值 3826亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3124297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "日本6月19日当周净买进国外股票 4268亿日元，前值 -4183亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3124296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "日本6月19日当周外资净买进日本债券 -10573亿日元，前值 -5310亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3124295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "日本6月19日当周外资净买进日本股票 4794亿日元，前值 -7851亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3124294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：地震后未收到核设施出现问题的报告；目前尚未收到地震人员伤亡报告。",
-          "url": "https://wallstreetcn.com/livenews/3124293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "如何看待在阿根廷、尼日利亚、越南等国家一些普通人宁愿用稳定币也不用本国货币的现象？",
-          "url": "https://www.zhihu.com/question/1959565378578510265",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 08时05分]"
-        },
-        {
-          "title": "日本近海6.9级地震 东京震感明显",
-          "url": "https://www.toutiao.com/trending/7655103440732818971/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
-        },
-        {
-          "title": "日本岩手县6.9级地震 东京震感明显",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E5%8E%BF6.9%E7%BA%A7%E5%9C%B0%E9%9C%87+%E4%B8%9C%E4%BA%AC%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
-        },
-        {
-          "title": "中国地震台网自动测定：06月25日06时30分在日本本州东部附近海域附近发生7.1级左右地震，最终结果以正式速报为准。",
-          "url": "https://flash.jin10.com/detail/20260625064146173800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "据日本放送协会NHK：日本地震发生后未有海啸警报发布。",
-          "url": "https://flash.jin10.com/detail/20260625064122233800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "日本岩手县近海发生6.9级地震",
-          "url": "https://flash.jin10.com/detail/20260625063928497800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "日本气象厅：岩手县沿海发生6.9级地震，最大震度为6+。",
-          "url": "https://flash.jin10.com/detail/20260625063826172800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "欧洲地中海地震中心：日本本州东海岸附近发生6.9级地震。",
-          "url": "https://flash.jin10.com/detail/20260625063731100800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "据日本媒体25日报道，日本岩手县附近海域当天发生6.9级地震。",
-          "url": "https://wallstreetcn.com/livenews/3124277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "日本本州东岸附近发生6.5级地震。（德国地球科学研究中心GFZ）",
-          "url": "https://wallstreetcn.com/livenews/3124275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "瑞穗经济学家：若要有效利用外储，意味着日本要抛售美债",
-          "url": "https://wallstreetcn.com/livenews/3124111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "据日本气象厅（JMA），日本青森县发生强烈震动。 日本北部发生6.9级地震，东京建筑物也出现摇晃。 NHK成，地震没有引发海啸威胁。",
-          "url": "https://wallstreetcn.com/livenews/3124272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "08时05分"
-        },
-        {
-          "title": "报道：草案显示，日本计划更好地管理用于日元干预的“弹药”",
-          "url": "https://wallstreetcn.com/livenews/3124109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
@@ -648,6 +740,17 @@
           "time_info": "02时48分"
         },
         {
+          "title": "金价跌至去年10月水平",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3%E5%8E%BB%E5%B9%B410%E6%9C%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
           "title": "黄金白银原油集体暴跌",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%8E%9F%E6%B2%B9%E9%9B%86%E4%BD%93%E6%9A%B4%E8%B7%8C",
           "source": "百度热搜",
@@ -679,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "现货白银日内跌幅达6.0%，报57.8美元/盎司。",
@@ -723,6 +837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "金十图示：2026年06月25日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260625115159139800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -761,11 +886,12 @@
           "url": "https://www.cls.cn/detail/2408544",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 13时02分]"
         },
         {
           "title": "半导体板块迎来一只十倍股",
@@ -837,7 +963,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
@@ -849,6 +975,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
@@ -1005,7 +1142,7 @@
     },
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国人形机器人商业化部署提速！大摩年内第二次翻倍上调出货量预测",
@@ -1021,6 +1158,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时13分 ~ 08时05分]"
+        },
+        {
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "清华UP主让机器人炒麻婆豆腐",
@@ -1091,11 +1239,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 08时05分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 13时02分]"
         },
         {
           "title": "哈兰德发抖音庆祝世界杯出线",
