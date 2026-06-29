@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T07:05:54.865219+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-06-29T10:55:50.409110+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "又一半导体气体或陷入短缺 存储巨头全力加紧采购",
@@ -55,6 +55,50 @@
           "time_info": "[00时07分 ~ 07时05分]"
         },
         {
+          "title": "本周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
+          "url": "https://wallstreetcn.com/articles/3775686",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "半导体零部件头部企业、‌半导体材料‌概念股明日申购",
+          "url": "https://www.cls.cn/detail/2411114",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "【数读IPO】半导体零部件龙头来了",
+          "url": "https://www.cls.cn/detail/2411232",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "科创50指数涨超4%，继续刷新历史新高，半导体芯片股领涨市场。",
+          "url": "https://wallstreetcn.com/livenews/3125797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "国产半导体高速增长",
           "url": "https://www.toutiao.com/trending/7655967459116171291/",
           "source": "今日头条",
@@ -66,83 +110,43 @@
           "time_info": "00时07分"
         },
         {
+          "title": "创业板指涨超1%，科创50指数涨超3%，继续刷新历史新高，沪指涨0.17%，深成指涨0.78%，半导体、存储芯片、氟化工、可控核聚变等方向领涨，沪深京三市上涨个股超1500只。",
+          "url": "https://wallstreetcn.com/livenews/3125788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "功率半导体缺货涨价",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E7%8E%87%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%BC%BA%E8%B4%A7%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
-          "url": "https://wallstreetcn.com/articles/3775701",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 07时05分]"
         },
         {
-          "title": "全球科技股同步回调，券商研报：AI主线地位不改但再平衡需求上升",
-          "url": "https://wallstreetcn.com/livenews/3125724",
+          "title": "A股半导体产业链延续涨势，银河微电20cm涨停，神工股份涨超10%，宏微科技、扬杰科技、雅克科技、富满微涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3125775",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "“买券商等于买一篮子打折科技股”交易逻辑发酵 券商股上演价值重估行情",
-          "url": "https://flash.jin10.com/detail/20260629062444407800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
-          "url": "https://flash.jin10.com/detail/20260629060352549800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
-          "url": "https://flash.jin10.com/detail/20260629060021389800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
+          "time_info": "10时55分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
         {
           "title": "日本媒体人：警惕日本再次成为战争加害国",
@@ -170,13 +174,24 @@
           "time_info": "[00时07分 ~ 02时02分]"
         },
         {
+          "title": "中方在联合国发言：敦促日本深刻反省",
+          "url": "https://news.ifeng.com/c/8uLJwCpOkNO",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "日本铁路京都站站内发生列车脱轨事故",
           "url": "https://flash.jin10.com/detail/20260629063239501800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -193,6 +208,61 @@
           "time_info": "[00时07分 ~ 02时02分]"
         },
         {
+          "title": "商务部将20家日本实体列入出口管制管控名单",
+          "url": "https://wallstreetcn.com/livenews/3125801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "中方将20家日本实体列入出口管制名单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%90%8D%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "日本主帅：对战胜巴西很有信心",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%BB%E5%B8%85%EF%BC%9A%E5%AF%B9%E6%88%98%E8%83%9C%E5%B7%B4%E8%A5%BF%E5%BE%88%E6%9C%89%E4%BF%A1%E5%BF%83",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "中国代表在联合国点名日本所犯罪行",
+          "url": "https://www.toutiao.com/trending/7655885086147182611/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "巴西国脚说不出日本球员全场哄笑",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E5%9B%BD%E8%84%9A%E8%AF%B4%E4%B8%8D%E5%87%BA%E6%97%A5%E6%9C%AC%E7%90%83%E5%91%98%E5%85%A8%E5%9C%BA%E5%93%84%E7%AC%91",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "杨毅董路预测日本巴西",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%AF%85%E8%91%A3%E8%B7%AF%E9%A2%84%E6%B5%8B%E6%97%A5%E6%9C%AC%E5%B7%B4%E8%A5%BF%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -206,8 +276,81 @@
       ]
     },
     {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 10时55分]"
+        },
+        {
+          "title": "全球科技股同步回调，券商研报：AI主线地位不改但再平衡需求上升",
+          "url": "https://wallstreetcn.com/livenews/3125724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "“买券商等于买一篮子打折科技股”交易逻辑发酵 券商股上演价值重估行情",
+          "url": "https://flash.jin10.com/detail/20260629062444407800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "“买券商等于买一篮子打折科技股”交易逻辑发酵，券商股上演价值重估行情",
+          "url": "https://wallstreetcn.com/articles/3775715",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260629060352549800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260629060021389800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "抖音潮流舞蹈大赛成都站",
@@ -217,11 +360,12 @@
             7,
             10,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 07时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 10时55分]"
         },
         {
           "title": "抖音封禁诋毁杂交技术的网红账号",
@@ -231,11 +375,12 @@
             16,
             9,
             21,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 07时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 10时55分]"
         },
         {
           "title": "奶奶的微信有77万条未读消息",
@@ -263,6 +408,56 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 07时05分]"
+        },
+        {
+          "title": "哈兰德发抖音全力备战淘汰赛",
+          "url": "https://www.douyin.com/hot/2551206",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现货金银短线下挫，现货黄金跌幅扩大至0.6%，现报4055美元/盎司；现货白银跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260629061857195800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "现货白银盘初涨超1.00%，现报59.39美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260629060316167800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "金十图示：2026年06月29日（周一）上海金早盘价为888.54元/克，较国际金价(889.88元/克)，低1.34元/克",
+          "url": "https://flash.jin10.com/detail/20260629101748796800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     },
@@ -297,34 +492,6 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现货金银短线下挫，现货黄金跌幅扩大至0.6%，现报4055美元/盎司；现货白银跌0.5%。",
-          "url": "https://flash.jin10.com/detail/20260629061857195800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "现货白银盘初涨超1.00%，现报59.39美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260629060316167800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI基础设施 算力基建 AI Agent",
       "match_count": 1,
       "titles": [
@@ -352,11 +519,12 @@
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 07时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 10时55分]"
         }
       ]
     }
