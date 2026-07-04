@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-04T14:43:59.270785+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-07-04T17:19:25.594200+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "日本男演员片场骚扰女明星",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            10,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 17时19分]"
+        },
         {
           "title": "中国男篮73:92不敌日本男篮",
           "url": "https://www.douyin.com/hot/2556627",
@@ -45,20 +60,6 @@
           "time_info": "[01时19分 ~ 11时45分]"
         },
         {
-          "title": "日本男演员片场骚扰女明星",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 14时43分]"
-        },
-        {
           "title": "日本防相：将加快拦截无人机部署",
           "url": "https://news.ifeng.com/c/8uSvSMx8KQl",
           "source": "凤凰网",
@@ -95,6 +96,21 @@
           "time_info": "[01时19分 ~ 04时59分]"
         },
         {
+          "title": "酱油日本特有?日网友醒醒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355853&amp;topic_name=%E9%85%B1%E6%B2%B9%E6%97%A5%E6%9C%AC%E7%89%B9%E6%9C%89%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E9%86%92%E9%86%92",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13,
+            17,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 17时19分]"
+        },
+        {
           "title": "记者：日本早用霍金森中国男篮或出局",
           "url": "https://www.toutiao.com/trending/7657543072257065010/",
           "source": "今日头条",
@@ -108,31 +124,6 @@
           "time_info": "[01时19分 ~ 06时06分]"
         },
         {
-          "title": "酱油日本特有?日网友醒醒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355853&amp;topic_name=%E9%85%B1%E6%B2%B9%E6%97%A5%E6%9C%AC%E7%89%B9%E6%9C%89%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E9%86%92%E9%86%92",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 14时43分]"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：准备协助海外芯片制造商在日本投资。",
-          "url": "https://flash.jin10.com/detail/20260704135129983800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
           "title": "一碗面38块,日本经济还在蒸",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E8%BF%98%E5%9C%A8%E8%92%B8",
           "source": "贴吧",
@@ -144,37 +135,39 @@
           "time_info": "11时45分"
         },
         {
+          "title": "独砍27分，日本男篮归化球员霍金森：每支队伍都有自己优势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33515091",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时19分]"
+        },
+        {
           "title": "美光斥资90亿美元扩建日本西部芯片工厂",
           "url": "https://flash.jin10.com/detail/20260704122345270800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
         {
-          "title": "一碗面38块,日本还在吹经济",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
-          "source": "贴吧",
+          "title": "日本经济产业大臣赤泽亮正：准备协助海外芯片制造商在日本投资。",
+          "url": "https://flash.jin10.com/detail/20260704135129983800",
+          "source": "金十数据",
           "ranks": [
-            9
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：准备援助在日投资的海外芯片制造商。",
-          "url": "https://wallstreetcn.com/livenews/3128897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 17时19分]"
         },
         {
           "title": "中国男篮不敌日本男篮",
@@ -190,15 +183,41 @@
           "time_info": "[01时19分 ~ 06时06分]"
         },
         {
-          "title": "独砍27分，日本男篮归化球员霍金森：每支队伍都有自己优势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33515091",
-          "source": "澎湃新闻",
+          "title": "一碗面38块,日本还在吹经济",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
+          "source": "贴吧",
           "ranks": [
-            11
+            9,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时43分]"
+          "time_info": "[14时43分 ~ 17时19分]"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：准备援助在日投资的海外芯片制造商。",
+          "url": "https://wallstreetcn.com/livenews/3128897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 17时19分]"
+        },
+        {
+          "title": "中国男篮73比92不敌日本男篮，世预赛出线存变数",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511637",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时19分]"
         },
         {
           "title": "日本修法断了女天皇之路，为何选择此时收紧皇室继承权？",
@@ -213,16 +232,37 @@
           "time_info": "[11时45分 ~ 14时43分]"
         },
         {
-          "title": "中国男篮73比92不敌日本男篮，世预赛出线存变数",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511637",
-          "source": "澎湃新闻",
+          "title": "中国男篮世预赛不敌日本引争议",
+          "url": "https://www.douyin.com/hot/2557860",
+          "source": "抖音",
           "ranks": [
-            16,
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "海底稀土够日本用800年？专家泼冷水",
+          "url": "https://www.toutiao.com/trending/7657539840231260166/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "据日本共同社：日本防卫大臣、外务大臣将出席下周的北约峰会活动。",
+          "url": "https://flash.jin10.com/detail/20260704151404291800",
+          "source": "金十数据",
+          "ranks": [
             19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "媒体人谈中国男篮输日本19分",
@@ -245,6 +285,97 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "狂赚约百亿！江波龙半年净利接近去年全年八倍 下半年存储品类仍有涨价|财报解读",
+          "url": "https://www.cls.cn/detail/2416926",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 17时19分]"
+        },
+        {
+          "title": "炸裂！存储巨头江波龙上半年净利预增62204%~74394% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3776160",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 17时19分]"
+        },
+        {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 11时45分]"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时19分]"
+        },
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时19分]"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 04时59分]"
+        },
+        {
+          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
+          "url": "https://wallstreetcn.com/articles/3776162",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },
@@ -336,153 +467,8 @@
       ]
     },
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "狂赚约百亿！江波龙半年净利接近去年全年八倍 下半年存储品类仍有涨价|财报解读",
-          "url": "https://www.cls.cn/detail/2416926",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 14时43分]"
-        },
-        {
-          "title": "炸裂！存储巨头江波龙上半年净利预增62204%~74394% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3776160",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 14时43分]"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 11时45分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时43分]"
-        },
-        {
-          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
-          "url": "https://wallstreetcn.com/articles/3776091",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 04时59分]"
-        },
-        {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 7月3日（周五）晚盘收盘上涨0.41%报910.7元/克；<br/>上海黄金交易所白银T+D 7月3日（周五）晚盘收盘上涨0.76%报15207.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260704023100243800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 06时06分]"
-        },
-        {
-          "title": "金价本周涨超2%",
-          "url": "https://wallstreetcn.com/livenews/3128818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 06时06分]"
-        },
-        {
-          "title": "金十图示：2026年07月04日（周六）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260704121233153800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
-          "url": "https://wallstreetcn.com/livenews/3128809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时59分]"
-        },
-        {
-          "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
-          "url": "https://flash.jin10.com/detail/20260704012107426800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
@@ -502,11 +488,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 17时19分]"
         },
         {
           "title": "优必选 CEO 称珍惜当牛马最后光阴，20 年后是机器人干活，如何看待这一发言？机器人上班会是趋势吗？",
@@ -545,6 +532,104 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 03时11分]"
+        },
+        {
+          "title": "规范引导情感陪伴人形机器人健康发展，两协会联合倡议",
+          "url": "https://wallstreetcn.com/livenews/3128913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
+          "url": "https://flash.jin10.com/detail/20260704150630005800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 7月3日（周五）晚盘收盘上涨0.41%报910.7元/克；<br/>上海黄金交易所白银T+D 7月3日（周五）晚盘收盘上涨0.76%报15207.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260704023100243800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 06时06分]"
+        },
+        {
+          "title": "金价本周涨超2%",
+          "url": "https://wallstreetcn.com/livenews/3128818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 06时06分]"
+        },
+        {
+          "title": "金十图示：2026年07月04日（周六）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260704121233153800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
+          "url": "https://wallstreetcn.com/livenews/3128809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时59分]"
+        },
+        {
+          "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
+          "url": "https://flash.jin10.com/detail/20260704012107426800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "金价抬头 顾客冲进金店“秒下单”",
+          "url": "https://www.toutiao.com/trending/7657606346723835940/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },
