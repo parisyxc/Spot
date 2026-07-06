@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T06:59:54.899620+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-07-06T08:10:44.291458+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "HBM竞赛升级！美光日本90亿美元扩建项目开工，预计2028年出货",
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 08时10分]"
         },
         {
           "title": "日本为找稀土开始拆空调了",
@@ -26,11 +26,12 @@
             1,
             20,
             5,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 08时10分]"
         },
         {
           "title": "空调炼稀土,日本没招了",
@@ -38,11 +39,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 08时10分]"
         },
         {
           "title": "普京首次承认俄罗斯石油短缺，并拟从日本进口航空燃油，这释放了哪些信号？",
@@ -52,11 +54,34 @@
             19,
             18,
             15,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时09分 ~ 06时59分]"
+          "appearance_count": 5,
+          "time_info": "[03时09分 ~ 08时10分]"
+        },
+        {
+          "title": "日本贴近菲律宾：从昔日侵略者到阴险共谋",
+          "url": "https://news.ifeng.com/c/8uWzTRWFxiW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "日媒称“酷日本”失败了，引发舆论热议",
+          "url": "https://news.ifeng.com/c/8uWxn1S1EQr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "欧洲车市变天：中国品牌击败日本对手",
@@ -70,6 +95,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时09分 ~ 06时59分]"
+        },
+        {
+          "title": "为找稀土，日本开始“拆空调”了",
+          "url": "https://www.cls.cn/detail/2417171",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "中国7舰横穿日本4大要道有何深意",
@@ -130,22 +166,76 @@
           "url": "https://www.douyin.com/hot/2559690",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时10分]"
         },
         {
           "title": "奶奶微信删了77万条未读又来3万",
           "url": "https://www.toutiao.com/trending/7657828791955898406/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
+          "url": "https://wallstreetcn.com/articles/3776204",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 08时10分]"
+        },
+        {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 08时10分]"
+        },
+        {
+          "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
+          "url": "https://www.cls.cn/detail/2417191",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时59分"
+          "time_info": "08时10分"
+        },
+        {
+          "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
+          "url": "https://flash.jin10.com/detail/20260706070621012800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         }
       ]
     },
@@ -161,19 +251,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 08时10分]"
         },
         {
           "title": "韩国拟设“未来应对基金”，以半导体税收支持未来增长",
           "url": "https://wallstreetcn.com/livenews/3129027",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时10分]"
         },
         {
           "title": "韩国总统幕僚长：政府寻求利用半导体繁荣带来的税收盈余设立“未来应对基金”。基金应投资于未来的增长动力，解决K型两极分化问题。",
@@ -189,36 +280,8 @@
       ]
     },
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
-          "url": "https://wallstreetcn.com/articles/3776204",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时59分]"
-        },
-        {
-          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时59分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
@@ -226,11 +289,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 08时10分]"
         },
         {
           "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
@@ -242,6 +306,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时03分 ~ 05时57分]"
+        },
+        {
+          "title": "99万机器人伴侣续航撑不过一晚",
+          "url": "https://www.toutiao.com/trending/7659051533732642857/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货白银站上63美元/盎司，日内涨1.03%。",
+          "url": "https://flash.jin10.com/detail/20260706062940266800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "金十图示：2026年07月06日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260706065533294800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         }
       ]
     },
@@ -258,8 +361,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时59分]"
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 08时10分]"
         }
       ]
     },
@@ -276,25 +379,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货白银站上63美元/盎司，日内涨1.03%。",
-          "url": "https://flash.jin10.com/detail/20260706062940266800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 08时10分]"
         }
       ]
     }
