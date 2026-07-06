@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-07T05:26:12.190971+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-07-07T07:02:56.159883+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 07时02分]"
         },
         {
           "title": "三星明日初步财报：Q2利润预计暴增18倍，高管内部放话“一年利润顶40年”",
@@ -27,8 +28,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 07时02分]"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 07时02分]"
         },
         {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
@@ -37,17 +49,6 @@
           "ranks": [
             7,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时26分]"
-        },
-        {
-          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
-          "url": "https://wallstreetcn.com/articles/3776235",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -63,41 +64,66 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 07时02分]"
+        },
+        {
+          "title": "三星电子公布业绩预告后，闪迪(SNDK.O)和美光科技(MU.O)美股盘后走低，现分别跌1.2%和0.7%。",
+          "url": "https://flash.jin10.com/detail/20260707065433008800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "沃尔玛美股盘后跌超0.3%，（美国中期选举之前，）总统特朗普要求该公司大幅降价。",
           "url": "https://wallstreetcn.com/livenews/3129566",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时02分]"
         },
         {
           "title": "周一（7月6日），彭博电动汽车价格回报指数涨0.01%，报3584.02点。 指数全天呈现出U形反转，北京时间10:00之前呈现出V形反转、10:04刷新日高至3590.43点，21:30美股开盘后快速地显著收复失地。",
           "url": "https://wallstreetcn.com/livenews/3129561",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时02分]"
         },
         {
           "title": "大豆基金收涨将近3.3%，与农产品ETF、新兴市场ETF领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3129555",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时02分]"
         },
         {
           "title": "周一（7月6日），美股行业ETF多数收涨，全球科技股指数ETF涨2.18%，半导体ETF涨2.03%，科技行业ETF、网络股指数ETF至多涨1.67%，能源业ETF、生物科技指数ETF则至多收跌0.20%，公用事业ETF、医疗业ETF、日常消费品ETF至多跌1.05%。 标普500指数的11个板块中，电信板块收涨1.64%，信息技术/科技板块涨1.34%，房地产、日用消费品板块跌0.9%，公用事业、保健板块至多跌1.17%。",
@@ -106,9 +132,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "“特斯拉劲敌”Rivian Automotive二季度营收初步估算为15.5亿-16.5亿美元，分析师预期14.4亿美元。 二季度现金和现金等价物53亿美元。 申请（增加）发行7500万股股票。 Rivian美股盘后跌6%。",
+          "url": "https://wallstreetcn.com/livenews/3129570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国财报季将启 投资者看好业绩但警惕油价冲击",
+          "url": "https://flash.jin10.com/detail/20260707053053700800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "金十图示：2026年07月06日（周一）美股热门股票行情一览（美股收盘）",
@@ -117,7 +165,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -128,7 +176,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         }
@@ -143,11 +191,12 @@
           "url": "https://www.cls.cn/detail/2417841",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 07时02分]"
         },
         {
           "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
@@ -155,11 +204,24 @@
           "source": "知乎",
           "ranks": [
             14,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 07时02分]"
+        },
+        {
+          "title": "优必选回应仿生机器人争议：续航2-4小时是行业普遍情况，定位是情感陪伴，不是伴侣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33526038",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 07时02分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.01%，暂报2257.60点，北京时间20:00以来呈现出V形反转走势。 MarketVectorTM数字资产100中盘指数涨1.70%，报2633.91点。 MarketVector数字资产100指数涨1.36，报12739.11点。 目前，Solana涨1.30%，狗狗币跌0.65%，XRP涨1.43%。 比特币涨1.50%，暂报63675.80美元；以太坊涨0.65%，暂报1791.66美元。",
@@ -172,17 +234,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 03时49分]"
-        },
-        {
-          "title": "优必选回应仿生机器人争议：续航2-4小时是行业普遍情况，定位是情感陪伴，不是伴侣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33526038",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时26分]"
         },
         {
           "title": "99万元机器人伴侣续航撑不过一晚",
@@ -210,7 +261,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：投机者在截至6月30日的一周内，将COMEX白银投机者将净多头头寸增加1,088份合约，至12,747份；COMEX铜投机者将净多头头寸削减7,452份合约，至61,367份。",
@@ -228,11 +279,23 @@
           "url": "https://wallstreetcn.com/livenews/3129567",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时02分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少39.38吨，当前持仓量为14899.63吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260707055644232800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "07时02分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月6日（周一）晚盘收盘下跌0.06%报909.0元/克；<br/>上海黄金交易所白银T+D 7月6日（周一）晚盘收盘上涨0.03%报15125.0元/千克。",
@@ -252,7 +315,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         }
@@ -260,7 +323,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "漠叔调查日本毒气战",
@@ -269,11 +332,12 @@
           "ranks": [
             15,
             26,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 07时02分]"
         },
         {
           "title": "空调炼稀土,日本没招了",
@@ -287,6 +351,17 @@
           "time_info": "[01时39分 ~ 03时49分]"
         },
         {
+          "title": "为什么日本足球崛起几十年没突破 16 强，摩洛哥却短短十几年成为 8 强常客？",
+          "url": "https://www.zhihu.com/question/2057148749714134022",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
           "url": "https://flash.jin10.com/detail/20260707022859049800",
           "source": "金十数据",
@@ -296,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "据知情人士透露，Thrive Holdings融资大约20亿美元，这是首次有外部投资者参与投资。 Altimeter、D1 Capital Partners、日本软银集团参与本轮投资。 此前，该公司已经从（当时的）现有投资者募集10亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3129553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
@@ -312,8 +398,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 07时02分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.71%，报6013.62点。 热门中概股里，比亚迪、腾讯、日月光半导体、阿特斯太阳能初步收涨4.5%，蔚来、美团涨4.1%，小鹏涨3.6%，新东方、网易涨3%，阿里巴巴涨1.9%。 ETF中，中概互联网指数ETF（KWEB）收涨2.40%，中国科技指数ETF（CQQQ）收涨0.83%。 MSCI新兴市场ex中国ETF（EMXC）收涨3.31%，德银嘉实沪深300指数ETF（ASHR）收涨1.17%，XtrackersHarvest中证50（ASHS）收跌0.58%。",
@@ -322,7 +408,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         }
@@ -337,11 +423,12 @@
           "url": "https://wallstreetcn.com/articles/3776245",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 07时02分]"
         },
         {
           "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
