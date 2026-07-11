@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T02:54:18.552693+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2026-07-12T04:04:00.118647+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -37,30 +37,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
           "url": "https://www.cls.cn/detail/2423438",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时04分]"
         }
       ]
     },
@@ -77,8 +79,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "“日本可回收火箭着陆成功”？日媒：只飞了11米",
@@ -88,8 +90,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "又赢?日本可回收火箭仅飞11米",
@@ -99,8 +101,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "中赴日游客暴跌,日本顶不住了",
@@ -110,8 +112,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "日本可回收火箭着陆成功 仅飞11米",
@@ -135,22 +137,41 @@
           "url": "https://www.cls.cn/detail/2422869",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
           "url": "https://wallstreetcn.com/articles/3776692",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "荷兰为何急着解决安世半导体问题",
+          "url": "https://www.toutiao.com/trending/7661180211047697966/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 04时04分]"
         }
       ]
     }
