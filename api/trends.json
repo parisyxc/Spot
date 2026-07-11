@@ -1,44 +1,35 @@
 {
-  "generated_at": "2026-07-12T04:04:00.118647+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-07-12T05:44:16.841501+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时04分]"
-        },
         {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
           "url": "https://wallstreetcn.com/articles/3776694",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
           "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
@@ -47,6 +38,17 @@
           "ranks": [
             7,
             6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时44分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -61,8 +63,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时44分]"
+        },
+        {
+          "title": "全球市场步入“动荡之夏”：警惕美联储变局、日元危机和财报季大考",
+          "url": "https://wallstreetcn.com/articles/3776706",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 05时44分]"
+        },
+        {
+          "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
+          "url": "https://flash.jin10.com/detail/20260712034752790800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         }
       ]
     },
@@ -76,11 +100,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "“日本可回收火箭着陆成功”？日媒：只飞了11米",
@@ -90,8 +115,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "又赢?日本可回收火箭仅飞11米",
@@ -101,8 +126,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "中赴日游客暴跌,日本顶不住了",
@@ -112,8 +137,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "日本可回收火箭着陆成功 仅飞11米",
@@ -130,7 +155,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -141,8 +166,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -150,11 +175,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时44分]"
+        },
+        {
+          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
+          "url": "https://flash.jin10.com/detail/20260712032711538800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         }
       ]
     },
@@ -167,11 +204,29 @@
           "url": "https://www.toutiao.com/trending/7661180211047697966/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时03分 ~ 04时04分]"
+          "appearance_count": 4,
+          "time_info": "[04时03分 ~ 05时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         }
       ]
     }
