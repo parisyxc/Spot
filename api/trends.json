@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-12T07:50:17.783084+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-07-12T10:10:26.326963+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时50分]"
-        },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
           "url": "https://www.cls.cn/detail/2423438",
@@ -26,6 +14,18 @@
           "ranks": [
             7,
             6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 10时10分]"
+        },
+        {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -72,11 +72,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时43分 ~ 07时50分]"
+          "appearance_count": 5,
+          "time_info": "[05时43分 ~ 10时10分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
@@ -89,6 +90,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时44分 ~ 07时50分]"
+        },
+        {
+          "title": "环球下周看点：通胀、财报与中东风险“三碰头” 标普再冲新高",
+          "url": "https://www.cls.cn/detail/2423676",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "市场消息：日本呼吁日本政府养老金投资基金（GPIF）在投资策略中增加另类资产配置。",
+          "url": "https://flash.jin10.com/detail/20260712084645401800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     },
@@ -96,6 +119,33 @@
       "keyword_group": "稳定币 日本",
       "match_count": 5,
       "titles": [
+        {
+          "title": "又赢?日本可回收火箭仅飞11米",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356098&amp;topic_name=%E5%8F%88%E8%B5%A2%3F%E6%97%A5%E6%9C%AC%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E4%BB%85%E9%A3%9E11%E7%B1%B3",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 10时10分]"
+        },
+        {
+          "title": "日本可回收火箭小型实验机 RV-X「着陆成功」，日媒报道只飞了 11 米，这是什么水平？对其有何意义？",
+          "url": "https://www.zhihu.com/question/2058854448244454744",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            4,
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 10时10分]"
+        },
         {
           "title": "“日本可回收火箭着陆成功”？日媒：只飞了11米",
           "url": "https://news.ifeng.com/c/8ufkpdmHw6H",
@@ -108,40 +158,16 @@
           "time_info": "[00时51分 ~ 07时50分]"
         },
         {
-          "title": "日本可回收火箭小型实验机 RV-X「着陆成功」，日媒报道只飞了 11 米，这是什么水平？对其有何意义？",
-          "url": "https://www.zhihu.com/question/2058854448244454744",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时50分]"
-        },
-        {
-          "title": "又赢?日本可回收火箭仅飞11米",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356098&amp;topic_name=%E5%8F%88%E8%B5%A2%3F%E6%97%A5%E6%9C%AC%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E4%BB%85%E9%A3%9E11%E7%B1%B3",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时50分]"
-        },
-        {
           "title": "中赴日游客暴跌,日本顶不住了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356077&amp;topic_name=%E4%B8%AD%E8%B5%B4%E6%97%A5%E6%B8%B8%E5%AE%A2%E6%9A%B4%E8%B7%8C%2C%E6%97%A5%E6%9C%AC%E9%A1%B6%E4%B8%8D%E4%BD%8F%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 10时10分]"
         },
         {
           "title": "日本可回收火箭着陆成功 仅飞11米",
@@ -169,8 +195,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 10时10分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -233,6 +259,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时44分 ~ 07时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特写｜当机器人来到古村落",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565908",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     }
