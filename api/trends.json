@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T21:07:24.283940+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-07-12T22:51:39.385853+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "日本可回收火箭小型实验机 RV-X「着陆成功」，日媒报道只飞了 11 米，这是什么水平？对其有何意义？",
@@ -44,11 +44,12 @@
             19,
             20,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 21时07分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 22时51分]"
         },
         {
           "title": "中赴日游客暴跌,日本顶不住了",
@@ -71,11 +72,12 @@
             6,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时52分 ~ 21时07分]"
+          "appearance_count": 6,
+          "time_info": "[13时52分 ~ 22时51分]"
         },
         {
           "title": "美银Hartnett：日本银行股是“全球避险情绪领先指标”，下半年有“四大逆向交易机会”",
@@ -85,11 +87,12 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时08分 ~ 21时07分]"
+          "appearance_count": 5,
+          "time_info": "[16时08分 ~ 22时51分]"
         },
         {
           "title": "你跑不过我!日本少年制服窃贼",
@@ -97,11 +100,24 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时51分]"
+        },
+        {
+          "title": "中方：日本没资格说三道四",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%B2%A1%E8%B5%84%E6%A0%BC%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时07分]"
+          "time_info": "[21时07分 ~ 22时51分]"
         },
         {
           "title": "外交部发言人就日本外务大臣炒作“南海仲裁案裁决”出台十年发表谈话",
@@ -109,22 +125,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时07分]"
-        },
-        {
-          "title": "中方：日本没资格说三道四",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%B2%A1%E8%B5%84%E6%A0%BC%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时51分]"
         },
         {
           "title": "日本将推动其巨额养老基金增加另类资产配置",
@@ -149,6 +155,17 @@
           "time_info": "[13时52分 ~ 16时08分]"
         },
         {
+          "title": "外交部用冲之鸟礁反问日本",
+          "url": "https://www.toutiao.com/trending/7660572530613714953/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "外交部发言人就日本外务大臣炒作“南海仲裁案裁决”出台十年发表谈话",
           "url": "https://flash.jin10.com/detail/20260712182857525800",
           "source": "金十数据",
@@ -161,13 +178,24 @@
           "time_info": "[19时56分 ~ 21时07分]"
         },
         {
+          "title": "外交部：奉劝日本停止污蔑攻击中国，停止在南海问题上搬弄是非",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570981",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "日本三大车商在华新车销量集体下滑",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%89%E5%A4%A7%E8%BD%A6%E5%95%86%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E9%9B%86%E4%BD%93%E4%B8%8B%E6%BB%91",
           "source": "百度热搜",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -186,7 +214,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
@@ -271,11 +299,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时52分 ~ 21时07分]"
+          "appearance_count": 6,
+          "time_info": "[13时52分 ~ 22时51分]"
         },
         {
           "title": "环球下周看点：通胀、财报与中东风险“三碰头” 标普再冲新高",
@@ -288,8 +317,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 21时07分]"
+          "appearance_count": 7,
+          "time_info": "[10时10分 ~ 22时51分]"
+        },
+        {
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
@@ -304,6 +344,17 @@
           "time_info": "[05时44分 ~ 07时50分]"
         },
         {
+          "title": "金十整理：下周重要事件与数据预告——美国CPI、中国GDP、沃什国会首秀、华尔街财报季来袭",
+          "url": "https://flash.jin10.com/detail/20260712210501681800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "市场消息：日本呼吁日本政府养老金投资基金（GPIF）在投资策略中增加另类资产配置。",
           "url": "https://flash.jin10.com/detail/20260712084645401800",
           "source": "金十数据",
@@ -313,6 +364,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片产业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
+          "url": "https://wallstreetcn.com/articles/3776714",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时52分 ~ 22时51分]"
+        },
+        {
+          "title": "荷兰为何急着解决安世半导体问题",
+          "url": "https://www.toutiao.com/trending/7661180211047697966/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时03分 ~ 05时44分]"
+        },
+        {
+          "title": "存储扩产预期再度强化！三星电子晶圆厂建设提速 半导体设备增量空间可期",
+          "url": "https://www.cls.cn/detail/2423747",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         }
       ]
     },
@@ -329,8 +424,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 21时07分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 22时51分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -365,6 +460,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 22时51分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
           "url": "https://flash.jin10.com/detail/20260712043502920800",
           "source": "金十数据",
@@ -375,19 +484,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时44分 ~ 07时50分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 21时07分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
@@ -403,52 +499,20 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
-          "url": "https://wallstreetcn.com/articles/3776714",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时52分 ~ 21时07分]"
-        },
-        {
-          "title": "荷兰为何急着解决安世半导体问题",
-          "url": "https://www.toutiao.com/trending/7661180211047697966/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时03分 ~ 05时44分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2058623048639689021",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 22时51分]"
         },
         {
           "title": "全抖音都在鼓励哈兰德",
@@ -458,11 +522,51 @@
             21,
             18,
             25,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时52分 ~ 22时51分]"
+        },
+        {
+          "title": "维金斯抖音直播谈字母哥加盟",
+          "url": "https://www.douyin.com/hot/2568025",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价震荡科技回调 资金寻找新均衡",
+          "url": "https://www.toutiao.com/trending/7661411388552085513/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "国投白银LOF：提示A类基金份额二级市场交易价格溢价风险",
+          "url": "https://flash.jin10.com/detail/20260712170307917800",
+          "source": "金十数据",
+          "ranks": [
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时52分 ~ 21时07分]"
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
@@ -512,23 +616,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时52分 ~ 16时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国投白银LOF：提示A类基金份额二级市场交易价格溢价风险",
-          "url": "https://flash.jin10.com/detail/20260712170307917800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         }
       ]
     }
