@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T07:48:15.515530+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-07-13T10:12:36.895090+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "你跑不过我!日本少年制服窃贼",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时12分]"
         },
         {
           "title": "美银Hartnett：日本银行股是“全球避险情绪领先指标”，下半年有“四大逆向交易机会”",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时12分]"
         },
         {
           "title": "外交部用冲之鸟礁反问日本",
@@ -51,8 +52,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时12分]"
         },
         {
           "title": "外交部：奉劝日本停止污蔑攻击中国，停止在南海问题上搬弄是非",
@@ -63,8 +64,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时12分]"
         },
         {
           "title": "又赢?日本可回收火箭仅飞11米",
@@ -74,8 +75,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时12分]"
         },
         {
           "title": "外交部发言人就日本外务大臣炒作“南海仲裁案裁决”出台十年发表谈话",
@@ -89,6 +90,17 @@
           "time_info": "[00时54分 ~ 05时44分]"
         },
         {
+          "title": "摩根士丹利三菱日联：日元和日本国债短期内料受片山皋月言论支撑",
+          "url": "https://flash.jin10.com/detail/20260713094843942800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "中方：日本没资格说三道四",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%B2%A1%E8%B5%84%E6%A0%BC%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B",
           "source": "百度热搜",
@@ -98,12 +110,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 00时54分]"
+        },
+        {
+          "title": "评论员：现在的日本变得十分危险",
+          "url": "https://www.toutiao.com/trending/7660944439904944191/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -133,11 +156,23 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时12分]"
+        },
+        {
+          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
@@ -161,12 +196,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "高盛：香港软件科技股表现可能将趋于改善 下半年仍维持超配A股",
+          "url": "https://wallstreetcn.com/livenews/3132502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
@@ -174,11 +220,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时12分]"
         },
         {
           "title": "存储扩产预期再度强化！三星电子晶圆厂建设提速 半导体设备增量空间可期",
@@ -186,11 +233,23 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时12分]"
+        },
+        {
+          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
+          "url": "https://www.cls.cn/detail/2423960",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "15个交易日逾千亿元，A股半导体主题ETF“吸金”",
@@ -199,7 +258,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -214,6 +273,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时48分]"
+        },
+        {
+          "title": "A股半导体板块短线拉升，上海合晶涨超13%，帝奥微、托伦斯、富创精密、盛科通信、恒玄科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260713094057540800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
@@ -221,19 +291,6 @@
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 4,
       "titles": [
-        {
-          "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058623048639689021",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时48分]"
-        },
         {
           "title": "维金斯抖音直播谈字母哥加盟",
           "url": "https://www.douyin.com/hot/2568025",
@@ -245,6 +302,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时53分 ~ 07时48分]"
+        },
+        {
+          "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058623048639689021",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时12分]"
         },
         {
           "title": "全抖音都在鼓励哈兰德",
@@ -272,6 +343,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时12分]"
+        },
+        {
+          "title": "苹果指控OpenAI偷窃商业机密",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8C%87%E6%8E%A7OpenAI%E5%81%B7%E7%AA%83%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "印度本土为何跑不出一家OpenAI",
+          "url": "https://www.toutiao.com/trending/7661777860511665706/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 铜价 白银",
       "match_count": 3,
       "titles": [
@@ -282,7 +392,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -314,7 +424,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -326,23 +436,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 06时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
+          "title": "Meta又闯祸了，新AI图像功能被喷到下线",
+          "url": "https://www.cls.cn/detail/2423666",
+          "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     }
