@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T05:01:58.943060+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-07-17T06:11:03.081232+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
@@ -37,19 +37,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
-          "title": "美股存储芯片指数收跌超8%",
-          "url": "https://wallstreetcn.com/livenews/3135275",
+          "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
+          "url": "https://wallstreetcn.com/livenews/3135298",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时11分"
         },
         {
           "title": "美股存储芯片指数跌幅扩大至7%，闪迪跌幅扩大至10%，西部数据跌近9%。SK海力士ADR跌8.6%。费城半导体指数目前跌3.5%，纳斯达克100指数维持超过0.9%的跌幅。",
@@ -61,28 +72,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
-          "url": "https://wallstreetcn.com/livenews/3135268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
@@ -97,15 +86,40 @@
           "time_info": "[03时59分 ~ 05时01分]"
         },
         {
+          "title": "美股存储芯片指数收跌超8%",
+          "url": "https://wallstreetcn.com/livenews/3135275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
+          "url": "https://wallstreetcn.com/livenews/3135268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
           "title": "周四（7月16日），美股行业ETF多数收涨，区域银行ETF涨2.82%，日常消费品ETF、银行业ETF至少涨2.44%。 网络股指数ETF则收跌1.54%，科技行业ETF跌2.24%，全球科技股指数ETF跌2.47%，半导体ETF跌3.70%。",
           "url": "https://wallstreetcn.com/livenews/3135267",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时11分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -114,7 +128,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -125,7 +139,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -136,7 +150,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -147,7 +161,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -158,7 +172,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -176,8 +190,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -286,7 +300,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -326,8 +340,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "【每日收评】沪指跌近2%失守3900点，医药、影视股逆势活跃，芯片产业链持续调整",
@@ -337,8 +351,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.79%，报6396.75点。 热门中概股里，小米初步收涨5.4%，比亚迪涨3.3%，美团涨3.2%，小鹏涨2.1%，百度涨1.2%，拼多多涨1.2%，阿里巴巴跌0.1%，腾讯跌0.4%，日月光半导体跌3.3%。 ETF中，中概互联网指数ETF（KWEB）收涨1.78%，中国科技指数ETF（CQQQ）收跌1.45%。 XtrackersHarvest中证50（ASHS）收跌2.86%，MSCI新兴市场ex中国ETF（EMXC）收跌2.60%，德银嘉实沪深300指数ETF（ASHR）收跌2.43%。",
@@ -347,7 +361,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -365,6 +379,48 @@
       ]
     },
     {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "男子150万白银存金店被拒还",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90150%E4%B8%87%E7%99%BD%E9%93%B6%E5%AD%98%E9%87%91%E5%BA%97%E8%A2%AB%E6%8B%92%E8%BF%98",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            14,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 06时11分]"
+        },
+        {
+          "title": "现货黄金跌超2%，一度逼近3940美元，白银跌约4%，钯金跌超5%",
+          "url": "https://wallstreetcn.com/livenews/3135281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月16日（周四）晚盘收盘下跌1.09%报870.1元/克；<br/>上海黄金交易所白银T+D 7月16日（周四）晚盘收盘下跌2.29%报13592.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260717023033144800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 3,
       "titles": [
@@ -378,8 +434,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "功夫女足这条抖音艺术已成",
@@ -419,8 +475,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "日学者：日本图谋将菲打造成桥头堡",
@@ -433,8 +489,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
@@ -460,11 +516,12 @@
           "ranks": [
             2,
             6,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "甄子丹亮相人形机器人格斗揭幕赛",
@@ -488,36 +545,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "男子150万白银存金店被拒还",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90150%E4%B8%87%E7%99%BD%E9%93%B6%E5%AD%98%E9%87%91%E5%BA%97%E8%A2%AB%E6%8B%92%E8%BF%98",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 05时01分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月16日（周四）晚盘收盘下跌1.09%报870.1元/克；<br/>上海黄金交易所白银T+D 7月16日（周四）晚盘收盘下跌2.29%报13592.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260717023033144800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
         }
       ]
     }
