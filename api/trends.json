@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-17T18:05:21.226868+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-07-17T20:07:04.016009+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时54分 ~ 20时07分]"
+        },
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2428765",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 06时11分]"
-        },
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时54分 ~ 18时05分]"
         },
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -113,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "科技股抛售潮蔓延，纳指100期货跌1.5%，盘前存储股跌幅收窄，布油涨2%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
         },
         {
           "title": "美股存储芯片指数跌幅扩大至7%，闪迪跌幅扩大至10%，西部数据跌近9%。SK海力士ADR跌8.6%。费城半导体指数目前跌3.5%，纳斯达克100指数维持超过0.9%的跌幅。",
@@ -440,7 +451,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国援助海外,日本冒领功劳",
@@ -451,11 +462,12 @@
             1,
             10,
             17,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 18时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 20时07分]"
         },
         {
           "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
@@ -463,11 +475,25 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时01分 ~ 18时05分]"
+          "appearance_count": 5,
+          "time_info": "[16时01分 ~ 20时07分]"
+        },
+        {
+          "title": "傅面学传入日本,恶人脸遭处刑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时01分 ~ 20时07分]"
         },
         {
           "title": "日学者：日本图谋将菲打造成桥头堡",
@@ -484,16 +510,15 @@
           "time_info": "[00时14分 ~ 06时11分]"
         },
         {
-          "title": "傅面学传入日本,恶人脸遭处刑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
+          "title": "黄油拌糖嘎嘣脆,日本网友整活",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356276&amp;topic_name=%E9%BB%84%E6%B2%B9%E6%8B%8C%E7%B3%96%E5%98%8E%E5%98%A3%E8%84%86%2C%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E6%95%B4%E6%B4%BB",
           "source": "贴吧",
           "ranks": [
-            7,
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时01分 ~ 18时05分]"
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
         },
         {
           "title": "高市早苗称应鼓励家庭和GPIF增加日本资产投资",
@@ -507,16 +532,15 @@
           "time_info": "16时02分"
         },
         {
-          "title": "日本拆完空调又回收电动车电池找稀土",
-          "url": "https://www.toutiao.com/trending/7663164380225372179/",
-          "source": "今日头条",
+          "title": "“印度新干线”难产，日本前大臣：印度人毫无信誉，全怪他们",
+          "url": "https://news.ifeng.com/c/8upwLK28tcQ",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            27
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时01分 ~ 18时05分]"
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
         },
         {
           "title": "西红柿炒蛋在日本火了",
@@ -524,7 +548,20 @@
           "source": "微博",
           "ranks": [
             15,
-            18
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时01分 ~ 20时07分]"
+        },
+        {
+          "title": "日本拆完空调又回收电动车电池找稀土",
+          "url": "https://www.toutiao.com/trending/7663164380225372179/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -570,7 +607,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -592,6 +629,19 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "首届机器人格斗赛精彩集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%96%E5%B1%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E7%B2%BE%E5%BD%A9%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时36分 ~ 20时07分]"
+        },
+        {
           "title": "格斗赛机器人头被打飞 甄子丹看呆",
           "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E6%96%97%E8%B5%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%B4%E8%A2%AB%E6%89%93%E9%A3%9E+%E7%94%84%E5%AD%90%E4%B8%B9%E7%9C%8B%E5%91%86",
           "source": "百度热搜",
@@ -606,19 +656,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 10时07分]"
-        },
-        {
-          "title": "首届机器人格斗赛精彩集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%96%E5%B1%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E7%B2%BE%E5%BD%A9%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 18时05分]"
         },
         {
           "title": "人形机器人格斗赛诞生躺赢名场面",
@@ -657,6 +694,19 @@
           "time_info": "[13时36分 ~ 16时02分]"
         },
         {
+          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时01分 ~ 20时07分]"
+        },
+        {
           "title": "央视财经记者PK乒乓球机器人",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F%E8%AE%B0%E8%80%85PK%E4%B9%92%E4%B9%93%E7%90%83%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "bilibili 热搜",
@@ -666,18 +716,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
-        },
-        {
-          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时01分 ~ 18时05分]"
         },
         {
           "title": "甄子丹亮相人形机器人格斗揭幕赛",
@@ -709,7 +747,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         }
@@ -801,7 +839,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "男子150万白银存金店被拒还",
@@ -838,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "【世界黄金协会：中国市场黄金ETF上半年实现显著流入】7月17日，世界黄金协会数据显示，6月金价走弱，抹去前期涨幅，上半年最终以下跌收官。尽管6月有流出，中国市场黄金ETF上半年仍实现显著流入，推动资产管理总规模（AUM）小幅升至2430亿元人民币，总持仓增加29吨至277吨。6月，中国市场黄金ETF流出150亿元人民币，为有记录以来最疲弱的单月表现。",
+          "url": "https://wallstreetcn.com/livenews/3135688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "现货黄金跌超2%，一度逼近3940美元，白银跌约4%，钯金跌超5%",
@@ -879,8 +928,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 16时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 20时07分]"
         },
         {
           "title": "功夫女足这条抖音艺术已成",
@@ -920,7 +969,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         }
@@ -954,11 +1003,29 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时36分 ~ 20时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "颠覆式创新 指数级增长 创造性破坏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SK海力士大幅回调！崔泰源喊话坚守持仓：存储需求将呈指数级增长",
+          "url": "https://www.cls.cn/detail/2429565",
+          "source": "财联社热门",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 18时05分]"
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
         }
       ]
     }
