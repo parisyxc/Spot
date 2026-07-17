@@ -1,420 +1,44 @@
 {
-  "generated_at": "2026-07-17T22:28:47.070183+08:00",
-  "total_titles_processed": 1665,
+  "generated_at": "2026-07-18T00:11:07.856006+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时54分 ~ 22时28分]"
-        },
-        {
-          "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2428765",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 10时07分]"
-        },
-        {
-          "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时11分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时11分]"
-        },
-        {
-          "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时01分 ~ 10时07分]"
-        },
-        {
-          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
-          "url": "https://www.cls.cn/detail/2428987",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 13时36分]"
-        },
-        {
-          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
-          "url": "https://www.cls.cn/detail/2428956",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 13时36分]"
-        },
-        {
-          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
-          "url": "https://www.cls.cn/detail/2429026",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 16时02分]"
-        },
-        {
-          "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
-          "url": "https://wallstreetcn.com/livenews/3135298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "道指转涨，刷新日高、逼近52560点，美股盘初一度跌至51986.74点刷新日低。 存储板块集体拉升，纷纷收复此前4%-7%的盘初跌幅。SK海力士ADR目前涨4.63%，美光科技股价下跌0.17%，闪迪股价上涨0.28%。",
-          "url": "https://wallstreetcn.com/livenews/3135778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌2.5%，全球科技股指数ETF跌近2%，能源业ETF、日常消费品ETF涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3135775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "科技股抛售潮蔓延，纳指100期货跌1.5%，盘前存储股跌幅收窄，布油涨2%，黄金失守4000美元",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时06分 ~ 20时07分]"
-        },
-        {
-          "title": "美股存储芯片指数跌幅扩大至7%，闪迪跌幅扩大至10%，西部数据跌近9%。SK海力士ADR跌8.6%。费城半导体指数目前跌3.5%，纳斯达克100指数维持超过0.9%的跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3135181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3135254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 05时01分]"
-        },
-        {
-          "title": "美股存储芯片指数收跌超8%",
-          "url": "https://wallstreetcn.com/livenews/3135275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时11分]"
-        },
-        {
-          "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
-          "url": "https://wallstreetcn.com/livenews/3135268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时11分]"
-        },
-        {
-          "title": "全球科技股为何突然“熄火”",
-          "url": "https://www.toutiao.com/trending/7662310627776757787/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 16时02分]"
-        },
-        {
-          "title": "周四（7月16日），美股行业ETF多数收涨，区域银行ETF涨2.82%，日常消费品ETF、银行业ETF至少涨2.44%。 网络股指数ETF则收跌1.54%，科技行业ETF跌2.24%，全球科技股指数ETF跌2.47%，半导体ETF跌3.70%。",
-          "url": "https://wallstreetcn.com/livenews/3135267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时11分]"
-        },
-        {
-          "title": "美股芯片股深夜大跌",
-          "url": "https://www.toutiao.com/trending/7663271539885739558/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时07分]"
-        },
-        {
-          "title": "SK海力士美股股价收复逾4%跌幅，现涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3135764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260717040547992800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "奈飞二季度营收125.6亿美元，分析师预期125.8亿美元。 二季度每股收益（EPS）为0.80美元，分析师预期0.79美元。 预计全年营收510亿-514亿美元，公司原本预计507亿-517亿美元。 预计三季度营收128.6亿美元，分析师预期130亿美元。 预计三季度EPS为0.82美元，分析师预期0.84美元。 “我们观看了啥”（What we Watched）的发布频率将从半年一次降低至一年一次。 奈飞美股盘后跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3135263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "受财报影响，奈飞(NFLX.O)盘后跌超4%。",
-          "url": "https://flash.jin10.com/detail/20260717040544424800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "金十图示：2026年07月16日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260717040536324800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "恐慌性抛售席卷亚洲！日经225暴跌6%，动量交易正在反噬科技股狂潮",
-          "url": "https://flash.jin10.com/detail/20260717131126252800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 SK海力士跌13%",
-          "url": "https://flash.jin10.com/detail/20260717040125271800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "美股盘初：纳指跌1.8%，费城半导体指数跌超3%，奈飞跌约12%，SpaceX跌约3%",
-          "url": "https://wallstreetcn.com/livenews/3135751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "瑞讯银行：科技股遭遇抛售部分是因台积电上调资本支出预期",
-          "url": "https://flash.jin10.com/detail/20260717150638991800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "稳定币 日本",
-      "match_count": 15,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "中国援助海外,日本冒领功劳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1,
-            10,
-            17,
-            20,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 22时28分]"
-        },
         {
           "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
           "url": "https://www.zhihu.com/question/2061057694832620856",
           "source": "知乎",
           "ranks": [
-            5,
-            4,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时01分 ~ 22时28分]"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "傅面学传入日本,恶人脸遭处刑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
-          "source": "贴吧",
+          "title": "日本女首相背刺女天皇，“天皇制将难以为继”",
+          "url": "https://news.ifeng.com/c/8uq9lkVDSxJ",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            10,
-            13,
-            14
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时01分 ~ 22时28分]"
-        },
-        {
-          "title": "日学者：日本图谋将菲打造成桥头堡",
-          "url": "https://www.toutiao.com/trending/7662220331951865899/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            23,
-            26,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
           "title": "黄油拌糖嘎嘣脆,日本网友整活",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356276&amp;topic_name=%E9%BB%84%E6%B2%B9%E6%8B%8C%E7%B3%96%E5%98%8E%E5%98%A3%E8%84%86%2C%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E6%95%B4%E6%B4%BB",
           "source": "贴吧",
           "ranks": [
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时06分 ~ 22时28分]"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
           "title": "“印度新干线”难产，日本前大臣：印度人毫无信誉，全怪他们",
@@ -424,676 +48,164 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时06分 ~ 22时28分]"
-        },
-        {
-          "title": "高市早苗称应鼓励家庭和GPIF增加日本资产投资",
-          "url": "https://flash.jin10.com/detail/20260717153109917800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "西红柿炒蛋在日本火了",
-          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%82%92%E8%9B%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%81%AB%E4%BA%86&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时01分 ~ 20时07分]"
-        },
-        {
-          "title": "日本女首相背刺女天皇，“天皇制将难以为继”",
-          "url": "https://news.ifeng.com/c/8uq9lkVDSxJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "日本拆完空调又回收电动车电池找稀土",
-          "url": "https://www.toutiao.com/trending/7663164380225372179/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时01分 ~ 18时05分]"
-        },
-        {
-          "title": "日本首相高市早苗称GPIF投资国内资产至关重要",
-          "url": "https://wallstreetcn.com/livenews/3135533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：希望英伟达进一步与日本在具身智能领域展开合作。",
-          "url": "https://wallstreetcn.com/livenews/3135353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
-          "url": "https://wallstreetcn.com/livenews/3135189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "日本央行在7月会议上将维持利率不变。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3135590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "日经225指数收跌4%，报64141.12点。日本东证指数收跌2.7%，报3919.21点。",
-          "url": "https://wallstreetcn.com/livenews/3135521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 07时54分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
-          "url": "https://flash.jin10.com/detail/20260717001129809800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
-          "url": "https://www.cls.cn/detail/2428944",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 13时36分]"
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
-          "url": "https://flash.jin10.com/detail/20260717001020905800",
-          "source": "金十数据",
+          "title": "傅面学传入日本,恶人脸遭处刑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
+          "source": "贴吧",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "谷歌(GOOG.O)推出Gemini Omni，并更新Google Vids个人数字形象功能。",
-          "url": "https://flash.jin10.com/detail/20260717000925338800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "市场消息：英特尔(INTC.O)正在探索基于谷歌云(GOOG.O)的解决方案，以帮助团队简化市场营销和沟通工作流程。",
-          "url": "https://flash.jin10.com/detail/20260717000606202800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
-          "url": "https://flash.jin10.com/detail/20260717032122881800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
-          "url": "https://flash.jin10.com/detail/20260717000518313800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "欧盟要求谷歌开放安卓AI功能并共享搜索数据",
-          "url": "https://wallstreetcn.com/livenews/3135211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "市场消息：英特尔(INTC.O)与谷歌云(GOOG.O)合作推动英特尔企业人工智能转型。",
-          "url": "https://flash.jin10.com/detail/20260717000450810800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
-          "url": "https://wallstreetcn.com/livenews/3135246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 05时01分]"
-        },
-        {
-          "title": "谷歌A收跌4.4%，市值蒸发2000亿美元。 标普500指数的11个板块中，日用品板块收涨2.9%，保健、房地产板块至少涨2.1%，能源板块涨1%，信息技术/可选消费板块跌1.77%，电信板块跌2.85%。 在标普500指数的所有成分股里，谷歌A跌幅靠前，在标普电信板块，谷歌A跌幅仅次于回声星通信（ECHO）——后者收跌5.21%。",
-          "url": "https://wallstreetcn.com/livenews/3135262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
-          "url": "https://flash.jin10.com/detail/20260717022948795800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "谷歌A跌幅扩大至2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3135230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "首届机器人格斗赛精彩集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%96%E5%B1%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E7%B2%BE%E5%BD%A9%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            5,
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时36分 ~ 22时28分]"
-        },
-        {
-          "title": "格斗赛机器人头被打飞 甄子丹看呆",
-          "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E6%96%97%E8%B5%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%B4%E8%A2%AB%E6%89%93%E9%A3%9E+%E7%94%84%E5%AD%90%E4%B8%B9%E7%9C%8B%E5%91%86",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            6,
-            14,
-            16,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 10时07分]"
-        },
-        {
-          "title": "人形机器人格斗赛诞生躺赢名场面",
-          "url": "https://www.douyin.com/hot/2574104",
-          "source": "抖音",
-          "ranks": [
-            9,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 13时36分]"
-        },
-        {
-          "title": "财联社、科创板日报记者探营WAIC 2026：从超节点算力到进厂机器人 AI与物理世界开启“无界融合”",
-          "url": "https://www.cls.cn/detail/2428882",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 13时36分]"
-        },
-        {
-          "title": "美国团队用宇树 G1 人形机器人完成猪胆囊切除，论文作者称距离人体临床还很远，这件事含金量到底有多高？",
-          "url": "https://www.zhihu.com/question/2060754085637271982",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 16时02分]"
-        },
-        {
-          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18,
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时01分 ~ 22时28分]"
-        },
-        {
-          "title": "央视财经记者PK乒乓球机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F%E8%AE%B0%E8%80%85PK%E4%B9%92%E4%B9%93%E7%90%83%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "甄子丹亮相人形机器人格斗揭幕赛",
-          "url": "https://www.toutiao.com/trending/7663046277462114340/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.40%，暂报2197.47点，北京时间16:16曾刷新日低至2165.11点。 MarketVectorTM数字资产100中盘指数跌0.97%，报2578.78点。 MarketVector数字资产100指数跌1.16%，报12825.74点，16:00前后曾显著扩大跌幅。 目前，Solana跌1.30%，狗狗币跌0.60%，XRP持平。 比特币跌0.71%，暂报64418.58美元；以太坊跌2.49%，暂报1875.89美元。",
-          "url": "https://wallstreetcn.com/livenews/3135199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "机器人开始“造车”了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%A7%8B%E2%80%9C%E9%80%A0%E8%BD%A6%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片产业",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "涉晶圆刻蚀、清洗等环节 两大半导体材料齐涨价",
-          "url": "https://www.cls.cn/detail/2428607",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 10时07分]"
-        },
-        {
-          "title": "【每日收评】沪指跌近2%失守3900点，医药、影视股逆势活跃，芯片产业链持续调整",
-          "url": "https://www.cls.cn/detail/2428465",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时11分]"
-        },
-        {
-          "title": "半导体抛售潮持续！苹果反超英伟达重回全球市值第一",
-          "url": "https://flash.jin10.com/detail/20260717222520348800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "创业板指、科创50均跌超4%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2700只。",
-          "url": "https://wallstreetcn.com/livenews/3135376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "创业板指、科创50均跌超3%，沪指跌0.55%，深成指跌2.10%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2500只。",
-          "url": "https://wallstreetcn.com/livenews/3135373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "创业板指、科创50均跌超2%，沪指跌0.38%，深成指跌1.36%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2300只。",
-          "url": "https://wallstreetcn.com/livenews/3135368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.79%，报6396.75点。 热门中概股里，小米初步收涨5.4%，比亚迪涨3.3%，美团涨3.2%，小鹏涨2.1%，百度涨1.2%，拼多多涨1.2%，阿里巴巴跌0.1%，腾讯跌0.4%，日月光半导体跌3.3%。 ETF中，中概互联网指数ETF（KWEB）收涨1.78%，中国科技指数ETF（CQQQ）收跌1.45%。 XtrackersHarvest中证50（ASHS）收跌2.86%，MSCI新兴市场ex中国ETF（EMXC）收跌2.60%，德银嘉实沪深300指数ETF（ASHR）收跌2.43%。",
-          "url": "https://wallstreetcn.com/livenews/3135261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "费城半导体指数自6月高点下挫20% 跌入熊市",
-          "url": "https://wallstreetcn.com/livenews/3135756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "英伟达跌超3%，纳斯达克100指数跌超1.1%，半导体指数跌超3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3135163",
-          "source": "华尔街见闻-快讯",
+          "title": "中国援助海外,日本冒领功劳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
+          "source": "贴吧",
           "ranks": [
             24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "美股存储板块全部转涨，纷纷收复盘初4%-7%的跌幅，当前，美光科技涨2.77%，西部数据涨0.07%，希捷科技涨1.94%，闪迪涨2.64%，SK海力士涨3.74%。费城半导体指数跌幅也收窄至1.7%，现报11655点，以前一度大跌5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3135803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "00时11分"
         }
       ]
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
-          "title": "男子150万白银存金店被拒还",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90150%E4%B8%87%E7%99%BD%E9%93%B6%E5%AD%98%E9%87%91%E5%BA%97%E8%A2%AB%E6%8B%92%E8%BF%98",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            14,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 07时54分]"
-        },
-        {
-          "title": "伯恩斯坦：将2026年黄金价格目标上调至4533美元/盎司，因各国央行正在实现储备多元化，且预计美联储在未来一年内最多只会加息一两次。",
-          "url": "https://flash.jin10.com/detail/20260717075253072800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月17日（周五）收盘下跌0.98%报871.1元/克；<br/>上海黄金交易所白银T+D 7月17日（周五）收盘下跌3.17%报13470.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260717153224742800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "【世界黄金协会：中国市场黄金ETF上半年实现显著流入】7月17日，世界黄金协会数据显示，6月金价走弱，抹去前期涨幅，上半年最终以下跌收官。尽管6月有流出，中国市场黄金ETF上半年仍实现显著流入，推动资产管理总规模（AUM）小幅升至2430亿元人民币，总持仓增加29吨至277吨。6月，中国市场黄金ETF流出150亿元人民币，为有记录以来最疲弱的单月表现。",
-          "url": "https://wallstreetcn.com/livenews/3135688",
+          "title": "现货白银日内涨幅达1.0%，报56.06美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3135831",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
-          "title": "现货黄金跌超2%，一度逼近3940美元，白银跌约4%，钯金跌超5%",
-          "url": "https://wallstreetcn.com/livenews/3135281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月16日（周四）晚盘收盘下跌1.09%报870.1元/克；<br/>上海黄金交易所白银T+D 7月16日（周四）晚盘收盘下跌2.29%报13592.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260717023033144800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "跟着抖音网友吃一天",
-          "url": "https://www.douyin.com/hot/2574085",
-          "source": "抖音",
-          "ranks": [
-            5,
-            4,
-            1,
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 20时07分]"
-        },
-        {
-          "title": "微信又出新功能：已经玩嗨了",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%8F%88%E5%87%BA%E6%96%B0%E5%8A%9F%E8%83%BD%EF%BC%9A%E5%B7%B2%E7%BB%8F%E7%8E%A9%E5%97%A8%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "00时11分"
         },
         {
-          "title": "功夫女足这条抖音艺术已成",
-          "url": "https://www.douyin.com/hot/2572892",
-          "source": "抖音",
+          "title": "现货白银日内涨幅扩大至1.00%，现报56.08美元/盎司。纽约期银日内涨幅扩大至1.00%，现报56.33美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260717233924934800",
+          "source": "金十数据",
           "ranks": [
-            28,
-            26,
-            30,
-            29
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 10时07分]"
-        },
-        {
-          "title": "感受抖音里的人",
-          "url": "https://www.douyin.com/hot/2572849",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "00时11分"
+        },
+        {
+          "title": "现货白银站上56美元/盎司，日内涨0.90%。",
+          "url": "https://flash.jin10.com/detail/20260717230611338800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时11分"
         }
       ]
     },
     {
-      "keyword_group": "AI基础设施 算力基建 AI Agent",
-      "match_count": 1,
+      "keyword_group": "机器人 仓储自动化 比特币 以太坊",
+      "match_count": 3,
       "titles": [
         {
-          "title": "AI Agent开始协作：阶跃与支付宝互通解决“最后一步”",
-          "url": "https://wallstreetcn.com/livenews/3135628",
+          "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
+          "url": "https://wallstreetcn.com/livenews/3135823",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "全球首款机器人手机亮相引老外围观",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%E5%BC%95%E8%80%81%E5%A4%96%E5%9B%B4%E8%A7%82",
+          "source": "百度热搜",
+          "ranks": [
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "均胜电子发布灵巧手等机器人核心部件，控制器等已向头部机器人公司量产供货",
+          "url": "https://wallstreetcn.com/livenews/3135818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时05分"
+          "time_info": "00时11分"
         }
       ]
     },
     {
-      "keyword_group": "特斯拉 INTEL",
+      "keyword_group": "谷歌 Google Gemini Amazon Meta",
       "match_count": 1,
       "titles": [
         {
-          "title": "特斯拉发布首款两轮车",
-          "url": "https://www.toutiao.com/trending/7663317146667057179/",
-          "source": "今日头条",
+          "title": "Meta一度下跌4.9%，刷新日低至632.01美元，失守200日均线。",
+          "url": "https://wallstreetcn.com/livenews/3135806",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
             24
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时01分 ~ 18时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时11分"
         }
       ]
     },
@@ -1106,13 +218,28 @@
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时36分 ~ 22时28分]"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微信又出新功能：已经玩嗨了",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%8F%88%E5%87%BA%E6%96%B0%E5%8A%9F%E8%83%BD%EF%BC%9A%E5%B7%B2%E7%BB%8F%E7%8E%A9%E5%97%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         }
       ]
     },
@@ -1125,12 +252,11 @@
           "url": "https://www.cls.cn/detail/2429565",
           "source": "财联社热门",
           "ranks": [
-            6,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时06分 ~ 22时28分]"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
         }
       ]
     }
