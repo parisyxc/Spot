@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T20:07:04.016009+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2026-07-17T22:28:47.070183+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时54分 ~ 20时07分]"
+          "appearance_count": 9,
+          "time_info": "[07时54分 ~ 22时28分]"
         },
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
@@ -115,6 +115,39 @@
           "time_info": "06时11分"
         },
         {
+          "title": "道指转涨，刷新日高、逼近52560点，美股盘初一度跌至51986.74点刷新日低。 存储板块集体拉升，纷纷收复此前4%-7%的盘初跌幅。SK海力士ADR目前涨4.63%，美光科技股价下跌0.17%，闪迪股价上涨0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3135778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌2.5%，全球科技股指数ETF跌近2%，能源业ETF、日常消费品ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3135775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "科技股抛售潮蔓延，纳指100期货跌1.5%，盘前存储股跌幅收窄，布油涨2%，黄金失守4000美元",
           "url": "https://wallstreetcn.com/articles/3777186",
           "source": "华尔街见闻",
@@ -209,6 +242,17 @@
           "time_info": "[07时54分 ~ 10时07分]"
         },
         {
+          "title": "SK海力士美股股价收复逾4%跌幅，现涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3135764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260717040547992800",
           "source": "金十数据",
@@ -275,11 +319,211 @@
           "time_info": "05时01分"
         },
         {
+          "title": "美股盘初：纳指跌1.8%，费城半导体指数跌超3%，奈飞跌约12%，SpaceX跌约3%",
+          "url": "https://wallstreetcn.com/livenews/3135751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "瑞讯银行：科技股遭遇抛售部分是因台积电上调资本支出预期",
           "url": "https://flash.jin10.com/detail/20260717150638991800",
           "source": "金十数据",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稳定币 日本",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "中国援助海外,日本冒领功劳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1,
+            10,
+            17,
+            20,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 22时28分]"
+        },
+        {
+          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
+          "url": "https://www.zhihu.com/question/2061057694832620856",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时01分 ~ 22时28分]"
+        },
+        {
+          "title": "傅面学传入日本,恶人脸遭处刑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时01分 ~ 22时28分]"
+        },
+        {
+          "title": "日学者：日本图谋将菲打造成桥头堡",
+          "url": "https://www.toutiao.com/trending/7662220331951865899/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            23,
+            26,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时11分]"
+        },
+        {
+          "title": "黄油拌糖嘎嘣脆,日本网友整活",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356276&amp;topic_name=%E9%BB%84%E6%B2%B9%E6%8B%8C%E7%B3%96%E5%98%8E%E5%98%A3%E8%84%86%2C%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E6%95%B4%E6%B4%BB",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时06分 ~ 22时28分]"
+        },
+        {
+          "title": "“印度新干线”难产，日本前大臣：印度人毫无信誉，全怪他们",
+          "url": "https://news.ifeng.com/c/8upwLK28tcQ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时06分 ~ 22时28分]"
+        },
+        {
+          "title": "高市早苗称应鼓励家庭和GPIF增加日本资产投资",
+          "url": "https://flash.jin10.com/detail/20260717153109917800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "西红柿炒蛋在日本火了",
+          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%82%92%E8%9B%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%81%AB%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时01分 ~ 20时07分]"
+        },
+        {
+          "title": "日本女首相背刺女天皇，“天皇制将难以为继”",
+          "url": "https://news.ifeng.com/c/8uq9lkVDSxJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "日本拆完空调又回收电动车电池找稀土",
+          "url": "https://www.toutiao.com/trending/7663164380225372179/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时05分]"
+        },
+        {
+          "title": "日本首相高市早苗称GPIF投资国内资产至关重要",
+          "url": "https://wallstreetcn.com/livenews/3135533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：希望英伟达进一步与日本在具身智能领域展开合作。",
+          "url": "https://wallstreetcn.com/livenews/3135353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
+          "url": "https://wallstreetcn.com/livenews/3135189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "日本央行在7月会议上将维持利率不变。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3135590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "日经225指数收跌4%，报64141.12点。日本东证指数收跌2.7%，报3919.21点。",
+          "url": "https://wallstreetcn.com/livenews/3135521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -450,181 +694,6 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "中国援助海外,日本冒领功劳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1,
-            10,
-            17,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 20时07分]"
-        },
-        {
-          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
-          "url": "https://www.zhihu.com/question/2061057694832620856",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时01分 ~ 20时07分]"
-        },
-        {
-          "title": "傅面学传入日本,恶人脸遭处刑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时01分 ~ 20时07分]"
-        },
-        {
-          "title": "日学者：日本图谋将菲打造成桥头堡",
-          "url": "https://www.toutiao.com/trending/7662220331951865899/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            23,
-            26,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时11分]"
-        },
-        {
-          "title": "黄油拌糖嘎嘣脆,日本网友整活",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356276&amp;topic_name=%E9%BB%84%E6%B2%B9%E6%8B%8C%E7%B3%96%E5%98%8E%E5%98%A3%E8%84%86%2C%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E6%95%B4%E6%B4%BB",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时06分 ~ 20时07分]"
-        },
-        {
-          "title": "高市早苗称应鼓励家庭和GPIF增加日本资产投资",
-          "url": "https://flash.jin10.com/detail/20260717153109917800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "“印度新干线”难产，日本前大臣：印度人毫无信誉，全怪他们",
-          "url": "https://news.ifeng.com/c/8upwLK28tcQ",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时06分 ~ 20时07分]"
-        },
-        {
-          "title": "西红柿炒蛋在日本火了",
-          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%82%92%E8%9B%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%81%AB%E4%BA%86&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时01分 ~ 20时07分]"
-        },
-        {
-          "title": "日本拆完空调又回收电动车电池找稀土",
-          "url": "https://www.toutiao.com/trending/7663164380225372179/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时01分 ~ 18时05分]"
-        },
-        {
-          "title": "日本首相高市早苗称GPIF投资国内资产至关重要",
-          "url": "https://wallstreetcn.com/livenews/3135533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：希望英伟达进一步与日本在具身智能领域展开合作。",
-          "url": "https://wallstreetcn.com/livenews/3135353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
-          "url": "https://wallstreetcn.com/livenews/3135189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "日本央行在7月会议上将维持利率不变。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3135590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "日经225指数收跌4%，报64141.12点。日本东证指数收跌2.7%，报3919.21点。",
-          "url": "https://wallstreetcn.com/livenews/3135521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
       "match_count": 10,
       "titles": [
@@ -635,11 +704,12 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时36分 ~ 20时07分]"
+          "appearance_count": 7,
+          "time_info": "[13时36分 ~ 22时28分]"
         },
         {
           "title": "格斗赛机器人头被打飞 甄子丹看呆",
@@ -700,11 +770,12 @@
           "ranks": [
             19,
             20,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时01分 ~ 20时07分]"
+          "appearance_count": 6,
+          "time_info": "[16时01分 ~ 22时28分]"
         },
         {
           "title": "央视财经记者PK乒乓球机器人",
@@ -755,7 +826,7 @@
     },
     {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "涉晶圆刻蚀、清洗等环节 两大半导体材料齐涨价",
@@ -779,6 +850,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 06时11分]"
+        },
+        {
+          "title": "半导体抛售潮持续！苹果反超英伟达重回全球市值第一",
+          "url": "https://flash.jin10.com/detail/20260717222520348800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "创业板指、科创50均跌超4%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2700只。",
@@ -823,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "费城半导体指数自6月高点下挫20% 跌入熊市",
+          "url": "https://wallstreetcn.com/livenews/3135756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "英伟达跌超3%，纳斯达克100指数跌超1.1%，半导体指数跌超3.5%。",
@@ -884,7 +977,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -914,7 +1007,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "跟着抖音网友吃一天",
@@ -930,6 +1023,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时14分 ~ 20时07分]"
+        },
+        {
+          "title": "微信又出新功能：已经玩嗨了",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%8F%88%E5%87%BA%E6%96%B0%E5%8A%9F%E8%83%BD%EF%BC%9A%E5%B7%B2%E7%BB%8F%E7%8E%A9%E5%97%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "功夫女足这条抖音艺术已成",
@@ -1007,8 +1111,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时36分 ~ 20时07分]"
+          "appearance_count": 7,
+          "time_info": "[13时36分 ~ 22时28分]"
         }
       ]
     },
@@ -1021,11 +1125,12 @@
           "url": "https://www.cls.cn/detail/2429565",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时06分 ~ 20时07分]"
+          "appearance_count": 3,
+          "time_info": "[20时06分 ~ 22时28分]"
         }
       ]
     }
