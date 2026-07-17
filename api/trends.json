@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T13:36:52.675327+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-07-17T16:02:27.704443+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
@@ -42,6 +42,17 @@
           "time_info": "[00时14分 ~ 06时11分]"
         },
         {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 16时02分]"
+        },
+        {
           "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3777092",
           "source": "华尔街见闻",
@@ -52,17 +63,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时01分 ~ 10时07分]"
-        },
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 13时36分]"
         },
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -90,6 +90,19 @@
           "time_info": "[07时54分 ~ 13时36分]"
         },
         {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 16时02分]"
+        },
+        {
           "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
           "url": "https://wallstreetcn.com/livenews/3135298",
           "source": "华尔街见闻-快讯",
@@ -99,18 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
-          "url": "https://www.cls.cn/detail/2429026",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 13时36分]"
         },
         {
           "title": "美股存储芯片指数跌幅扩大至7%，闪迪跌幅扩大至10%，西部数据跌近9%。SK海力士ADR跌8.6%。费城半导体指数目前跌3.5%，纳斯达克100指数维持超过0.9%的跌幅。",
@@ -158,6 +159,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "全球科技股为何突然“熄火”",
+          "url": "https://www.toutiao.com/trending/7662310627776757787/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 16时02分]"
         },
         {
           "title": "周四（7月16日），美股行业ETF多数收涨，区域银行ETF涨2.82%，日常消费品ETF、银行业ETF至少涨2.44%。 网络股指数ETF则收跌1.54%，科技行业ETF跌2.24%，全球科技股指数ETF跌2.47%，半导体ETF跌3.70%。",
@@ -234,7 +247,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -250,15 +263,15 @@
           "time_info": "05时01分"
         },
         {
-          "title": "全球科技股为何突然“熄火”",
-          "url": "https://www.toutiao.com/trending/7662310627776757787/",
-          "source": "今日头条",
+          "title": "瑞讯银行：科技股遭遇抛售部分是因台积电上调资本支出预期",
+          "url": "https://flash.jin10.com/detail/20260717150638991800",
+          "source": "金十数据",
           "ranks": [
-            24
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时36分"
+          "time_info": "16时02分"
         }
       ]
     },
@@ -425,8 +438,141 @@
       ]
     },
     {
+      "keyword_group": "稳定币 日本",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "中国援助海外,日本冒领功劳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 16时02分]"
+        },
+        {
+          "title": "日学者：日本图谋将菲打造成桥头堡",
+          "url": "https://www.toutiao.com/trending/7662220331951865899/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            23,
+            26,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时11分]"
+        },
+        {
+          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
+          "url": "https://www.zhihu.com/question/2061057694832620856",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        },
+        {
+          "title": "傅面学传入日本,恶人脸遭处刑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        },
+        {
+          "title": "高市早苗称应鼓励家庭和GPIF增加日本资产投资",
+          "url": "https://flash.jin10.com/detail/20260717153109917800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "日本拆完空调又回收电动车电池找稀土",
+          "url": "https://www.toutiao.com/trending/7663164380225372179/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        },
+        {
+          "title": "西红柿炒蛋在日本火了",
+          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%82%92%E8%9B%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%81%AB%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        },
+        {
+          "title": "日本首相高市早苗称GPIF投资国内资产至关重要",
+          "url": "https://wallstreetcn.com/livenews/3135533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：希望英伟达进一步与日本在具身智能领域展开合作。",
+          "url": "https://wallstreetcn.com/livenews/3135353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
+          "url": "https://wallstreetcn.com/livenews/3135189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "日经225指数收跌4%，报64141.12点。日本东证指数收跌2.7%，报3919.21点。",
+          "url": "https://wallstreetcn.com/livenews/3135521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "格斗赛机器人头被打飞 甄子丹看呆",
@@ -443,6 +589,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 10时07分]"
+        },
+        {
+          "title": "首届机器人格斗赛精彩集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%96%E5%B1%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E7%B2%BE%E5%BD%A9%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 16时02分]"
         },
         {
           "title": "人形机器人格斗赛诞生躺赢名场面",
@@ -470,15 +628,15 @@
           "time_info": "[10时07分 ~ 13时36分]"
         },
         {
-          "title": "首届机器人格斗赛精彩集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%96%E5%B1%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E7%B2%BE%E5%BD%A9%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
+          "title": "美国团队用宇树 G1 人形机器人完成猪胆囊切除，论文作者称距离人体临床还很远，这件事含金量到底有多高？",
+          "url": "https://www.zhihu.com/question/2060754085637271982",
+          "source": "知乎",
           "ranks": [
-            2
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 16时02分]"
         },
         {
           "title": "央视财经记者PK乒乓球机器人",
@@ -492,17 +650,6 @@
           "time_info": "10时07分"
         },
         {
-          "title": "美国团队用宇树 G1 人形机器人完成猪胆囊切除，论文作者称距离人体临床还很远，这件事含金量到底有多高？",
-          "url": "https://www.zhihu.com/question/2060754085637271982",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
           "title": "甄子丹亮相人形机器人格斗揭幕赛",
           "url": "https://www.toutiao.com/trending/7663046277462114340/",
           "source": "今日头条",
@@ -513,6 +660,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 02时02分]"
+        },
+        {
+          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.40%，暂报2197.47点，北京时间16:16曾刷新日低至2165.11点。 MarketVectorTM数字资产100中盘指数跌0.97%，报2578.78点。 MarketVector数字资产100指数跌1.16%，报12825.74点，16:00前后曾显著扩大跌幅。 目前，Solana跌1.30%，狗狗币跌0.60%，XRP持平。 比特币跌0.71%，暂报64418.58美元；以太坊跌2.49%，暂报1875.89美元。",
@@ -613,7 +771,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "男子150万白银存金店被拒还",
@@ -641,6 +799,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 7月17日（周五）收盘下跌0.98%报871.1元/克；<br/>上海黄金交易所白银T+D 7月17日（周五）收盘下跌3.17%报13470.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260717153224742800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "现货黄金跌超2%，一度逼近3940美元，白银跌约4%，钯金跌超5%",
           "url": "https://wallstreetcn.com/livenews/3135281",
           "source": "华尔街见闻-快讯",
@@ -665,61 +834,6 @@
       ]
     },
     {
-      "keyword_group": "稳定币 日本",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中国援助海外,日本冒领功劳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 13时36分]"
-        },
-        {
-          "title": "日学者：日本图谋将菲打造成桥头堡",
-          "url": "https://www.toutiao.com/trending/7662220331951865899/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            23,
-            26,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时11分]"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：希望英伟达进一步与日本在具身智能领域展开合作。",
-          "url": "https://wallstreetcn.com/livenews/3135353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
-          "url": "https://wallstreetcn.com/livenews/3135189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "抖音 小红书 Bilibili 微信",
       "match_count": 3,
       "titles": [
@@ -731,11 +845,12 @@
             5,
             4,
             1,
-            2
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 13时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 16时02分]"
         },
         {
           "title": "功夫女足这条抖音艺术已成",
@@ -765,6 +880,23 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉发布首款两轮车",
+          "url": "https://www.toutiao.com/trending/7663317146667057179/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -775,9 +907,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 16时02分]"
         }
       ]
     }
