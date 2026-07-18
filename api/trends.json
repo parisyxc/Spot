@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T05:45:04.947568+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-07-19T06:43:53.329834+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -89,11 +89,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%94%BE%E5%BC%83%E6%97%A5%E6%9C%AC%E5%90%8E+%E6%BE%B3%E6%B4%B2%E4%BA%BA%E6%AD%A3%E7%96%AF%E7%8B%82%E6%B6%8C%E5%90%91%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时43分]"
         },
         {
           "title": "傅面学传入日本,恶人脸遭处刑",
@@ -103,8 +104,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时43分]"
         },
         {
           "title": "全球化的日本在赚本土日本的钱",
@@ -112,11 +113,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            27
+            27,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 06时43分]"
         }
       ]
     },
@@ -132,8 +134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时43分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -143,8 +145,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时43分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -172,8 +174,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时43分]"
         },
         {
           "title": "这周金价发生了什么",
@@ -184,11 +186,12 @@
             10,
             21,
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时43分]"
         }
       ]
     },
@@ -204,8 +207,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时43分]"
         }
       ]
     },
@@ -222,8 +225,42 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 06时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
+          "url": "https://flash.jin10.com/detail/20260719055403527800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SaaS 订阅经济",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心",
+          "url": "https://wallstreetcn.com/articles/3777301",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         }
       ]
     }
