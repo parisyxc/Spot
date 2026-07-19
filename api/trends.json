@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T10:09:03.112155+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-07-19T13:46:38.454993+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -61,7 +61,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -88,6 +88,17 @@
           "time_info": "[00时51分 ~ 00时52分]"
         },
         {
+          "title": "马斯克称看中国机器人格斗赛看乐了",
+          "url": "https://www.toutiao.com/trending/7663919447194845220/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "机器人的指尖上新晋一家百亿公司：一目科技完成超10亿元E轮融资",
           "url": "https://wallstreetcn.com/livenews/3136050",
           "source": "华尔街见闻-快讯",
@@ -105,7 +116,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
@@ -113,18 +124,19 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 10时09分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 13时46分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -150,21 +162,55 @@
           "time_info": "[00时51分 ~ 05时45分]"
         },
         {
+          "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
+          "url": "https://wallstreetcn.com/articles/3777330",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
           "url": "https://www.cls.cn/detail/2430318",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 13时46分]"
+        },
+        {
+          "title": "Kimi K3把美股半导体干崩了",
+          "url": "https://www.baidu.com/s?wd=Kimi+K3%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B9%B2%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "日本女护士输液管中混粪便致死，暴露了医疗管理哪些问题？",
@@ -203,6 +249,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时51分 ~ 10时09分]"
+        },
+        {
+          "title": "俄副外长：日本与乌克兰在无人机领域合作是敌对行为",
+          "url": "https://wallstreetcn.com/livenews/3136150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "全球化的日本在赚本土日本的钱",
@@ -263,11 +320,12 @@
           "url": "https://www.cls.cn/detail/2430098",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 10时09分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 13时46分]"
         }
       ]
     },
@@ -308,6 +366,23 @@
       ]
     },
     {
+      "keyword_group": "抖音 小红书 Bilibili 微信",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "佩德里入驻抖音",
+          "url": "https://www.douyin.com/hot/2576757",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SaaS 订阅经济",
       "match_count": 1,
       "titles": [
@@ -318,11 +393,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时43分 ~ 10时09分]"
+          "appearance_count": 6,
+          "time_info": "[06时43分 ~ 13时46分]"
         }
       ]
     }
