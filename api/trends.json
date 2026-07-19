@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T13:46:38.454993+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-07-19T16:08:08.637202+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 04时02分]"
+        },
+        {
+          "title": "围观机器人花式干活",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%B4%E8%A7%82%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%8A%B1%E5%BC%8F%E5%B9%B2%E6%B4%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
         },
         {
           "title": "凤凰实拍俄军机器人车辆训练：由于西方封锁，自主作战仍存短板",
@@ -94,9 +105,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "心言集团首款家庭主动智能陪伴机器人巴布亮相世界人工智能大会",
+          "url": "https://wallstreetcn.com/livenews/3136154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "机器人的指尖上新晋一家百亿公司：一目科技完成超10亿元E轮融资",
@@ -110,6 +132,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "沪光股份携手启元机器人，加速消费级具身智能规模化落地",
+          "url": "https://wallstreetcn.com/livenews/3136153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "地瓜机器人与思特威达成战略合作",
           "url": "https://wallstreetcn.com/livenews/3136091",
           "source": "华尔街见闻-快讯",
@@ -119,12 +152,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "鹿明机器人与三菱电机自动化将围绕工业装配场景开展联合研发",
+          "url": "https://wallstreetcn.com/livenews/3136151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         }
       ]
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -135,8 +179,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 13时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 16时08分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -168,9 +212,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时46分 ~ 16时08分]"
         },
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
@@ -179,9 +223,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时46分 ~ 16时08分]"
         },
         {
           "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
@@ -192,25 +236,37 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 13时46分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 16时08分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
           "url": "https://www.baidu.com/s?wd=Kimi+K3%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B9%B2%E5%B4%A9%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时46分 ~ 16时08分]"
+        },
+        {
+          "title": "Kimi K3把美股半导体干崩了",
+          "url": "https://s.weibo.com/weibo?q=Kimi%20K3%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B9%B2%E5%B4%A9%E4%BA%86&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
         }
       ]
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "日本女护士输液管中混粪便致死，暴露了医疗管理哪些问题？",
@@ -251,15 +307,27 @@
           "time_info": "[00时51分 ~ 10时09分]"
         },
         {
+          "title": "俄罗斯警告日本",
+          "url": "https://www.toutiao.com/trending/7664063864019025939/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
+        {
           "title": "俄副外长：日本与乌克兰在无人机领域合作是敌对行为",
           "url": "https://wallstreetcn.com/livenews/3136150",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 16时08分]"
         },
         {
           "title": "全球化的日本在赚本土日本的钱",
@@ -324,8 +392,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 13时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 16时08分]"
         }
       ]
     },
@@ -376,7 +444,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         }
@@ -397,8 +465,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时43分 ~ 13时46分]"
+          "appearance_count": 8,
+          "time_info": "[06时43分 ~ 16时08分]"
         }
       ]
     }
