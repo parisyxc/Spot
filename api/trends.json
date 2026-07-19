@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T07:49:06.891357+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-07-19T10:09:03.112155+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 04时02分]"
+        },
+        {
+          "title": "凤凰实拍俄军机器人车辆训练：由于西方封锁，自主作战仍存短板",
+          "url": "https://news.ifeng.com/c/8uschv30lz3",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "“真干活机器人”在WAIC走红",
@@ -42,6 +53,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时51分 ~ 05时45分]"
+        },
+        {
+          "title": "地瓜机器人携手芯视界，推出行业首个专为具身机器人打造的1:1面阵固态激光雷达方案",
+          "url": "https://wallstreetcn.com/livenews/3136114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "全球首场人形机器人格斗赛观赏性拉满",
@@ -75,6 +97,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "地瓜机器人与思特威达成战略合作",
+          "url": "https://wallstreetcn.com/livenews/3136091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 科技股 财报 投资策略",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
+          "url": "https://www.cls.cn/detail/2430055",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 10时09分]"
+        },
+        {
+          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时43分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时45分]"
+        },
+        {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         }
       ]
     },
@@ -101,22 +185,24 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 10时09分]"
         },
         {
           "title": "傅面学传入日本,恶人脸遭处刑",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
           "source": "贴吧",
           "ranks": [
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 10时09分]"
         },
         {
           "title": "全球化的日本在赚本土日本的钱",
@@ -134,46 +220,6 @@
       ]
     },
     {
-      "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
-          "url": "https://www.cls.cn/detail/2430055",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时49分]"
-        },
-        {
-          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 06时43分]"
-        },
-        {
-          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
-          "url": "https://wallstreetcn.com/articles/3777263",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时45分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 铜价 白银",
       "match_count": 2,
       "titles": [
@@ -183,11 +229,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 10时09分]"
         },
         {
           "title": "这周金价发生了什么",
@@ -219,8 +266,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 10时09分]"
         }
       ]
     },
@@ -251,11 +298,12 @@
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时49分]"
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 10时09分]"
         }
       ]
     },
@@ -269,11 +317,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时43分 ~ 07时49分]"
+          "appearance_count": 5,
+          "time_info": "[06时43分 ~ 10时09分]"
         }
       ]
     }
