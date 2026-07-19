@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T21:05:04.970355+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2026-07-19T22:51:14.675512+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 仓储自动化 比特币 以太坊",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 04时02分]"
+        },
+        {
+          "title": "解读机器人格斗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时52分 ~ 22时51分]"
         },
         {
           "title": "围观机器人花式干活",
@@ -99,18 +112,6 @@
           "time_info": "19时53分"
         },
         {
-          "title": "解读机器人格斗",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时52分 ~ 21时05分]"
-        },
-        {
           "title": "万拿机器人发布两款灵巧手产品",
           "url": "https://wallstreetcn.com/livenews/3136249",
           "source": "华尔街见闻-快讯",
@@ -156,6 +157,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时48分 ~ 07时49分]"
+        },
+        {
+          "title": "中国机器人现在有多疯狂",
+          "url": "https://www.toutiao.com/trending/7664204045283757611/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "机器人手机从概念到现实意味着什么",
@@ -264,6 +276,18 @@
           "time_info": "[00时51分 ~ 16时08分]"
         },
         {
+          "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
+          "url": "https://wallstreetcn.com/articles/3777330",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时46分 ~ 22时51分]"
+        },
+        {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
           "url": "https://wallstreetcn.com/articles/3777186",
           "source": "华尔街见闻",
@@ -275,16 +299,30 @@
           "time_info": "[00时51分 ~ 06时43分]"
         },
         {
-          "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
-          "url": "https://wallstreetcn.com/articles/3777330",
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
+            10,
+            9,
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[13时46分 ~ 21时05分]"
+          "time_info": "[13时46分 ~ 22时51分]"
+        },
+        {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时22分 ~ 22时51分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -299,30 +337,6 @@
           "time_info": "[00时51分 ~ 05时45分]"
         },
         {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时46分 ~ 19时53分]"
-        },
-        {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 21时05分]"
-        },
-        {
           "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
           "url": "https://www.cls.cn/detail/2430318",
           "source": "财联社热门",
@@ -331,8 +345,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时08分 ~ 21时05分]"
+          "appearance_count": 13,
+          "time_info": "[10时08分 ~ 22时51分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -388,6 +402,21 @@
           "time_info": "[00时51分 ~ 05时45分]"
         },
         {
+          "title": "俄罗斯警告日本",
+          "url": "https://www.toutiao.com/trending/7664063864019025939/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            13,
+            19,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时07分 ~ 22时51分]"
+        },
+        {
           "title": "放弃日本后 澳洲人正疯狂涌向中国",
           "url": "https://www.baidu.com/s?wd=%E6%94%BE%E5%BC%83%E6%97%A5%E6%9C%AC%E5%90%8E+%E6%BE%B3%E6%B4%B2%E4%BA%BA%E6%AD%A3%E7%96%AF%E7%8B%82%E6%B6%8C%E5%90%91%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -413,42 +442,30 @@
           "time_info": "[00时51分 ~ 10时09分]"
         },
         {
-          "title": "俄罗斯警告日本",
-          "url": "https://www.toutiao.com/trending/7664063864019025939/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            13,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时07分 ~ 21时05分]"
-        },
-        {
-          "title": "物价飞涨,日本增产1日元硬币",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356315&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E5%A2%9E%E4%BA%A71%E6%97%A5%E5%85%83%E7%A1%AC%E5%B8%81",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
-        },
-        {
           "title": "俄罗斯：日本的这种做法是敌对行为",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%EF%BC%9A%E6%97%A5%E6%9C%AC%E7%9A%84%E8%BF%99%E7%A7%8D%E5%81%9A%E6%B3%95%E6%98%AF%E6%95%8C%E5%AF%B9%E8%A1%8C%E4%B8%BA",
           "source": "百度热搜",
           "ranks": [
             13,
             29,
-            27
+            27,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 21时05分]"
+          "appearance_count": 8,
+          "time_info": "[18时22分 ~ 22时51分]"
+        },
+        {
+          "title": "物价飞涨,日本增产1日元硬币",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356315&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E5%A2%9E%E4%BA%A71%E6%97%A5%E5%85%83%E7%A1%AC%E5%B8%81",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时04分 ~ 22时51分]"
         },
         {
           "title": "俄副外长：日本与乌克兰在无人机领域合作是敌对行为",
@@ -578,11 +595,12 @@
           "url": "https://www.cls.cn/detail/2430503",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
+          "appearance_count": 4,
+          "time_info": "[21时04分 ~ 22时51分]"
         }
       ]
     },
@@ -613,6 +631,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时53分 ~ 21时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 INTEL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特斯拉在德国工厂提升产量，来应对需求增长",
+          "url": "https://wallstreetcn.com/livenews/3136285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "特斯拉计划在德国工厂提升产量，以应对需求增长",
+          "url": "https://flash.jin10.com/detail/20260719212352521800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         }
       ]
     },
