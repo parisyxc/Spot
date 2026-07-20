@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T20:13:31.838195+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-07-20T23:07:29.687792+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
@@ -64,8 +64,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时13分]"
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 23时07分]"
+        },
+        {
+          "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "Alphabet财报前瞻：强劲增长光芒背后 市场五大疑问亟待解答",
@@ -86,7 +97,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -97,9 +108,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
+        },
+        {
+          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2431734",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
@@ -111,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "近期芯片股回调仅是暂时？小摩：Q2财报季将吹响下一轮上涨号角！",
+          "url": "https://www.cls.cn/detail/2431501",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "美股股指期货周一基本平开。",
@@ -130,7 +163,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -161,11 +194,12 @@
             11,
             14,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 20时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 23时07分]"
         },
         {
           "title": "俄罗斯警告日本",
@@ -183,6 +217,19 @@
           "time_info": "[00时52分 ~ 07时53分]"
         },
         {
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 23时07分]"
+        },
+        {
           "title": "为了这条高铁项目，日本和印度又吵开了",
           "url": "https://news.ifeng.com/c/8uuGSMXFTqD",
           "source": "凤凰网",
@@ -194,16 +241,18 @@
           "time_info": "[14时12分 ~ 20时13分]"
         },
         {
-          "title": "AI不准用,日本漫画家被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "title": "热疯了!日本冰箱冻活人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356330&amp;topic_name=%E7%83%AD%E7%96%AF%E4%BA%86%21%E6%97%A5%E6%9C%AC%E5%86%B0%E7%AE%B1%E5%86%BB%E6%B4%BB%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            7,
-            8
+            5,
+            17,
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时13分]"
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 23时07分]"
         },
         {
           "title": "外交部回应日本欲引进核武器",
@@ -215,19 +264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
-        },
-        {
-          "title": "热疯了!日本冰箱冻活人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356330&amp;topic_name=%E7%83%AD%E7%96%AF%E4%BA%86%21%E6%97%A5%E6%9C%AC%E5%86%B0%E7%AE%B1%E5%86%BB%E6%B4%BB%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 20时13分]"
         },
         {
           "title": "外交部回应日本欲引进盟国核武器",
@@ -341,6 +377,19 @@
           "time_info": "17时55分"
         },
         {
+          "title": "机器人断头反杀看乐马斯克",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 23时07分]"
+        },
+        {
           "title": "中国机器人现在有多疯狂",
           "url": "https://www.toutiao.com/trending/7664204045283757611/",
           "source": "今日头条",
@@ -350,18 +399,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时07分 ~ 06时45分]"
-        },
-        {
-          "title": "机器人断头反杀看乐马斯克",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时13分]"
         },
         {
           "title": "法拉第未来(FFIE.O)：宣布与阿根廷足球协会（AFA）达成合作，正式成为阿根廷国家队在北美地区机器人及相关机器人技术领域的官方区域赞助商。",
@@ -398,7 +435,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -494,17 +531,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "369入驻抖音",
-          "url": "https://www.douyin.com/hot/2578780",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
           "title": "全抖音都在恭喜西班牙夺冠",
           "url": "https://www.douyin.com/hot/2577840",
           "source": "抖音",
@@ -512,22 +538,36 @@
             15,
             21,
             13,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 20时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 23时07分]"
+        },
+        {
+          "title": "369入驻抖音",
+          "url": "https://www.douyin.com/hot/2578780",
+          "source": "抖音",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 23时07分]"
         },
         {
           "title": "抖音乒乓百分大战再次开战",
           "url": "https://www.douyin.com/hot/2578846",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 23时07分]"
         }
       ]
     },
