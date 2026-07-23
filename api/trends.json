@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-23T19:06:04.435356+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-07-23T21:44:06.227465+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时58分 ~ 21时44分]"
+        },
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
           "url": "https://wallstreetcn.com/articles/3777680",
@@ -21,16 +33,16 @@
           "time_info": "[01时13分 ~ 16时22分]"
         },
         {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
+          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            4
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时58分 ~ 19时06分]"
+          "appearance_count": 9,
+          "time_info": "[10时40分 ~ 21时44分]"
         },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -56,18 +68,6 @@
           "time_info": "[01时13分 ~ 06时09分]"
         },
         {
-          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777718",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时40分 ~ 19时06分]"
-        },
-        {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -87,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时49分 ~ 19时06分]"
+          "appearance_count": 8,
+          "time_info": "[13时49分 ~ 21时44分]"
         },
         {
           "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
@@ -225,7 +225,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -294,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3138894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "谷歌财报",
@@ -390,7 +401,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -434,7 +445,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -445,7 +456,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         }
@@ -463,8 +474,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时40分 ~ 19时06分]"
+          "appearance_count": 9,
+          "time_info": "[10时40分 ~ 21时44分]"
         },
         {
           "title": "特斯拉(TSLA.O)首席财务官：第二季度结束时，我们的订单积压达到了2023年以来的最高水平。",
@@ -495,7 +506,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -814,7 +825,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -836,7 +847,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -888,7 +899,7 @@
     },
     {
       "keyword_group": "谷歌 Google Gemini Amazon Meta",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -899,8 +910,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时40分 ~ 19时06分]"
+          "appearance_count": 9,
+          "time_info": "[10时40分 ~ 21时44分]"
         },
         {
           "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
@@ -923,8 +934,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 19时06分]"
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 21时44分]"
         },
         {
           "title": "Alphabet(GOOG.O)首席执行官：谷歌云第二季度积压订单增至5140亿美元。",
@@ -936,6 +947,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "AI开支引发回报疑虑，谷歌、特斯拉盘前大跌，布油触及百元关口，美国长债承压",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "Reddit(RDDT.O)现跌8.74%，此前一度跌超10%，消息称Reddit不再续签谷歌AI合作内容协议。",
@@ -958,6 +980,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "谷歌再次上调2026年资本支出预期 算力产业链核心或将继续受益",
@@ -1002,6 +1035,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时05分 ~ 19时06分]"
+        },
+        {
+          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063569251428819442",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "谷歌母公司Alphabet的CFO：收购Wiz对谷歌云利润构成拖累。",
@@ -1076,7 +1120,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         }
@@ -1084,7 +1128,7 @@
     },
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本拍卖疑似我国文物 中方紧急拦截",
@@ -1170,6 +1214,17 @@
           "time_info": "[01时13分 ~ 07时58分]"
         },
         {
+          "title": "日美关税协议达成1年：5500亿的大饼，日本就给美国烙了个边",
+          "url": "https://news.ifeng.com/c/8uzrkTFzxyP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 21时44分]"
+        },
+        {
           "title": "俄远程战略轰炸机巡航日本海",
           "url": "https://www.douyin.com/hot/2580342",
           "source": "抖音",
@@ -1184,15 +1239,15 @@
           "time_info": "[01时13分 ~ 07时58分]"
         },
         {
-          "title": "日美关税协议达成1年：5500亿的大饼，日本就给美国烙了个边",
-          "url": "https://news.ifeng.com/c/8uzrkTFzxyP",
-          "source": "凤凰网",
+          "title": "日本校园动漫生活真实度大揭秘",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%A0%A1%E5%9B%AD%E5%8A%A8%E6%BC%AB%E7%94%9F%E6%B4%BB%E7%9C%9F%E5%AE%9E%E5%BA%A6%E5%A4%A7%E6%8F%AD%E7%A7%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时05分 ~ 19时06分]"
+          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "日本宇宙航空研究开发机构（JAXA）周四对Epsilon S小型火箭的发动机进行了地面测试。此前，该火箭近年来在类似测试中连续两次失败。这枚长27米的固体燃料火箭的测试按计划完成。日本上一次成功发射Epsilon系列火箭是在2021年。",
@@ -1253,8 +1308,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时13分 ~ 19时06分]"
+          "appearance_count": 17,
+          "time_info": "[01时13分 ~ 21时44分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -1356,7 +1411,7 @@
     },
     {
       "keyword_group": "金价 铜价 白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2026年07月23日（周四）上海金早盘价为897.7元/克，较国际金价(895.62元/克)，高2.08元/克",
@@ -1368,6 +1423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "纽约银日内跌幅达4.0%，报57.84美元/盎司。 现货白银日内跌幅达3.5%，报57.59美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3138905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "A股贵金属板块震荡走高，盛达资源涨停，四川黄金涨超7%，兴业银锡、湖南白银、赤峰黄金、山金国际、中金黄金、西部黄金等个股跟涨。",
@@ -1489,7 +1555,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
@@ -1501,8 +1567,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时58分 ~ 19时06分]"
+          "appearance_count": 10,
+          "time_info": "[07时58分 ~ 21时44分]"
         },
         {
           "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
@@ -1527,6 +1593,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时13分 ~ 10时40分]"
+        },
+        {
+          "title": "抖音网友带我逛菲尔兹奖现场",
+          "url": "https://www.douyin.com/hot/2582104",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "抖音在成都新设极速引擎科技公司",
