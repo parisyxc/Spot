@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T13:45:35.903565+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-07-24T16:17:44.671686+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "稳定币 日本",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "日美关税协议达成1年：5500亿的大饼，日本就给美国烙了个边",
@@ -54,17 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
-        },
-        {
-          "title": "《日本三国》作者疑删号退网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356459&amp;topic_name=%E3%80%8A%E6%97%A5%E6%9C%AC%E4%B8%89%E5%9B%BD%E3%80%8B%E4%BD%9C%E8%80%85%E7%96%91%E5%88%A0%E5%8F%B7%E9%80%80%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
         },
         {
           "title": "日本6月CPI(除生鲜食品)同比 1.6%，预期 1.6%，前值 1.4%。",
@@ -128,7 +117,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -172,18 +161,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "中国机器人霸榜,日本破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -194,9 +172,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "日本游客锐减,仇越情绪爆发",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356470&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E9%94%90%E5%87%8F%2C%E4%BB%87%E8%B6%8A%E6%83%85%E7%BB%AA%E7%88%86%E5%8F%91",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "日本6月核心CPI年率将于十分钟后公布。",
@@ -220,6 +209,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时08分 ~ 13时45分]"
+        },
+        {
+          "title": "《日本三国》作者疑删号退网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356459&amp;topic_name=%E3%80%8A%E6%97%A5%E6%9C%AC%E4%B8%89%E5%9B%BD%E3%80%8B%E4%BD%9C%E8%80%85%E7%96%91%E5%88%A0%E5%8F%B7%E9%80%80%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时17分]"
+        },
+        {
+          "title": "中国机器人霸榜,日本破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时17分]"
         },
         {
           "title": "“731”这类纪录片 日本应更多地播放",
@@ -266,6 +279,17 @@
           "time_info": "10时09分"
         },
         {
+          "title": "日本各界如何看待美国新增关税措施",
+          "url": "https://www.toutiao.com/trending/7665947515086179876/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "日本7月服务业PMI初值 51.9，前值 52.2。",
           "url": "https://wallstreetcn.com/livenews/3139142",
           "source": "华尔街见闻-快讯",
@@ -305,7 +329,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         }
@@ -313,7 +337,7 @@
     },
     {
       "keyword_group": "美股 科技股 财报 投资策略",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -325,6 +349,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时56分]"
+        },
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时02分 ~ 16时17分]"
         },
         {
           "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
@@ -340,18 +376,6 @@
           "time_info": "[00时02分 ~ 10时09分]"
         },
         {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时02分 ~ 13时45分]"
-        },
-        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -363,6 +387,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时56分]"
+        },
+        {
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时55分 ~ 16时17分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -382,18 +418,6 @@
           "ranks": [
             3,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时55分 ~ 13时45分]"
-        },
-        {
-          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
-          "url": "https://www.cls.cn/detail/2435717",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -420,8 +444,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 13时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 16时17分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -429,11 +453,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 13时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 16时17分]"
         },
         {
           "title": "美股科技七巨头市值蒸发近8千亿美元",
@@ -538,6 +563,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 06时02分]"
+        },
+        {
+          "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
+          "url": "https://www.cls.cn/detail/2435979",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股收盘）",
@@ -741,18 +777,18 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
-          "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "百度热搜",
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时45分"
+          "time_info": "16时17分"
         },
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
@@ -786,6 +822,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时17分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -829,7 +877,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -843,6 +891,115 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 铜价 白银",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "金价四连涨深圳水贝又挤爆了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            26,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 07时56分]"
+        },
+        {
+          "title": "金价跌2%，下探4000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3139079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "报道：印度白银进口因新许可证制度受阻而大幅下滑",
+          "url": "https://wallstreetcn.com/livenews/3138979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "如何评价《白银之城》二测体验？",
+          "url": "https://www.zhihu.com/question/2063652031517218535",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时02分]"
+        },
+        {
+          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
+          "url": "https://www.zhihu.com/question/2063412432022901058",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时17分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月23日（周四）晚盘收盘下跌2.05%报882.1元/克；<br/>上海黄金交易所白银T+D 7月23日（周四）晚盘收盘下跌3.82%报14058.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260724023226644800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "A股贵金属板块大幅低开，湖南白银低开超7%，山金国际、赤峰黄金、晓程科技、西部黄金等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260724092910278800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）上海金午盘价为881.09元/克，较国际金价(881.97元/克)，低0.88元/克",
+          "url": "https://flash.jin10.com/detail/20260724153037980800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月24日（周五）收盘下跌1.91%报883.3元/克；<br/>上海黄金交易所白银T+D 7月24日（周五）收盘下跌2.94%报14187.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260724153009980800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     },
@@ -937,95 +1094,8 @@
       ]
     },
     {
-      "keyword_group": "金价 铜价 白银",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "金价四连涨深圳水贝又挤爆了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            26,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 07时56分]"
-        },
-        {
-          "title": "金价跌2%，下探4000美元整数位心理关口",
-          "url": "https://wallstreetcn.com/livenews/3139079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "报道：印度白银进口因新许可证制度受阻而大幅下滑",
-          "url": "https://wallstreetcn.com/livenews/3138979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "如何评价《白银之城》二测体验？",
-          "url": "https://www.zhihu.com/question/2063652031517218535",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 06时02分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月23日（周四）晚盘收盘下跌2.05%报882.1元/克；<br/>上海黄金交易所白银T+D 7月23日（周四）晚盘收盘下跌3.82%报14058.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260724023226644800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
-          "url": "https://www.zhihu.com/question/2063412432022901058",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "A股贵金属板块大幅低开，湖南白银低开超7%，山金国际、赤峰黄金、晓程科技、西部黄金等个股跟跌。",
-          "url": "https://flash.jin10.com/detail/20260724092910278800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片产业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
@@ -1050,6 +1120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "半导体扩产遇瓶颈：设备交期大幅拉长 韩国存储巨头考虑提前下单",
+          "url": "https://www.cls.cn/detail/2435916",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "标普500指数初步收跌1.2%，电信板块重挫5%可选消费板块跌4.9%，科技板块跌1.3%，能源板块涨0.4%，工业板块涨1.5%。 纳斯达克100指数初步收跌1.9%，道指跌1%，半导体指数跌1.1%，银行指数跌1.1%。",
@@ -1077,7 +1158,7 @@
     },
     {
       "keyword_group": "抖音 小红书 Bilibili 微信",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "抖音网友带我逛菲尔兹奖现场",
@@ -1119,6 +1200,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 04时57分]"
+        },
+        {
+          "title": "微信撤回消息后可删除提示字",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E6%B6%88%E6%81%AF%E5%90%8E%E5%8F%AF%E5%88%A0%E9%99%A4%E6%8F%90%E7%A4%BA%E5%AD%97%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     },
